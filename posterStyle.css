@@ -4,7 +4,7 @@ html, body {
             width: 375px;
             height: 562.5px;
             overflow: hidden;
-            background: white;
+            background: rgb(0, 0, 0);
             font-family: "Inter", sans-serif;
         }
 
