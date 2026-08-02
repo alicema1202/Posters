@@ -35,6 +35,7 @@ jobs:
           git config user.email "actions@github.com"
 
           git add catalog/movie/movieCatalog.json
+          git add catalog/series/seriesCatalog.json
 
           git commit -m "Update TMDB catalog" || exit 0
 
