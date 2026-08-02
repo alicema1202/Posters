@@ -28,147 +28,148 @@ async function generatePoster(item, browser) {
 
     <head>
 
-        <style>
+        // <style>
 
-            html, body {
+        //     html, body {
 
-                margin: 0;
+        //         margin: 0;
 
-                padding: 0;
+        //         padding: 0;
 
-                width: 500px;
+        //         width: 500px;
 
-                height: 750px;
+        //         height: 750px;
 
-                overflow: hidden;
+        //         overflow: hidden;
 
-                background: black;
+        //         background: black;
 
-                font-family: Arial, sans-serif;
+        //         font-family: Arial, sans-serif;
 
-            }
+        //     }
 
 
 
-            .poster {
+        //     .poster {
 
-                position: relative;
+        //         position: relative;
 
-                width: 500px;
+        //         width: 500px;
 
-                height: 750px;
+        //         height: 750px;
 
-            }
+        //     }
 
 
 
-            .background {
+        //     .background {
 
-                position: absolute;
+        //         position: absolute;
 
-                width: 100%;
+        //         width: 100%;
 
-                height: 100%;
+        //         height: 100%;
 
-                object-fit: cover;
+        //         object-fit: cover;
 
-            }
+        //     }
 
 
 
-            .overlay {
+        //     .overlay {
 
-                position: absolute;
+        //         position: absolute;
 
-                width: 100%;
+        //         width: 100%;
 
-                height: 100%;
+        //         height: 100%;
 
-                background:
-                    linear-gradient(
-                        to top,
-                        rgba(0,0,0,0.9),
-                        rgba(0,0,0,0.2) 65%
-                    );
+        //         background:
+        //             linear-gradient(
+        //                 to top,
+        //                 rgba(0,0,0,0.9),
+        //                 rgba(0,0,0,0.2) 65%
+        //             );
 
-            }
+        //     }
 
 
 
-            .rank {
+        //     .rank {
 
-                position: absolute;
+        //         position: absolute;
 
-                top: 30px;
+        //         top: 30px;
 
-                left: 30px;
+        //         left: 30px;
 
-                // background: rgba(0,0,0,0.75);
+        //         // background: rgba(0,0,0,0.75);
 
-                color: white;
+        //         color: white;
 
-                // padding: 8px 16px;
+        //         // padding: 8px 16px;
 
-                border-radius: 12px;
+        //         border-radius: 12px;
 
-                font-size: 100px;
+        //         font-size: 100px;
 
-                font-weight: bold;
+        //         font-weight: bold;
 
-                text-shadow:
-                    0 2px 8px black;
+        //         text-shadow:
+        //             0 2px 8px black;
 
-            }
+        //     }
 
 
 
-            .logo {
+        //     .logo {
 
-                position: absolute;
+        //         position: absolute;
 
-                bottom: 80px;
+        //         bottom: 80px;
 
-                left: 50%;
+        //         left: 50%;
 
-                transform:
-                    translateX(-50%);
+        //         transform:
+        //             translateX(-50%);
 
-                width: 85%;
+        //         width: 85%;
 
-                max-height: 180px;
+        //         max-height: 180px;
 
-                object-fit: contain;
+        //         object-fit: contain;
 
-            }
+        //     }
 
 
 
-            .title {
+        //     .title {
 
-                position: absolute;
+        //         position: absolute;
 
-                bottom: 90px;
+        //         bottom: 90px;
 
-                left: 25px;
+        //         left: 25px;
 
-                right: 25px;
+        //         right: 25px;
 
-                text-align: center;
+        //         text-align: center;
 
-                color: white;
+        //         color: white;
 
-                font-size: 40px;
+        //         font-size: 40px;
 
-                font-weight: bold;
+        //         font-weight: bold;
 
-                text-shadow:
-                    0 3px 12px black;
+        //         text-shadow:
+        //             0 3px 12px black;
 
-            }
+        //     }
+        
 
 
         </style>
-
+    <link rel="stylesheet" href="posterStyle.css">
     </head>
 
 

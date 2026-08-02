@@ -23,8 +23,7 @@
             cursor: pointer;
         }
 
-        img {
-            margin-top: 30px;
+        .background {
             width: 500px;
             height: 750px;
             border-radius: 10px;
@@ -37,20 +36,22 @@
             margin-top: 20px;
         }
     </style>
+    <link rel="stylesheet" href="posterStyle.css">
 </head>
 
 <body>
+    <div class="poster">
+        <img class="background" src="https://image.tmdb.org/t/p/w1280/pWokAXaDOg4Rc5YLE6oW60myIl7.jpg" alt="Movie Poster">
+        <div class="overlay"></div>
+        <div class="rank">
+            1
+        </div>
 
-    <h1>TMDB Poster Finder</h1>
-
-    <input id="tmdbId" placeholder="Enter TMDB ID">
-    <button onclick="getPoster()">Fetch Poster</button>
-    <p id="list">Hi</p>
-    <img id="poster" alt="Movie Poster">
-    <div id="result"></div>
-    <div id="error"></div>
-
-    <script src="tmdb.js"></script>
+        <img
+            class="logo"
+            src="https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png"
+        />
+    </div>
 
 </body>
 </html>
