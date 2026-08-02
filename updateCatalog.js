@@ -304,10 +304,9 @@ async function getTopMovies() {
     const data = await response.json();
 
 
-    const imdbRating = await getIMDBRating(imdbId);
 
     for (const movie of data.results || []) {
-
+        const imdbRating = await getIMDBRating(movie.imdb_id);
 
         if (movies.length >= 10) {
             break;
