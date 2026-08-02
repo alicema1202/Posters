@@ -99,19 +99,19 @@ async function generatePoster(item, browser) {
 
                 position: absolute;
 
-                top: 20px;
+                top: 30px;
 
-                left: 20px;
+                left: 30px;
 
-                background: rgba(0,0,0,0.75);
+                // background: rgba(0,0,0,0.75);
 
                 color: white;
 
-                padding: 8px 16px;
+                // padding: 8px 16px;
 
                 border-radius: 12px;
 
-                font-size: 34px;
+                font-size: 100px;
 
                 font-weight: bold;
 
@@ -191,7 +191,7 @@ async function generatePoster(item, browser) {
 
             <div class="rank">
 
-                #${item.rank}
+                ${item.rank}
 
             </div>
 
