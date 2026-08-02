@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-02T21:46:55.757Z",
+  "updated": "2026-08-02T21:59:15.954Z",
   "metas": [
     {
       "id": "tmdb:1339713",
@@ -12,7 +12,7 @@
         "Horror",
         "Thriller"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/1339713.png?v=1785707213885",
+      "poster": "https://alicema1202.github.io/Posters/image/1339713.png?v=1785707951908",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "background": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png"
@@ -28,7 +28,7 @@
         "Science Fiction",
         "Horror"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/1307118.png?v=1785707213885",
+      "poster": "https://alicema1202.github.io/Posters/image/1307118.png?v=1785707951908",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
       "background": "https://image.tmdb.org/t/p/original/pWokAXaDOg4Rc5YLE6oW60myIl7.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png"
@@ -44,7 +44,7 @@
         "Adventure",
         "Science Fiction"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/1081003.png?v=1785707213885",
+      "poster": "https://alicema1202.github.io/Posters/image/1081003.png?v=1785707951908",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "background": "https://image.tmdb.org/t/p/original/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/sOKyZ1al829AnlmjWoghvzXFbQ6.png"
@@ -59,39 +59,24 @@
         "Science Fiction",
         "Thriller"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/1275779.png?v=1785707213885",
+      "poster": "https://alicema1202.github.io/Posters/image/1275779.png?v=1785707951908",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "background": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png"
-    },
-    {
-      "id": "tmdb:1481343",
-      "type": "movie",
-      "name": "The Devil's Mouth",
-      "description": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
-      "rank": 5,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/1481343.png?v=1785707213885",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-      "background": "https://image.tmdb.org/t/p/original/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tICAPKYhZHtit6ofppC2ieEzhdp.png"
     },
     {
       "id": "tmdb:980431",
       "type": "movie",
       "name": "Avatar Aang: The Last Airbender",
       "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "rank": 6,
+      "rank": 5,
       "genres": [
         "Animation",
         "Action",
         "Adventure",
         "Fantasy"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/980431.png?v=1785707213885",
+      "poster": "https://alicema1202.github.io/Posters/image/980431.png?v=1785707951908",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
       "background": "https://image.tmdb.org/t/p/original/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vVzGZ7ghSF1tkeuJP1bMFd3pMdY.png"
@@ -101,16 +86,31 @@
       "type": "movie",
       "name": "Backrooms",
       "description": "A strange doorway appears in the basement of a furniture showroom.",
-      "rank": 7,
+      "rank": 6,
       "genres": [
         "Horror",
         "Mystery",
         "Science Fiction"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/1083381.png?v=1785707213885",
+      "poster": "https://alicema1202.github.io/Posters/image/1083381.png?v=1785707951908",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "background": "https://image.tmdb.org/t/p/original/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/g0PswKqAFJdwGK3d1fKvj8LGnrW.png"
+    },
+    {
+      "id": "tmdb:1481343",
+      "type": "movie",
+      "name": "The Devil's Mouth",
+      "description": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+      "rank": 7,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/1481343.png?v=1785707951908",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tICAPKYhZHtit6ofppC2ieEzhdp.png"
     },
     {
       "id": "tmdb:1314481",
@@ -122,7 +122,7 @@
         "Comedy",
         "Drama"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/1314481.png?v=1785707213885",
+      "poster": "https://alicema1202.github.io/Posters/image/1314481.png?v=1785707951908",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
       "background": "https://image.tmdb.org/t/p/original/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/v6TyxpV3ZXG28MXTaHCXTmXc0B.png"
@@ -137,25 +137,26 @@
         "Science Fiction",
         "Adventure"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/687163.png?v=1785707213885",
+      "poster": "https://alicema1202.github.io/Posters/image/687163.png?v=1785707951908",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jvqIELbZctv3Jqtcc7Ic5of8vY7.png"
     },
     {
-      "id": "tmdb:1564614",
+      "id": "tmdb:1228710",
       "type": "movie",
-      "name": "Leviticus",
-      "description": "Two teenage boys must escape a violent entity that takes the form of the person they desire most — each other.",
+      "name": "The Mandalorian and Grogu",
+      "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
       "rank": 10,
       "genres": [
-        "Horror",
-        "Romance"
+        "Action",
+        "Adventure",
+        "Science Fiction"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/1564614.png?v=1785707213885",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
-      "background": "https://image.tmdb.org/t/p/original/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zV3FkR6PX2k3FRDZaLVsjFWgoSt.png"
+      "poster": "https://alicema1202.github.io/Posters/image/1228710.png?v=1785707951908",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/MJcERawyqGqJdPsOBc0C449hQ9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xSj9QrjsR8fZnSuEt6e7QZvrqSy.png"
     }
   ]
 }
