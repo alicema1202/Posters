@@ -1,12 +1,16 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-02T07:36:36.538Z",
+  "updated": "2026-08-02T07:51:59.507Z",
   "metas": [
     {
       "id": "tmdb:125988",
       "type": "series",
       "name": "Silo",
       "rank": 1,
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/125988.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -17,6 +21,12 @@
       "type": "series",
       "name": "Batman: Caped Crusader",
       "rank": 2,
+      "genres": [
+        "Animation",
+        "Crime",
+        "Action & Adventure",
+        "Mystery"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/125909.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
@@ -27,6 +37,10 @@
       "type": "series",
       "name": "Cape Fear",
       "rank": 3,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/277439.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
@@ -37,6 +51,11 @@
       "type": "series",
       "name": "Agent Kim Reactivated",
       "rank": 4,
+      "genres": [
+        "Action & Adventure",
+        "Crime",
+        "Drama"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/296206.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
@@ -47,6 +66,11 @@
       "type": "series",
       "name": "House of the Dragon",
       "rank": 5,
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/94997.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -57,6 +81,12 @@
       "type": "series",
       "name": "Rick and Morty",
       "rank": 6,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/60625.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
@@ -67,6 +97,10 @@
       "type": "series",
       "name": "Lucky",
       "rank": 7,
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/278624.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
@@ -77,6 +111,10 @@
       "type": "series",
       "name": "Stuart Fails to Save the Universe",
       "rank": 8,
+      "genres": [
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/287620.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg",
@@ -87,6 +125,10 @@
       "type": "series",
       "name": "Fightland",
       "rank": 9,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/8840.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/qRlOEIiwkfLy6ERRMbyQNGQQ6Lc.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/a0gOfhPiVGjS55HX9aIXInMVXc5.jpg",
@@ -97,6 +139,10 @@
       "type": "series",
       "name": "Lioness",
       "rank": 10,
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/113962.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",

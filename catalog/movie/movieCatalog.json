@@ -1,12 +1,17 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-02T07:36:36.537Z",
+  "updated": "2026-08-02T07:51:59.507Z",
   "metas": [
     {
       "id": "tmdb:1307118",
       "type": "movie",
       "name": "Soulm8te",
       "rank": 1,
+      "genres": [
+        "Thriller",
+        "Science Fiction",
+        "Horror"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/1307118.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/pWokAXaDOg4Rc5YLE6oW60myIl7.jpg",
@@ -17,6 +22,11 @@
       "type": "movie",
       "name": "Supergirl",
       "rank": 2,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/1081003.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
@@ -27,6 +37,10 @@
       "type": "movie",
       "name": "Obsession",
       "rank": 3,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/1339713.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
@@ -37,6 +51,10 @@
       "type": "movie",
       "name": "The Devil's Mouth",
       "rank": 4,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/1481343.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg",
@@ -47,6 +65,12 @@
       "type": "movie",
       "name": "Avatar Aang: The Last Airbender",
       "rank": 5,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/980431.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg",
@@ -57,6 +81,11 @@
       "type": "movie",
       "name": "Backrooms",
       "rank": 6,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/1083381.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
@@ -67,6 +96,10 @@
       "type": "movie",
       "name": "Disclosure Day",
       "rank": 7,
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/1275779.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
@@ -77,6 +110,11 @@
       "type": "movie",
       "name": "Masters of the Universe",
       "rank": 8,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Science Fiction"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/454639.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
@@ -87,6 +125,9 @@
       "type": "movie",
       "name": "Nightborn",
       "rank": 9,
+      "genres": [
+        "Horror"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/964849.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/ddMt3IAgEHE0SWBjm97jR8gKx9B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
@@ -97,6 +138,10 @@
       "type": "movie",
       "name": "WWE SummerSlam 2026: Saturday",
       "rank": 10,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
       "poster": "https://alicema1202.github.io/Posters/image/1741109.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/wy3w5vAs00Id06Sm9a8TOvIA4bX.jpg",
       "backdrop": null,
