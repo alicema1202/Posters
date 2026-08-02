@@ -8,6 +8,7 @@ const catalogs = [
 ];
 
 
+
 async function generatePoster(item, browser) {
 
     const page = await browser.newPage();
@@ -19,22 +20,34 @@ async function generatePoster(item, browser) {
     });
 
 
+
     const html = `
     <!DOCTYPE html>
+
     <html>
 
     <head>
 
         <style>
 
-            body {
+            html, body {
+
                 margin: 0;
+
+                padding: 0;
+
                 width: 500px;
+
                 height: 750px;
+
                 overflow: hidden;
+
                 background: black;
+
                 font-family: Arial, sans-serif;
+
             }
+
 
 
             .poster {
@@ -42,11 +55,11 @@ async function generatePoster(item, browser) {
                 position: relative;
 
                 width: 500px;
+
                 height: 750px;
 
-                overflow: hidden;
-
             }
+
 
 
             .background {
@@ -54,6 +67,7 @@ async function generatePoster(item, browser) {
                 position: absolute;
 
                 width: 100%;
+
                 height: 100%;
 
                 object-fit: cover;
@@ -61,21 +75,51 @@ async function generatePoster(item, browser) {
             }
 
 
-            .gradient {
+
+            .overlay {
 
                 position: absolute;
 
                 width: 100%;
+
                 height: 100%;
 
                 background:
                     linear-gradient(
                         to top,
-                        rgba(0,0,0,0.85),
-                        rgba(0,0,0,0.1) 60%
+                        rgba(0,0,0,0.9),
+                        rgba(0,0,0,0.2) 65%
                     );
 
             }
+
+
+
+            .rank {
+
+                position: absolute;
+
+                top: 20px;
+
+                left: 20px;
+
+                background: rgba(0,0,0,0.75);
+
+                color: white;
+
+                padding: 8px 16px;
+
+                border-radius: 12px;
+
+                font-size: 34px;
+
+                font-weight: bold;
+
+                text-shadow:
+                    0 2px 8px black;
+
+            }
+
 
 
             .logo {
@@ -89,7 +133,7 @@ async function generatePoster(item, browser) {
                 transform:
                     translateX(-50%);
 
-                width: 80%;
+                width: 85%;
 
                 max-height: 180px;
 
@@ -98,19 +142,22 @@ async function generatePoster(item, browser) {
             }
 
 
+
             .title {
 
                 position: absolute;
 
-                bottom: 80px;
+                bottom: 90px;
 
-                width: 100%;
+                left: 25px;
+
+                right: 25px;
 
                 text-align: center;
 
                 color: white;
 
-                font-size: 38px;
+                font-size: 40px;
 
                 font-weight: bold;
 
@@ -137,24 +184,39 @@ async function generatePoster(item, browser) {
             />
 
 
-            <div class="gradient"></div>
+
+            <div class="overlay"></div>
+
+
+
+            <div class="rank">
+
+                #${item.rank}
+
+            </div>
+
 
 
             ${
                 item.logo
+
                 ?
+
                 `
                 <img
                     class="logo"
                     src="${item.logo}"
                 />
                 `
+
                 :
+
                 `
                 <div class="title">
                     ${item.name}
                 </div>
                 `
+
             }
 
 
@@ -163,8 +225,10 @@ async function generatePoster(item, browser) {
 
     </body>
 
+
     </html>
     `;
+
 
 
     await page.setContent(
@@ -175,6 +239,7 @@ async function generatePoster(item, browser) {
     );
 
 
+
     await page.screenshot({
 
         path:
@@ -183,14 +248,18 @@ async function generatePoster(item, browser) {
     });
 
 
+
     await page.close();
+
 
 
     console.log(
         "Generated:",
         item.name
     );
+
 }
+
 
 
 
@@ -202,11 +271,12 @@ async function main() {
         fs.mkdirSync(
             "image",
             {
-                recursive: true
+                recursive:true
             }
         );
 
     }
+
 
 
     const browser =
@@ -226,6 +296,7 @@ async function main() {
 
 
 
+
     for (const catalogFile of catalogs) {
 
 
@@ -241,23 +312,31 @@ async function main() {
 
         for (const item of catalog.metas) {
 
+
             await generatePoster(
                 item,
                 browser
             );
 
+
         }
 
+
     }
+
+
 
 
     await browser.close();
 
 
+
     console.log(
-        "Finished generating posters!"
+        "Finished generating all posters!"
     );
+
 }
+
 
 
 main();

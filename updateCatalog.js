@@ -6,6 +6,9 @@ const GITHUB_PAGES =
     "https://alicema1202.github.io/Posters/image";
 
 
+/**
+ * Get TMDB images
+ */
 async function getImages(type, id) {
 
     const response = await fetch(
@@ -32,8 +35,10 @@ async function getImages(type, id) {
 }
 
 
+
 /**
- * Check if movie has US digital release
+ * Check movie digital release
+ * TMDB release type 4 = Digital
  */
 async function hasDigitalRelease(movieId) {
 
@@ -45,9 +50,11 @@ async function hasDigitalRelease(movieId) {
     const data = await response.json();
 
 
-    const usRelease = data.results?.find(
-        country => country.iso_3166_1 === "US"
-    );
+    const usRelease =
+        data.results?.find(
+            country =>
+                country.iso_3166_1 === "US"
+        );
 
 
     if (!usRelease) {
@@ -56,13 +63,15 @@ async function hasDigitalRelease(movieId) {
 
 
     return usRelease.release_dates.some(
-        release => release.type === 4
+        release =>
+            release.type === 4
     );
 }
 
 
+
 /**
- * Check TV US availability
+ * Check US TV availability
  */
 async function hasUSAvailability(showId) {
 
@@ -78,6 +87,7 @@ async function hasUSAvailability(showId) {
 }
 
 
+
 /**
  * Exclude anime
  */
@@ -91,18 +101,24 @@ async function isAnime(type, id) {
     const data = await response.json();
 
 
-    return (
-        data.origin_country?.includes("JP") &&
+    const isJapanese =
+        data.origin_country?.includes("JP");
+
+
+    const isAnimation =
         data.genres?.some(
-            genre => genre.id === 16
-        )
-    );
+            genre =>
+                genre.id === 16
+        );
+
+
+    return isJapanese && isAnimation;
 }
 
 
 
 /**
- * Top 10 Movies
+ * Get top 10 movies
  */
 async function getTopMovies() {
 
@@ -117,7 +133,15 @@ async function getTopMovies() {
     const data = await response.json();
 
 
-    for (const movie of data.results || []) {
+    if (!data.results) {
+        throw new Error(
+            "TMDB movie results missing"
+        );
+    }
+
+
+
+    for (const movie of data.results) {
 
 
         if (movies.length >= 10) {
@@ -126,13 +150,27 @@ async function getTopMovies() {
 
 
         if (await isAnime("movie", movie.id)) {
+
+            console.log(
+                "Movie skipped (anime):",
+                movie.title
+            );
+
             continue;
         }
+
 
 
         if (!(await hasDigitalRelease(movie.id))) {
+
+            console.log(
+                "Movie skipped (no digital):",
+                movie.title
+            );
+
             continue;
         }
+
 
 
         const images =
@@ -140,6 +178,7 @@ async function getTopMovies() {
                 "movie",
                 movie.id
             );
+
 
 
         movies.push({
@@ -152,6 +191,9 @@ async function getTopMovies() {
 
             name:
                 movie.title,
+
+            rank:
+                movies.length + 1,
 
 
             poster:
@@ -175,9 +217,10 @@ async function getTopMovies() {
 
 
         console.log(
-            "Movie added:",
+            `Movie #${movies.length}:`,
             movie.title
         );
+
     }
 
 
@@ -187,7 +230,7 @@ async function getTopMovies() {
 
 
 /**
- * Top 10 Series
+ * Get top 10 series
  */
 async function getTopSeries() {
 
@@ -202,8 +245,15 @@ async function getTopSeries() {
     const data = await response.json();
 
 
+    if (!data.results) {
+        throw new Error(
+            "TMDB series results missing"
+        );
+    }
 
-    for (const show of data.results || []) {
+
+
+    for (const show of data.results) {
 
 
         if (series.length >= 10) {
@@ -211,14 +261,29 @@ async function getTopSeries() {
         }
 
 
+
         if (await isAnime("tv", show.id)) {
+
+            console.log(
+                "Series skipped (anime):",
+                show.name
+            );
+
             continue;
         }
+
 
 
         if (!(await hasUSAvailability(show.id))) {
+
+            console.log(
+                "Series skipped (no US):",
+                show.name
+            );
+
             continue;
         }
+
 
 
         const images =
@@ -239,6 +304,10 @@ async function getTopSeries() {
 
             name:
                 show.name,
+
+
+            rank:
+                series.length + 1,
 
 
             poster:
@@ -262,9 +331,10 @@ async function getTopSeries() {
 
 
         console.log(
-            "Series added:",
+            `Series #${series.length}:`,
             show.name
         );
+
     }
 
 
@@ -274,9 +344,10 @@ async function getTopSeries() {
 
 
 /**
- * Save JSON
+ * Save catalog
  */
 function saveCatalog(path, name, metas) {
+
 
     const directory =
         path.substring(
@@ -297,8 +368,11 @@ function saveCatalog(path, name, metas) {
     }
 
 
+
     fs.writeFileSync(
+
         path,
+
         JSON.stringify(
             {
                 name,
@@ -306,9 +380,12 @@ function saveCatalog(path, name, metas) {
                     new Date().toISOString(),
                 metas
             },
+
             null,
+
             2
         )
+
     );
 
 
@@ -321,23 +398,39 @@ function saveCatalog(path, name, metas) {
 
 
 /**
- * Run
+ * Main
  */
 async function updateCatalog() {
 
+
     if (!API_KEY) {
+
         throw new Error(
             "Missing TMDB_KEY"
         );
+
     }
+
 
 
     const movies =
         await getTopMovies();
 
 
+
     const series =
         await getTopSeries();
+
+
+
+    console.log(
+        `Movies generated: ${movies.length}`
+    );
+
+
+    console.log(
+        `Series generated: ${series.length}`
+    );
 
 
 
@@ -348,6 +441,7 @@ async function updateCatalog() {
     );
 
 
+
     saveCatalog(
         "catalog/series/seriesCatalog.json",
         "TMDB Top 10 Series Today",
@@ -355,9 +449,11 @@ async function updateCatalog() {
     );
 
 
+
     console.log(
         "All catalogs updated!"
     );
+
 }
 
 
