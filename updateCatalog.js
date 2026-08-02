@@ -83,7 +83,7 @@ async function isAnime(type, id) {
 
 
 /**
- * Get top 25 movies today
+ * Get top 10 movies today
  */
 async function getTopMovies() {
 
@@ -107,7 +107,7 @@ async function getTopMovies() {
 
     for (const movie of data.results) {
 
-        if (movies.length >= 25) {
+        if (movies.length >= 10) {
             break;
         }
 
@@ -160,7 +160,7 @@ async function getTopMovies() {
 
 
 /**
- * Get top 25 series today
+ * Get top 10 series today
  */
 async function getTopSeries() {
 
@@ -184,7 +184,7 @@ async function getTopSeries() {
 
     for (const show of data.results) {
 
-        if (series.length >= 25) {
+        if (series.length >= 10) {
             break;
         }
 
@@ -311,14 +311,14 @@ async function updateCatalog() {
 
     saveCatalog(
         "catalog/movie/movieCatalog.json",
-        "TMDB Top 25 Movies Today",
+        "TMDB Top 10 Movies Today",
         movies
     );
 
 
     saveCatalog(
         "catalog/series/seriesCatalog.json",
-        "TMDB Top 25 Series Today",
+        "TMDB Top 10 Series Today",
         series
     );
 
