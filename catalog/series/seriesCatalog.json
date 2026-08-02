@@ -1,0 +1,181 @@
+{
+  "name": "TMDB Top 25 Series",
+  "updated": "2026-08-02T05:47:01.870Z",
+  "metas": [
+    {
+      "id": "tmdb:5920",
+      "type": "series",
+      "name": "The Mentalist",
+      "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg"
+    },
+    {
+      "id": "tmdb:94997",
+      "type": "series",
+      "name": "House of the Dragon",
+      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
+    },
+    {
+      "id": "tmdb:2734",
+      "type": "series",
+      "name": "Law & Order: Special Victims Unit",
+      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg"
+    },
+    {
+      "id": "tmdb:79744",
+      "type": "series",
+      "name": "The Rookie",
+      "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg"
+    },
+    {
+      "id": "tmdb:94722",
+      "type": "series",
+      "name": "Tagesschau",
+      "poster": "https://image.tmdb.org/t/p/w500/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg"
+    },
+    {
+      "id": "tmdb:60625",
+      "type": "series",
+      "name": "Rick and Morty",
+      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg"
+    },
+    {
+      "id": "tmdb:1416",
+      "type": "series",
+      "name": "Grey's Anatomy",
+      "poster": "https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg"
+    },
+    {
+      "id": "tmdb:125988",
+      "type": "series",
+      "name": "Silo",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
+    },
+    {
+      "id": "tmdb:549",
+      "type": "series",
+      "name": "Law & Order",
+      "poster": "https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg"
+    },
+    {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "FROM",
+      "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg"
+    },
+    {
+      "id": "tmdb:4614",
+      "type": "series",
+      "name": "NCIS",
+      "poster": "https://image.tmdb.org/t/p/w500/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nn3SuLTO4hum8yAxaY4ql8h6kRk.jpg"
+    },
+    {
+      "id": "tmdb:1622",
+      "type": "series",
+      "name": "Supernatural",
+      "poster": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ro0tlgnsco4SwbdAgmscLkSlMSL.jpg"
+    },
+    {
+      "id": "tmdb:65334",
+      "type": "series",
+      "name": "Miraculous: Tales of Ladybug & Cat Noir",
+      "poster": "https://image.tmdb.org/t/p/w500/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg"
+    },
+    {
+      "id": "tmdb:4057",
+      "type": "series",
+      "name": "Criminal Minds",
+      "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
+    },
+    {
+      "id": "tmdb:456",
+      "type": "series",
+      "name": "The Simpsons",
+      "poster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
+    },
+    {
+      "id": "tmdb:1434",
+      "type": "series",
+      "name": "Family Guy",
+      "poster": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg"
+    },
+    {
+      "id": "tmdb:1399",
+      "type": "series",
+      "name": "Game of Thrones",
+      "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg"
+    },
+    {
+      "id": "tmdb:94664",
+      "type": "series",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
+    },
+    {
+      "id": "tmdb:108978",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/JYgqp8g2kI3SEus9XBDSHukfBN.jpg"
+    },
+    {
+      "id": "tmdb:1408",
+      "type": "series",
+      "name": "House",
+      "poster": "https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg"
+    },
+    {
+      "id": "tmdb:1396",
+      "type": "series",
+      "name": "Breaking Bad",
+      "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg"
+    },
+    {
+      "id": "tmdb:63770",
+      "type": "series",
+      "name": "The Late Show with Stephen Colbert",
+      "poster": "https://image.tmdb.org/t/p/w500/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg"
+    },
+    {
+      "id": "tmdb:1405",
+      "type": "series",
+      "name": "Dexter",
+      "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aSGSxGMTP893DPMCvMl9AdnEICE.jpg"
+    },
+    {
+      "id": "tmdb:34307",
+      "type": "series",
+      "name": "Shameless",
+      "poster": "https://image.tmdb.org/t/p/w500/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5s9XHTB9SLPdg3mNU6BlSLnZ9Qq.jpg"
+    },
+    {
+      "id": "tmdb:59941",
+      "type": "series",
+      "name": "The Tonight Show Starring Jimmy Fallon",
+      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg"
+    }
+  ]
+}
