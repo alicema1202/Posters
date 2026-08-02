@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-02T18:05:04.140Z",
+  "updated": "2026-08-02T18:08:30.147Z",
   "metas": [
     {
       "id": "tmdb:113962",
@@ -91,10 +91,26 @@
       "logo": "https://image.tmdb.org/t/p/w500/vBQsA1hLbAcm5H8PI15OKDD1aNK.png"
     },
     {
+      "id": "tmdb:294095",
+      "type": "series",
+      "name": "A Bona Fide Killer",
+      "rank": 7,
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Mystery",
+        "Crime"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/294095.png",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6xQDL4hDXOFVaaEaIgFX0gfvXgs.png"
+    },
+    {
       "id": "tmdb:60625",
       "type": "series",
       "name": "Rick and Morty",
-      "rank": 7,
+      "rank": 8,
       "genres": [
         "Animation",
         "Comedy",
@@ -110,7 +126,7 @@
       "id": "tmdb:287620",
       "type": "series",
       "name": "Stuart Fails to Save the Universe",
-      "rank": 8,
+      "rank": 9,
       "genres": [
         "Comedy",
         "Sci-Fi & Fantasy"
@@ -124,7 +140,7 @@
       "id": "tmdb:278624",
       "type": "series",
       "name": "Lucky",
-      "rank": 9,
+      "rank": 10,
       "genres": [
         "Drama",
         "Crime"
@@ -133,20 +149,6 @@
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png"
-    },
-    {
-      "id": "tmdb:103516",
-      "type": "series",
-      "name": "Star Trek: Strange New Worlds",
-      "rank": 10,
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/103516.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png"
     }
   ]
 }
