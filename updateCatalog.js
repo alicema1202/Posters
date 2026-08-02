@@ -2,7 +2,10 @@ const fs = require("fs");
 
 const API_KEY = process.env.TMDB_KEY;
 console.log(API_KEY ? "API key loaded" : "Missing key");
+const data = await response.json();
 
+console.log("TMDB response:");
+console.log(JSON.stringify(data, null, 2));
 async function updateCatalog() {
 
     if (!API_KEY) {
