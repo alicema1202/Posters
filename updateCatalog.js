@@ -4,7 +4,7 @@ const API_KEY = process.env.TMDB_KEY;
 
 
 /**
- * Check if a movie has a US digital release
+ * Check if movie has US digital release
  */
 async function hasDigitalRelease(movieId) {
 
@@ -34,62 +34,65 @@ async function hasDigitalRelease(movieId) {
 
 
 /**
- * Get top 25 digital movies
+ * Get top 25 trending movies today
+ * Only include movies digitally released in US
  */
 async function getTopMovies() {
 
     const movies = [];
-    let page = 1;
 
 
-    while (movies.length < 25) {
-
-        console.log(`Fetching movie page ${page}`);
-
-
-        const response = await fetch(
-            `https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY}&sort_by=popularity.desc&vote_count.gte=100&page=${page}`
-        );
+    const response = await fetch(
+        `https://api.themoviedb.org/3/trending/movie/day?api_key=${API_KEY}`
+    );
 
 
-        const data = await response.json();
+    const data = await response.json();
 
 
-        for (const movie of data.results) {
-
-            if (movies.length >= 25) {
-                break;
-            }
+    if (!data.results) {
+        throw new Error("TMDB movies returned no results");
+    }
 
 
-            if (await hasDigitalRelease(movie.id)) {
+    for (const movie of data.results) {
 
-                console.log(
-                    "Movie added:",
-                    movie.title
-                );
-
-
-                movies.push({
-                    id: `tmdb:${movie.id}`,
-                    type: "movie",
-                    name: movie.title,
-                    poster: movie.poster_path
-                        ? `https://image.tmdb.org/t/p/w500${movie.poster_path}`
-                        : null,
-                    background: movie.backdrop_path
-                        ? `https://image.tmdb.org/t/p/w1280${movie.backdrop_path}`
-                        : null
-                });
-
-            }
-
+        if (movies.length >= 25) {
+            break;
         }
 
 
-        page++;
+        const digital = await hasDigitalRelease(movie.id);
 
-        if (page > 10) break;
+
+        if (digital) {
+
+            console.log(
+                "Movie added:",
+                movie.title
+            );
+
+
+            movies.push({
+                id: `tmdb:${movie.id}`,
+                type: "movie",
+                name: movie.title,
+                poster: movie.poster_path
+                    ? `https://image.tmdb.org/t/p/w500${movie.poster_path}`
+                    : null,
+                background: movie.backdrop_path
+                    ? `https://image.tmdb.org/t/p/w1280${movie.backdrop_path}`
+                    : null
+            });
+
+        } else {
+
+            console.log(
+                "Movie skipped:",
+                movie.title
+            );
+
+        }
     }
 
 
@@ -99,63 +102,50 @@ async function getTopMovies() {
 
 
 /**
- * Get top 25 TV series
+ * Get top 25 trending TV series today
  */
 async function getTopSeries() {
 
     const series = [];
-    let page = 1;
 
 
-    while (series.length < 25) {
+    const response = await fetch(
+        `https://api.themoviedb.org/3/trending/tv/day?api_key=${API_KEY}`
+    );
 
-        console.log(`Fetching series page ${page}`);
+
+    const data = await response.json();
 
 
-        const response = await fetch(
-            `https://api.themoviedb.org/3/trending/tv/day?api_key=${API_KEY}`
+    if (!data.results) {
+        throw new Error("TMDB series returned no results");
+    }
+
+
+    for (const show of data.results) {
+
+        if (series.length >= 25) {
+            break;
+        }
+
+
+        console.log(
+            "Series added:",
+            show.name
         );
 
 
-        const data = await response.json();
-
-
-        if (!data.results) {
-            throw new Error("TMDB TV returned no results");
-        }
-
-
-        for (const show of data.results) {
-
-            if (series.length >= 25) {
-                break;
-            }
-
-
-            console.log(
-                "Series added:",
-                show.name
-            );
-
-
-            series.push({
-                id: `tmdb:${show.id}`,
-                type: "series",
-                name: show.name,
-                poster: show.poster_path
-                    ? `https://image.tmdb.org/t/p/w500${show.poster_path}`
-                    : null,
-                background: show.backdrop_path
-                    ? `https://image.tmdb.org/t/p/w1280${show.backdrop_path}`
-                    : null
-            });
-
-        }
-
-
-        page++;
-
-        if (page > 10) break;
+        series.push({
+            id: `tmdb:${show.id}`,
+            type: "series",
+            name: show.name,
+            poster: show.poster_path
+                ? `https://image.tmdb.org/t/p/w500${show.poster_path}`
+                : null,
+            background: show.backdrop_path
+                ? `https://image.tmdb.org/t/p/w1280${show.backdrop_path}`
+                : null
+        });
     }
 
 
@@ -165,9 +155,25 @@ async function getTopSeries() {
 
 
 /**
- * Write JSON file
+ * Save catalog JSON
  */
-function saveCatalog(path, name, metas) {
+function saveCatalog(filePath, name, metas) {
+
+    const directory = filePath.substring(
+        0,
+        filePath.lastIndexOf("/")
+    );
+
+
+    if (!fs.existsSync(directory)) {
+        fs.mkdirSync(
+            directory,
+            {
+                recursive: true
+            }
+        );
+    }
+
 
     const catalog = {
         name,
@@ -177,7 +183,7 @@ function saveCatalog(path, name, metas) {
 
 
     fs.writeFileSync(
-        path,
+        filePath,
         JSON.stringify(
             catalog,
             null,
@@ -187,7 +193,8 @@ function saveCatalog(path, name, metas) {
 
 
     console.log(
-        `Saved ${path}`
+        "Saved:",
+        filePath
     );
 }
 
@@ -208,21 +215,35 @@ async function updateCatalog() {
     const series = await getTopSeries();
 
 
+    console.log(
+        "Movie count:",
+        movies.length
+    );
+
+
+    console.log(
+        "Series count:",
+        series.length
+    );
+
+
     saveCatalog(
         "catalog/movie/movieCatalog.json",
-        "TMDB Top 25 Movies",
+        "TMDB Top 25 Movies Today",
         movies
     );
 
 
     saveCatalog(
         "catalog/series/seriesCatalog.json",
-        "TMDB Top 25 Series",
+        "TMDB Top 25 Series Today",
         series
     );
 
 
-    console.log("All catalogs updated!");
+    console.log(
+        "All catalogs updated!"
+    );
 }
 
 
