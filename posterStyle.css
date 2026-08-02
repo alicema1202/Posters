@@ -1,8 +1,8 @@
 html, body {
             margin: 0;
             padding: 0;
-            width: 375px;
-            height: 562.5px;
+            width: 400px;
+            height: 600px;
             overflow: hidden;
             background: rgb(0, 0, 0);
             font-family: "Inter", sans-serif;
@@ -15,7 +15,7 @@ html, body {
             width: 500px;
 
             height: 750px;
-            transform: scale(0.75);
+            transform: scale(0.8);
             transform-origin: top left;
 
         }
