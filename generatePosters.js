@@ -1,6 +1,6 @@
 const fs = require("fs");
 const puppeteer = require("puppeteer");
-
+const css = fs.readFileSync("posterStyle.css", "utf8");
 
 const catalogs = [
     "catalog/movie/movieCatalog.json",
@@ -27,7 +27,9 @@ async function generatePoster(item, browser) {
     <html>
 
     <head>
-    <link rel="stylesheet" href="posterStyle.css">
+        <style>
+        ${css}
+        </style>    
     </head>
 
 
