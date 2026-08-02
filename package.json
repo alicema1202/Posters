@@ -1,0 +1,10 @@
+{
+  "name": "tmdb-catalog-updater",
+  "version": "1.0.0",
+  "description": "Daily TMDB catalog generator",
+  "main": "updateCatalog.js",
+  "scripts": {
+    "update": "node updateCatalog.js"
+  },
+  "dependencies": {}
+}

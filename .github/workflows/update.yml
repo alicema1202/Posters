@@ -1,0 +1,42 @@
+name: Update TMDB Catalog
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+
+  workflow_dispatch:
+
+
+jobs:
+  update:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+
+      - name: Run updater
+        env:
+          TMDB_KEY: ${{ secrets.TMDB_KEY }}
+        run: node updateCatalog.js
+
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add catalog/movieCatalog.json
+
+          git commit -m "Update TMDB catalog" || exit 0
+
+          git push
