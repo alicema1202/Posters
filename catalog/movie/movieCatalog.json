@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-02T07:51:59.507Z",
+  "updated": "2026-08-02T07:59:01.948Z",
   "metas": [
     {
       "id": "tmdb:1307118",
@@ -106,25 +106,10 @@
       "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png"
     },
     {
-      "id": "tmdb:454639",
-      "type": "movie",
-      "name": "Masters of the Universe",
-      "rank": 8,
-      "genres": [
-        "Action",
-        "Fantasy",
-        "Science Fiction"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/454639.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aBS0RzFsuKbg7npGADgFEl8bKt2.png"
-    },
-    {
       "id": "tmdb:964849",
       "type": "movie",
       "name": "Nightborn",
-      "rank": 9,
+      "rank": 8,
       "genres": [
         "Horror"
       ],
@@ -134,18 +119,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/qJyv3hguD0K3G5NvzF284tsnKgD.png"
     },
     {
-      "id": "tmdb:1741109",
+      "id": "tmdb:1396749",
       "type": "movie",
-      "name": "WWE SummerSlam 2026: Saturday",
+      "name": "Wild Sing",
+      "rank": 9,
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/1396749.png",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7lIdil3vd2tu5NmKspGkJ2ny0oS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wuqlB1rgHlGKf33rMu3QpRzb15o.jpg",
+      "logo": null
+    },
+    {
+      "id": "tmdb:1122573",
+      "type": "movie",
+      "name": "In the Grey",
       "rank": 10,
       "genres": [
         "Action",
-        "Drama"
+        "Thriller"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/1741109.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wy3w5vAs00Id06Sm9a8TOvIA4bX.jpg",
-      "backdrop": null,
-      "logo": null
+      "poster": "https://alicema1202.github.io/Posters/image/1122573.png",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8F1K9rw0qKogpZ5uL7KcbpJTfou.png"
     }
   ]
 }
