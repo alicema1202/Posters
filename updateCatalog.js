@@ -5,6 +5,7 @@ const API_KEY = process.env.TMDB_KEY;
 const GITHUB_PAGES =
     "https://alicema1202.github.io/Posters/image";
 
+const BUILD_TIMESTAMP = Date.now();
 
 let movieGenres = {};
 let tvGenres = {};
@@ -377,7 +378,7 @@ async function getTopMovies() {
 
 
             poster:
-                `${GITHUB_PAGES}/${movie.id}.png`,
+                `${GITHUB_PAGES}/${movie.id}.png?v=${BUILD_TIMESTAMP}`,
 
 
             tmdbPoster:
@@ -514,7 +515,7 @@ async function getTopSeries() {
 
 
             poster:
-                `${GITHUB_PAGES}/${show.id}.png`,
+                `${GITHUB_PAGES}/${show.id}.png?v=${BUILD_TIMESTAMP}`,
 
 
             tmdbPoster:
