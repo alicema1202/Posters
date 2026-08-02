@@ -1,6 +1,126 @@
 {
-    "metas": [
-        { "type": "movie", "id": "tt0032138", "name": "The Wizard of Oz", "poster": "https://images.metahub.space/poster/medium/tt0032138/img", "genres": ["Adventure", "Family", "Fantasy", "Musical"] },
-        { "type": "movie", "id": "tt0017136", "name": "Metropolis", "poster": "https://images.metahub.space/poster/medium/tt0017136/img", "genres": ["Drama", "Sci-Fi"] }
-    ]
+  "name": "TMDB Top 25 Movies",
+  "updated": "2026-08-02T05:34:49.335Z",
+  "metas": [
+    {
+      "id": "tmdb:969681",
+      "type": "movie",
+      "name": "Spider-Man: Brand New Day",
+      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg"
+    },
+    {
+      "id": "tmdb:1368337",
+      "type": "movie",
+      "name": "The Odyssey",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+    },
+    {
+      "id": "tmdb:1081003",
+      "type": "movie",
+      "name": "Supergirl",
+      "poster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg"
+    },
+    {
+      "id": "tmdb:454639",
+      "type": "movie",
+      "name": "Masters of the Universe",
+      "poster": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg"
+    },
+    {
+      "id": "tmdb:1275779",
+      "type": "movie",
+      "name": "Disclosure Day",
+      "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
+    },
+    {
+      "id": "tmdb:1339713",
+      "type": "movie",
+      "name": "Obsession",
+      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+    },
+    {
+      "id": "tmdb:1108427",
+      "type": "movie",
+      "name": "Moana",
+      "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
+    },
+    {
+      "id": "tmdb:1284465",
+      "type": "movie",
+      "name": "The Death of Robin Hood",
+      "poster": "https://image.tmdb.org/t/p/w500/92Tsfx7SFafOqWsotvrlJbHyehd.jpg"
+    },
+    {
+      "id": "tmdb:980431",
+      "type": "movie",
+      "name": "Avatar Aang: The Last Airbender",
+      "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg"
+    },
+    {
+      "id": "tmdb:1084244",
+      "type": "movie",
+      "name": "Toy Story 5",
+      "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+    },
+    {
+      "id": "tmdb:634649",
+      "type": "movie",
+      "name": "Spider-Man: No Way Home",
+      "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+    },
+    {
+      "id": "tmdb:1083381",
+      "type": "movie",
+      "name": "Backrooms",
+      "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+    },
+    {
+      "id": "tmdb:1315772",
+      "type": "movie",
+      "name": "Minions & Monsters",
+      "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+    },
+    {
+      "id": "tmdb:1375646",
+      "type": "movie",
+      "name": "Colony",
+      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg"
+    },
+    {
+      "id": "tmdb:1481343",
+      "type": "movie",
+      "name": "The Devil's Mouth",
+      "poster": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg"
+    },
+    {
+      "id": "tmdb:1630409",
+      "type": "movie",
+      "name": "The Debt Collector",
+      "poster": "https://image.tmdb.org/t/p/w500/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg"
+    },
+    {
+      "id": "tmdb:1311031",
+      "type": "movie",
+      "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "poster": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg"
+    },
+    {
+      "id": "tmdb:1727780",
+      "type": "movie",
+      "name": "Borderline",
+      "poster": "https://image.tmdb.org/t/p/w500/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg"
+    },
+    {
+      "id": "tmdb:687163",
+      "type": "movie",
+      "name": "Project Hail Mary",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+    },
+    {
+      "id": "tmdb:1110034",
+      "type": "movie",
+      "name": "Kraken",
+      "poster": "https://image.tmdb.org/t/p/w500/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg"
+    }
+  ]
 }
