@@ -1,55 +1,20 @@
 {
   "name": "TMDB Top 25 Series",
-  "updated": "2026-08-02T05:47:01.870Z",
+  "updated": "2026-08-02T05:49:16.245Z",
   "metas": [
     {
-      "id": "tmdb:5920",
+      "id": "tmdb:30984",
       "type": "series",
-      "name": "The Mentalist",
-      "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg"
+      "name": "Bleach",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
     },
     {
-      "id": "tmdb:94997",
+      "id": "tmdb:271016",
       "type": "series",
-      "name": "House of the Dragon",
-      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
-    },
-    {
-      "id": "tmdb:2734",
-      "type": "series",
-      "name": "Law & Order: Special Victims Unit",
-      "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg"
-    },
-    {
-      "id": "tmdb:79744",
-      "type": "series",
-      "name": "The Rookie",
-      "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg"
-    },
-    {
-      "id": "tmdb:94722",
-      "type": "series",
-      "name": "Tagesschau",
-      "poster": "https://image.tmdb.org/t/p/w500/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg"
-    },
-    {
-      "id": "tmdb:60625",
-      "type": "series",
-      "name": "Rick and Morty",
-      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg"
-    },
-    {
-      "id": "tmdb:1416",
-      "type": "series",
-      "name": "Grey's Anatomy",
-      "poster": "https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg"
+      "name": "Mystic Nine",
+      "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/snExrS3rICUXDsiG7jUV7K6Q0wj.jpg"
     },
     {
       "id": "tmdb:125988",
@@ -59,11 +24,116 @@
       "background": "https://image.tmdb.org/t/p/w1280/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
     },
     {
-      "id": "tmdb:549",
+      "id": "tmdb:125909",
       "type": "series",
-      "name": "Law & Order",
-      "poster": "https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg"
+      "name": "Batman: Caped Crusader",
+      "poster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg"
+    },
+    {
+      "id": "tmdb:294095",
+      "type": "series",
+      "name": "A Bona Fide Killer",
+      "poster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg"
+    },
+    {
+      "id": "tmdb:277439",
+      "type": "series",
+      "name": "Cape Fear",
+      "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/maOzDEEudq82nN9lRTumrGo9MvJ.jpg"
+    },
+    {
+      "id": "tmdb:37854",
+      "type": "series",
+      "name": "One Piece",
+      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg"
+    },
+    {
+      "id": "tmdb:94997",
+      "type": "series",
+      "name": "House of the Dragon",
+      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
+    },
+    {
+      "id": "tmdb:278624",
+      "type": "series",
+      "name": "Lucky",
+      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg"
+    },
+    {
+      "id": "tmdb:60625",
+      "type": "series",
+      "name": "Rick and Morty",
+      "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg"
+    },
+    {
+      "id": "tmdb:296206",
+      "type": "series",
+      "name": "Agent Kim Reactivated",
+      "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg"
+    },
+    {
+      "id": "tmdb:287620",
+      "type": "series",
+      "name": "Stuart Fails to Save the Universe",
+      "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg"
+    },
+    {
+      "id": "tmdb:301418",
+      "type": "series",
+      "name": "The Affair Was Just The Beginning",
+      "poster": "https://image.tmdb.org/t/p/w500/96LapGcyjchiustfYnwryB6p7I5.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/463KX5md13Db6pIMCCnIZqtPWFK.jpg"
+    },
+    {
+      "id": "tmdb:287238",
+      "type": "series",
+      "name": "Furious",
+      "poster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg"
+    },
+    {
+      "id": "tmdb:8840",
+      "type": "series",
+      "name": "Fightland",
+      "poster": "https://image.tmdb.org/t/p/w500/qRlOEIiwkfLy6ERRMbyQNGQQ6Lc.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/a0gOfhPiVGjS55HX9aIXInMVXc5.jpg"
+    },
+    {
+      "id": "tmdb:289116",
+      "type": "series",
+      "name": "Genius Girlfriend",
+      "poster": "https://image.tmdb.org/t/p/w500/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg"
+    },
+    {
+      "id": "tmdb:113962",
+      "type": "series",
+      "name": "Lioness",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg"
+    },
+    {
+      "id": "tmdb:260458",
+      "type": "series",
+      "name": "Adults",
+      "poster": "https://image.tmdb.org/t/p/w500/oJUoRlVXGl3MJb62Ugi1G08GPbx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6skot5l7gcJd6hO6qlKDGGY6LBJ.jpg"
+    },
+    {
+      "id": "tmdb:103516",
+      "type": "series",
+      "name": "Star Trek: Strange New Worlds",
+      "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg"
     },
     {
       "id": "tmdb:124364",
@@ -73,109 +143,39 @@
       "background": "https://image.tmdb.org/t/p/w1280/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg"
     },
     {
-      "id": "tmdb:4614",
+      "id": "tmdb:30984",
       "type": "series",
-      "name": "NCIS",
-      "poster": "https://image.tmdb.org/t/p/w500/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/nn3SuLTO4hum8yAxaY4ql8h6kRk.jpg"
+      "name": "Bleach",
+      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
     },
     {
-      "id": "tmdb:1622",
+      "id": "tmdb:271016",
       "type": "series",
-      "name": "Supernatural",
-      "poster": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ro0tlgnsco4SwbdAgmscLkSlMSL.jpg"
+      "name": "Mystic Nine",
+      "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/snExrS3rICUXDsiG7jUV7K6Q0wj.jpg"
     },
     {
-      "id": "tmdb:65334",
+      "id": "tmdb:125988",
       "type": "series",
-      "name": "Miraculous: Tales of Ladybug & Cat Noir",
-      "poster": "https://image.tmdb.org/t/p/w500/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg"
+      "name": "Silo",
+      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
     },
     {
-      "id": "tmdb:4057",
+      "id": "tmdb:125909",
       "type": "series",
-      "name": "Criminal Minds",
-      "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
+      "name": "Batman: Caped Crusader",
+      "poster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg"
     },
     {
-      "id": "tmdb:456",
+      "id": "tmdb:294095",
       "type": "series",
-      "name": "The Simpsons",
-      "poster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
-    },
-    {
-      "id": "tmdb:1434",
-      "type": "series",
-      "name": "Family Guy",
-      "poster": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg"
-    },
-    {
-      "id": "tmdb:1399",
-      "type": "series",
-      "name": "Game of Thrones",
-      "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg"
-    },
-    {
-      "id": "tmdb:94664",
-      "type": "series",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
-    },
-    {
-      "id": "tmdb:108978",
-      "type": "series",
-      "name": "Reacher",
-      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/JYgqp8g2kI3SEus9XBDSHukfBN.jpg"
-    },
-    {
-      "id": "tmdb:1408",
-      "type": "series",
-      "name": "House",
-      "poster": "https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg"
-    },
-    {
-      "id": "tmdb:1396",
-      "type": "series",
-      "name": "Breaking Bad",
-      "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg"
-    },
-    {
-      "id": "tmdb:63770",
-      "type": "series",
-      "name": "The Late Show with Stephen Colbert",
-      "poster": "https://image.tmdb.org/t/p/w500/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg"
-    },
-    {
-      "id": "tmdb:1405",
-      "type": "series",
-      "name": "Dexter",
-      "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/aSGSxGMTP893DPMCvMl9AdnEICE.jpg"
-    },
-    {
-      "id": "tmdb:34307",
-      "type": "series",
-      "name": "Shameless",
-      "poster": "https://image.tmdb.org/t/p/w500/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/5s9XHTB9SLPdg3mNU6BlSLnZ9Qq.jpg"
-    },
-    {
-      "id": "tmdb:59941",
-      "type": "series",
-      "name": "The Tonight Show Starring Jimmy Fallon",
-      "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg"
+      "name": "A Bona Fide Killer",
+      "poster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg"
     }
   ]
 }
