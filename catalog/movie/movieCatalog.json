@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-02T06:02:49.807Z",
+  "updated": "2026-08-02T06:15:49.203Z",
   "metas": [
     {
       "id": "tmdb:1307118",
@@ -52,18 +52,18 @@
       "background": "https://image.tmdb.org/t/p/w1280/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg"
     },
     {
-      "id": "tmdb:454639",
-      "type": "movie",
-      "name": "Masters of the Universe",
-      "poster": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/eQySd26OW7UmCuaeBOL7qy6foMn.jpg"
-    },
-    {
       "id": "tmdb:964849",
       "type": "movie",
       "name": "Nightborn",
       "poster": "https://image.tmdb.org/t/p/w500/ddMt3IAgEHE0SWBjm97jR8gKx9B.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg"
+    },
+    {
+      "id": "tmdb:454639",
+      "type": "movie",
+      "name": "Masters of the Universe",
+      "poster": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eQySd26OW7UmCuaeBOL7qy6foMn.jpg"
     },
     {
       "id": "tmdb:687163",
