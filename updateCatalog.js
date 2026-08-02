@@ -405,7 +405,7 @@ async function getTopMovies() {
                     movie.genre_ids
                 ),
 
-            imdbRating,
+            imdbRating: imdbRating,
             poster:
                 `${GITHUB_PAGES}/${movie.id}.png?v=${BUILD_TIMESTAMP}`,
 
