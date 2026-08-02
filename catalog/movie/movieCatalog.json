@@ -1,6 +1,6 @@
 {
-  "name": "TMDB Top 25 Movies Today",
-  "updated": "2026-08-02T05:59:10.776Z",
+  "name": "TMDB Top 10 Movies Today",
+  "updated": "2026-08-02T06:02:49.807Z",
   "metas": [
     {
       "id": "tmdb:1307118",
@@ -71,55 +71,6 @@
       "name": "Project Hail Mary",
       "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg"
-    },
-    {
-      "id": "tmdb:1564614",
-      "type": "movie",
-      "name": "Leviticus",
-      "poster": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg"
-    },
-    {
-      "id": "tmdb:1228710",
-      "type": "movie",
-      "name": "The Mandalorian and Grogu",
-      "poster": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/MJcERawyqGqJdPsOBc0C449hQ9.jpg"
-    },
-    {
-      "id": "tmdb:1273221",
-      "type": "movie",
-      "name": "Scary Movie",
-      "poster": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
-    },
-    {
-      "id": "tmdb:1396749",
-      "type": "movie",
-      "name": "Wild Sing",
-      "poster": "https://image.tmdb.org/t/p/w500/7lIdil3vd2tu5NmKspGkJ2ny0oS.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xd8AHdewhXWKwrmQy3JCvAFUT6L.jpg"
-    },
-    {
-      "id": "tmdb:1314481",
-      "type": "movie",
-      "name": "The Devil Wears Prada 2",
-      "poster": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
-    },
-    {
-      "id": "tmdb:1122573",
-      "type": "movie",
-      "name": "In the Grey",
-      "poster": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg"
-    },
-    {
-      "id": "tmdb:931285",
-      "type": "movie",
-      "name": "Mortal Kombat II",
-      "poster": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/4EAAwpylq313qrDqpCxulUrXBNF.jpg"
     }
   ]
 }
