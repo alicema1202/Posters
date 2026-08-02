@@ -205,6 +205,76 @@ async function isAnime(type, id) {
 
 
 /**
+ * Exclude sports/live events
+ */
+async function isSportsEvent(type, id, title) {
+
+    const response = await fetch(
+        `https://api.themoviedb.org/3/${type}/${id}?api_key=${API_KEY}&append_to_response=keywords`
+    );
+
+
+    const data = await response.json();
+
+
+    const blockedWords = [
+        "wwe",
+        "wwf",
+        "ufc",
+        "aew",
+        "wrestling",
+        "boxing",
+        "mma",
+        "nfl",
+        "nba",
+        "nhl",
+        "super bowl",
+        "world cup",
+        "formula 1",
+        "f1",
+        "nascar",
+        "motogp",
+        "live event"
+    ];
+
+
+
+    const lowerTitle =
+        title.toLowerCase();
+
+
+
+    const titleMatch =
+        blockedWords.some(
+            word =>
+                lowerTitle.includes(word)
+        );
+
+
+
+    const keywordMatch =
+        data.keywords?.keywords?.some(
+            keyword =>
+                blockedWords.some(
+                    word =>
+                        keyword.name
+                            .toLowerCase()
+                            .includes(word)
+                )
+        );
+
+
+
+    return (
+        titleMatch ||
+        keywordMatch
+    );
+
+}
+
+
+
+/**
  * Get top movies
  */
 async function getTopMovies() {
@@ -234,6 +304,25 @@ async function getTopMovies() {
 
             console.log(
                 "Movie skipped (anime):",
+                movie.title
+            );
+
+            continue;
+
+        }
+
+
+
+        if (
+            await isSportsEvent(
+                "movie",
+                movie.id,
+                movie.title
+            )
+        ) {
+
+            console.log(
+                "Movie skipped (sports event):",
                 movie.title
             );
 
@@ -352,6 +441,25 @@ async function getTopSeries() {
 
             console.log(
                 "Series skipped (anime):",
+                show.name
+            );
+
+            continue;
+
+        }
+
+
+
+        if (
+            await isSportsEvent(
+                "tv",
+                show.id,
+                show.name
+            )
+        ) {
+
+            console.log(
+                "Series skipped (sports event):",
                 show.name
             );
 
