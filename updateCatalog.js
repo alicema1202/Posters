@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 const API_KEY = process.env.TMDB_KEY;
-
+console.log(API_KEY ? "API key loaded" : "Missing key");
 
 async function updateCatalog() {
 
