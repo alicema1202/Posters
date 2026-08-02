@@ -113,7 +113,7 @@ async function getTopSeries() {
 
 
         const response = await fetch(
-            `https://api.themoviedb.org/3/discover/tv?api_key=${API_KEY}&sort_by=popularity.desc&vote_count.gte=100&page=${page}`
+            `https://api.themoviedb.org/3/trending/tv/day?api_key=${API_KEY}`
         );
 
 
