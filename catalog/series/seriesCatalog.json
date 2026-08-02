@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-02T06:39:00.897Z",
+  "updated": "2026-08-02T07:27:19.728Z",
   "metas": [
     {
       "id": "tmdb:125988",
@@ -33,10 +33,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/yQGUvjjyuAhNxaW1Y8lVKjQcLi0.png"
     },
     {
+      "id": "tmdb:296206",
+      "type": "series",
+      "name": "Agent Kim Reactivated",
+      "rank": 4,
+      "poster": "https://alicema1202.github.io/Posters/image/296206.png",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/igR2T1mEVmo0eYiMIZmIPsoPTMM.png"
+    },
+    {
       "id": "tmdb:94997",
       "type": "series",
       "name": "House of the Dragon",
-      "rank": 4,
+      "rank": 5,
       "poster": "https://alicema1202.github.io/Posters/image/94997.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -46,7 +56,7 @@
       "id": "tmdb:60625",
       "type": "series",
       "name": "Rick and Morty",
-      "rank": 5,
+      "rank": 6,
       "poster": "https://alicema1202.github.io/Posters/image/60625.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
@@ -56,21 +66,11 @@
       "id": "tmdb:278624",
       "type": "series",
       "name": "Lucky",
-      "rank": 6,
+      "rank": 7,
       "poster": "https://alicema1202.github.io/Posters/image/278624.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png"
-    },
-    {
-      "id": "tmdb:296206",
-      "type": "series",
-      "name": "Agent Kim Reactivated",
-      "rank": 7,
-      "poster": "https://alicema1202.github.io/Posters/image/296206.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/igR2T1mEVmo0eYiMIZmIPsoPTMM.png"
     },
     {
       "id": "tmdb:287620",
@@ -83,24 +83,24 @@
       "logo": "https://image.tmdb.org/t/p/w500/xW9OE6KMDxModOcrCCTZwFPwJyA.png"
     },
     {
-      "id": "tmdb:287238",
-      "type": "series",
-      "name": "Furious",
-      "rank": 9,
-      "poster": "https://alicema1202.github.io/Posters/image/287238.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png"
-    },
-    {
       "id": "tmdb:8840",
       "type": "series",
       "name": "Fightland",
-      "rank": 10,
+      "rank": 9,
       "poster": "https://alicema1202.github.io/Posters/image/8840.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/qRlOEIiwkfLy6ERRMbyQNGQQ6Lc.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/a0gOfhPiVGjS55HX9aIXInMVXc5.jpg",
       "logo": null
+    },
+    {
+      "id": "tmdb:113962",
+      "type": "series",
+      "name": "Lioness",
+      "rank": 10,
+      "poster": "https://alicema1202.github.io/Posters/image/113962.png",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2P3grUAMSp83H9Z1yLTNDq6zMq5.png"
     }
   ]
 }
