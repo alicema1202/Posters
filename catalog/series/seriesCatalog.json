@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-02T21:46:55.757Z",
+  "updated": "2026-08-02T21:59:15.955Z",
   "metas": [
     {
       "id": "tmdb:113962",
@@ -12,7 +12,7 @@
         "Drama",
         "War & Politics"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/113962.png?v=1785707213885",
+      "poster": "https://alicema1202.github.io/Posters/image/113962.png?v=1785707951908",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "background": "https://image.tmdb.org/t/p/original/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/2P3grUAMSp83H9Z1yLTNDq6zMq5.png"
@@ -27,7 +27,7 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/125988.png?v=1785707213885",
+      "poster": "https://alicema1202.github.io/Posters/image/125988.png?v=1785707951908",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png"
@@ -43,42 +43,42 @@
         "Drama",
         "Action & Adventure"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/94997.png?v=1785707213885",
+      "poster": "https://alicema1202.github.io/Posters/image/94997.png?v=1785707951908",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png"
-    },
-    {
-      "id": "tmdb:125909",
-      "type": "series",
-      "name": "Batman: Caped Crusader",
-      "description": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
-      "rank": 4,
-      "genres": [
-        "Animation",
-        "Crime",
-        "Action & Adventure",
-        "Mystery"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/125909.png?v=1785707213885",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
-      "background": "https://image.tmdb.org/t/p/original/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vBQsA1hLbAcm5H8PI15OKDD1aNK.png"
     },
     {
       "id": "tmdb:277439",
       "type": "series",
       "name": "Cape Fear",
       "description": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-      "rank": 5,
+      "rank": 4,
       "genres": [
         "Crime",
         "Drama"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/277439.png?v=1785707213885",
+      "poster": "https://alicema1202.github.io/Posters/image/277439.png?v=1785707951908",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
       "background": "https://image.tmdb.org/t/p/original/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/yQGUvjjyuAhNxaW1Y8lVKjQcLi0.png"
+    },
+    {
+      "id": "tmdb:125909",
+      "type": "series",
+      "name": "Batman: Caped Crusader",
+      "description": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
+      "rank": 5,
+      "genres": [
+        "Animation",
+        "Crime",
+        "Action & Adventure",
+        "Mystery"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/125909.png?v=1785707951908",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vBQsA1hLbAcm5H8PI15OKDD1aNK.png"
     },
     {
       "id": "tmdb:60625",
@@ -92,27 +92,26 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/60625.png?v=1785707213885",
+      "poster": "https://alicema1202.github.io/Posters/image/60625.png?v=1785707951908",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
       "background": "https://image.tmdb.org/t/p/original/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/wq3wqFLwwqnhG6DxmSji9ehLcx6.png"
     },
     {
-      "id": "tmdb:294095",
+      "id": "tmdb:194583",
       "type": "series",
-      "name": "A Bona Fide Killer",
-      "description": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "name": "The Walking Dead: Dead City",
+      "description": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
       "rank": 7,
       "genres": [
-        "Drama",
         "Action & Adventure",
-        "Mystery",
-        "Crime"
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/294095.png?v=1785707213885",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
-      "background": "https://image.tmdb.org/t/p/original/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6xQDL4hDXOFVaaEaIgFX0gfvXgs.png"
+      "poster": "https://alicema1202.github.io/Posters/image/194583.png?v=1785707951908",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ybJWS5ax2iJjfJ22SwYEYXDXWrB.png"
     },
     {
       "id": "tmdb:296206",
@@ -125,41 +124,42 @@
         "Crime",
         "Drama"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/296206.png?v=1785707213885",
+      "poster": "https://alicema1202.github.io/Posters/image/296206.png?v=1785707951908",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
       "background": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/igR2T1mEVmo0eYiMIZmIPsoPTMM.png"
+    },
+    {
+      "id": "tmdb:294095",
+      "type": "series",
+      "name": "A Bona Fide Killer",
+      "description": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "rank": 9,
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Mystery",
+        "Crime"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/294095.png?v=1785707951908",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
+      "background": "https://image.tmdb.org/t/p/original/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6xQDL4hDXOFVaaEaIgFX0gfvXgs.png"
     },
     {
       "id": "tmdb:287238",
       "type": "series",
       "name": "Furious",
       "description": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-      "rank": 9,
+      "rank": 10,
       "genres": [
         "Drama",
         "Crime"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/287238.png?v=1785707213885",
+      "poster": "https://alicema1202.github.io/Posters/image/287238.png?v=1785707951908",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
       "background": "https://image.tmdb.org/t/p/original/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png"
-    },
-    {
-      "id": "tmdb:194583",
-      "type": "series",
-      "name": "The Walking Dead: Dead City",
-      "description": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
-      "rank": 10,
-      "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/194583.png?v=1785707213885",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-      "background": "https://image.tmdb.org/t/p/original/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ybJWS5ax2iJjfJ22SwYEYXDXWrB.png"
     }
   ]
 }
