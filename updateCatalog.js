@@ -365,6 +365,8 @@ async function getTopMovies() {
             name:
                 movie.title,
 
+            description:
+                movie.overview,
 
             rank:
                 movies.length + 1,
@@ -501,7 +503,9 @@ async function getTopSeries() {
 
             name:
                 show.name,
-
+                
+            description:
+                show.overview,
 
             rank:
                 series.length + 1,
