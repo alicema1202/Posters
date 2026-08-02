@@ -123,8 +123,23 @@ async function getImages(type, id) {
     };
 
 }
+async function getIMDbId(type, id) {
 
+    const response = await fetch(
+        `https://api.themoviedb.org/3/${type}/${id}/external_ids?api_key=${API_KEY}`
+    );
+
+    const data = await response.json();
+
+    return data.imdb_id ?? null;
+
+}
 async function getIMDBRating(imdbId) {
+
+    if (!imdbId) {
+        return null;
+    }
+
     const response = await fetch(
         `https://mdblist.com/api/?apikey=${MDBLIST_KEY}&i=${imdbId}`
     );
@@ -136,7 +151,6 @@ async function getIMDBRating(imdbId) {
     const data = await response.json();
 
     return data.ratings?.imdb ?? null;
-
 }
 
 /**
@@ -306,8 +320,8 @@ async function getTopMovies() {
 
 
     for (const movie of data.results || []) {
-        const imdbRating = await getIMDBRating(movie.imdb_id);
-
+        const imdbId = await getIMDbId("movie", movie.id);
+        const imdbRating = await getIMDBRating(imdbId);
         if (movies.length >= 10) {
             break;
         }
