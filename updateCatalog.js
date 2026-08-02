@@ -6,6 +6,64 @@ const GITHUB_PAGES =
     "https://alicema1202.github.io/Posters/image";
 
 
+let movieGenres = {};
+let tvGenres = {};
+
+
+
+/**
+ * Load TMDB genre mappings
+ */
+async function loadGenres() {
+
+    const movieResponse = await fetch(
+        `https://api.themoviedb.org/3/genre/movie/list?api_key=${API_KEY}`
+    );
+
+    const movieData = await movieResponse.json();
+
+
+    movieData.genres?.forEach(genre => {
+        movieGenres[genre.id] = genre.name;
+    });
+
+
+
+    const tvResponse = await fetch(
+        `https://api.themoviedb.org/3/genre/tv/list?api_key=${API_KEY}`
+    );
+
+
+    const tvData = await tvResponse.json();
+
+
+    tvData.genres?.forEach(genre => {
+        tvGenres[genre.id] = genre.name;
+    });
+
+}
+
+
+
+/**
+ * Convert genre IDs to names
+ */
+function getGenres(type, genreIds) {
+
+    const map =
+        type === "movie"
+            ? movieGenres
+            : tvGenres;
+
+
+    return genreIds
+        ?.map(id => map[id])
+        .filter(Boolean)
+        || [];
+
+}
+
+
 
 /**
  * Get clean backdrop + logo
@@ -16,7 +74,9 @@ async function getImages(type, id) {
         `https://api.themoviedb.org/3/${type}/${id}/images?api_key=${API_KEY}&include_image_language=en,null`
     );
 
+
     const data = await response.json();
+
 
 
     const backdrop =
@@ -31,6 +91,7 @@ async function getImages(type, id) {
             )[0];
 
 
+
     const logo =
         data.logos
             ?.filter(
@@ -42,6 +103,7 @@ async function getImages(type, id) {
                 (a, b) =>
                     b.vote_average - a.vote_average
             )[0];
+
 
 
     return {
@@ -58,13 +120,14 @@ async function getImages(type, id) {
                 : null
 
     };
+
 }
 
 
 
 /**
- * Check movie has US digital release
- * TMDB type 4 = Digital
+ * Check movie digital release
+ * TMDB release type 4 = Digital
  */
 async function hasDigitalRelease(movieId) {
 
@@ -92,12 +155,13 @@ async function hasDigitalRelease(movieId) {
         release =>
             release.type === 4
     );
+
 }
 
 
 
 /**
- * Check TV availability in US
+ * Check TV US availability
  */
 async function hasUSAvailability(showId) {
 
@@ -110,6 +174,7 @@ async function hasUSAvailability(showId) {
 
 
     return !!data.results?.US;
+
 }
 
 
@@ -127,24 +192,20 @@ async function isAnime(type, id) {
     const data = await response.json();
 
 
-    const isJapanese =
-        data.origin_country?.includes("JP");
-
-
-    const isAnimation =
+    return (
+        data.origin_country?.includes("JP") &&
         data.genres?.some(
             genre =>
                 genre.id === 16
-        );
+        )
+    );
 
-
-    return isJapanese && isAnimation;
 }
 
 
 
 /**
- * Get top 10 movies
+ * Get top movies
  */
 async function getTopMovies() {
 
@@ -159,15 +220,8 @@ async function getTopMovies() {
     const data = await response.json();
 
 
-    if (!data.results) {
-        throw new Error(
-            "TMDB movies returned no results"
-        );
-    }
 
-
-
-    for (const movie of data.results) {
+    for (const movie of data.results || []) {
 
 
         if (movies.length >= 10) {
@@ -184,6 +238,7 @@ async function getTopMovies() {
             );
 
             continue;
+
         }
 
 
@@ -196,6 +251,7 @@ async function getTopMovies() {
             );
 
             continue;
+
         }
 
 
@@ -219,8 +275,16 @@ async function getTopMovies() {
             name:
                 movie.title,
 
+
             rank:
                 movies.length + 1,
+
+
+            genres:
+                getGenres(
+                    "movie",
+                    movie.genre_ids
+                ),
 
 
             poster:
@@ -253,12 +317,13 @@ async function getTopMovies() {
 
 
     return movies;
+
 }
 
 
 
 /**
- * Get top 10 series
+ * Get top series
  */
 async function getTopSeries() {
 
@@ -273,15 +338,8 @@ async function getTopSeries() {
     const data = await response.json();
 
 
-    if (!data.results) {
-        throw new Error(
-            "TMDB series returned no results"
-        );
-    }
 
-
-
-    for (const show of data.results) {
+    for (const show of data.results || []) {
 
 
         if (series.length >= 10) {
@@ -298,6 +356,7 @@ async function getTopSeries() {
             );
 
             continue;
+
         }
 
 
@@ -310,6 +369,7 @@ async function getTopSeries() {
             );
 
             continue;
+
         }
 
 
@@ -333,8 +393,16 @@ async function getTopSeries() {
             name:
                 show.name,
 
+
             rank:
                 series.length + 1,
+
+
+            genres:
+                getGenres(
+                    "tv",
+                    show.genre_ids
+                ),
 
 
             poster:
@@ -367,12 +435,13 @@ async function getTopSeries() {
 
 
     return series;
+
 }
 
 
 
 /**
- * Save catalog JSON
+ * Save catalog
  */
 function saveCatalog(path, name, metas) {
 
@@ -396,29 +465,18 @@ function saveCatalog(path, name, metas) {
 
 
 
-    const catalog = {
-
-        name,
-
-        updated:
-            new Date().toISOString(),
-
-        metas
-
-    };
-
-
-
     fs.writeFileSync(
-
         path,
-
         JSON.stringify(
-            catalog,
+            {
+                name,
+                updated:
+                    new Date().toISOString(),
+                metas
+            },
             null,
             2
         )
-
     );
 
 
@@ -426,6 +484,7 @@ function saveCatalog(path, name, metas) {
         "Saved:",
         path
     );
+
 }
 
 
@@ -446,6 +505,10 @@ async function updateCatalog() {
 
 
 
+    await loadGenres();
+
+
+
     const movies =
         await getTopMovies();
 
@@ -453,17 +516,6 @@ async function updateCatalog() {
 
     const series =
         await getTopSeries();
-
-
-
-    console.log(
-        `Movies: ${movies.length}`
-    );
-
-
-    console.log(
-        `Series: ${series.length}`
-    );
 
 
 
@@ -488,6 +540,7 @@ async function updateCatalog() {
     );
 
 }
+
 
 
 updateCatalog();

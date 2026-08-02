@@ -81,6 +81,24 @@ async function generatePoster(item, browser) {
             }
 
 
+            ${
+                item.genres && item.genres.length > 0
+
+                ?
+
+                `
+                <div class="genre">
+                    ${item.genres[0]}
+                </div>
+                `
+
+                :
+
+                ""
+
+            }
+
+
         </div>
 
 

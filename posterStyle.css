@@ -64,26 +64,15 @@ html, body {
 
 
         .rank {
-
             position: absolute;
-
             top: 30px;
-
             left: 30px;
-
-
-            color: white;
-
-
+            color: transparent;
+            background: linear-gradient(to bottom, rgba(255, 255, 255, 0.842), transparent);
+            background-clip: text;
             border-radius: 12px;
-
-            font-size: 100px;
-
+            font-size: 140px;
             font-weight: bold;
-
-            text-shadow:
-                0 2px 8px black;
-
         }
 
 
@@ -92,7 +81,7 @@ html, body {
 
             position: absolute;
 
-            bottom: 80px;
+            bottom: 120px;
 
             left: 50%;
 
@@ -113,7 +102,7 @@ html, body {
 
             position: absolute;
 
-            bottom: 90px;
+            bottom: 120px;
 
             left: 25px;
 
@@ -123,11 +112,22 @@ html, body {
 
             color: white;
 
-            font-size: 40px;
+            font-size: 80px;
 
             font-weight: bold;
 
             text-shadow:
                 0 3px 12px black;
 
+        }
+        .genre {
+            color: rgba(255, 255, 255, 0.533);
+            font-size: 36px;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            bottom: 48px;
+            position: absolute;
+            left: 25px;
+            right: 25px;
+            text-align: center;
         }
