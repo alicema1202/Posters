@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-02T06:27:46.739Z",
+  "updated": "2026-08-02T06:33:06.242Z",
   "metas": [
     {
       "id": "tmdb:125988",
@@ -9,7 +9,7 @@
       "rank": 1,
       "poster": "https://alicema1202.github.io/Posters/image/125988.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png"
     },
     {
@@ -49,7 +49,7 @@
       "rank": 5,
       "poster": "https://alicema1202.github.io/Posters/image/60625.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7P44I3vopSVcImWp1l7ftpC64G6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/wq3wqFLwwqnhG6DxmSji9ehLcx6.png"
     },
     {
@@ -79,7 +79,7 @@
       "rank": 8,
       "poster": "https://alicema1202.github.io/Posters/image/287620.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qyoidDZSojQpFdEYygJMkE0m8gC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/xW9OE6KMDxModOcrCCTZwFPwJyA.png"
     },
     {
@@ -99,7 +99,7 @@
       "rank": 10,
       "poster": "https://alicema1202.github.io/Posters/image/8840.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/qRlOEIiwkfLy6ERRMbyQNGQQ6Lc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mnczDxApNmxx50Q6WUVtdNV5QS6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/a0gOfhPiVGjS55HX9aIXInMVXc5.jpg",
       "logo": null
     }
   ]

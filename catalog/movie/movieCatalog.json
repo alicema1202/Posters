@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-02T06:27:46.739Z",
+  "updated": "2026-08-02T06:33:06.242Z",
   "metas": [
     {
       "id": "tmdb:1307118",
@@ -59,7 +59,7 @@
       "rank": 6,
       "poster": "https://alicema1202.github.io/Posters/image/980431.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/74iiUwzqe2BnRZl7QD4LVQUQKHb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vVzGZ7ghSF1tkeuJP1bMFd3pMdY.png"
     },
     {
@@ -99,7 +99,7 @@
       "rank": 10,
       "poster": "https://alicema1202.github.io/Posters/image/687163.png",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jvqIELbZctv3Jqtcc7Ic5of8vY7.png"
     }
   ]
