@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TMDB Poster Fetcher</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 40px;
+        }
+
+        input {
+            padding: 10px;
+            width: 250px;
+            font-size: 16px;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        img {
+            margin-top: 30px;
+            width: 500px;
+            height: 750px;
+            border-radius: 10px;
+            display: block;
+            object-fit: cover;
+        }
+
+        #error {
+            color: red;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>TMDB Poster Finder</h1>
+
+    <input id="tmdbId" placeholder="Enter TMDB ID">
+    <button onclick="getPoster()">Fetch Poster</button>
+    <p id="list">Hi</p>
+    <img id="poster" alt="Movie Poster">
+    <div id="result"></div>
+    <div id="error"></div>
+
+    <script src="tmdb.js"></script>
+
+</body>
+</html>
