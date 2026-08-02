@@ -15,8 +15,8 @@ async function generatePoster(item, browser) {
 
 
     await page.setViewport({
-        width: 250,
-        height: 375
+        width: 375,
+        height: 562.5
     });
 
 
