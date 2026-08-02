@@ -1,6 +1,6 @@
 {
-  "name": "TMDB Top 25 Series",
-  "updated": "2026-08-02T05:49:16.245Z",
+  "name": "TMDB Top 25 Series Today",
+  "updated": "2026-08-02T05:52:23.327Z",
   "metas": [
     {
       "id": "tmdb:30984",
@@ -24,18 +24,18 @@
       "background": "https://image.tmdb.org/t/p/w1280/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
     },
     {
-      "id": "tmdb:125909",
-      "type": "series",
-      "name": "Batman: Caped Crusader",
-      "poster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg"
-    },
-    {
       "id": "tmdb:294095",
       "type": "series",
       "name": "A Bona Fide Killer",
       "poster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg"
+    },
+    {
+      "id": "tmdb:125909",
+      "type": "series",
+      "name": "Batman: Caped Crusader",
+      "poster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg"
     },
     {
       "id": "tmdb:277439",
@@ -59,18 +59,25 @@
       "background": "https://image.tmdb.org/t/p/w1280/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
     },
     {
-      "id": "tmdb:278624",
-      "type": "series",
-      "name": "Lucky",
-      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg"
-    },
-    {
       "id": "tmdb:60625",
       "type": "series",
       "name": "Rick and Morty",
       "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg"
+    },
+    {
+      "id": "tmdb:289116",
+      "type": "series",
+      "name": "Genius Girlfriend",
+      "poster": "https://image.tmdb.org/t/p/w500/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg"
+    },
+    {
+      "id": "tmdb:278624",
+      "type": "series",
+      "name": "Lucky",
+      "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg"
     },
     {
       "id": "tmdb:296206",
@@ -108,25 +115,11 @@
       "background": "https://image.tmdb.org/t/p/w1280/a0gOfhPiVGjS55HX9aIXInMVXc5.jpg"
     },
     {
-      "id": "tmdb:289116",
-      "type": "series",
-      "name": "Genius Girlfriend",
-      "poster": "https://image.tmdb.org/t/p/w500/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg"
-    },
-    {
       "id": "tmdb:113962",
       "type": "series",
       "name": "Lioness",
       "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg"
-    },
-    {
-      "id": "tmdb:260458",
-      "type": "series",
-      "name": "Adults",
-      "poster": "https://image.tmdb.org/t/p/w500/oJUoRlVXGl3MJb62Ugi1G08GPbx.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6skot5l7gcJd6hO6qlKDGGY6LBJ.jpg"
     },
     {
       "id": "tmdb:103516",
@@ -136,46 +129,18 @@
       "background": "https://image.tmdb.org/t/p/w1280/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg"
     },
     {
-      "id": "tmdb:124364",
+      "id": "tmdb:215072",
       "type": "series",
-      "name": "FROM",
-      "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg"
+      "name": "A Shop for Killers",
+      "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg"
     },
     {
-      "id": "tmdb:30984",
+      "id": "tmdb:260458",
       "type": "series",
-      "name": "Bleach",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
-    },
-    {
-      "id": "tmdb:271016",
-      "type": "series",
-      "name": "Mystic Nine",
-      "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/snExrS3rICUXDsiG7jUV7K6Q0wj.jpg"
-    },
-    {
-      "id": "tmdb:125988",
-      "type": "series",
-      "name": "Silo",
-      "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
-    },
-    {
-      "id": "tmdb:125909",
-      "type": "series",
-      "name": "Batman: Caped Crusader",
-      "poster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg"
-    },
-    {
-      "id": "tmdb:294095",
-      "type": "series",
-      "name": "A Bona Fide Killer",
-      "poster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg"
+      "name": "Adults",
+      "poster": "https://image.tmdb.org/t/p/w500/oJUoRlVXGl3MJb62Ugi1G08GPbx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6skot5l7gcJd6hO6qlKDGGY6LBJ.jpg"
     }
   ]
 }
