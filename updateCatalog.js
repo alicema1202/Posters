@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 const API_KEY = process.env.TMDB_KEY;
-
+const MDBLIST_KEY = process.env.MDBLIST_KEY;
 const GITHUB_PAGES =
     "https://alicema1202.github.io/Posters/image";
 
@@ -124,7 +124,20 @@ async function getImages(type, id) {
 
 }
 
+async function getIMDBRating(imdbId) {
+    const response = await fetch(
+        `https://mdblist.com/api/?apikey=${MDBLIST_KEY}&i=${imdbId}`
+    );
 
+    if (!response.ok) {
+        return null;
+    }
+
+    const data = await response.json();
+
+    return data.ratings?.imdb ?? null;
+
+}
 
 /**
  * Check movie digital release
@@ -291,6 +304,7 @@ async function getTopMovies() {
     const data = await response.json();
 
 
+    const imdbRating = await getIMDBRating(imdbId);
 
     for (const movie of data.results || []) {
 
@@ -378,7 +392,7 @@ async function getTopMovies() {
                     movie.genre_ids
                 ),
 
-
+            imdbRating,
             poster:
                 `${GITHUB_PAGES}/${movie.id}.png?v=${BUILD_TIMESTAMP}`,
 
@@ -503,7 +517,7 @@ async function getTopSeries() {
 
             name:
                 show.name,
-                
+
             description:
                 show.overview,
 
