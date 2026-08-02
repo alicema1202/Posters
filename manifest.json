@@ -23,12 +23,12 @@
         {
             "id": "movieCatalog",
             "type": "movie",
-            "name": "TMDB Top 10 Movies Today"
+            "name": "Top 10 Movies Today"
         },
         {
             "id": "seriesCatalog",
             "type": "series",
-            "name": "TMDB Top 10 Series Today"
+            "name": "Top 10 TV Shows Today"
         }
     ]
 }

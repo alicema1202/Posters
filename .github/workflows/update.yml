@@ -6,28 +6,42 @@ on:
 
   workflow_dispatch:
 
+
 permissions:
   contents: write
 
 
 jobs:
   update:
+
     runs-on: ubuntu-latest
+
 
     steps:
 
       - name: Checkout
         uses: actions/checkout@v5
 
+
       - name: Setup Node
         uses: actions/setup-node@v5
         with:
           node-version: 22
 
-      - name: Run updater
+
+      - name: Install dependencies
+        run: npm install
+
+
+      - name: Update TMDB catalogs
         env:
           TMDB_KEY: ${{ secrets.TMDB_KEY }}
         run: node updateCatalog.js
+
+
+      - name: Generate posters
+        run: node generatePosters.js
+
 
       - name: Commit changes
         run: |
@@ -36,7 +50,8 @@ jobs:
 
           git add catalog/movie/movieCatalog.json
           git add catalog/series/seriesCatalog.json
+          git add image/
 
-          git commit -m "Update TMDB catalog" || exit 0
+          git commit -m "Update TMDB catalog and posters" || exit 0
 
           git push
