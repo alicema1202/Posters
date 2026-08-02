@@ -27,7 +27,7 @@ jobs:
       - name: Run updater
         env:
           TMDB_KEY: ${{ secrets.TMDB_KEY }}
-        run: node updateCatalog.js
+        run: node tmdb.js
 
 
       - name: Commit changes
