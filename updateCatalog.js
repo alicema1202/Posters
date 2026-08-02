@@ -2,16 +2,45 @@ const fs = require("fs");
 
 const API_KEY = process.env.TMDB_KEY;
 
+const GITHUB_PAGES =
+    "https://alicema1202.github.io/Posters/image";
+
+
+async function getImages(type, id) {
+
+    const response = await fetch(
+        `https://api.themoviedb.org/3/${type}/${id}/images?api_key=${API_KEY}&include_image_language=en,null`
+    );
+
+    const data = await response.json();
+
+
+    return {
+
+        backdrop:
+            data.backdrops?.[0]?.file_path
+                ? `https://image.tmdb.org/t/p/w1280${data.backdrops[0].file_path}`
+                : null,
+
+
+        logo:
+            data.logos?.[0]?.file_path
+                ? `https://image.tmdb.org/t/p/w500${data.logos[0].file_path}`
+                : null
+
+    };
+}
+
 
 /**
- * Check if movie has a US digital release
- * TMDB release type 4 = Digital
+ * Check if movie has US digital release
  */
 async function hasDigitalRelease(movieId) {
 
     const response = await fetch(
         `https://api.themoviedb.org/3/movie/${movieId}/release_dates?api_key=${API_KEY}`
     );
+
 
     const data = await response.json();
 
@@ -33,13 +62,14 @@ async function hasDigitalRelease(movieId) {
 
 
 /**
- * Check if TV show has US availability
+ * Check TV US availability
  */
 async function hasUSAvailability(showId) {
 
     const response = await fetch(
         `https://api.themoviedb.org/3/tv/${showId}/watch/providers?api_key=${API_KEY}`
     );
+
 
     const data = await response.json();
 
@@ -53,37 +83,26 @@ async function hasUSAvailability(showId) {
  */
 async function isAnime(type, id) {
 
-    const endpoint =
-        type === "movie"
-            ? "movie"
-            : "tv";
-
-
     const response = await fetch(
-        `https://api.themoviedb.org/3/${endpoint}/${id}?api_key=${API_KEY}`
+        `https://api.themoviedb.org/3/${type}/${id}?api_key=${API_KEY}`
     );
 
 
     const data = await response.json();
 
 
-    const isJapanese =
-        data.origin_country?.includes("JP");
-
-
-    const isAnimation =
+    return (
+        data.origin_country?.includes("JP") &&
         data.genres?.some(
             genre => genre.id === 16
-        );
-
-
-    return isJapanese && isAnimation;
+        )
+    );
 }
 
 
 
 /**
- * Get top 10 movies today
+ * Top 10 Movies
  */
 async function getTopMovies() {
 
@@ -98,14 +117,8 @@ async function getTopMovies() {
     const data = await response.json();
 
 
-    if (!data.results) {
-        throw new Error(
-            "TMDB movies returned no results"
-        );
-    }
+    for (const movie of data.results || []) {
 
-
-    for (const movie of data.results) {
 
         if (movies.length >= 10) {
             break;
@@ -113,44 +126,58 @@ async function getTopMovies() {
 
 
         if (await isAnime("movie", movie.id)) {
-
-            console.log(
-                "Movie skipped (anime):",
-                movie.title
-            );
-
             continue;
         }
 
 
-        if (await hasDigitalRelease(movie.id)) {
+        if (!(await hasDigitalRelease(movie.id))) {
+            continue;
+        }
 
-            console.log(
-                "Movie added:",
-                movie.title
+
+        const images =
+            await getImages(
+                "movie",
+                movie.id
             );
 
 
-            movies.push({
-                id: `tmdb:${movie.id}`,
-                type: "movie",
-                name: movie.title,
-                poster: movie.poster_path
+        movies.push({
+
+            id:
+                `tmdb:${movie.id}`,
+
+            type:
+                "movie",
+
+            name:
+                movie.title,
+
+
+            poster:
+                `${GITHUB_PAGES}/${movie.id}.png`,
+
+
+            tmdbPoster:
+                movie.poster_path
                     ? `https://image.tmdb.org/t/p/w500${movie.poster_path}`
                     : null,
-                background: movie.backdrop_path
-                    ? `https://image.tmdb.org/t/p/w1280${movie.backdrop_path}`
-                    : null
-            });
 
-        } else {
 
-            console.log(
-                "Movie skipped (no digital):",
-                movie.title
-            );
+            backdrop:
+                images.backdrop,
 
-        }
+
+            logo:
+                images.logo
+
+        });
+
+
+        console.log(
+            "Movie added:",
+            movie.title
+        );
     }
 
 
@@ -160,7 +187,7 @@ async function getTopMovies() {
 
 
 /**
- * Get top 10 series today
+ * Top 10 Series
  */
 async function getTopSeries() {
 
@@ -175,14 +202,9 @@ async function getTopSeries() {
     const data = await response.json();
 
 
-    if (!data.results) {
-        throw new Error(
-            "TMDB series returned no results"
-        );
-    }
 
+    for (const show of data.results || []) {
 
-    for (const show of data.results) {
 
         if (series.length >= 10) {
             break;
@@ -190,44 +212,59 @@ async function getTopSeries() {
 
 
         if (await isAnime("tv", show.id)) {
-
-            console.log(
-                "Series skipped (anime):",
-                show.name
-            );
-
             continue;
         }
 
 
-        if (await hasUSAvailability(show.id)) {
+        if (!(await hasUSAvailability(show.id))) {
+            continue;
+        }
 
-            console.log(
-                "Series added:",
-                show.name
+
+        const images =
+            await getImages(
+                "tv",
+                show.id
             );
 
 
-            series.push({
-                id: `tmdb:${show.id}`,
-                type: "series",
-                name: show.name,
-                poster: show.poster_path
+
+        series.push({
+
+            id:
+                `tmdb:${show.id}`,
+
+            type:
+                "series",
+
+            name:
+                show.name,
+
+
+            poster:
+                `${GITHUB_PAGES}/${show.id}.png`,
+
+
+            tmdbPoster:
+                show.poster_path
                     ? `https://image.tmdb.org/t/p/w500${show.poster_path}`
                     : null,
-                background: show.backdrop_path
-                    ? `https://image.tmdb.org/t/p/w1280${show.backdrop_path}`
-                    : null
-            });
 
-        } else {
 
-            console.log(
-                "Series skipped (no US availability):",
-                show.name
-            );
+            backdrop:
+                images.backdrop,
 
-        }
+
+            logo:
+                images.logo
+
+        });
+
+
+        console.log(
+            "Series added:",
+            show.name
+        );
     }
 
 
@@ -237,7 +274,7 @@ async function getTopSeries() {
 
 
 /**
- * Save catalog file
+ * Save JSON
  */
 function saveCatalog(path, name, metas) {
 
@@ -249,26 +286,26 @@ function saveCatalog(path, name, metas) {
 
 
     if (!fs.existsSync(directory)) {
+
         fs.mkdirSync(
             directory,
             {
-                recursive: true
+                recursive:true
             }
         );
+
     }
-
-
-    const catalog = {
-        name,
-        updated: new Date().toISOString(),
-        metas
-    };
 
 
     fs.writeFileSync(
         path,
         JSON.stringify(
-            catalog,
+            {
+                name,
+                updated:
+                    new Date().toISOString(),
+                metas
+            },
             null,
             2
         )
@@ -284,7 +321,7 @@ function saveCatalog(path, name, metas) {
 
 
 /**
- * Main
+ * Run
  */
 async function updateCatalog() {
 
@@ -295,18 +332,13 @@ async function updateCatalog() {
     }
 
 
-    const movies = await getTopMovies();
+    const movies =
+        await getTopMovies();
 
-    const series = await getTopSeries();
 
+    const series =
+        await getTopSeries();
 
-    console.log(
-        `Movies: ${movies.length}`
-    );
-
-    console.log(
-        `Series: ${series.length}`
-    );
 
 
     saveCatalog(
