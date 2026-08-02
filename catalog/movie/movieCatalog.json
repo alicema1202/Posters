@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-02T07:51:59.507Z",
+  "updated": "2026-08-02T17:10:57.247Z",
   "metas": [
     {
       "id": "tmdb:1307118",
@@ -18,10 +18,24 @@
       "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png"
     },
     {
+      "id": "tmdb:1339713",
+      "type": "movie",
+      "name": "Obsession",
+      "rank": 2,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/1339713.png",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png"
+    },
+    {
       "id": "tmdb:1081003",
       "type": "movie",
       "name": "Supergirl",
-      "rank": 2,
+      "rank": 3,
       "genres": [
         "Action",
         "Adventure",
@@ -33,24 +47,24 @@
       "logo": "https://image.tmdb.org/t/p/w500/sOKyZ1al829AnlmjWoghvzXFbQ6.png"
     },
     {
-      "id": "tmdb:1339713",
+      "id": "tmdb:1275779",
       "type": "movie",
-      "name": "Obsession",
-      "rank": 3,
+      "name": "Disclosure Day",
+      "rank": 4,
       "genres": [
-        "Horror",
+        "Science Fiction",
         "Thriller"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/1339713.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png"
+      "poster": "https://alicema1202.github.io/Posters/image/1275779.png",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png"
     },
     {
       "id": "tmdb:1481343",
       "type": "movie",
       "name": "The Devil's Mouth",
-      "rank": 4,
+      "rank": 5,
       "genres": [
         "Horror",
         "Thriller"
@@ -64,7 +78,7 @@
       "id": "tmdb:980431",
       "type": "movie",
       "name": "Avatar Aang: The Last Airbender",
-      "rank": 5,
+      "rank": 6,
       "genres": [
         "Animation",
         "Action",
@@ -80,7 +94,7 @@
       "id": "tmdb:1083381",
       "type": "movie",
       "name": "Backrooms",
-      "rank": 6,
+      "rank": 7,
       "genres": [
         "Horror",
         "Mystery",
@@ -92,39 +106,38 @@
       "logo": "https://image.tmdb.org/t/p/w500/g0PswKqAFJdwGK3d1fKvj8LGnrW.png"
     },
     {
-      "id": "tmdb:1275779",
+      "id": "tmdb:687163",
       "type": "movie",
-      "name": "Disclosure Day",
-      "rank": 7,
-      "genres": [
-        "Science Fiction",
-        "Thriller"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/1275779.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png"
-    },
-    {
-      "id": "tmdb:454639",
-      "type": "movie",
-      "name": "Masters of the Universe",
+      "name": "Project Hail Mary",
       "rank": 8,
       "genres": [
-        "Action",
-        "Fantasy",
-        "Science Fiction"
+        "Science Fiction",
+        "Adventure"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/454639.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aBS0RzFsuKbg7npGADgFEl8bKt2.png"
+      "poster": "https://alicema1202.github.io/Posters/image/687163.png",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jvqIELbZctv3Jqtcc7Ic5of8vY7.png"
+    },
+    {
+      "id": "tmdb:1314481",
+      "type": "movie",
+      "name": "The Devil Wears Prada 2",
+      "rank": 9,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/1314481.png",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v6TyxpV3ZXG28MXTaHCXTmXc0B.png"
     },
     {
       "id": "tmdb:964849",
       "type": "movie",
       "name": "Nightborn",
-      "rank": 9,
+      "rank": 10,
       "genres": [
         "Horror"
       ],
@@ -132,20 +145,6 @@
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/ddMt3IAgEHE0SWBjm97jR8gKx9B.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/qJyv3hguD0K3G5NvzF284tsnKgD.png"
-    },
-    {
-      "id": "tmdb:1741109",
-      "type": "movie",
-      "name": "WWE SummerSlam 2026: Saturday",
-      "rank": 10,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/1741109.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wy3w5vAs00Id06Sm9a8TOvIA4bX.jpg",
-      "backdrop": null,
-      "logo": null
     }
   ]
 }

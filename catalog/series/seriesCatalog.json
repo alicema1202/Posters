@@ -1,12 +1,41 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-02T07:51:59.507Z",
+  "updated": "2026-08-02T17:10:57.248Z",
   "metas": [
+    {
+      "id": "tmdb:113962",
+      "type": "series",
+      "name": "Lioness",
+      "rank": 1,
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/113962.png",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2P3grUAMSp83H9Z1yLTNDq6zMq5.png"
+    },
+    {
+      "id": "tmdb:94997",
+      "type": "series",
+      "name": "House of the Dragon",
+      "rank": 2,
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/94997.png",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png"
+    },
     {
       "id": "tmdb:125988",
       "type": "series",
       "name": "Silo",
-      "rank": 1,
+      "rank": 3,
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
@@ -20,7 +49,7 @@
       "id": "tmdb:125909",
       "type": "series",
       "name": "Batman: Caped Crusader",
-      "rank": 2,
+      "rank": 4,
       "genres": [
         "Animation",
         "Crime",
@@ -36,7 +65,7 @@
       "id": "tmdb:277439",
       "type": "series",
       "name": "Cape Fear",
-      "rank": 3,
+      "rank": 5,
       "genres": [
         "Crime",
         "Drama"
@@ -50,7 +79,7 @@
       "id": "tmdb:296206",
       "type": "series",
       "name": "Agent Kim Reactivated",
-      "rank": 4,
+      "rank": 6,
       "genres": [
         "Action & Adventure",
         "Crime",
@@ -62,25 +91,10 @@
       "logo": "https://image.tmdb.org/t/p/w500/igR2T1mEVmo0eYiMIZmIPsoPTMM.png"
     },
     {
-      "id": "tmdb:94997",
-      "type": "series",
-      "name": "House of the Dragon",
-      "rank": 5,
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/94997.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png"
-    },
-    {
       "id": "tmdb:60625",
       "type": "series",
       "name": "Rick and Morty",
-      "rank": 6,
+      "rank": 7,
       "genres": [
         "Animation",
         "Comedy",
@@ -91,20 +105,6 @@
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/wq3wqFLwwqnhG6DxmSji9ehLcx6.png"
-    },
-    {
-      "id": "tmdb:278624",
-      "type": "series",
-      "name": "Lucky",
-      "rank": 7,
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/278624.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png"
     },
     {
       "id": "tmdb:287620",
@@ -121,32 +121,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/xW9OE6KMDxModOcrCCTZwFPwJyA.png"
     },
     {
-      "id": "tmdb:8840",
+      "id": "tmdb:278624",
       "type": "series",
-      "name": "Fightland",
+      "name": "Lucky",
       "rank": 9,
       "genres": [
-        "Crime",
-        "Drama"
+        "Drama",
+        "Crime"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/8840.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/qRlOEIiwkfLy6ERRMbyQNGQQ6Lc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/a0gOfhPiVGjS55HX9aIXInMVXc5.jpg",
-      "logo": null
+      "poster": "https://alicema1202.github.io/Posters/image/278624.png",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png"
     },
     {
-      "id": "tmdb:113962",
+      "id": "tmdb:287238",
       "type": "series",
-      "name": "Lioness",
+      "name": "Furious",
       "rank": 10,
       "genres": [
         "Drama",
-        "War & Politics"
+        "Crime"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/113962.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2P3grUAMSp83H9Z1yLTNDq6zMq5.png"
+      "poster": "https://alicema1202.github.io/Posters/image/287238.png",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png"
     }
   ]
 }
