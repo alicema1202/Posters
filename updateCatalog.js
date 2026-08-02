@@ -134,14 +134,14 @@ async function getIMDbId(type, id) {
     return data.imdb_id ?? null;
 
 }
-async function getIMDBRating(type, tmdbId) {
+async function getIMDBRating(imdbId) {
 
     const response = await fetch(
-        `https://api.mdblist.com/tmdb/${type}/${tmdbId}?apikey=${MDBLIST_KEY}`
+        `https://api.mdblist.com/?i=${imdbId}&apikey=${MDBLIST_KEY}`
     );
 
     if (!response.ok) {
-        return null;
+        throw new Error(`HTTP ${response.status}`);
     }
 
     const data = await response.json();
