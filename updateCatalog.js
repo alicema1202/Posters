@@ -5,11 +5,12 @@ const API_KEY = process.env.TMDB_KEY;
 
 /**
  * Check if movie has US digital release
+ * TMDB release type 4 = Digital
  */
 async function hasDigitalRelease(movieId) {
 
     const response = await fetch(
-        `https://api.themoviedb.org/3/discover/tv?api_key=${API_KEY}&language=en-US&sort_by=popularity.desc&watch_region=US&vote_count.gte=100&page=${page}`
+        `https://api.themoviedb.org/3/movie/${movieId}/release_dates?api_key=${API_KEY}`
     );
 
     const data = await response.json();
@@ -25,7 +26,6 @@ async function hasDigitalRelease(movieId) {
     }
 
 
-    // TMDB type 4 = Digital
     return usRelease.release_dates.some(
         release => release.type === 4
     );
@@ -34,8 +34,26 @@ async function hasDigitalRelease(movieId) {
 
 
 /**
- * Get top 25 trending movies today
- * Only include movies digitally released in US
+ * Check if TV show is available in US
+ */
+async function hasUSAvailability(showId) {
+
+    const response = await fetch(
+        `https://api.themoviedb.org/3/tv/${showId}/watch/providers?api_key=${API_KEY}`
+    );
+
+
+    const data = await response.json();
+
+
+    return !!data.results?.US;
+}
+
+
+
+/**
+ * Get top 25 movies today
+ * Filters to US digital releases
  */
 async function getTopMovies() {
 
@@ -62,10 +80,7 @@ async function getTopMovies() {
         }
 
 
-        const digital = await hasDigitalRelease(movie.id);
-
-
-        if (digital) {
+        if (await hasDigitalRelease(movie.id)) {
 
             console.log(
                 "Movie added:",
@@ -91,7 +106,6 @@ async function getTopMovies() {
                 "Movie skipped:",
                 movie.title
             );
-
         }
     }
 
@@ -102,12 +116,12 @@ async function getTopMovies() {
 
 
 /**
- * Get top 25 trending TV series today
+ * Get top 25 TV shows today
+ * Filters to US availability
  */
 async function getTopSeries() {
 
     const series = [];
-
 
     const response = await fetch(
         `https://api.themoviedb.org/3/trending/tv/day?api_key=${API_KEY}`
@@ -129,23 +143,37 @@ async function getTopSeries() {
         }
 
 
-        console.log(
-            "Series added:",
-            show.name
-        );
+        const available = await hasUSAvailability(show.id);
 
 
-        series.push({
-            id: `tmdb:${show.id}`,
-            type: "series",
-            name: show.name,
-            poster: show.poster_path
-                ? `https://image.tmdb.org/t/p/w500${show.poster_path}`
-                : null,
-            background: show.backdrop_path
-                ? `https://image.tmdb.org/t/p/w1280${show.backdrop_path}`
-                : null
-        });
+        if (available) {
+
+            console.log(
+                "Series added:",
+                show.name
+            );
+
+
+            series.push({
+                id: `tmdb:${show.id}`,
+                type: "series",
+                name: show.name,
+                poster: show.poster_path
+                    ? `https://image.tmdb.org/t/p/w500${show.poster_path}`
+                    : null,
+                background: show.backdrop_path
+                    ? `https://image.tmdb.org/t/p/w1280${show.backdrop_path}`
+                    : null
+            });
+
+        } else {
+
+            console.log(
+                "Series skipped:",
+                show.name
+            );
+
+        }
     }
 
 
@@ -201,7 +229,7 @@ function saveCatalog(filePath, name, metas) {
 
 
 /**
- * Main
+ * Main updater
  */
 async function updateCatalog() {
 
@@ -216,14 +244,11 @@ async function updateCatalog() {
 
 
     console.log(
-        "Movie count:",
-        movies.length
+        `Movies: ${movies.length}`
     );
 
-
     console.log(
-        "Series count:",
-        series.length
+        `Series: ${series.length}`
     );
 
 
