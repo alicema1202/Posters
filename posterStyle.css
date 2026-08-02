@@ -1,8 +1,8 @@
 html, body {
             margin: 0;
             padding: 0;
-            width: 500px;
-            height: 750px;
+            width: 250px;
+            height: 375px;
             overflow: hidden;
             background: white;
             font-family: "Inter", sans-serif;
@@ -15,6 +15,8 @@ html, body {
             width: 500px;
 
             height: 750px;
+            transform: scale(0.5);
+            transform-origin: top left;
 
         }
 
@@ -51,7 +53,7 @@ html, body {
        
         .rank {
             position: absolute;
-            top: px;
+            top: 25px;
             left: 40px;
             color: transparent;
             background: linear-gradient(to bottom, rgb(229, 229, 229) 55%, rgba(255, 255, 255, 0));
