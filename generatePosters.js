@@ -22,48 +22,147 @@ async function generatePoster(item, browser) {
     const html = `
     <!DOCTYPE html>
     <html>
+
     <head>
+
         <style>
+
             body {
                 margin: 0;
                 width: 500px;
                 height: 750px;
-                background: #111;
-                font-family: Arial, sans-serif;
                 overflow: hidden;
+                background: black;
+                font-family: Arial, sans-serif;
             }
 
-            img {
+
+            .poster {
+
+                position: relative;
+
                 width: 500px;
                 height: 750px;
-                object-fit: cover;
+
+                overflow: hidden;
+
             }
 
-            .title {
+
+            .background {
+
                 position: absolute;
-                bottom: 25px;
-                left: 20px;
-                right: 20px;
+
+                width: 100%;
+                height: 100%;
+
+                object-fit: cover;
+
+            }
+
+
+            .gradient {
+
+                position: absolute;
+
+                width: 100%;
+                height: 100%;
+
+                background:
+                    linear-gradient(
+                        to top,
+                        rgba(0,0,0,0.85),
+                        rgba(0,0,0,0.1) 60%
+                    );
+
+            }
+
+
+            .logo {
+
+                position: absolute;
+
+                bottom: 80px;
+
+                left: 50%;
+
+                transform:
+                    translateX(-50%);
+
+                width: 80%;
+
+                max-height: 180px;
+
+                object-fit: contain;
+
+            }
+
+
+            .title {
+
+                position: absolute;
+
+                bottom: 80px;
+
+                width: 100%;
+
+                text-align: center;
 
                 color: white;
-                font-size: 32px;
+
+                font-size: 38px;
+
                 font-weight: bold;
 
                 text-shadow:
-                    0px 2px 10px black;
+                    0 3px 12px black;
+
             }
+
+
         </style>
+
     </head>
+
 
     <body>
 
-        <img src="${item.originalPoster}" />
 
-        <div class="title">
-            ${item.name}
+        <div class="poster">
+
+
+            <img
+                class="background"
+                src="${item.backdrop || item.tmdbPoster}"
+            />
+
+
+            <div class="gradient"></div>
+
+
+            ${
+                item.logo
+                ?
+                `
+                <img
+                    class="logo"
+                    src="${item.logo}"
+                />
+                `
+                :
+                `
+                <div class="title">
+                    ${item.name}
+                </div>
+                `
+            }
+
+
         </div>
 
+
     </body>
+
     </html>
     `;
 
@@ -110,20 +209,20 @@ async function main() {
     }
 
 
+    const browser =
+        await puppeteer.launch({
 
-    const browser = await puppeteer.launch({
+            headless: true,
 
-        headless: true,
+            executablePath:
+                "/usr/bin/google-chrome",
 
-        executablePath:
-            "/usr/bin/google-chrome",
+            args: [
+                "--no-sandbox",
+                "--disable-setuid-sandbox"
+            ]
 
-        args: [
-            "--no-sandbox",
-            "--disable-setuid-sandbox"
-        ]
-
-    });
+        });
 
 
 
@@ -142,17 +241,8 @@ async function main() {
 
         for (const item of catalog.metas) {
 
-
             await generatePoster(
-                {
-                    ...item,
-
-                    // keep original TMDB poster
-                    // for rendering
-                    originalPoster:
-                        `https://image.tmdb.org/t/p/w500${item.id.replace("tmdb:", "")}`
-                },
-
+                item,
                 browser
             );
 
@@ -161,12 +251,11 @@ async function main() {
     }
 
 
-
     await browser.close();
 
 
     console.log(
-        "All posters generated!"
+        "Finished generating posters!"
     );
 }
 
