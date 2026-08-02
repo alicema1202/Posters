@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-02T07:59:01.948Z",
+  "updated": "2026-08-02T09:07:11.868Z",
   "metas": [
     {
       "id": "tmdb:1307118",
@@ -77,10 +77,24 @@
       "logo": "https://image.tmdb.org/t/p/w500/vVzGZ7ghSF1tkeuJP1bMFd3pMdY.png"
     },
     {
+      "id": "tmdb:1275779",
+      "type": "movie",
+      "name": "Disclosure Day",
+      "rank": 6,
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/1275779.png",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png"
+    },
+    {
       "id": "tmdb:1083381",
       "type": "movie",
       "name": "Backrooms",
-      "rank": 6,
+      "rank": 7,
       "genres": [
         "Horror",
         "Mystery",
@@ -92,37 +106,10 @@
       "logo": "https://image.tmdb.org/t/p/w500/g0PswKqAFJdwGK3d1fKvj8LGnrW.png"
     },
     {
-      "id": "tmdb:1275779",
-      "type": "movie",
-      "name": "Disclosure Day",
-      "rank": 7,
-      "genres": [
-        "Science Fiction",
-        "Thriller"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/1275779.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png"
-    },
-    {
-      "id": "tmdb:964849",
-      "type": "movie",
-      "name": "Nightborn",
-      "rank": 8,
-      "genres": [
-        "Horror"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/964849.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ddMt3IAgEHE0SWBjm97jR8gKx9B.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qJyv3hguD0K3G5NvzF284tsnKgD.png"
-    },
-    {
       "id": "tmdb:1396749",
       "type": "movie",
       "name": "Wild Sing",
-      "rank": 9,
+      "rank": 8,
       "genres": [
         "Comedy",
         "Music"
@@ -133,18 +120,31 @@
       "logo": null
     },
     {
-      "id": "tmdb:1122573",
+      "id": "tmdb:964849",
       "type": "movie",
-      "name": "In the Grey",
+      "name": "Nightborn",
+      "rank": 9,
+      "genres": [
+        "Horror"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/964849.png",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ddMt3IAgEHE0SWBjm97jR8gKx9B.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qJyv3hguD0K3G5NvzF284tsnKgD.png"
+    },
+    {
+      "id": "tmdb:1564614",
+      "type": "movie",
+      "name": "Leviticus",
       "rank": 10,
       "genres": [
-        "Action",
-        "Thriller"
+        "Horror",
+        "Romance"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/1122573.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8F1K9rw0qKogpZ5uL7KcbpJTfou.png"
+      "poster": "https://alicema1202.github.io/Posters/image/1564614.png",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zV3FkR6PX2k3FRDZaLVsjFWgoSt.png"
     }
   ]
 }
