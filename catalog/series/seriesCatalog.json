@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-02T18:14:57.463Z",
+  "updated": "2026-08-02T18:18:38.353Z",
   "metas": [
     {
       "id": "tmdb:113962",
@@ -11,7 +11,7 @@
         "Drama",
         "War & Politics"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/113962.png",
+      "poster": "https://alicema1202.github.io/Posters/image/113962.png?v=1785694717213",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/2P3grUAMSp83H9Z1yLTNDq6zMq5.png"
@@ -26,7 +26,7 @@
         "Drama",
         "Action & Adventure"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/94997.png",
+      "poster": "https://alicema1202.github.io/Posters/image/94997.png?v=1785694717213",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png"
@@ -40,7 +40,7 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/125988.png",
+      "poster": "https://alicema1202.github.io/Posters/image/125988.png?v=1785694717213",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png"
@@ -55,7 +55,7 @@
         "Crime",
         "Drama"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/296206.png",
+      "poster": "https://alicema1202.github.io/Posters/image/296206.png?v=1785694717213",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/igR2T1mEVmo0eYiMIZmIPsoPTMM.png"
@@ -69,7 +69,7 @@
         "Crime",
         "Drama"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/277439.png",
+      "poster": "https://alicema1202.github.io/Posters/image/277439.png?v=1785694717213",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/yQGUvjjyuAhNxaW1Y8lVKjQcLi0.png"
@@ -85,39 +85,23 @@
         "Action & Adventure",
         "Mystery"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/125909.png",
+      "poster": "https://alicema1202.github.io/Posters/image/125909.png?v=1785694717213",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vBQsA1hLbAcm5H8PI15OKDD1aNK.png"
     },
     {
-      "id": "tmdb:294095",
-      "type": "series",
-      "name": "A Bona Fide Killer",
-      "rank": 7,
-      "genres": [
-        "Drama",
-        "Action & Adventure",
-        "Mystery",
-        "Crime"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/294095.png",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6xQDL4hDXOFVaaEaIgFX0gfvXgs.png"
-    },
-    {
       "id": "tmdb:60625",
       "type": "series",
       "name": "Rick and Morty",
-      "rank": 8,
+      "rank": 7,
       "genres": [
         "Animation",
         "Comedy",
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/60625.png",
+      "poster": "https://alicema1202.github.io/Posters/image/60625.png?v=1785694717213",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/wq3wqFLwwqnhG6DxmSji9ehLcx6.png"
@@ -126,12 +110,12 @@
       "id": "tmdb:287620",
       "type": "series",
       "name": "Stuart Fails to Save the Universe",
-      "rank": 9,
+      "rank": 8,
       "genres": [
         "Comedy",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/287620.png",
+      "poster": "https://alicema1202.github.io/Posters/image/287620.png?v=1785694717213",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/xW9OE6KMDxModOcrCCTZwFPwJyA.png"
@@ -140,15 +124,29 @@
       "id": "tmdb:278624",
       "type": "series",
       "name": "Lucky",
-      "rank": 10,
+      "rank": 9,
       "genres": [
         "Drama",
         "Crime"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/278624.png",
+      "poster": "https://alicema1202.github.io/Posters/image/278624.png?v=1785694717213",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png"
+    },
+    {
+      "id": "tmdb:103516",
+      "type": "series",
+      "name": "Star Trek: Strange New Worlds",
+      "rank": 10,
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/103516.png?v=1785694717213",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png"
     }
   ]
 }
