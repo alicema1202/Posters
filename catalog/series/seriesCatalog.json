@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 25 Series Today",
-  "updated": "2026-08-02T05:52:23.327Z",
+  "updated": "2026-08-02T05:57:03.144Z",
   "metas": [
     {
       "id": "tmdb:30984",
@@ -10,25 +10,11 @@
       "background": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
     },
     {
-      "id": "tmdb:271016",
-      "type": "series",
-      "name": "Mystic Nine",
-      "poster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/snExrS3rICUXDsiG7jUV7K6Q0wj.jpg"
-    },
-    {
       "id": "tmdb:125988",
       "type": "series",
       "name": "Silo",
       "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
-    },
-    {
-      "id": "tmdb:294095",
-      "type": "series",
-      "name": "A Bona Fide Killer",
-      "poster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg"
     },
     {
       "id": "tmdb:125909",
@@ -66,13 +52,6 @@
       "background": "https://image.tmdb.org/t/p/w1280/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg"
     },
     {
-      "id": "tmdb:289116",
-      "type": "series",
-      "name": "Genius Girlfriend",
-      "poster": "https://image.tmdb.org/t/p/w500/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg"
-    },
-    {
       "id": "tmdb:278624",
       "type": "series",
       "name": "Lucky",
@@ -92,13 +71,6 @@
       "name": "Stuart Fails to Save the Universe",
       "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg"
-    },
-    {
-      "id": "tmdb:301418",
-      "type": "series",
-      "name": "The Affair Was Just The Beginning",
-      "poster": "https://image.tmdb.org/t/p/w500/96LapGcyjchiustfYnwryB6p7I5.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/463KX5md13Db6pIMCCnIZqtPWFK.jpg"
     },
     {
       "id": "tmdb:287238",
