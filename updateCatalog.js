@@ -4,7 +4,7 @@ const API_KEY = process.env.TMDB_KEY;
 
 
 /**
- * Check if movie has US digital release
+ * Check if movie has a US digital release
  * TMDB release type 4 = Digital
  */
 async function hasDigitalRelease(movieId) {
@@ -32,16 +32,14 @@ async function hasDigitalRelease(movieId) {
 }
 
 
-
 /**
- * Check if TV show is available in US
+ * Check if TV show has US availability
  */
 async function hasUSAvailability(showId) {
 
     const response = await fetch(
         `https://api.themoviedb.org/3/tv/${showId}/watch/providers?api_key=${API_KEY}`
     );
-
 
     const data = await response.json();
 
@@ -50,10 +48,42 @@ async function hasUSAvailability(showId) {
 }
 
 
+/**
+ * Exclude anime
+ */
+async function isAnime(type, id) {
+
+    const endpoint =
+        type === "movie"
+            ? "movie"
+            : "tv";
+
+
+    const response = await fetch(
+        `https://api.themoviedb.org/3/${endpoint}/${id}?api_key=${API_KEY}`
+    );
+
+
+    const data = await response.json();
+
+
+    const isJapanese =
+        data.origin_country?.includes("JP");
+
+
+    const isAnimation =
+        data.genres?.some(
+            genre => genre.id === 16
+        );
+
+
+    return isJapanese && isAnimation;
+}
+
+
 
 /**
  * Get top 25 movies today
- * Filters to US digital releases
  */
 async function getTopMovies() {
 
@@ -69,7 +99,9 @@ async function getTopMovies() {
 
 
     if (!data.results) {
-        throw new Error("TMDB movies returned no results");
+        throw new Error(
+            "TMDB movies returned no results"
+        );
     }
 
 
@@ -77,6 +109,17 @@ async function getTopMovies() {
 
         if (movies.length >= 25) {
             break;
+        }
+
+
+        if (await isAnime("movie", movie.id)) {
+
+            console.log(
+                "Movie skipped (anime):",
+                movie.title
+            );
+
+            continue;
         }
 
 
@@ -103,9 +146,10 @@ async function getTopMovies() {
         } else {
 
             console.log(
-                "Movie skipped:",
+                "Movie skipped (no digital):",
                 movie.title
             );
+
         }
     }
 
@@ -116,12 +160,12 @@ async function getTopMovies() {
 
 
 /**
- * Get top 25 TV shows today
- * Filters to US availability
+ * Get top 25 series today
  */
 async function getTopSeries() {
 
     const series = [];
+
 
     const response = await fetch(
         `https://api.themoviedb.org/3/trending/tv/day?api_key=${API_KEY}`
@@ -132,7 +176,9 @@ async function getTopSeries() {
 
 
     if (!data.results) {
-        throw new Error("TMDB series returned no results");
+        throw new Error(
+            "TMDB series returned no results"
+        );
     }
 
 
@@ -143,10 +189,18 @@ async function getTopSeries() {
         }
 
 
-        const available = await hasUSAvailability(show.id);
+        if (await isAnime("tv", show.id)) {
+
+            console.log(
+                "Series skipped (anime):",
+                show.name
+            );
+
+            continue;
+        }
 
 
-        if (available) {
+        if (await hasUSAvailability(show.id)) {
 
             console.log(
                 "Series added:",
@@ -169,7 +223,7 @@ async function getTopSeries() {
         } else {
 
             console.log(
-                "Series skipped:",
+                "Series skipped (no US availability):",
                 show.name
             );
 
@@ -183,14 +237,15 @@ async function getTopSeries() {
 
 
 /**
- * Save catalog JSON
+ * Save catalog file
  */
-function saveCatalog(filePath, name, metas) {
+function saveCatalog(path, name, metas) {
 
-    const directory = filePath.substring(
-        0,
-        filePath.lastIndexOf("/")
-    );
+    const directory =
+        path.substring(
+            0,
+            path.lastIndexOf("/")
+        );
 
 
     if (!fs.existsSync(directory)) {
@@ -211,7 +266,7 @@ function saveCatalog(filePath, name, metas) {
 
 
     fs.writeFileSync(
-        filePath,
+        path,
         JSON.stringify(
             catalog,
             null,
@@ -222,19 +277,21 @@ function saveCatalog(filePath, name, metas) {
 
     console.log(
         "Saved:",
-        filePath
+        path
     );
 }
 
 
 
 /**
- * Main updater
+ * Main
  */
 async function updateCatalog() {
 
     if (!API_KEY) {
-        throw new Error("Missing TMDB_KEY");
+        throw new Error(
+            "Missing TMDB_KEY"
+        );
     }
 
 
