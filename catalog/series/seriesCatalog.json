@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-02T19:56:19.595Z",
+  "updated": "2026-08-02T21:03:45.011Z",
   "metas": [
     {
       "id": "tmdb:113962",
@@ -12,41 +12,41 @@
         "Drama",
         "War & Politics"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/113962.png?v=1785700575657",
+      "poster": "https://alicema1202.github.io/Posters/image/113962.png?v=1785704622235",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "background": "https://image.tmdb.org/t/p/original/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/2P3grUAMSp83H9Z1yLTNDq6zMq5.png"
-    },
-    {
-      "id": "tmdb:94997",
-      "type": "series",
-      "name": "House of the Dragon",
-      "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "rank": 2,
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/94997.png?v=1785700575657",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png"
     },
     {
       "id": "tmdb:125988",
       "type": "series",
       "name": "Silo",
       "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rank": 3,
+      "rank": 2,
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/125988.png?v=1785700575657",
+      "poster": "https://alicema1202.github.io/Posters/image/125988.png?v=1785704622235",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png"
+    },
+    {
+      "id": "tmdb:94997",
+      "type": "series",
+      "name": "House of the Dragon",
+      "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "rank": 3,
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/94997.png?v=1785704622235",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png"
     },
     {
       "id": "tmdb:125909",
@@ -60,7 +60,7 @@
         "Action & Adventure",
         "Mystery"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/125909.png?v=1785700575657",
+      "poster": "https://alicema1202.github.io/Posters/image/125909.png?v=1785704622235",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
       "background": "https://image.tmdb.org/t/p/original/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vBQsA1hLbAcm5H8PI15OKDD1aNK.png"
@@ -75,24 +75,41 @@
         "Crime",
         "Drama"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/277439.png?v=1785700575657",
+      "poster": "https://alicema1202.github.io/Posters/image/277439.png?v=1785704622235",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
       "background": "https://image.tmdb.org/t/p/original/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/yQGUvjjyuAhNxaW1Y8lVKjQcLi0.png"
+    },
+    {
+      "id": "tmdb:60625",
+      "type": "series",
+      "name": "Rick and Morty",
+      "description": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "rank": 6,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/60625.png?v=1785704622235",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "background": "https://image.tmdb.org/t/p/original/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wq3wqFLwwqnhG6DxmSji9ehLcx6.png"
     },
     {
       "id": "tmdb:294095",
       "type": "series",
       "name": "A Bona Fide Killer",
       "description": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
-      "rank": 6,
+      "rank": 7,
       "genres": [
         "Drama",
         "Action & Adventure",
         "Mystery",
         "Crime"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/294095.png?v=1785700575657",
+      "poster": "https://alicema1202.github.io/Posters/image/294095.png?v=1785704622235",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
       "background": "https://image.tmdb.org/t/p/original/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/6xQDL4hDXOFVaaEaIgFX0gfvXgs.png"
@@ -102,63 +119,47 @@
       "type": "series",
       "name": "Agent Kim Reactivated",
       "description": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "rank": 7,
+      "rank": 8,
       "genres": [
         "Action & Adventure",
         "Crime",
         "Drama"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/296206.png?v=1785700575657",
+      "poster": "https://alicema1202.github.io/Posters/image/296206.png?v=1785704622235",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
       "background": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/igR2T1mEVmo0eYiMIZmIPsoPTMM.png"
     },
     {
-      "id": "tmdb:103516",
+      "id": "tmdb:287238",
       "type": "series",
-      "name": "Star Trek: Strange New Worlds",
-      "description": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-      "rank": 8,
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/103516.png?v=1785700575657",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-      "background": "https://image.tmdb.org/t/p/original/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png"
-    },
-    {
-      "id": "tmdb:278624",
-      "type": "series",
-      "name": "Lucky",
-      "description": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "name": "Furious",
+      "description": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
       "rank": 9,
       "genres": [
         "Drama",
         "Crime"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/278624.png?v=1785700575657",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "background": "https://image.tmdb.org/t/p/original/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png"
+      "poster": "https://alicema1202.github.io/Posters/image/287238.png?v=1785704622235",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png"
     },
     {
-      "id": "tmdb:60625",
+      "id": "tmdb:194583",
       "type": "series",
-      "name": "Rick and Morty",
-      "description": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "name": "The Walking Dead: Dead City",
+      "description": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
       "rank": 10,
       "genres": [
-        "Animation",
-        "Comedy",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/60625.png?v=1785700575657",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "background": "https://image.tmdb.org/t/p/original/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wq3wqFLwwqnhG6DxmSji9ehLcx6.png"
+      "poster": "https://alicema1202.github.io/Posters/image/194583.png?v=1785704622235",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ybJWS5ax2iJjfJ22SwYEYXDXWrB.png"
     }
   ]
 }
