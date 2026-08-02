@@ -134,11 +134,7 @@ async function getIMDbId(type, id) {
     return data.imdb_id ?? null;
 
 }
-async function getIMDBRating(imdbId) {
-
-    if (!imdbId) {
-        return null;
-    }
+async function getIMDBRating(type, tmdbId) {
 
     const response = await fetch(
         `https://api.mdblist.com/tmdb/${type}/${tmdbId}?apikey=${MDBLIST_KEY}`
@@ -325,7 +321,7 @@ async function getTopMovies() {
 
     for (const movie of data.results || []) {
         const imdbId = await getIMDbId("movie", movie.id);
-        const imdbRating = await getIMDBRating(imdbId);
+        const imdbRating = await getIMDBRating("movie", imdbId);
         if (movies.length >= 10) {
             break;
         }
