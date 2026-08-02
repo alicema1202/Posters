@@ -141,7 +141,7 @@ async function getIMDBRating(imdbId) {
     }
 
     const response = await fetch(
-        `https://mdblist.com/api/?apikey=${MDBLIST_KEY}&i=${imdbId}`
+        `https://api.mdblist.com/tmdb/${type}/${tmdbId}?apikey=${MDBLIST_KEY}`
     );
 
     if (!response.ok) {
@@ -150,7 +150,11 @@ async function getIMDBRating(imdbId) {
 
     const data = await response.json();
 
-    return data.ratings?.imdb ?? null;
+    const imdb = data.ratings?.find(
+        rating => rating.source === "imdb"
+    );
+
+    return imdb?.value ?? null;
 }
 
 /**
