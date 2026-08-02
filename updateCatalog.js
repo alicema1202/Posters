@@ -1,11 +1,8 @@
 const fs = require("fs");
 
 const API_KEY = process.env.TMDB_KEY;
-console.log(API_KEY ? "API key loaded" : "Missing key");
-const data = await response.json();
 
-console.log("TMDB response:");
-console.log(JSON.stringify(data, null, 2));
+
 async function updateCatalog() {
 
     if (!API_KEY) {
@@ -18,7 +15,17 @@ async function updateCatalog() {
     );
 
 
+    console.log("Status:", response.status);
+
+
     const data = await response.json();
+
+    console.log(JSON.stringify(data, null, 2));
+
+
+    if (!data.results) {
+        throw new Error("TMDB did not return results");
+    }
 
 
     const movies = data.results
@@ -28,14 +35,11 @@ async function updateCatalog() {
             type: "movie",
             name: movie.title,
             poster:
-              `https://image.tmdb.org/t/p/w500${movie.poster_path}`,
-            background:
-              `https://image.tmdb.org/t/p/w1280${movie.backdrop_path}`
+                `https://image.tmdb.org/t/p/w500${movie.poster_path}`
         }));
 
 
     const catalog = {
-        id: "tmdb-top25",
         name: "TMDB Top 25 Movies",
         updated: new Date().toISOString(),
         metas: movies
@@ -46,6 +50,7 @@ async function updateCatalog() {
         "catalog/movieCatalog.json",
         JSON.stringify(catalog, null, 2)
     );
+
 
     console.log("Catalog updated!");
 }
