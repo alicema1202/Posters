@@ -64,12 +64,12 @@ html, body {
             top: 30px;
             left: 40px;
             color: transparent;
-            background: linear-gradient(to bottom, rgb(255, 255, 255) 50%, rgba(255, 255, 255, 0));
+            background: linear-gradient(to bottom, rgba(255, 255, 255, 0.887) 50%, rgba(255, 255, 255, 0));
             background-clip: text;
             border-radius: 12px;
             font-size: 130px;
             font-weight: bold;
-            filter: drop-shadow(1px 1px 10px rgba(0, 0, 0, 0.569));
+            filter: drop-shadow(1px 1px 10px rgba(0, 0, 0, 0.569)) blur(1px);
         }
 
 
