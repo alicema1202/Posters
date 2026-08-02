@@ -111,7 +111,7 @@ async function getImages(type, id) {
 
         backdrop:
             backdrop?.file_path
-                ? `https://image.tmdb.org/t/p/w1280${backdrop.file_path}`
+                ? `https://image.tmdb.org/t/p/original${backdrop.file_path}`
                 : null,
 
 
