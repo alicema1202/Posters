@@ -6,8 +6,9 @@ const GITHUB_PAGES =
     "https://alicema1202.github.io/Posters/image";
 
 
+
 /**
- * Get TMDB images
+ * Get clean backdrop + logo
  */
 async function getImages(type, id) {
 
@@ -18,17 +19,42 @@ async function getImages(type, id) {
     const data = await response.json();
 
 
+    const backdrop =
+        data.backdrops
+            ?.filter(
+                image =>
+                    image.iso_639_1 === null
+            )
+            ?.sort(
+                (a, b) =>
+                    b.vote_average - a.vote_average
+            )[0];
+
+
+    const logo =
+        data.logos
+            ?.filter(
+                image =>
+                    image.iso_639_1 === "en" ||
+                    image.iso_639_1 === null
+            )
+            ?.sort(
+                (a, b) =>
+                    b.vote_average - a.vote_average
+            )[0];
+
+
     return {
 
         backdrop:
-            data.backdrops?.[0]?.file_path
-                ? `https://image.tmdb.org/t/p/w1280${data.backdrops[0].file_path}`
+            backdrop?.file_path
+                ? `https://image.tmdb.org/t/p/w1280${backdrop.file_path}`
                 : null,
 
 
         logo:
-            data.logos?.[0]?.file_path
-                ? `https://image.tmdb.org/t/p/w500${data.logos[0].file_path}`
+            logo?.file_path
+                ? `https://image.tmdb.org/t/p/w500${logo.file_path}`
                 : null
 
     };
@@ -37,8 +63,8 @@ async function getImages(type, id) {
 
 
 /**
- * Check movie digital release
- * TMDB release type 4 = Digital
+ * Check movie has US digital release
+ * TMDB type 4 = Digital
  */
 async function hasDigitalRelease(movieId) {
 
@@ -71,7 +97,7 @@ async function hasDigitalRelease(movieId) {
 
 
 /**
- * Check US TV availability
+ * Check TV availability in US
  */
 async function hasUSAvailability(showId) {
 
@@ -135,7 +161,7 @@ async function getTopMovies() {
 
     if (!data.results) {
         throw new Error(
-            "TMDB movie results missing"
+            "TMDB movies returned no results"
         );
     }
 
@@ -147,6 +173,7 @@ async function getTopMovies() {
         if (movies.length >= 10) {
             break;
         }
+
 
 
         if (await isAnime("movie", movie.id)) {
@@ -216,6 +243,7 @@ async function getTopMovies() {
         });
 
 
+
         console.log(
             `Movie #${movies.length}:`,
             movie.title
@@ -247,7 +275,7 @@ async function getTopSeries() {
 
     if (!data.results) {
         throw new Error(
-            "TMDB series results missing"
+            "TMDB series returned no results"
         );
     }
 
@@ -305,7 +333,6 @@ async function getTopSeries() {
             name:
                 show.name,
 
-
             rank:
                 series.length + 1,
 
@@ -330,6 +357,7 @@ async function getTopSeries() {
         });
 
 
+
         console.log(
             `Series #${series.length}:`,
             show.name
@@ -344,10 +372,9 @@ async function getTopSeries() {
 
 
 /**
- * Save catalog
+ * Save catalog JSON
  */
 function saveCatalog(path, name, metas) {
-
 
     const directory =
         path.substring(
@@ -361,11 +388,24 @@ function saveCatalog(path, name, metas) {
         fs.mkdirSync(
             directory,
             {
-                recursive:true
+                recursive: true
             }
         );
 
     }
+
+
+
+    const catalog = {
+
+        name,
+
+        updated:
+            new Date().toISOString(),
+
+        metas
+
+    };
 
 
 
@@ -374,15 +414,8 @@ function saveCatalog(path, name, metas) {
         path,
 
         JSON.stringify(
-            {
-                name,
-                updated:
-                    new Date().toISOString(),
-                metas
-            },
-
+            catalog,
             null,
-
             2
         )
 
@@ -424,12 +457,12 @@ async function updateCatalog() {
 
 
     console.log(
-        `Movies generated: ${movies.length}`
+        `Movies: ${movies.length}`
     );
 
 
     console.log(
-        `Series generated: ${series.length}`
+        `Series: ${series.length}`
     );
 
 
