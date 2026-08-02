@@ -1,8 +1,8 @@
 {
     "id": "my.first.stremio.add-on",
     "version": "1.0.0",
-    "name": "Hello, World",
-    "description": "My first Stremio add-on",
+    "name": "Top 10 Today",
+    "description": "Movies + Shows",
     "logo": "https://www.stremio.com/website/stremio-logo-small.png",
 
     "resources": [

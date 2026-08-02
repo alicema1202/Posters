@@ -1,5 +1,5 @@
 const fs = require("fs");
-
+const BUILD_TIMESTAMP = Date.now();
 const API_KEY = process.env.TMDB_KEY;
 
 const GITHUB_PAGES =
