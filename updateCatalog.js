@@ -9,7 +9,7 @@ const API_KEY = process.env.TMDB_KEY;
 async function hasDigitalRelease(movieId) {
 
     const response = await fetch(
-        `https://api.themoviedb.org/3/movie/${movieId}/release_dates?api_key=${API_KEY}`
+        `https://api.themoviedb.org/3/discover/tv?api_key=${API_KEY}&language=en-US&sort_by=popularity.desc&watch_region=US&vote_count.gte=100&page=${page}`
     );
 
     const data = await response.json();
