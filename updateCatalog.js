@@ -47,7 +47,7 @@ async function updateCatalog() {
 
 
     fs.writeFileSync(
-        "catalog/movieCatalog.json",
+        "catalog/movie/movieCatalog.json",
         JSON.stringify(catalog, null, 2)
     );
 
