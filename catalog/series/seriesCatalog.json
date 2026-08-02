@@ -1,14 +1,7 @@
 {
   "name": "TMDB Top 25 Series Today",
-  "updated": "2026-08-02T05:57:03.144Z",
+  "updated": "2026-08-02T05:59:10.776Z",
   "metas": [
-    {
-      "id": "tmdb:30984",
-      "type": "series",
-      "name": "Bleach",
-      "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
-    },
     {
       "id": "tmdb:125988",
       "type": "series",
@@ -29,13 +22,6 @@
       "name": "Cape Fear",
       "poster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/maOzDEEudq82nN9lRTumrGo9MvJ.jpg"
-    },
-    {
-      "id": "tmdb:37854",
-      "type": "series",
-      "name": "One Piece",
-      "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg"
     },
     {
       "id": "tmdb:94997",
