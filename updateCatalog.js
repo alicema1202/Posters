@@ -1,5 +1,5 @@
 const fs = require("fs");
-const BUILD_TIMESTAMP = Date.now();
+
 const API_KEY = process.env.TMDB_KEY;
 
 const GITHUB_PAGES =
@@ -377,7 +377,7 @@ async function getTopMovies() {
 
 
             poster:
-                `${GITHUB_PAGES}/${movie.id}.png?v=${BUILD_TIMESTAMP}`,
+                `${GITHUB_PAGES}/${movie.id}.png`,
 
 
             tmdbPoster:
@@ -386,7 +386,7 @@ async function getTopMovies() {
                     : null,
 
 
-            backdrop:
+            background:
                 images.backdrop,
 
 
@@ -514,7 +514,7 @@ async function getTopSeries() {
 
 
             poster:
-                `${GITHUB_PAGES}/${show.id}.png?v=${BUILD_TIMESTAMP}`,
+                `${GITHUB_PAGES}/${show.id}.png`,
 
 
             tmdbPoster:
@@ -523,7 +523,7 @@ async function getTopSeries() {
                     : null,
 
 
-            backdrop:
+            background:
                 images.backdrop,
 
 
