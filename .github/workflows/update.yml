@@ -33,6 +33,7 @@ jobs:
       - name: Run catalog updater
         env:
           TMDB_KEY: ${{ secrets.TMDB_KEY }}
+          OMDB_KEY: ${{ secrets.OMDB_KEY }}
         run: node updateCatalog.js
 
 
