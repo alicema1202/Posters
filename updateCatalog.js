@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 const API_KEY = process.env.TMDB_KEY;
-const MDBLIST_KEY = process.env.MDBLIST_KEY;
+const OMDB_KEY = process.env.OMDB_KEY;
 const GITHUB_PAGES =
     "https://alicema1202.github.io/Posters/image";
 
@@ -134,10 +134,10 @@ async function getIMDbId(type, id) {
     return data.imdb_id ?? null;
 
 }
-async function getIMDBRating(tmdbId) {
+async function getIMDBRating(imdbId) {
 
     const response = await fetch(
-        `https://api.mdblist.com/?i=${tmdbId}&apikey=${MDBLIST_KEY}`
+        `https://www.omdbapi.com/?i=${imdbId}&apikey=${OMDB_KEY}`
     );
 
     if (!response.ok) {
@@ -146,11 +146,9 @@ async function getIMDBRating(tmdbId) {
 
     const data = await response.json();
 
-    const imdb = data.ratings?.find(
-        rating => rating.source === "imdb"
-    );
+    const imdb = data.imdbRating;
 
-    return imdb?.value ?? null;
+    return imdb ?? null;
 }
 
 /**
