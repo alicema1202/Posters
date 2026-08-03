@@ -458,8 +458,8 @@ async function getTopSeries() {
 
 
     for (const show of data.results || []) {
-
-
+        const imdbId = await getIMDbId("tv", show.id);
+        const imdbRating = await getIMDBRating(imdbId);
         if (series.length >= 10) {
             break;
         }
@@ -536,7 +536,8 @@ async function getTopSeries() {
             rank:
                 series.length + 1,
 
-
+            imdbRating: imdbRating,
+            imdbId: imdbId,
             genres:
                 getGenres(
                     "tv",
