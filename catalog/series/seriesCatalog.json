@@ -1,40 +1,41 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-03T00:18:30.945Z",
+  "updated": "2026-08-04T09:37:35.281Z",
   "metas": [
+    {
+      "id": "tmdb:615",
+      "type": "series",
+      "name": "Futurama",
+      "description": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "rank": 1,
+      "imdbRating": "8.5",
+      "imdbId": "tt0149460",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/615.png?v=1785836241034",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6jNQtbazLLAu5gLzW46FP8EGePb.png"
+    },
     {
       "id": "tmdb:113962",
       "type": "series",
       "name": "Lioness",
       "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "rank": 1,
+      "rank": 2,
       "imdbRating": "7.8",
       "imdbId": "tt13111078",
       "genres": [
         "Drama",
         "War & Politics"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/113962.png?v=1785716307950",
+      "poster": "https://alicema1202.github.io/Posters/image/113962.png?v=1785836241034",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "background": "https://image.tmdb.org/t/p/original/3Udwq6W7y4AIsuJDXV2YwowZ1gQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2P3grUAMSp83H9Z1yLTNDq6zMq5.png"
-    },
-    {
-      "id": "tmdb:125988",
-      "type": "series",
-      "name": "Silo",
-      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rank": 2,
-      "imdbRating": "8.1",
-      "imdbId": "tt14688458",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/125988.png?v=1785716307950",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png"
+      "background": "https://image.tmdb.org/t/p/original/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png"
     },
     {
       "id": "tmdb:94997",
@@ -49,36 +50,102 @@
         "Drama",
         "Action & Adventure"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/94997.png?v=1785716307950",
+      "poster": "https://alicema1202.github.io/Posters/image/94997.png?v=1785836241034",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png"
     },
     {
-      "id": "tmdb:125909",
+      "id": "tmdb:125988",
       "type": "series",
-      "name": "Batman: Caped Crusader",
-      "description": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
+      "name": "Silo",
+      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "rank": 4,
-      "imdbRating": "7.2",
-      "imdbId": "tt14681596",
+      "imdbRating": "8.1",
+      "imdbId": "tt14688458",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/125988.png?v=1785836241034",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png"
+    },
+    {
+      "id": "tmdb:296756",
+      "type": "series",
+      "name": "President Curtis",
+      "description": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
+      "rank": 5,
+      "imdbRating": "N/A",
+      "imdbId": "tt37692332",
       "genres": [
         "Animation",
-        "Crime",
-        "Action & Adventure",
-        "Mystery"
+        "Comedy"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/125909.png?v=1785716307950",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
-      "background": "https://image.tmdb.org/t/p/original/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vBQsA1hLbAcm5H8PI15OKDD1aNK.png"
+      "poster": "https://alicema1202.github.io/Posters/image/296756.png?v=1785836241034",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oA1orEp9XUfZRfhX4d5bWjJGuAk.png"
+    },
+    {
+      "id": "tmdb:287238",
+      "type": "series",
+      "name": "Furious",
+      "description": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+      "rank": 6,
+      "imdbRating": "N/A",
+      "imdbId": "tt36303968",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/287238.png?v=1785836241034",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png"
+    },
+    {
+      "id": "tmdb:277439",
+      "type": "series",
+      "name": "Cape Fear",
+      "description": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
+      "rank": 7,
+      "imdbRating": "6.9",
+      "imdbId": "tt34675596",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/277439.png?v=1785836241034",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yQGUvjjyuAhNxaW1Y8lVKjQcLi0.png"
+    },
+    {
+      "id": "tmdb:97546",
+      "type": "series",
+      "name": "Ted Lasso",
+      "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "rank": 8,
+      "imdbRating": "8.7",
+      "imdbId": "tt10986410",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster": "https://alicema1202.github.io/Posters/image/97546.png?v=1785836241034",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png"
     },
     {
       "id": "tmdb:60625",
       "type": "series",
       "name": "Rick and Morty",
       "description": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "rank": 5,
+      "rank": 9,
       "imdbRating": "9.0",
       "imdbId": "tt2861424",
       "genres": [
@@ -87,99 +154,29 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/60625.png?v=1785716307950",
+      "poster": "https://alicema1202.github.io/Posters/image/60625.png?v=1785836241034",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "background": "https://image.tmdb.org/t/p/original/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/wq3wqFLwwqnhG6DxmSji9ehLcx6.png"
     },
     {
-      "id": "tmdb:277439",
+      "id": "tmdb:125909",
       "type": "series",
-      "name": "Cape Fear",
-      "description": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-      "rank": 6,
-      "imdbRating": "6.9",
-      "imdbId": "tt34675596",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/277439.png?v=1785716307950",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-      "background": "https://image.tmdb.org/t/p/original/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yQGUvjjyuAhNxaW1Y8lVKjQcLi0.png"
-    },
-    {
-      "id": "tmdb:194583",
-      "type": "series",
-      "name": "The Walking Dead: Dead City",
-      "description": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
-      "rank": 7,
-      "imdbRating": "7.0",
-      "imdbId": "tt18546730",
-      "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/194583.png?v=1785716307950",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-      "background": "https://image.tmdb.org/t/p/original/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ybJWS5ax2iJjfJ22SwYEYXDXWrB.png"
-    },
-    {
-      "id": "tmdb:296206",
-      "type": "series",
-      "name": "Agent Kim Reactivated",
-      "description": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "rank": 8,
-      "imdbRating": "8.1",
-      "imdbId": "tt42127457",
-      "genres": [
-        "Action & Adventure",
-        "Crime",
-        "Drama"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/296206.png?v=1785716307950",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
-      "background": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/igR2T1mEVmo0eYiMIZmIPsoPTMM.png"
-    },
-    {
-      "id": "tmdb:294095",
-      "type": "series",
-      "name": "A Bona Fide Killer",
-      "description": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
-      "rank": 9,
-      "imdbRating": null,
-      "imdbId": "tt43616775",
-      "genres": [
-        "Drama",
-        "Action & Adventure",
-        "Mystery",
-        "Crime"
-      ],
-      "poster": "https://alicema1202.github.io/Posters/image/294095.png?v=1785716307950",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
-      "background": "https://image.tmdb.org/t/p/original/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6xQDL4hDXOFVaaEaIgFX0gfvXgs.png"
-    },
-    {
-      "id": "tmdb:287238",
-      "type": "series",
-      "name": "Furious",
-      "description": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+      "name": "Batman: Caped Crusader",
+      "description": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
       "rank": 10,
-      "imdbRating": "N/A",
-      "imdbId": "tt36303968",
+      "imdbRating": "7.2",
+      "imdbId": "tt14681596",
       "genres": [
-        "Drama",
-        "Crime"
+        "Animation",
+        "Crime",
+        "Action & Adventure",
+        "Mystery"
       ],
-      "poster": "https://alicema1202.github.io/Posters/image/287238.png?v=1785716307950",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "background": "https://image.tmdb.org/t/p/original/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png"
+      "poster": "https://alicema1202.github.io/Posters/image/125909.png?v=1785836241034",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vBQsA1hLbAcm5H8PI15OKDD1aNK.png"
     }
   ]
 }

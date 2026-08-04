@@ -1,102 +1,82 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-03T00:18:30.945Z",
+  "updated": "2026-08-04T09:37:35.280Z",
   "metas": [
+    {
+      "id": "tmdb:1212763",
+      "type": "movie",
+      "name": "Evil Dead Burn",
+      "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+      "rank": 1,
+      "genres": [
+        "Horror"
+      ],
+      "imdbRating": "N/A",
+      "imdbId": "tt31170389",
+      "poster": "https://alicema1202.github.io/Posters/image/1212763.png?v=1785836241034",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/amg20eTtFmSFU53hVWtpIHTzbGP.png"
+    },
     {
       "id": "tmdb:1339713",
       "type": "movie",
       "name": "Obsession",
       "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rank": 1,
+      "rank": 2,
       "genres": [
         "Horror",
         "Thriller"
       ],
-      "imdbRating": "8.0",
+      "imdbRating": "7.9",
       "imdbId": "tt37287335",
-      "poster": "https://alicema1202.github.io/Posters/image/1339713.png?v=1785716307950",
+      "poster": "https://alicema1202.github.io/Posters/image/1339713.png?v=1785836241034",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "background": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png"
+    },
+    {
+      "id": "tmdb:1307118",
+      "type": "movie",
+      "name": "Soulm8te",
+      "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+      "rank": 3,
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdbRating": "N/A",
+      "imdbId": "tt32654916",
+      "poster": "https://alicema1202.github.io/Posters/image/1307118.png?v=1785836241034",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png"
     },
     {
       "id": "tmdb:1081003",
       "type": "movie",
       "name": "Supergirl",
       "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "rank": 2,
+      "rank": 4,
       "genres": [
         "Action",
         "Adventure",
         "Science Fiction"
       ],
-      "imdbRating": "6.1",
+      "imdbRating": "5.9",
       "imdbId": "tt8814476",
-      "poster": "https://alicema1202.github.io/Posters/image/1081003.png?v=1785716307950",
+      "poster": "https://alicema1202.github.io/Posters/image/1081003.png?v=1785836241034",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "background": "https://image.tmdb.org/t/p/original/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/sOKyZ1al829AnlmjWoghvzXFbQ6.png"
-    },
-    {
-      "id": "tmdb:1307118",
-      "type": "movie",
-      "name": "Soulm8te",
-      "description": "After a ruthless tech giant acquires his company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to program her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-      "rank": 3,
-      "genres": [
-        "Thriller",
-        "Science Fiction",
-        "Horror"
-      ],
-      "imdbRating": "N/A",
-      "imdbId": "tt32654916",
-      "poster": "https://alicema1202.github.io/Posters/image/1307118.png?v=1785716307950",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-      "background": "https://image.tmdb.org/t/p/original/pWokAXaDOg4Rc5YLE6oW60myIl7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png"
-    },
-    {
-      "id": "tmdb:1275779",
-      "type": "movie",
-      "name": "Disclosure Day",
-      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "rank": 4,
-      "genres": [
-        "Science Fiction",
-        "Thriller"
-      ],
-      "imdbRating": "6.7",
-      "imdbId": "tt15047880",
-      "poster": "https://alicema1202.github.io/Posters/image/1275779.png?v=1785716307950",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "background": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png"
-    },
-    {
-      "id": "tmdb:980431",
-      "type": "movie",
-      "name": "Avatar Aang: The Last Airbender",
-      "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "rank": 5,
-      "genres": [
-        "Animation",
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "imdbRating": "N/A",
-      "imdbId": "tt18259538",
-      "poster": "https://alicema1202.github.io/Posters/image/980431.png?v=1785716307950",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "background": "https://image.tmdb.org/t/p/original/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vVzGZ7ghSF1tkeuJP1bMFd3pMdY.png"
     },
     {
       "id": "tmdb:1083381",
       "type": "movie",
       "name": "Backrooms",
       "description": "A strange doorway appears in the basement of a furniture showroom.",
-      "rank": 6,
+      "rank": 5,
       "genres": [
         "Horror",
         "Mystery",
@@ -104,7 +84,7 @@
       ],
       "imdbRating": "7.0",
       "imdbId": "tt26657236",
-      "poster": "https://alicema1202.github.io/Posters/image/1083381.png?v=1785716307950",
+      "poster": "https://alicema1202.github.io/Posters/image/1083381.png?v=1785836241034",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "background": "https://image.tmdb.org/t/p/original/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/g0PswKqAFJdwGK3d1fKvj8LGnrW.png"
@@ -114,68 +94,88 @@
       "type": "movie",
       "name": "The Devil's Mouth",
       "description": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
-      "rank": 7,
+      "rank": 6,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "imdbRating": "N/A",
       "imdbId": "tt36958312",
-      "poster": "https://alicema1202.github.io/Posters/image/1481343.png?v=1785716307950",
+      "poster": "https://alicema1202.github.io/Posters/image/1481343.png?v=1785836241034",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-      "background": "https://image.tmdb.org/t/p/original/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg",
+      "background": "https://image.tmdb.org/t/p/original/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/tICAPKYhZHtit6ofppC2ieEzhdp.png"
     },
     {
-      "id": "tmdb:1314481",
+      "id": "tmdb:1275779",
       "type": "movie",
-      "name": "The Devil Wears Prada 2",
-      "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "rank": 8,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "imdbRating": "6.5",
-      "imdbId": "tt33612209",
-      "poster": "https://alicema1202.github.io/Posters/image/1314481.png?v=1785716307950",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "background": "https://image.tmdb.org/t/p/original/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v6TyxpV3ZXG28MXTaHCXTmXc0B.png"
-    },
-    {
-      "id": "tmdb:687163",
-      "type": "movie",
-      "name": "Project Hail Mary",
-      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rank": 9,
+      "name": "Disclosure Day",
+      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "rank": 7,
       "genres": [
         "Science Fiction",
-        "Adventure"
+        "Thriller"
       ],
-      "imdbRating": "8.2",
-      "imdbId": "tt12042730",
-      "poster": "https://alicema1202.github.io/Posters/image/687163.png?v=1785716307950",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jvqIELbZctv3Jqtcc7Ic5of8vY7.png"
+      "imdbRating": "6.5",
+      "imdbId": "tt15047880",
+      "poster": "https://alicema1202.github.io/Posters/image/1275779.png?v=1785836241034",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "background": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png"
     },
     {
-      "id": "tmdb:1564614",
+      "id": "tmdb:1740877",
       "type": "movie",
-      "name": "Leviticus",
-      "description": "Two teenage boys must escape a violent entity that takes the form of the person they desire most — each other.",
+      "name": "Storm on Sesame Street",
+      "description": "In the Storm on Sesame Street special, Elmo and his friends work together to get ready for a big storm, learning how to be prepared, have courage, and calm their bodies and minds when things feel scary. After the storm passes, Sesame Street looks different, and everyone pitches in to help their neighbors rebuild their homes. With the help of the neighborhood, including celebrity guests Post Malone and Michelle Buteau, Elmo and Abby set out to make a difference, and discover that small acts of kindness, and support from friends, can make the biggest difference of all.",
+      "rank": 8,
+      "genres": [
+        "Family",
+        "Animation"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt43729889",
+      "poster": "https://alicema1202.github.io/Posters/image/1740877.png?v=1785836241034",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ewuZpFd7zoB8xCtwlRGUU3E599s.jpg",
+      "logo": null
+    },
+    {
+      "id": "tmdb:980431",
+      "type": "movie",
+      "name": "Avatar Aang: The Last Airbender",
+      "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "rank": 9,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "imdbRating": "N/A",
+      "imdbId": "tt18259538",
+      "poster": "https://alicema1202.github.io/Posters/image/980431.png?v=1785836241034",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qPNG2riEQLBknaa20RhUCr8QtWA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vVzGZ7ghSF1tkeuJP1bMFd3pMdY.png"
+    },
+    {
+      "id": "tmdb:1284465",
+      "type": "movie",
+      "name": "The Death of Robin Hood",
+      "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
       "rank": 10,
       "genres": [
-        "Horror",
-        "Romance"
+        "Adventure",
+        "Drama",
+        "Action"
       ],
-      "imdbRating": "5.3",
-      "imdbId": "tt39143902",
-      "poster": "https://alicema1202.github.io/Posters/image/1564614.png?v=1785716307950",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
-      "background": "https://image.tmdb.org/t/p/original/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zV3FkR6PX2k3FRDZaLVsjFWgoSt.png"
+      "imdbRating": "7.4",
+      "imdbId": "tt32273171",
+      "poster": "https://alicema1202.github.io/Posters/image/1284465.png?v=1785836241034",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iwZMP3Vbqgj6QHAOAzz9VjRJfNN.png"
     }
   ]
 }
