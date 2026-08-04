@@ -3,7 +3,7 @@ const fs = require("fs");
 const API_KEY = process.env.TMDB_KEY;
 const OMDB_KEY = process.env.OMDB_KEY;
 const GITHUB_PAGES =
-    "https://alicema1202.github.io/Posters/image";
+    "https://posters-rank.vercel.app/image";
 
 const BUILD_TIMESTAMP = Date.now();
 
@@ -75,23 +75,23 @@ async function getImages(type, id) {
         `https://api.themoviedb.org/3/${type}/${id}/images?api_key=${API_KEY}&include_image_language=en,null`
     );
 
-
     const data = await response.json();
 
+    const cleanBackdrops =
+        (data.backdrops || [])
+            .filter(image => image.iso_639_1 === null);
 
-
+    // Best backdrop for poster generation
     const backdrop =
-        data.backdrops
-            ?.filter(
-                image =>
-                    image.iso_639_1 === null
-            )
-            ?.sort(
-                (a, b) =>
-                    b.vote_average - a.vote_average
+        [...cleanBackdrops]
+            .sort((a, b) => b.vote_average - a.vote_average)[0];
+
+    // Highest-resolution backdrop available
+    const backdropPoster =
+        [...cleanBackdrops]
+            .sort((a, b) =>
+                (b.width * b.height) - (a.width * a.height)
             )[0];
-
-
 
     const logo =
         data.logos
@@ -105,8 +105,6 @@ async function getImages(type, id) {
                     b.vote_average - a.vote_average
             )[0];
 
-
-
     return {
 
         backdrop:
@@ -114,6 +112,10 @@ async function getImages(type, id) {
                 ? `https://image.tmdb.org/t/p/original${backdrop.file_path}`
                 : null,
 
+        backdropPoster:
+            backdropPoster?.file_path
+                ? `https://image.tmdb.org/t/p/original${backdropPoster.file_path}`
+                : null,
 
         logo:
             logo?.file_path
@@ -121,7 +123,6 @@ async function getImages(type, id) {
                 : null
 
     };
-
 }
 async function getIMDbId(type, id) {
 
