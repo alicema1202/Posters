@@ -560,7 +560,9 @@ async function getTopSeries() {
             background:
                 images.backdrop,
 
-
+            backdropPoster:
+                images.backdropPoster,
+                
             logo:
                 images.logo
 
