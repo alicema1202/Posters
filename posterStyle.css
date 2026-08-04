@@ -48,6 +48,11 @@ html, body {
                     to top,
                     rgba(0,0,0,0.9),
                     rgba(0,0,0,0) 45%
+                ),
+                linear-gradient(
+                    to bottom right,
+                    rgba(0,0,0,0.8),
+                    rgba(0,0,0,0) 40%
                 );
          }
        
