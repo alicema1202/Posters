@@ -419,7 +419,8 @@ async function getTopMovies() {
             background:
                 images.backdrop,
 
-
+            backdropPoster: 
+                images.backdropPoster,
             logo:
                 images.logo
 
