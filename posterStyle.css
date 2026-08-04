@@ -47,7 +47,7 @@ html, body {
                 linear-gradient(
                     to top,
                     rgba(0,0,0,0.9),
-                    rgba(0,0,0,0.2) 65%
+                    rgba(0,0,0,0) 45%
                 );
          }
        
