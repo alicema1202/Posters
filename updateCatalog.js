@@ -87,9 +87,10 @@ async function getImages(type, id) {
             .sort((a, b) => b.vote_average - a.vote_average)[0];
 
     // clean posters
-    const backdropPoster =
-        [[data.posters].filter(image => image.iso_639_1 === null)].sort((a, b) => b.vote_average - a.vote_average)[0];
-
+    const backdropPoster = data.posters
+        .filter(image => image.iso_639_1 === null)
+        .sort((a, b) => b.vote_average - a.vote_average)[0];
+        
     const logo =
         data.logos
             ?.filter(
