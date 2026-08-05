@@ -89,9 +89,10 @@ async function getImages(type, id) {
     // Highest-resolution backdrop available
     const backdropPoster =
         [...cleanBackdrops]
-            .sort((a, b) =>
-                (b.width * b.height) - (a.width * a.height)
-            )[0];
+            // .sort((a, b) =>
+            //     (b.width * b.height) - (a.width * a.height)
+            // )[0];
+            .sort((a, b) => b.vote_average - a.vote_average)[1];
 
     const logo =
         data.logos
