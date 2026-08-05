@@ -44,7 +44,7 @@ async function generatePoster(item, browser) {
 
             <img
                 class="background"
-                src="${item.backdropPoster || item.tmdbPoster}"
+                src="${item.backdropPoster || item.background}"
             />
 
 
