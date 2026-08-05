@@ -58,8 +58,8 @@ html, body {
        
         .rank {
             position: absolute;
-            top: 25px;
-            left: 40px;
+            top: 10px;
+            left: 20px;
             color: transparent;
             background: linear-gradient(to bottom, rgb(229, 229, 229) 55%, rgba(255, 255, 255, 0));
             background-clip: text;
