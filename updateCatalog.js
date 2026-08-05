@@ -86,13 +86,13 @@ async function getImages(type, id) {
         [...cleanBackdrops]
             .sort((a, b) => b.vote_average - a.vote_average)[0];
 
-    // Highest-resolution backdrop available
+    // clean posters
     const backdropPoster =
-        [...cleanBackdrops]
+        [data.posters]
             // .sort((a, b) =>
             //     (b.width * b.height) - (a.width * a.height)
             // )[0];
-            .sort((a, b) => b.vote_average - a.vote_average)[1];
+            .filter(image => image.iso_639_1 === null);
 
     const logo =
         data.logos
