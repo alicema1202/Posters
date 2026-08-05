@@ -72,7 +72,7 @@ function getGenres(type, genreIds) {
 async function getImages(type, id) {
 
     const response = await fetch(
-        `https://api.themoviedb.org/3/${type}/${id}/images?api_key=${API_KEY}&include_image_language=en,null`
+        `https://api.themoviedb.org/3/${type}/${id}/images?api_key=${API_KEY}`
     );
 
     const data = await response.json();
