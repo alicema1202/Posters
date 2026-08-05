@@ -383,7 +383,7 @@ async function getTopMovies() {
         movies.push({
 
             id:
-                `tmdb:${movie.id}`,
+                imdbId,
 
             type:
                 "movie",
@@ -524,7 +524,7 @@ async function getTopSeries() {
         series.push({
 
             id:
-                `tmdb:${show.id}`,
+                imdbId,
 
             type:
                 "series",
@@ -562,7 +562,7 @@ async function getTopSeries() {
 
             backdropPoster:
                 images.backdropPoster,
-                
+
             logo:
                 images.logo
 
