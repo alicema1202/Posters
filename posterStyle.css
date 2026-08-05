@@ -59,7 +59,7 @@ html, body {
         .rank {
             position: absolute;
             top: 5px;
-            left: 25px;
+            left: 35px;
             color: transparent;
             background: linear-gradient(to bottom, rgb(229, 229, 229) 55%, rgba(255, 255, 255, 0));
             background-clip: text;
