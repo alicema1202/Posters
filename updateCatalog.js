@@ -407,7 +407,7 @@ async function getTopMovies() {
             imdbRating: imdbRating,
             imdbId: imdbId,
             poster:
-                `${GITHUB_PAGES}/${movie.id}.png?v=${BUILD_TIMESTAMP}`,
+                `${GITHUB_PAGES}/${imdbId}.png?v=${BUILD_TIMESTAMP}`,
 
 
             tmdbPoster:
@@ -548,7 +548,7 @@ async function getTopSeries() {
 
 
             poster:
-                `${GITHUB_PAGES}/${show.id}.png?v=${BUILD_TIMESTAMP}`,
+                `${GITHUB_PAGES}/${imdbId}.png?v=${BUILD_TIMESTAMP}`,
 
 
             tmdbPoster:
