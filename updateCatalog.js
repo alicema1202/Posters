@@ -605,6 +605,13 @@ function saveCatalog(path, name, metas, posterShape = "portrait") {
         posterShape
     }));
 
+    if (posterShape === "landscape") {
+        metas = metas.map(meta => ({
+            ...meta,
+            poster: `${GITHUB_PAGES}/landscape${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`
+        }));
+    }
+
     fs.writeFileSync(
         path,
         JSON.stringify(
@@ -620,7 +627,6 @@ function saveCatalog(path, name, metas, posterShape = "portrait") {
 
     console.log("Saved:", path);
 }
-
 
 /**
  * Main
