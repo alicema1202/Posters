@@ -1,6 +1,7 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-05T09:35:09.594Z",
+  "updated": "2026-08-06T03:45:57.550Z",
+  "posterShape": "portrait",
   "metas": [
     {
       "id": "tt10986410",
@@ -14,30 +15,29 @@
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt10986410.png?v=1785922502981",
+      "poster": "https://posters-rank.vercel.app/image/tt10986410.png?v=1785987941186",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "background": "https://image.tmdb.org/t/p/original/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/kP3v1eZIrL0xAA1BdmBKStapzIQ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png"
     },
     {
-      "id": "tt0149460",
+      "id": "tt9892936",
       "type": "series",
-      "name": "Futurama",
-      "description": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "name": "One Hundred Years of Solitude",
+      "description": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
       "rank": 2,
-      "imdbRating": "8.5",
-      "imdbId": "tt0149460",
+      "imdbRating": "8.3",
+      "imdbId": "tt9892936",
       "genres": [
-        "Animation",
-        "Comedy",
+        "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt0149460.png?v=1785922502981",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "background": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/jYuP1J52HzbyeSdPj3Ix0BnKVxy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6jNQtbazLLAu5gLzW46FP8EGePb.png"
+      "poster": "https://posters-rank.vercel.app/image/tt9892936.png?v=1785987941186",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fvEhTiNg2ICs0wXTGKuKoIGhLGe.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9OUwYsZdeUuo6ci5BtCP9rWWDy0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6vGU2nX4NlqoaKH6WlaVRsOJD2k.png"
     },
     {
       "id": "tt11198330",
@@ -52,108 +52,36 @@
         "Drama",
         "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt11198330.png?v=1785922502981",
+      "poster": "https://posters-rank.vercel.app/image/tt11198330.png?v=1785987941186",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png"
     },
     {
-      "id": "tt13111078",
-      "type": "series",
-      "name": "Lioness",
-      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "rank": 4,
-      "imdbRating": "7.8",
-      "imdbId": "tt13111078",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/tt13111078.png?v=1785922502981",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "background": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png"
-    },
-    {
       "id": "tt34866681",
       "type": "series",
       "name": "Lucky",
       "description": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "rank": 5,
+      "rank": 4,
       "imdbRating": "N/A",
       "imdbId": "tt34866681",
       "genres": [
         "Drama",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt34866681.png?v=1785922502981",
+      "poster": "https://posters-rank.vercel.app/image/tt34866681.png?v=1785987941186",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
       "background": "https://image.tmdb.org/t/p/original/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/ybOjiCTtCp2N8VfgaHP1eRqq3yA.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png"
     },
     {
-      "id": "tt43648966",
-      "type": "series",
-      "name": "My Bias, My Boss",
-      "description": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
-      "rank": 6,
-      "imdbRating": null,
-      "imdbId": "tt43648966",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/tt43648966.png?v=1785922502981",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
-      "background": "https://image.tmdb.org/t/p/original/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/ramkgPXHjEXXw7HNtccXwd9ODg5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xnM5yIYu7bszVLwOSJDodZyCEx9.png"
-    },
-    {
-      "id": "tt14688458",
-      "type": "series",
-      "name": "Silo",
-      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rank": 7,
-      "imdbRating": "8.1",
-      "imdbId": "tt14688458",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/tt14688458.png?v=1785922502981",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png"
-    },
-    {
-      "id": "tt9892936",
-      "type": "series",
-      "name": "One Hundred Years of Solitude",
-      "description": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
-      "rank": 8,
-      "imdbRating": "8.3",
-      "imdbId": "tt9892936",
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/tt9892936.png?v=1785922502981",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fvEhTiNg2ICs0wXTGKuKoIGhLGe.jpg",
-      "background": "https://image.tmdb.org/t/p/original/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9OUwYsZdeUuo6ci5BtCP9rWWDy0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6vGU2nX4NlqoaKH6WlaVRsOJD2k.png"
-    },
-    {
       "id": "tt16026746",
       "type": "series",
       "name": "X-Men '97",
       "description": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "rank": 9,
+      "rank": 5,
       "imdbRating": "8.7",
       "imdbId": "tt16026746",
       "genres": [
@@ -161,29 +89,102 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt16026746.png?v=1785922502981",
+      "poster": "https://posters-rank.vercel.app/image/tt16026746.png?v=1785987941186",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "background": "https://image.tmdb.org/t/p/original/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/rxXCDYzkN2pn1U1kcgeaLsFSTl8.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/i4O2d2EYfBCVFVIQaES16gchiMj.png"
     },
     {
-      "id": "tt36303968",
+      "id": "tt0149460",
       "type": "series",
-      "name": "Furious",
-      "description": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-      "rank": 10,
-      "imdbRating": "N/A",
-      "imdbId": "tt36303968",
+      "name": "Futurama",
+      "description": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "rank": 6,
+      "imdbRating": "8.5",
+      "imdbId": "tt0149460",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/tt0149460.png?v=1785987941186",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/jYuP1J52HzbyeSdPj3Ix0BnKVxy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6jNQtbazLLAu5gLzW46FP8EGePb.png"
+    },
+    {
+      "id": "tt13111078",
+      "type": "series",
+      "name": "Lioness",
+      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "rank": 7,
+      "imdbRating": "7.8",
+      "imdbId": "tt13111078",
       "genres": [
         "Drama",
-        "Crime"
+        "War & Politics"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt36303968.png?v=1785922502981",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "background": "https://image.tmdb.org/t/p/original/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/srWmmuaQxV9yPBp9uK1vNNaDPk6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png"
+      "poster": "https://posters-rank.vercel.app/image/tt13111078.png?v=1785987941186",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png"
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "rank": 8,
+      "imdbRating": "8.1",
+      "imdbId": "tt14688458",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/tt14688458.png?v=1785987941186",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png"
+    },
+    {
+      "id": "tt26450613",
+      "type": "series",
+      "name": "A Shop for Killers",
+      "description": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+      "rank": 9,
+      "imdbRating": "8.0",
+      "imdbId": "tt26450613",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/tt26450613.png?v=1785987941186",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/vPr6bJ2qvrhJRwazrmQUcTlOCqS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/u9mNj02iYfhRx4p48QmOkKKjQpu.png"
+    },
+    {
+      "id": "tt29420686",
+      "type": "series",
+      "name": "1670",
+      "description": "A zany nobleman contends with family feuds and clashes with peasants in his quest to become the most famous person in Poland.",
+      "rank": 10,
+      "imdbRating": "7.9",
+      "imdbId": "tt29420686",
+      "genres": [
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/tt29420686.png?v=1785987941186",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/sMPLjSZYJEeeXfxeKQ7Ct7SEYuV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/AfhDPw3x2WfMTfszcAVhngRWlA2.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/5YG7jUXWKCsB0awkRbxb6vk6n5Y.jpg",
+      "logo": null
     }
   ]
 }
