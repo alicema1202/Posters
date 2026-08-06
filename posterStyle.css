@@ -206,12 +206,11 @@ html, body {
     position: absolute;
 
     top: 0;
-    left: 25px;
-
-    color: white;
+    left: 35px;
 
     font-size: 150px;
     font-weight: 700;
+    line-height: 150px;
 }
 
 
