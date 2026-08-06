@@ -56,6 +56,8 @@ jobs:
 
           git add catalog/movie/movieCatalog.json
           git add catalog/series/seriesCatalog.json
+          git add catalog/movie/movieCatalog-landscape.json
+          git add catalog/series/seriesCatalog-landscape.json
           git add image/
 
           git commit -m "Update TMDB catalog and posters" || exit 0
