@@ -600,13 +600,17 @@ function saveCatalog(path, name, metas, posterShape = "portrait") {
         });
     }
 
+    metas = metas.map(meta => ({
+        ...meta,
+        posterShape
+    }));
+
     fs.writeFileSync(
         path,
         JSON.stringify(
             {
                 name,
                 updated: new Date().toISOString(),
-                posterShape,
                 metas
             },
             null,
@@ -616,7 +620,6 @@ function saveCatalog(path, name, metas, posterShape = "portrait") {
 
     console.log("Saved:", path);
 }
-
 
 
 /**
