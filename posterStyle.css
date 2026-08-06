@@ -201,7 +201,7 @@ html, body {
             rgba(0,0,0,0.5),
             rgba(0,0,0,0) 40%
         );
-    box-shadow: inset 0 0 100px 20px rgba(0,0,0,0.9);
+    box-shadow: inset 20px -20px 100px 20px rgba(0,0,0,0.9);
 }
 
 
@@ -235,7 +235,11 @@ html, body {
     object-fit: contain;
 }
 
-
+.landscape-poster .title {
+    left: 35px;
+    bottom: 35px;
+    text-align: left;
+}
 /* GENRE */
 
 .landscape-poster .genre {
@@ -261,5 +265,6 @@ html, body {
 
     font-size: 37px;
     font-weight: 500;
-    display: none;
+    
+    /* display: none; */
 }

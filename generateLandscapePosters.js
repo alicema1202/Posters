@@ -43,7 +43,7 @@ async function generatePoster(item, browser) {
 
             <img
                 class="background"
-                src="${item.background}"
+                src="${item.backdropPoster}"
             />
 
 
