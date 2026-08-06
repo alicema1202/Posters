@@ -85,7 +85,10 @@ async function getImages(type, id) {
     const backdrop =
         [...cleanBackdrops]
             .sort((a, b) => b.vote_average - a.vote_average)[0];
-
+    // highest quality backdrop
+    const HDPoster =
+        [...cleanBackdrops]
+            .sort((a, b) => b.width - a.width)[0];
     // clean posters
     const backdropPoster = data.posters
         .filter(image => image.iso_639_1 === null)
@@ -415,7 +418,8 @@ async function getTopMovies() {
                     ? `https://image.tmdb.org/t/p/w500${movie.poster_path}`
                     : null,
 
-
+            HDPoster:
+                images.HDPoster,
             background:
                 images.backdrop,
 
@@ -550,7 +554,8 @@ async function getTopSeries() {
             poster:
                 `${GITHUB_PAGES}/${imdbId}.png?v=${BUILD_TIMESTAMP}`,
 
-
+            HDPoster:
+                images.HDPoster,
             tmdbPoster:
                 show.poster_path
                     ? `https://image.tmdb.org/t/p/w500${show.poster_path}`
