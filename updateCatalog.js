@@ -655,7 +655,7 @@ async function updateCatalog() {
     );
 
     saveCatalog(
-        "catalog/movie/movieCatalog-landscape.json",
+        "landscape/catalog/movie/movieCatalog-landscape.json",
         "TMDB Top 10 Movies Today",
         movies,
         "landscape"
@@ -669,7 +669,7 @@ async function updateCatalog() {
     );
 
     saveCatalog(
-        "catalog/series/seriesCatalog-landscape.json",
+        "landscape/catalog/series/seriesCatalog-landscape.json",
         "TMDB Top 10 Series Today",
         series,
         "landscape"
