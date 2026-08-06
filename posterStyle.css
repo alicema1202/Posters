@@ -155,7 +155,6 @@ html, body {
     width: 768px;
     height: 432px;
 
-    transform: scale(0.68);
     transform-origin: top left;
 }
 
@@ -187,7 +186,7 @@ html, body {
     top: 0px;
     left: 25px;
 
-    font-size: 150px;
+    font-size: 200px;
 
 }
 
@@ -196,7 +195,7 @@ html, body {
 
 .landscape-poster .logo {
 
-    bottom: 75px;
+    bottom: 150px;
 
     width: 60%;
     max-height: 120px;
@@ -219,8 +218,8 @@ html, body {
 
 .landscape-poster .genre {
 
-    bottom: 20px;
+    bottom: 65px;
 
-    font-size: 28px;
+    font-size: 40px;
 
 }
