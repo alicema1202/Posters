@@ -228,6 +228,7 @@ html, body {
     /* transform: translateX(-50%); */
     transform: translateX(0);
     left: 35px;
+    right: 0;
     max-width: 55%;
     max-height: 120px;
     width: fit-content;
@@ -258,6 +259,7 @@ html, body {
 
     color: rgba(255, 255, 255, 0.805);
 
-    font-size: 40px;
+    font-size: 37px;
     font-weight: 500;
+    display: none;
 }
