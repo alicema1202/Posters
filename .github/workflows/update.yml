@@ -46,6 +46,8 @@ jobs:
       - name: Generate posters
         run: node generatePosters.js
 
+      - name: Generate landscape posters
+        run: node generateLandscapePosters.js
 
       - name: Commit changes
         run: |

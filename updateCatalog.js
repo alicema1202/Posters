@@ -90,7 +90,7 @@ async function getImages(type, id) {
     const backdropPoster = data.posters
         .filter(image => image.iso_639_1 === null)
         .sort((a, b) => b.vote_average - a.vote_average)[0];
-        
+
     const logo =
         data.logos
             ?.filter(
@@ -585,35 +585,26 @@ async function getTopSeries() {
 /**
  * Save catalog
  */
-function saveCatalog(path, name, metas) {
-
+function saveCatalog(path, name, metas, posterShape = "portrait") {
     const directory =
         path.substring(
             0,
             path.lastIndexOf("/")
         );
 
-
     if (!fs.existsSync(directory)) {
-
-        fs.mkdirSync(
-            directory,
-            {
-                recursive: true
-            }
-        );
-
+        fs.mkdirSync(directory, {
+            recursive: true
+        });
     }
-
-
 
     fs.writeFileSync(
         path,
         JSON.stringify(
             {
                 name,
-                updated:
-                    new Date().toISOString(),
+                updated: new Date().toISOString(),
+                posterShape,
                 metas
             },
             null,
@@ -621,12 +612,7 @@ function saveCatalog(path, name, metas) {
         )
     );
 
-
-    console.log(
-        "Saved:",
-        path
-    );
-
+    console.log("Saved:", path);
 }
 
 
@@ -664,17 +650,30 @@ async function updateCatalog() {
     saveCatalog(
         "catalog/movie/movieCatalog.json",
         "TMDB Top 10 Movies Today",
-        movies
+        movies,
+        "portrait"
     );
 
-
+    saveCatalog(
+        "catalog/movie/movieCatalog-landscape.json",
+        "TMDB Top 10 Movies Today",
+        movies,
+        "landscape"
+    );
 
     saveCatalog(
         "catalog/series/seriesCatalog.json",
         "TMDB Top 10 Series Today",
-        series
+        series,
+        "portrait"
     );
 
+    saveCatalog(
+        "catalog/series/seriesCatalog-landscape.json",
+        "TMDB Top 10 Series Today",
+        series,
+        "landscape"
+    );
 
 
     console.log(

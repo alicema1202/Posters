@@ -1,0 +1,34 @@
+{
+    "id": "top.10.catalog",
+    "version": "1.0.0",
+    "name": "Top 10 Today",
+    "description": "Movies + Shows",
+    "logo": "",
+
+    "resources": [
+        "catalog",
+        {
+            "name": "meta",
+            "types": ["movie", "series"],
+            "idPrefixes": ["tmdb:"]
+        }
+    ],
+
+    "types": [
+        "movie",
+        "series"
+    ],
+
+    "catalogs": [
+        {
+            "id": "movieCatalog-landscape",
+            "type": "movie",
+            "name": "Top 10 Movies Today"
+        },
+        {
+            "id": "seriesCatalog-landscape",
+            "type": "series",
+            "name": "Top 10 TV Shows Today"
+        }
+    ]
+}
