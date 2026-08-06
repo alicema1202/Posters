@@ -213,20 +213,21 @@ async function isAnime(type, id) {
         `https://api.themoviedb.org/3/${type}/${id}?api_key=${API_KEY}`
     );
 
-
     const data = await response.json();
 
-
-    return (
+    const isAnime =
         data.origin_country?.includes("JP") &&
         data.genres?.some(
-            genre =>
-                genre.id === 16
-        )
-    );
+            genre => genre.id === 16
+        );
 
+    const isDocumentary =
+        data.genres?.some(
+            genre => genre.id === 99
+        );
+
+    return isAnime || isDocumentary;
 }
-
 
 
 /**
@@ -259,7 +260,8 @@ async function isSportsEvent(type, id, title) {
         "f1",
         "nascar",
         "motogp",
-        "live event"
+        "live event",
+        "documentary"
     ];
 
 
