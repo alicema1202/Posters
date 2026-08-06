@@ -43,7 +43,7 @@ async function generatePoster(item, browser) {
 
             <img
                 class="background"
-                src="${item.HDPoster}"
+                src="${item.HDPoster || item.background}"
             />
 
 
@@ -81,6 +81,30 @@ async function generatePoster(item, browser) {
                 `
 
             }
+
+            ${
+                item.HDPoster
+
+                ?
+
+                `
+                <img
+                    class="logo"
+                    src="${item.logo}"
+                />
+                `
+
+                :
+
+                `
+                <img
+                    class="fallback logo"
+                    src="${item.logo}"
+                />
+                `
+
+            }
+            
 
 
             ${

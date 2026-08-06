@@ -270,3 +270,6 @@ html, body {
     
     /* display: none; */
 }
+.fallback {
+    display: block!important;
+}
