@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-06T06:26:16.889Z",
+  "updated": "2026-08-06T07:17:18.628Z",
   "metas": [
     {
       "id": "tt31170389",
@@ -14,7 +14,7 @@
       ],
       "imdbRating": "N/A",
       "imdbId": "tt31170389",
-      "poster": "https://posters-rank.vercel.app/image/tt31170389.png?v=1785997571528",
+      "poster": "https://posters-rank.vercel.app/image/tt31170389.png?v=1786000632785",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
       "background": "https://image.tmdb.org/t/p/original/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/u80cOMncKRSEEwrE9T8NTjX0DNP.jpg",
@@ -33,7 +33,7 @@
       ],
       "imdbRating": "7.9",
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/tt37287335.png?v=1785997571528",
+      "poster": "https://posters-rank.vercel.app/image/tt37287335.png?v=1786000632785",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/vj3niHx3ikSAIr1O8A2uBgwsuTp.jpg",
@@ -53,7 +53,7 @@
       ],
       "imdbRating": "5.9",
       "imdbId": "tt8814476",
-      "poster": "https://posters-rank.vercel.app/image/tt8814476.png?v=1785997571528",
+      "poster": "https://posters-rank.vercel.app/image/tt8814476.png?v=1786000632785",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "background": "https://image.tmdb.org/t/p/original/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9WyCDqi6ogIWYCnlCLJfvNuR9dF.jpg",
@@ -61,31 +61,11 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt32654916",
-      "type": "movie",
-      "name": "Soulm8te",
-      "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-      "rank": 4,
-      "genres": [
-        "Horror",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "imdbRating": "N/A",
-      "imdbId": "tt32654916",
-      "poster": "https://posters-rank.vercel.app/image/tt32654916.png?v=1785997571528",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-      "background": "https://image.tmdb.org/t/p/original/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/8Y2nzFzMRyZiHW7uvhNyLN5sL9M.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt26657236",
       "type": "movie",
       "name": "Backrooms",
       "description": "A strange doorway appears in the basement of a furniture showroom.",
-      "rank": 5,
+      "rank": 4,
       "genres": [
         "Horror",
         "Mystery",
@@ -93,7 +73,7 @@
       ],
       "imdbRating": "7.0",
       "imdbId": "tt26657236",
-      "poster": "https://posters-rank.vercel.app/image/tt26657236.png?v=1785997571528",
+      "poster": "https://posters-rank.vercel.app/image/tt26657236.png?v=1786000632785",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "background": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg",
@@ -101,30 +81,11 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt15047880",
-      "type": "movie",
-      "name": "Disclosure Day",
-      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "rank": 6,
-      "genres": [
-        "Science Fiction",
-        "Thriller"
-      ],
-      "imdbRating": "6.5",
-      "imdbId": "tt15047880",
-      "poster": "https://posters-rank.vercel.app/image/tt15047880.png?v=1785997571528",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "background": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/701aTHRSfEm2IHchyMXoZt4T1yV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt18259538",
       "type": "movie",
       "name": "Avatar Aang: The Last Airbender",
       "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "rank": 7,
+      "rank": 5,
       "genres": [
         "Animation",
         "Action",
@@ -133,7 +94,7 @@
       ],
       "imdbRating": "N/A",
       "imdbId": "tt18259538",
-      "poster": "https://posters-rank.vercel.app/image/tt18259538.png?v=1785997571528",
+      "poster": "https://posters-rank.vercel.app/image/tt18259538.png?v=1786000632785",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
       "background": "https://image.tmdb.org/t/p/original/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/Y4xpldwjXLaIOSferMrtKzAQJl.jpg",
@@ -141,22 +102,79 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt36958312",
+      "id": "tt32654916",
       "type": "movie",
-      "name": "The Devil's Mouth",
-      "description": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
-      "rank": 8,
+      "name": "Soulm8te",
+      "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+      "rank": 6,
       "genres": [
         "Horror",
+        "Science Fiction",
         "Thriller"
       ],
       "imdbRating": "N/A",
-      "imdbId": "tt36958312",
-      "poster": "https://posters-rank.vercel.app/image/tt36958312.png?v=1785997571528",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-      "background": "https://image.tmdb.org/t/p/original/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/3JNHHFcuEOwHvHXW5jr3xlzA0n4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tICAPKYhZHtit6ofppC2ieEzhdp.png",
+      "imdbId": "tt32654916",
+      "poster": "https://posters-rank.vercel.app/image/tt32654916.png?v=1786000632785",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/8Y2nzFzMRyZiHW7uvhNyLN5sL9M.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt15047880",
+      "type": "movie",
+      "name": "Disclosure Day",
+      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "rank": 7,
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdbRating": "6.5",
+      "imdbId": "tt15047880",
+      "poster": "https://posters-rank.vercel.app/image/tt15047880.png?v=1786000632785",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "background": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/701aTHRSfEm2IHchyMXoZt4T1yV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt37369064",
+      "type": "movie",
+      "name": "Lockbox",
+      "description": "A woman puts her life on the line to protect her troubled, enigmatic cousin, Winthrop, who has been targeted and hunted by a powerful supernatural force.",
+      "rank": 8,
+      "genres": [
+        "Horror"
+      ],
+      "imdbRating": "N/A",
+      "imdbId": "tt37369064",
+      "poster": "https://posters-rank.vercel.app/image/tt37369064.png?v=1786000632785",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/sNJ9u1uL12wOzOvvjjdXX8MqrBT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8YRMbO0OatB5J5KPEHuLhV1ZAhj.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/pWSj0SZmaQDTEGvvpIOO9xJC4KY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cayjo7FqJUOP2sEBU4cZMTEOKwp.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "name": "Project Hail Mary",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "rank": 9,
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "imdbRating": "8.2",
+      "imdbId": "tt12042730",
+      "poster": "https://posters-rank.vercel.app/image/tt12042730.png?v=1786000632785",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7mL0PR2jGC283JbPApFS8aJ2x1F.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
       "posterShape": "portrait"
     },
     {
@@ -164,7 +182,7 @@
       "type": "movie",
       "name": "The Death of Robin Hood",
       "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-      "rank": 9,
+      "rank": 10,
       "genres": [
         "Adventure",
         "Drama",
@@ -172,7 +190,7 @@
       ],
       "imdbRating": "7.4",
       "imdbId": "tt32273171",
-      "poster": "https://posters-rank.vercel.app/image/tt32273171.png?v=1785997571528",
+      "poster": "https://posters-rank.vercel.app/image/tt32273171.png?v=1786000632785",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
       "background": "https://image.tmdb.org/t/p/original/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/e9nPKvHaxEJHb5bXfh7cYZWPofQ.jpg",
