@@ -190,12 +190,12 @@ html, body {
 
     background:
         linear-gradient(
-            to top,
+            to top right,
             rgba(0,0,0,0.9),
-            rgba(0,0,0,0) 45%
+            rgba(0,0,0,0) 35%
         ),
         linear-gradient(
-            to bottom right,
+            to bottom,
             rgba(0,0,0,0.8),
             rgba(0,0,0,0) 40%
         );
@@ -221,12 +221,11 @@ html, body {
 .landscape-poster .logo {
     position: absolute;
 
-    bottom: 85px;
-    left: 50%;
-
-    transform: translateX(-50%);
-
-    width: 60%;
+    bottom: 35px;
+    /* transform: translateX(-50%); */
+    transform: translateX(0);
+    left: 35px;
+    width: 55%;
     max-height: 120px;
 
     object-fit: contain;
@@ -237,15 +236,25 @@ html, body {
 
 .landscape-poster .genre {
     position: absolute;
+    
+    top: 0;
+    bottom:auto;
+    left: auto;
+    margin: auto;
+    left: 0;
+    right: 0;
+    padding: 12px 25px;
+    background-color: rgba(204, 204, 204, 0.16);
+    backdrop-filter: blur(30px);
+    width: min-content;
+    border-radius: 0 0 24px 24px ;
+    border: 1px solid rgba(255, 255, 255, 0.093);
+    border-top: none;
 
-    bottom: 35px;
-    left: 25px;
-    right: 25px;
+    text-align: right;
 
-    text-align: center;
+    color: rgba(255, 255, 255, 0.702);
 
-    color: rgba(255,255,255,0.6);
-
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 600;
 }
