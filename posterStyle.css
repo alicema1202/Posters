@@ -95,6 +95,8 @@ html, body {
     max-height: 180px;
 
     object-fit: contain;
+    filter: drop-shadow(0 3px 12px black);
+
 }
 
 
@@ -162,7 +164,7 @@ html, body {
 
 /* BACKGROUND */
 
-.background {
+.landscape-poster .background {
     position: absolute;
 
     top: 0;
@@ -177,7 +179,7 @@ html, body {
 
 /* OVERLAY */
 
-.overlay {
+.landscape-poster .overlay {
     position: absolute;
 
     top: 0;
@@ -202,7 +204,7 @@ html, body {
 
 /* RANK */
 
-.rank {
+.landscape-poster .rank {
     position: absolute;
 
     top: 0;
@@ -216,10 +218,10 @@ html, body {
 
 /* LOGO */
 
-.logo {
+.landscape-poster .logo {
     position: absolute;
 
-    bottom: 70px;
+    bottom: 85px;
     left: 50%;
 
     transform: translateX(-50%);
@@ -233,10 +235,10 @@ html, body {
 
 /* GENRE */
 
-.genre {
+.landscape-poster .genre {
     position: absolute;
 
-    bottom: 25px;
+    bottom: 35px;
     left: 25px;
     right: 25px;
 
@@ -244,6 +246,6 @@ html, body {
 
     color: rgba(255,255,255,0.6);
 
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 600;
 }
