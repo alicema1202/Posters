@@ -92,7 +92,7 @@ async function getImages(type, id) {
 
     const HDPoster =
         (data.backdrops || [])
-            .filter(image => image.iso_639_1 === "US")
+            .filter(image => image.iso_639_1 === "en")
             .sort((a, b) => b.width - a.width)[0];
     // clean posters
     const backdropPoster = data.posters
