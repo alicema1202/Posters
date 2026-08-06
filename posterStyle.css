@@ -233,6 +233,7 @@ html, body {
     max-height: 120px;
     width: fit-content;
     object-fit: contain;
+    display: none;
 }
 
 .landscape-poster .title {
