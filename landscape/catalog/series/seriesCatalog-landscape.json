@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-07T09:57:49.285Z",
+  "updated": "2026-08-07T10:54:50.573Z",
   "metas": [
     {
       "id": "tt14688458",
@@ -14,7 +14,7 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett14688458.png?v=1786096657241",
+      "poster": "https://posters-rank.vercel.app/image/landscapett14688458.png?v=1786100082965",
       "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -33,7 +33,7 @@
       "genres": [
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett8323628.png?v=1786096657241",
+      "poster": "https://posters-rank.vercel.app/image/landscapett8323628.png?v=1786100082965",
       "HDPoster": null,
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
       "background": "https://image.tmdb.org/t/p/original/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
@@ -53,7 +53,7 @@
         "Mystery",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett35618070.png?v=1786096657241",
+      "poster": "https://posters-rank.vercel.app/image/landscapett35618070.png?v=1786100082965",
       "HDPoster": "https://image.tmdb.org/t/p/original/85MT1jmqNov2wcplpTkNAU7NqvA.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
       "background": "https://image.tmdb.org/t/p/original/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
@@ -73,7 +73,7 @@
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett10986410.png?v=1786096657241",
+      "poster": "https://posters-rank.vercel.app/image/landscapett10986410.png?v=1786100082965",
       "HDPoster": "https://image.tmdb.org/t/p/original/t1e0wbSmIzhKoQ586kdbp7oGl2e.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "background": "https://image.tmdb.org/t/p/original/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
@@ -93,7 +93,7 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett16418808.png?v=1786096657241",
+      "poster": "https://posters-rank.vercel.app/image/landscapett16418808.png?v=1786100082965",
       "HDPoster": "https://image.tmdb.org/t/p/original/9xp2s8WVmf3UEJtQQEMYXN0TWJr.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
       "background": "https://image.tmdb.org/t/p/original/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
@@ -102,23 +102,23 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt9892936",
+      "id": "tt27497393",
       "type": "series",
-      "name": "One Hundred Years of Solitude",
-      "description": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
+      "name": "Stuart Fails to Save the Universe",
+      "description": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
       "rank": 6,
-      "imdbRating": "8.3",
-      "imdbId": "tt9892936",
+      "imdbRating": "7.0",
+      "imdbId": "tt27497393",
       "genres": [
-        "Drama",
+        "Comedy",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett9892936.png?v=1786096657241",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2u6gjd0lhNiFDtVB1k0y4kUD7uy.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
-      "background": "https://image.tmdb.org/t/p/original/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/pqsmFDTdjzkxmGdiuZw2KxWVz8O.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6vGU2nX4NlqoaKH6WlaVRsOJD2k.png",
+      "poster": "https://posters-rank.vercel.app/image/landscapett27497393.png?v=1786100082965",
+      "HDPoster": "https://image.tmdb.org/t/p/original/qyoidDZSojQpFdEYygJMkE0m8gC.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/vM6B0dqOB2YdXEaA7bjq5LuXEo.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bOhpVQ6BLoKoS5ygtDZayuscP88.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xW9OE6KMDxModOcrCCTZwFPwJyA.png",
       "posterShape": "landscape"
     },
     {
@@ -134,7 +134,7 @@
         "Drama",
         "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett11198330.png?v=1786096657241",
+      "poster": "https://posters-rank.vercel.app/image/landscapett11198330.png?v=1786100082965",
       "HDPoster": "https://image.tmdb.org/t/p/original/fFOk5QlPH6qpKLHZW67sdmbLAQQ.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -143,43 +143,43 @@
       "posterShape": "landscape"
     },
     {
+      "id": "tt9892936",
+      "type": "series",
+      "name": "One Hundred Years of Solitude",
+      "description": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
+      "rank": 8,
+      "imdbRating": "8.3",
+      "imdbId": "tt9892936",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/landscapett9892936.png?v=1786100082965",
+      "HDPoster": "https://image.tmdb.org/t/p/original/2u6gjd0lhNiFDtVB1k0y4kUD7uy.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/pqsmFDTdjzkxmGdiuZw2KxWVz8O.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6vGU2nX4NlqoaKH6WlaVRsOJD2k.png",
+      "posterShape": "landscape"
+    },
+    {
       "id": "tt12327578",
       "type": "series",
       "name": "Star Trek: Strange New Worlds",
       "description": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-      "rank": 8,
+      "rank": 9,
       "imdbRating": "8.2",
       "imdbId": "tt12327578",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett12327578.png?v=1786096657241",
+      "poster": "https://posters-rank.vercel.app/image/landscapett12327578.png?v=1786100082965",
       "HDPoster": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
       "background": "https://image.tmdb.org/t/p/original/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/vMFxmogUUe5lhhzNnS59o51C77i.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt27497393",
-      "type": "series",
-      "name": "Stuart Fails to Save the Universe",
-      "description": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "rank": 9,
-      "imdbRating": "7.0",
-      "imdbId": "tt27497393",
-      "genres": [
-        "Comedy",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett27497393.png?v=1786096657241",
-      "HDPoster": "https://image.tmdb.org/t/p/original/qyoidDZSojQpFdEYygJMkE0m8gC.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/vM6B0dqOB2YdXEaA7bjq5LuXEo.jpg",
-      "background": "https://image.tmdb.org/t/p/original/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bOhpVQ6BLoKoS5ygtDZayuscP88.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xW9OE6KMDxModOcrCCTZwFPwJyA.png",
       "posterShape": "landscape"
     },
     {
@@ -194,7 +194,7 @@
         "Drama",
         "War & Politics"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett13111078.png?v=1786096657241",
+      "poster": "https://posters-rank.vercel.app/image/landscapett13111078.png?v=1786100082965",
       "HDPoster": "https://image.tmdb.org/t/p/original/4K5Jdry2gZj5XbomCa0H56g9XCs.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "background": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
