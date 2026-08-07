@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-07T12:54:11.458Z",
+  "updated": "2026-08-07T14:10:31.718Z",
   "metas": [
     {
       "id": "tt32268156",
@@ -15,8 +15,8 @@
       ],
       "imdbRating": "N/A",
       "imdbId": "tt32268156",
-      "poster": "https://posters-rank.vercel.app/image/tt32268156.png?v=1786107247782",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/tz3Afb8yxSrYmbfHGGRsJ6HvwRO.jpg",
+      "poster": "https://posters-rank.vercel.app/image/tt32268156.png?v=1786111827217",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/9wCrNgVcaOhS5jPK9B5reFIWvxh.jpg",
       "background": "https://image.tmdb.org/t/p/original/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/p0qXMcW24HKlCFN6Q8FWA5RpkmA.jpg",
@@ -24,18 +24,39 @@
       "posterShape": "portrait"
     },
     {
+      "id": "tt8814476",
+      "type": "movie",
+      "name": "Supergirl",
+      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "rank": 2,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "imdbRating": "5.9",
+      "imdbId": "tt8814476",
+      "poster": "https://posters-rank.vercel.app/image/tt8814476.png?v=1786111827217",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/fgwmYhbx9vVdFXrKG9mSsOV9Pnm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9WyCDqi6ogIWYCnlCLJfvNuR9dF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sOKyZ1al829AnlmjWoghvzXFbQ6.png",
+      "posterShape": "portrait"
+    },
+    {
       "id": "tt31170389",
       "type": "movie",
       "name": "Evil Dead Burn",
       "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-      "rank": 2,
+      "rank": 3,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "imdbRating": "N/A",
       "imdbId": "tt31170389",
-      "poster": "https://posters-rank.vercel.app/image/tt31170389.png?v=1786107247782",
+      "poster": "https://posters-rank.vercel.app/image/tt31170389.png?v=1786111827217",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/viHFZ7GlzMcmPbADvP4Vd6Ema0g.jpg",
       "background": "https://image.tmdb.org/t/p/original/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
@@ -48,14 +69,14 @@
       "type": "movie",
       "name": "Obsession",
       "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rank": 3,
+      "rank": 4,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "imdbRating": "7.9",
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/tt37287335.png?v=1786107247782",
+      "poster": "https://posters-rank.vercel.app/image/tt37287335.png?v=1786111827217",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
       "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
@@ -68,7 +89,7 @@
       "type": "movie",
       "name": "Beast Race",
       "description": "Inspired by the illegal universe of the Brazilian animal lottery, a fearless young man must win a deadly race to save his sister in a dystopian future where each animal in the game is now represented by a runner vying for a prize.",
-      "rank": 4,
+      "rank": 5,
       "genres": [
         "Action",
         "Science Fiction",
@@ -76,33 +97,12 @@
       ],
       "imdbRating": "N/A",
       "imdbId": "tt32358025",
-      "poster": "https://posters-rank.vercel.app/image/tt32358025.png?v=1786107247782",
+      "poster": "https://posters-rank.vercel.app/image/tt32358025.png?v=1786111827217",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/1dQI9PSRBpogFwC2VAKf4nlcg45.jpg",
       "background": "https://image.tmdb.org/t/p/original/1zhpeLzqEi8bmaBiMZUg0D13eDt.jpg",
       "backdropPoster": null,
       "logo": "https://image.tmdb.org/t/p/w500/gmpB2eNbz29ZBw5MAhpIg0mKXwb.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt8814476",
-      "type": "movie",
-      "name": "Supergirl",
-      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "rank": 5,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "imdbRating": "5.9",
-      "imdbId": "tt8814476",
-      "poster": "https://posters-rank.vercel.app/image/tt8814476.png?v=1786107247782",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fgwmYhbx9vVdFXrKG9mSsOV9Pnm.jpg",
-      "background": "https://image.tmdb.org/t/p/original/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9WyCDqi6ogIWYCnlCLJfvNuR9dF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sOKyZ1al829AnlmjWoghvzXFbQ6.png",
       "posterShape": "portrait"
     },
     {
@@ -118,7 +118,7 @@
       ],
       "imdbRating": "N/A",
       "imdbId": "tt32654916",
-      "poster": "https://posters-rank.vercel.app/image/tt32654916.png?v=1786107247782",
+      "poster": "https://posters-rank.vercel.app/image/tt32654916.png?v=1786111827217",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/tZ6PAiaydcJvoz7NWMvqxM0HYR3.jpg",
       "background": "https://image.tmdb.org/t/p/original/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
@@ -127,43 +127,43 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt15047880",
-      "type": "movie",
-      "name": "Disclosure Day",
-      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "rank": 7,
-      "genres": [
-        "Science Fiction",
-        "Thriller"
-      ],
-      "imdbRating": "6.5",
-      "imdbId": "tt15047880",
-      "poster": "https://posters-rank.vercel.app/image/tt15047880.png?v=1786107247782",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/kxLjrSvs4WuYszwSxzjbtZcLUcC.jpg",
-      "background": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/701aTHRSfEm2IHchyMXoZt4T1yV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt11378946",
       "type": "movie",
       "name": "Michael",
       "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "rank": 8,
+      "rank": 7,
       "genres": [
         "Music",
         "Drama"
       ],
       "imdbRating": "7.5",
       "imdbId": "tt11378946",
-      "poster": "https://posters-rank.vercel.app/image/tt11378946.png?v=1786107247782",
+      "poster": "https://posters-rank.vercel.app/image/tt11378946.png?v=1786111827217",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/joPZFstfdjpsuzlrnGeCbY0FuPS.jpg",
       "background": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/5HgVwIzug5iCoprtj4ZSvcHjjI1.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/zaznQoApGv0578Ntntq99tVIiU2.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt15047880",
+      "type": "movie",
+      "name": "Disclosure Day",
+      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "rank": 8,
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdbRating": "6.5",
+      "imdbId": "tt15047880",
+      "poster": "https://posters-rank.vercel.app/image/tt15047880.png?v=1786111827217",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/kxLjrSvs4WuYszwSxzjbtZcLUcC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/701aTHRSfEm2IHchyMXoZt4T1yV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png",
       "posterShape": "portrait"
     },
     {
@@ -178,7 +178,7 @@
       ],
       "imdbRating": "5.3",
       "imdbId": "tt39143902",
-      "poster": "https://posters-rank.vercel.app/image/tt39143902.png?v=1786107247782",
+      "poster": "https://posters-rank.vercel.app/image/tt39143902.png?v=1786111827217",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/ltaH5yyUd73VNWD9VshcNib3CnF.jpg",
       "background": "https://image.tmdb.org/t/p/original/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
@@ -199,7 +199,7 @@
       ],
       "imdbRating": "7.0",
       "imdbId": "tt26657236",
-      "poster": "https://posters-rank.vercel.app/image/tt26657236.png?v=1786107247782",
+      "poster": "https://posters-rank.vercel.app/image/tt26657236.png?v=1786111827217",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/qhTnrSsFOZi5oKhkTzvA9468lz9.jpg",
       "background": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
