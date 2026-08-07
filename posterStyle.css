@@ -254,7 +254,7 @@ html, body {
     left: 0;
     right: 0;
     padding: 12px 25px;
-    background-color: rgba(54, 54, 54, 0.16);
+    background-color: rgba(54, 54, 54, 0.3);
     backdrop-filter: blur(30px);
     width: fit-content;
     border-radius: 0 0 24px 24px ;
