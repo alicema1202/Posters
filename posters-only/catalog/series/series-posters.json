@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-08T05:39:46.073Z",
+  "updated": "2026-08-08T06:43:38.309Z",
   "metas": [
     {
       "id": "tt14688458",
@@ -14,10 +14,10 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt14688458.png?v=1786167578021",
+      "poster": "https://posters-rank.vercel.app/image/tt14688458.png?v=1786171410478",
       "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett14688458.png?v=1786167578021",
+      "background": "https://posters-rank.vercel.app/image/landscapett14688458.png?v=1786171410478",
       "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg"
     },
     {
@@ -32,10 +32,10 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt27543562.png?v=1786167578021",
+      "poster": "https://posters-rank.vercel.app/image/tt27543562.png?v=1786171410478",
       "HDPoster": "https://image.tmdb.org/t/p/original/n3f64eaJLRbwt29ewgFpUWSFFH9.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett27543562.png?v=1786167578021",
+      "background": "https://posters-rank.vercel.app/image/landscapett27543562.png?v=1786171410478",
       "backdropPoster": "https://image.tmdb.org/t/p/original/i3RJx0zwaEWNH5BveK8RMPIP7md.jpg"
     },
     {
@@ -50,10 +50,10 @@
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt10986410.png?v=1786167578021",
+      "poster": "https://posters-rank.vercel.app/image/tt10986410.png?v=1786171410478",
       "HDPoster": "https://image.tmdb.org/t/p/original/t1e0wbSmIzhKoQ586kdbp7oGl2e.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett10986410.png?v=1786167578021",
+      "background": "https://posters-rank.vercel.app/image/landscapett10986410.png?v=1786171410478",
       "backdropPoster": "https://image.tmdb.org/t/p/original/kP3v1eZIrL0xAA1BdmBKStapzIQ.jpg"
     },
     {
@@ -70,10 +70,10 @@
         "Mystery",
         "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt30413181.png?v=1786167578021",
+      "poster": "https://posters-rank.vercel.app/image/tt30413181.png?v=1786171410478",
       "HDPoster": "https://image.tmdb.org/t/p/original/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett30413181.png?v=1786167578021",
+      "background": "https://posters-rank.vercel.app/image/landscapett30413181.png?v=1786171410478",
       "backdropPoster": "https://image.tmdb.org/t/p/original/18tu5KcxUHoMjr0dyuXkAUDqWDJ.jpg"
     },
     {
@@ -88,46 +88,28 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt16418808.png?v=1786167578021",
+      "poster": "https://posters-rank.vercel.app/image/tt16418808.png?v=1786171410478",
       "HDPoster": "https://image.tmdb.org/t/p/original/9xp2s8WVmf3UEJtQQEMYXN0TWJr.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett16418808.png?v=1786167578021",
+      "background": "https://posters-rank.vercel.app/image/landscapett16418808.png?v=1786171410478",
       "backdropPoster": "https://image.tmdb.org/t/p/original/o0E3l9TcfJSTY89ckCICY387OFM.jpg"
-    },
-    {
-      "id": "tt27497393",
-      "type": "series",
-      "name": "Stuart Fails to Save the Universe",
-      "description": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "rank": 6,
-      "imdbRating": 7.1,
-      "imdbId": "tt27497393",
-      "genres": [
-        "Comedy",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/tt27497393.png?v=1786167578021",
-      "HDPoster": "https://image.tmdb.org/t/p/original/qyoidDZSojQpFdEYygJMkE0m8gC.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett27497393.png?v=1786167578021",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bOhpVQ6BLoKoS5ygtDZayuscP88.jpg"
     },
     {
       "id": "tt35618070",
       "type": "series",
       "name": "Sterling Point",
       "description": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
-      "rank": 7,
+      "rank": 6,
       "imdbRating": 6.8,
       "imdbId": "tt35618070",
       "genres": [
         "Mystery",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt35618070.png?v=1786167578021",
+      "poster": "https://posters-rank.vercel.app/image/tt35618070.png?v=1786171410478",
       "HDPoster": "https://image.tmdb.org/t/p/original/85MT1jmqNov2wcplpTkNAU7NqvA.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett35618070.png?v=1786167578021",
+      "background": "https://posters-rank.vercel.app/image/landscapett35618070.png?v=1786171410478",
       "backdropPoster": "https://image.tmdb.org/t/p/original/izkto5rArIPALMWzlwsaxVt4I1p.jpg"
     },
     {
@@ -135,52 +117,70 @@
       "type": "series",
       "name": "My Life with the Walter Boys",
       "description": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-      "rank": 8,
+      "rank": 7,
       "imdbRating": 6.8,
       "imdbId": "tt8323628",
       "genres": [
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt8323628.png?v=1786167578021",
+      "poster": "https://posters-rank.vercel.app/image/tt8323628.png?v=1786171410478",
       "HDPoster": null,
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett8323628.png?v=1786167578021",
+      "background": "https://posters-rank.vercel.app/image/landscapett8323628.png?v=1786171410478",
       "backdropPoster": "https://image.tmdb.org/t/p/original/4rEjGH08D2xWtb0fBtIOw2oPGqs.jpg"
     },
     {
-      "id": "tt9892936",
+      "id": "tt27497393",
       "type": "series",
-      "name": "One Hundred Years of Solitude",
-      "description": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
-      "rank": 9,
-      "imdbRating": 8.3,
-      "imdbId": "tt9892936",
+      "name": "Stuart Fails to Save the Universe",
+      "description": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "rank": 8,
+      "imdbRating": 7.1,
+      "imdbId": "tt27497393",
       "genres": [
-        "Drama",
+        "Comedy",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt9892936.png?v=1786167578021",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2u6gjd0lhNiFDtVB1k0y4kUD7uy.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett9892936.png?v=1786167578021",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/pqsmFDTdjzkxmGdiuZw2KxWVz8O.jpg"
+      "poster": "https://posters-rank.vercel.app/image/tt27497393.png?v=1786171410478",
+      "HDPoster": "https://image.tmdb.org/t/p/original/qyoidDZSojQpFdEYygJMkE0m8gC.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
+      "background": "https://posters-rank.vercel.app/image/landscapett27497393.png?v=1786171410478",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bOhpVQ6BLoKoS5ygtDZayuscP88.jpg"
     },
     {
       "id": "tt29614148",
       "type": "series",
       "name": "Death Inc.",
       "description": "When the founder of Torregrosa Funeral Home dies, his scheming right-hand man is poised to take over the business. But the owner's widow has other plans.",
-      "rank": 10,
+      "rank": 9,
       "imdbRating": 7.5,
       "imdbId": "tt29614148",
       "genres": [
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt29614148.png?v=1786167578021",
+      "poster": "https://posters-rank.vercel.app/image/tt29614148.png?v=1786171410478",
       "HDPoster": null,
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/g6vptk7afH3OHOKSjdjJJtEoOMh.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett29614148.png?v=1786167578021",
+      "background": "https://posters-rank.vercel.app/image/landscapett29614148.png?v=1786171410478",
       "backdropPoster": "https://image.tmdb.org/t/p/original/3Txrc7sVlZf9n735uT1I0ccHEG9.jpg"
+    },
+    {
+      "id": "tt9892936",
+      "type": "series",
+      "name": "One Hundred Years of Solitude",
+      "description": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
+      "rank": 10,
+      "imdbRating": 8.3,
+      "imdbId": "tt9892936",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/tt9892936.png?v=1786171410478",
+      "HDPoster": "https://image.tmdb.org/t/p/original/2u6gjd0lhNiFDtVB1k0y4kUD7uy.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
+      "background": "https://posters-rank.vercel.app/image/landscapett9892936.png?v=1786171410478",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/pqsmFDTdjzkxmGdiuZw2KxWVz8O.jpg"
     }
   ]
 }
