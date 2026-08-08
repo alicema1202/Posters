@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-08T01:16:09.448Z",
+  "updated": "2026-08-08T03:21:21.321Z",
   "metas": [
     {
       "id": "tt32268156",
@@ -15,7 +15,7 @@
       ],
       "imdbRating": "N/A",
       "imdbId": "tt32268156",
-      "poster": "https://posters-rank.vercel.app/image/landscapett32268156.png?v=1786151763013",
+      "poster": "https://posters-rank.vercel.app/image/landscapett32268156.png?v=1786159273304",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/9wCrNgVcaOhS5jPK9B5reFIWvxh.jpg",
       "background": "https://image.tmdb.org/t/p/original/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
@@ -36,7 +36,7 @@
       ],
       "imdbRating": "N/A",
       "imdbId": "tt32358025",
-      "poster": "https://posters-rank.vercel.app/image/landscapett32358025.png?v=1786151763013",
+      "poster": "https://posters-rank.vercel.app/image/landscapett32358025.png?v=1786159273304",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/1dQI9PSRBpogFwC2VAKf4nlcg45.jpg",
       "background": "https://image.tmdb.org/t/p/original/mGcCJvT8YYvf205kYvaTM3QzB8k.jpg",
@@ -56,7 +56,7 @@
       ],
       "imdbRating": "7.9",
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/landscapett37287335.png?v=1786151763013",
+      "poster": "https://posters-rank.vercel.app/image/landscapett37287335.png?v=1786159273304",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
       "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
@@ -76,7 +76,7 @@
       ],
       "imdbRating": "N/A",
       "imdbId": "tt31170389",
-      "poster": "https://posters-rank.vercel.app/image/landscapett31170389.png?v=1786151763013",
+      "poster": "https://posters-rank.vercel.app/image/landscapett31170389.png?v=1786159273304",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/viHFZ7GlzMcmPbADvP4Vd6Ema0g.jpg",
       "background": "https://image.tmdb.org/t/p/original/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
@@ -97,7 +97,7 @@
       ],
       "imdbRating": "5.9",
       "imdbId": "tt8814476",
-      "poster": "https://posters-rank.vercel.app/image/landscapett8814476.png?v=1786151763013",
+      "poster": "https://posters-rank.vercel.app/image/landscapett8814476.png?v=1786159273304",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/fgwmYhbx9vVdFXrKG9mSsOV9Pnm.jpg",
       "background": "https://image.tmdb.org/t/p/original/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
@@ -106,32 +106,11 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt26657236",
-      "type": "movie",
-      "name": "Backrooms",
-      "description": "A strange doorway appears in the basement of a furniture showroom.",
-      "rank": 6,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Science Fiction"
-      ],
-      "imdbRating": "7.0",
-      "imdbId": "tt26657236",
-      "poster": "https://posters-rank.vercel.app/image/landscapett26657236.png?v=1786151763013",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/qhTnrSsFOZi5oKhkTzvA9468lz9.jpg",
-      "background": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/g0PswKqAFJdwGK3d1fKvj8LGnrW.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt32654916",
       "type": "movie",
       "name": "Soulm8te",
       "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-      "rank": 7,
+      "rank": 6,
       "genres": [
         "Horror",
         "Science Fiction",
@@ -139,12 +118,33 @@
       ],
       "imdbRating": "N/A",
       "imdbId": "tt32654916",
-      "poster": "https://posters-rank.vercel.app/image/landscapett32654916.png?v=1786151763013",
+      "poster": "https://posters-rank.vercel.app/image/landscapett32654916.png?v=1786159273304",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/tZ6PAiaydcJvoz7NWMvqxM0HYR3.jpg",
       "background": "https://image.tmdb.org/t/p/original/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/8Y2nzFzMRyZiHW7uvhNyLN5sL9M.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt26657236",
+      "type": "movie",
+      "name": "Backrooms",
+      "description": "A strange doorway appears in the basement of a furniture showroom.",
+      "rank": 7,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "imdbRating": "7.0",
+      "imdbId": "tt26657236",
+      "poster": "https://posters-rank.vercel.app/image/landscapett26657236.png?v=1786159273304",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/qhTnrSsFOZi5oKhkTzvA9468lz9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g0PswKqAFJdwGK3d1fKvj8LGnrW.png",
       "posterShape": "landscape"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "imdbRating": "6.5",
       "imdbId": "tt15047880",
-      "poster": "https://posters-rank.vercel.app/image/landscapett15047880.png?v=1786151763013",
+      "poster": "https://posters-rank.vercel.app/image/landscapett15047880.png?v=1786159273304",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/kxLjrSvs4WuYszwSxzjbtZcLUcC.jpg",
       "background": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
@@ -168,43 +168,43 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt12042730",
-      "type": "movie",
-      "name": "Project Hail Mary",
-      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rank": 9,
-      "genres": [
-        "Science Fiction",
-        "Adventure"
-      ],
-      "imdbRating": "8.2",
-      "imdbId": "tt12042730",
-      "poster": "https://posters-rank.vercel.app/image/landscapett12042730.png?v=1786151763013",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
-      "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7mL0PR2jGC283JbPApFS8aJ2x1F.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt11378946",
       "type": "movie",
       "name": "Michael",
       "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "rank": 10,
+      "rank": 9,
       "genres": [
         "Music",
         "Drama"
       ],
       "imdbRating": "7.5",
       "imdbId": "tt11378946",
-      "poster": "https://posters-rank.vercel.app/image/landscapett11378946.png?v=1786151763013",
+      "poster": "https://posters-rank.vercel.app/image/landscapett11378946.png?v=1786159273304",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/joPZFstfdjpsuzlrnGeCbY0FuPS.jpg",
       "background": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/5HgVwIzug5iCoprtj4ZSvcHjjI1.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/zaznQoApGv0578Ntntq99tVIiU2.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "name": "Project Hail Mary",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "rank": 10,
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "imdbRating": "8.2",
+      "imdbId": "tt12042730",
+      "poster": "https://posters-rank.vercel.app/image/landscapett12042730.png?v=1786159273304",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7mL0PR2jGC283JbPApFS8aJ2x1F.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
       "posterShape": "landscape"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-08T01:16:09.448Z",
+  "updated": "2026-08-08T03:21:21.322Z",
   "metas": [
     {
       "id": "tt14688458",
@@ -14,7 +14,7 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett14688458.png?v=1786151763013",
+      "poster": "https://posters-rank.vercel.app/image/landscapett14688458.png?v=1786159273304",
       "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -34,7 +34,7 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett27543562.png?v=1786151763013",
+      "poster": "https://posters-rank.vercel.app/image/landscapett27543562.png?v=1786159273304",
       "HDPoster": "https://image.tmdb.org/t/p/original/n3f64eaJLRbwt29ewgFpUWSFFH9.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
       "background": "https://image.tmdb.org/t/p/original/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
@@ -43,37 +43,18 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt8323628",
-      "type": "series",
-      "name": "My Life with the Walter Boys",
-      "description": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-      "rank": 3,
-      "imdbRating": "6.8",
-      "imdbId": "tt8323628",
-      "genres": [
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett8323628.png?v=1786151763013",
-      "HDPoster": null,
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
-      "background": "https://image.tmdb.org/t/p/original/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/4rEjGH08D2xWtb0fBtIOw2oPGqs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/98ro979EumxLzNo8ET77OErNiG4.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt10986410",
       "type": "series",
       "name": "Ted Lasso",
       "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "rank": 4,
+      "rank": 3,
       "imdbRating": "8.7",
       "imdbId": "tt10986410",
       "genres": [
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett10986410.png?v=1786151763013",
+      "poster": "https://posters-rank.vercel.app/image/landscapett10986410.png?v=1786159273304",
       "HDPoster": "https://image.tmdb.org/t/p/original/t1e0wbSmIzhKoQ586kdbp7oGl2e.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "background": "https://image.tmdb.org/t/p/original/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
@@ -82,58 +63,18 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt11198330",
-      "type": "series",
-      "name": "House of the Dragon",
-      "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "rank": 5,
-      "imdbRating": "8.3",
-      "imdbId": "tt11198330",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett11198330.png?v=1786151763013",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fFOk5QlPH6qpKLHZW67sdmbLAQQ.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt29614148",
-      "type": "series",
-      "name": "Death Inc.",
-      "description": "When the founder of Torregrosa Funeral Home dies, his scheming right-hand man is poised to take over the business. But the owner's widow has other plans.",
-      "rank": 6,
-      "imdbRating": "7.1",
-      "imdbId": "tt29614148",
-      "genres": [
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett29614148.png?v=1786151763013",
-      "HDPoster": null,
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/g6vptk7afH3OHOKSjdjJJtEoOMh.jpg",
-      "background": "https://image.tmdb.org/t/p/original/rNnTUZgVhzJc36FViudinVPBDSh.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/3Txrc7sVlZf9n735uT1I0ccHEG9.jpg",
-      "logo": null,
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt16418808",
       "type": "series",
       "name": "Sugar",
       "description": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
-      "rank": 7,
+      "rank": 4,
       "imdbRating": "7.4",
       "imdbId": "tt16418808",
       "genres": [
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett16418808.png?v=1786151763013",
+      "poster": "https://posters-rank.vercel.app/image/landscapett16418808.png?v=1786159273304",
       "HDPoster": "https://image.tmdb.org/t/p/original/9xp2s8WVmf3UEJtQQEMYXN0TWJr.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
       "background": "https://image.tmdb.org/t/p/original/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
@@ -142,51 +83,11 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt27497393",
-      "type": "series",
-      "name": "Stuart Fails to Save the Universe",
-      "description": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "rank": 8,
-      "imdbRating": "7.0",
-      "imdbId": "tt27497393",
-      "genres": [
-        "Comedy",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett27497393.png?v=1786151763013",
-      "HDPoster": "https://image.tmdb.org/t/p/original/qyoidDZSojQpFdEYygJMkE0m8gC.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
-      "background": "https://image.tmdb.org/t/p/original/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bOhpVQ6BLoKoS5ygtDZayuscP88.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xW9OE6KMDxModOcrCCTZwFPwJyA.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt35618070",
-      "type": "series",
-      "name": "Sterling Point",
-      "description": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
-      "rank": 9,
-      "imdbRating": "N/A",
-      "imdbId": "tt35618070",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett35618070.png?v=1786151763013",
-      "HDPoster": "https://image.tmdb.org/t/p/original/85MT1jmqNov2wcplpTkNAU7NqvA.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-      "background": "https://image.tmdb.org/t/p/original/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/izkto5rArIPALMWzlwsaxVt4I1p.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qCT5dwsqHa0VlKg2kJUt6ebHzq2.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt30413181",
       "type": "series",
       "name": "Flex X Cop",
       "description": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
-      "rank": 10,
+      "rank": 5,
       "imdbRating": "7.9",
       "imdbId": "tt30413181",
       "genres": [
@@ -195,12 +96,110 @@
         "Mystery",
         "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett30413181.png?v=1786151763013",
+      "poster": "https://posters-rank.vercel.app/image/landscapett30413181.png?v=1786159273304",
       "HDPoster": "https://image.tmdb.org/t/p/original/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
       "background": "https://image.tmdb.org/t/p/original/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/18tu5KcxUHoMjr0dyuXkAUDqWDJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/42Dzr3D1YEeCsFFE7OD2nm4dH1p.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt27497393",
+      "type": "series",
+      "name": "Stuart Fails to Save the Universe",
+      "description": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "rank": 6,
+      "imdbRating": "7.0",
+      "imdbId": "tt27497393",
+      "genres": [
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/landscapett27497393.png?v=1786159273304",
+      "HDPoster": "https://image.tmdb.org/t/p/original/qyoidDZSojQpFdEYygJMkE0m8gC.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
+      "background": "https://image.tmdb.org/t/p/original/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bOhpVQ6BLoKoS5ygtDZayuscP88.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xW9OE6KMDxModOcrCCTZwFPwJyA.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt8323628",
+      "type": "series",
+      "name": "My Life with the Walter Boys",
+      "description": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+      "rank": 7,
+      "imdbRating": "6.8",
+      "imdbId": "tt8323628",
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/landscapett8323628.png?v=1786159273304",
+      "HDPoster": null,
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/4rEjGH08D2xWtb0fBtIOw2oPGqs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/98ro979EumxLzNo8ET77OErNiG4.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt35618070",
+      "type": "series",
+      "name": "Sterling Point",
+      "description": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
+      "rank": 8,
+      "imdbRating": "N/A",
+      "imdbId": "tt35618070",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/landscapett35618070.png?v=1786159273304",
+      "HDPoster": "https://image.tmdb.org/t/p/original/85MT1jmqNov2wcplpTkNAU7NqvA.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/izkto5rArIPALMWzlwsaxVt4I1p.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qCT5dwsqHa0VlKg2kJUt6ebHzq2.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt9892936",
+      "type": "series",
+      "name": "One Hundred Years of Solitude",
+      "description": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
+      "rank": 9,
+      "imdbRating": "8.3",
+      "imdbId": "tt9892936",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/landscapett9892936.png?v=1786159273304",
+      "HDPoster": "https://image.tmdb.org/t/p/original/2u6gjd0lhNiFDtVB1k0y4kUD7uy.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/pqsmFDTdjzkxmGdiuZw2KxWVz8O.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6vGU2nX4NlqoaKH6WlaVRsOJD2k.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt29614148",
+      "type": "series",
+      "name": "Death Inc.",
+      "description": "When the founder of Torregrosa Funeral Home dies, his scheming right-hand man is poised to take over the business. But the owner's widow has other plans.",
+      "rank": 10,
+      "imdbRating": "7.1",
+      "imdbId": "tt29614148",
+      "genres": [
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/landscapett29614148.png?v=1786159273304",
+      "HDPoster": null,
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/g6vptk7afH3OHOKSjdjJJtEoOMh.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rNnTUZgVhzJc36FViudinVPBDSh.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/3Txrc7sVlZf9n735uT1I0ccHEG9.jpg",
+      "logo": null,
       "posterShape": "landscape"
     }
   ]
