@@ -768,7 +768,7 @@ async function updateCatalog() {
         "landscape"
     );
     saveLandscapeCatalog(
-        "posters-only/catalog/series/movies-posters.json",
+        "posters-only/catalog/movie/movies-posters.json",
         "TMDB Top 10 Movies Today",
         movies,
         "landscape"
