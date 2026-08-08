@@ -102,15 +102,16 @@ async function getImages(type, id) {
 
     const logo =
         data.logos
-            ?.filter(
-                image =>
-                    image.iso_639_1 === "en" ||
-                    image.iso_639_1 === null
-            )
-            ?.sort(
-                (a, b) =>
-                    b.vote_average - a.vote_average
-            )[0];
+            ?.sort((a, b) => {
+                const aEnglish = a.iso_639_1 === "en" ? 1 : 0;
+                const bEnglish = b.iso_639_1 === "en" ? 1 : 0;
+
+                if (aEnglish !== bEnglish) {
+                    return bEnglish - aEnglish;
+                }
+
+                return b.vote_average - a.vote_average;
+            })[0];
 
     return {
 
