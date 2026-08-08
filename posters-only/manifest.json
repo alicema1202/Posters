@@ -21,7 +21,7 @@
 
     "catalogs": [
         {
-            "id": "movie-posters",
+            "id": "movies-posters",
             "type": "movie",
             "name": "Top 10 Movies Today"
         },
