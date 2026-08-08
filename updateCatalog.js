@@ -684,8 +684,8 @@ function saveLandscapeCatalog(path, name, metas) {
 
         return {
             ...rest,
-            posterShape: "landscape",
-            poster: `${GITHUB_PAGES}/landscape/${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`
+            poster: `${GITHUB_PAGES}/${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`,
+            background: `${GITHUB_PAGES}/landscape/${meta.imdbId}-bg.png?v=${BUILD_TIMESTAMP}`
         };
     });
 
@@ -762,13 +762,13 @@ async function updateCatalog() {
         "landscape"
     );
     saveLandscapeCatalog(
-        "landscape/catalog/series/series-posters.json",
+        "posters-only/catalog/series/series-posters.json",
         "TMDB Top 10 Series Today",
         series,
         "landscape"
     );
     saveLandscapeCatalog(
-        "landscape/catalog/series/movies-posters.json",
+        "posters-only/catalog/series/movies-posters.json",
         "TMDB Top 10 Movies Today",
         movies,
         "landscape"
