@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-08T10:27:41.538Z",
+  "updated": "2026-08-08T11:24:07.173Z",
   "metas": [
     {
       "id": "tt14688458",
@@ -14,7 +14,7 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt14688458.png?v=1786184843750",
+      "poster": "https://posters-rank.vercel.app/image/tt14688458.png?v=1786188236331",
       "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -23,11 +23,31 @@
       "posterShape": "portrait"
     },
     {
+      "id": "tt27543562",
+      "type": "series",
+      "name": "The Shards",
+      "description": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+      "rank": 2,
+      "imdbRating": 5.8,
+      "imdbId": "tt27543562",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/tt27543562.png?v=1786188236331",
+      "HDPoster": "https://image.tmdb.org/t/p/original/n3f64eaJLRbwt29ewgFpUWSFFH9.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/i3RJx0zwaEWNH5BveK8RMPIP7md.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lGMA0PAKUgrgpbJiOAmoSqqQgDW.png",
+      "posterShape": "portrait"
+    },
+    {
       "id": "tt30413181",
       "type": "series",
       "name": "Flex X Cop",
       "description": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
-      "rank": 2,
+      "rank": 3,
       "imdbRating": 7.8,
       "imdbId": "tt30413181",
       "genres": [
@@ -36,32 +56,12 @@
         "Mystery",
         "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt30413181.png?v=1786184843750",
+      "poster": "https://posters-rank.vercel.app/image/tt30413181.png?v=1786188236331",
       "HDPoster": "https://image.tmdb.org/t/p/original/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
       "background": "https://image.tmdb.org/t/p/original/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/18tu5KcxUHoMjr0dyuXkAUDqWDJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/42Dzr3D1YEeCsFFE7OD2nm4dH1p.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt27543562",
-      "type": "series",
-      "name": "The Shards",
-      "description": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
-      "rank": 3,
-      "imdbRating": 5.8,
-      "imdbId": "tt27543562",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/tt27543562.png?v=1786184843750",
-      "HDPoster": "https://image.tmdb.org/t/p/original/n3f64eaJLRbwt29ewgFpUWSFFH9.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-      "background": "https://image.tmdb.org/t/p/original/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/i3RJx0zwaEWNH5BveK8RMPIP7md.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lGMA0PAKUgrgpbJiOAmoSqqQgDW.png",
       "posterShape": "portrait"
     },
     {
@@ -76,7 +76,7 @@
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt10986410.png?v=1786184843750",
+      "poster": "https://posters-rank.vercel.app/image/tt10986410.png?v=1786188236331",
       "HDPoster": "https://image.tmdb.org/t/p/original/t1e0wbSmIzhKoQ586kdbp7oGl2e.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "background": "https://image.tmdb.org/t/p/original/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
@@ -96,7 +96,7 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt16418808.png?v=1786184843750",
+      "poster": "https://posters-rank.vercel.app/image/tt16418808.png?v=1786188236331",
       "HDPoster": "https://image.tmdb.org/t/p/original/9xp2s8WVmf3UEJtQQEMYXN0TWJr.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
       "background": "https://image.tmdb.org/t/p/original/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
@@ -116,7 +116,7 @@
         "Comedy",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt27497393.png?v=1786184843750",
+      "poster": "https://posters-rank.vercel.app/image/tt27497393.png?v=1786188236331",
       "HDPoster": "https://image.tmdb.org/t/p/original/lMvWtYbm7ljZxYoBFfDZcjKlrJN.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
       "background": "https://image.tmdb.org/t/p/original/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
@@ -125,17 +125,38 @@
       "posterShape": "portrait"
     },
     {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "House of the Dragon",
+      "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "rank": 7,
+      "imdbRating": 8.3,
+      "imdbId": "tt11198330",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/tt11198330.png?v=1786188236331",
+      "HDPoster": "https://image.tmdb.org/t/p/original/fFOk5QlPH6qpKLHZW67sdmbLAQQ.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png",
+      "posterShape": "portrait"
+    },
+    {
       "id": "tt29614148",
       "type": "series",
       "name": "Death Inc.",
       "description": "When the founder of Torregrosa Funeral Home dies, his scheming right-hand man is poised to take over the business. But the owner's widow has other plans.",
-      "rank": 7,
+      "rank": 8,
       "imdbRating": 7.5,
       "imdbId": "tt29614148",
       "genres": [
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt29614148.png?v=1786184843750",
+      "poster": "https://posters-rank.vercel.app/image/tt29614148.png?v=1786188236331",
       "HDPoster": null,
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/g6vptk7afH3OHOKSjdjJJtEoOMh.jpg",
       "background": "https://image.tmdb.org/t/p/original/rNnTUZgVhzJc36FViudinVPBDSh.jpg",
@@ -148,40 +169,19 @@
       "type": "series",
       "name": "Sterling Point",
       "description": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
-      "rank": 8,
+      "rank": 9,
       "imdbRating": 6.8,
       "imdbId": "tt35618070",
       "genres": [
         "Mystery",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt35618070.png?v=1786184843750",
+      "poster": "https://posters-rank.vercel.app/image/tt35618070.png?v=1786188236331",
       "HDPoster": "https://image.tmdb.org/t/p/original/85MT1jmqNov2wcplpTkNAU7NqvA.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
       "background": "https://image.tmdb.org/t/p/original/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/izkto5rArIPALMWzlwsaxVt4I1p.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/qCT5dwsqHa0VlKg2kJUt6ebHzq2.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt11198330",
-      "type": "series",
-      "name": "House of the Dragon",
-      "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "rank": 9,
-      "imdbRating": 8.3,
-      "imdbId": "tt11198330",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/tt11198330.png?v=1786184843750",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fFOk5QlPH6qpKLHZW67sdmbLAQQ.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png",
       "posterShape": "portrait"
     },
     {
@@ -196,7 +196,7 @@
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt9892936.png?v=1786184843750",
+      "poster": "https://posters-rank.vercel.app/image/tt9892936.png?v=1786188236331",
       "HDPoster": "https://image.tmdb.org/t/p/original/2u6gjd0lhNiFDtVB1k0y4kUD7uy.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
       "background": "https://image.tmdb.org/t/p/original/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
