@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-08T04:55:10.796Z",
+  "updated": "2026-08-08T04:55:10.797Z",
   "metas": [
     {
       "id": "tt14688458",
@@ -14,13 +14,12 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt14688458.png?v=1786164906355",
+      "poster": "https://posters-rank.vercel.app/image/landscape/tt14688458.png?v=1786164906355",
       "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
-      "posterShape": "portrait"
+      "posterShape": "landscape"
     },
     {
       "id": "tt27543562",
@@ -34,13 +33,12 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt27543562.png?v=1786164906355",
+      "poster": "https://posters-rank.vercel.app/image/landscape/tt27543562.png?v=1786164906355",
       "HDPoster": "https://image.tmdb.org/t/p/original/n3f64eaJLRbwt29ewgFpUWSFFH9.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
       "background": "https://image.tmdb.org/t/p/original/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/i3RJx0zwaEWNH5BveK8RMPIP7md.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lGMA0PAKUgrgpbJiOAmoSqqQgDW.png",
-      "posterShape": "portrait"
+      "posterShape": "landscape"
     },
     {
       "id": "tt10986410",
@@ -54,13 +52,12 @@
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt10986410.png?v=1786164906355",
+      "poster": "https://posters-rank.vercel.app/image/landscape/tt10986410.png?v=1786164906355",
       "HDPoster": "https://image.tmdb.org/t/p/original/t1e0wbSmIzhKoQ586kdbp7oGl2e.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "background": "https://image.tmdb.org/t/p/original/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/kP3v1eZIrL0xAA1BdmBKStapzIQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
-      "posterShape": "portrait"
+      "posterShape": "landscape"
     },
     {
       "id": "tt30413181",
@@ -76,13 +73,12 @@
         "Mystery",
         "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt30413181.png?v=1786164906355",
+      "poster": "https://posters-rank.vercel.app/image/landscape/tt30413181.png?v=1786164906355",
       "HDPoster": "https://image.tmdb.org/t/p/original/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
       "background": "https://image.tmdb.org/t/p/original/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/18tu5KcxUHoMjr0dyuXkAUDqWDJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/42Dzr3D1YEeCsFFE7OD2nm4dH1p.png",
-      "posterShape": "portrait"
+      "posterShape": "landscape"
     },
     {
       "id": "tt16418808",
@@ -96,13 +92,12 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt16418808.png?v=1786164906355",
+      "poster": "https://posters-rank.vercel.app/image/landscape/tt16418808.png?v=1786164906355",
       "HDPoster": "https://image.tmdb.org/t/p/original/9xp2s8WVmf3UEJtQQEMYXN0TWJr.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
       "background": "https://image.tmdb.org/t/p/original/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/o0E3l9TcfJSTY89ckCICY387OFM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5RK1xYHGELAkLRkjcwJrCHomJSp.png",
-      "posterShape": "portrait"
+      "posterShape": "landscape"
     },
     {
       "id": "tt27497393",
@@ -116,13 +111,12 @@
         "Comedy",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt27497393.png?v=1786164906355",
+      "poster": "https://posters-rank.vercel.app/image/landscape/tt27497393.png?v=1786164906355",
       "HDPoster": "https://image.tmdb.org/t/p/original/qyoidDZSojQpFdEYygJMkE0m8gC.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
       "background": "https://image.tmdb.org/t/p/original/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/bOhpVQ6BLoKoS5ygtDZayuscP88.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xW9OE6KMDxModOcrCCTZwFPwJyA.png",
-      "posterShape": "portrait"
+      "posterShape": "landscape"
     },
     {
       "id": "tt35618070",
@@ -136,13 +130,12 @@
         "Mystery",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt35618070.png?v=1786164906355",
+      "poster": "https://posters-rank.vercel.app/image/landscape/tt35618070.png?v=1786164906355",
       "HDPoster": "https://image.tmdb.org/t/p/original/85MT1jmqNov2wcplpTkNAU7NqvA.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
       "background": "https://image.tmdb.org/t/p/original/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/izkto5rArIPALMWzlwsaxVt4I1p.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qCT5dwsqHa0VlKg2kJUt6ebHzq2.png",
-      "posterShape": "portrait"
+      "posterShape": "landscape"
     },
     {
       "id": "tt8323628",
@@ -155,13 +148,12 @@
       "genres": [
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt8323628.png?v=1786164906355",
+      "poster": "https://posters-rank.vercel.app/image/landscape/tt8323628.png?v=1786164906355",
       "HDPoster": null,
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
       "background": "https://image.tmdb.org/t/p/original/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/4rEjGH08D2xWtb0fBtIOw2oPGqs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/98ro979EumxLzNo8ET77OErNiG4.png",
-      "posterShape": "portrait"
+      "posterShape": "landscape"
     },
     {
       "id": "tt9892936",
@@ -175,13 +167,12 @@
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt9892936.png?v=1786164906355",
+      "poster": "https://posters-rank.vercel.app/image/landscape/tt9892936.png?v=1786164906355",
       "HDPoster": "https://image.tmdb.org/t/p/original/2u6gjd0lhNiFDtVB1k0y4kUD7uy.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
       "background": "https://image.tmdb.org/t/p/original/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/pqsmFDTdjzkxmGdiuZw2KxWVz8O.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6vGU2nX4NlqoaKH6WlaVRsOJD2k.png",
-      "posterShape": "portrait"
+      "posterShape": "landscape"
     },
     {
       "id": "tt29614148",
@@ -194,13 +185,12 @@
       "genres": [
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt29614148.png?v=1786164906355",
+      "poster": "https://posters-rank.vercel.app/image/landscape/tt29614148.png?v=1786164906355",
       "HDPoster": null,
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/g6vptk7afH3OHOKSjdjJJtEoOMh.jpg",
       "background": "https://image.tmdb.org/t/p/original/rNnTUZgVhzJc36FViudinVPBDSh.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/3Txrc7sVlZf9n735uT1I0ccHEG9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iBbQQjvn7zoXPIIUUPRTFehVMEI.png",
-      "posterShape": "portrait"
+      "posterShape": "landscape"
     }
   ]
 }
