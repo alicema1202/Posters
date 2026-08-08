@@ -499,7 +499,7 @@ async function getTopSeries() {
 
     for (const show of data.results || []) {
         const imdbId = await getIMDbId("tv", show.id);
-        const imdbRating = await getIMDBRating(imdbId);
+        const imdbRating = await getIMDBRating2("show", show.id);
         if (series.length >= 10) {
             break;
         }
