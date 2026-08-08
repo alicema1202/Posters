@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-08T04:09:22.859Z",
+  "updated": "2026-08-08T04:52:23.575Z",
   "metas": [
     {
       "id": "tt14688458",
@@ -14,7 +14,7 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt14688458.png?v=1786162155817",
+      "poster": "https://posters-rank.vercel.app/image/tt14688458.png?v=1786164739180",
       "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -34,7 +34,7 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt27543562.png?v=1786162155817",
+      "poster": "https://posters-rank.vercel.app/image/tt27543562.png?v=1786164739180",
       "HDPoster": "https://image.tmdb.org/t/p/original/n3f64eaJLRbwt29ewgFpUWSFFH9.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
       "background": "https://image.tmdb.org/t/p/original/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
@@ -54,7 +54,7 @@
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt10986410.png?v=1786162155817",
+      "poster": "https://posters-rank.vercel.app/image/tt10986410.png?v=1786164739180",
       "HDPoster": "https://image.tmdb.org/t/p/original/t1e0wbSmIzhKoQ586kdbp7oGl2e.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "background": "https://image.tmdb.org/t/p/original/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
@@ -63,31 +63,11 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt16418808",
-      "type": "series",
-      "name": "Sugar",
-      "description": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
-      "rank": 4,
-      "imdbRating": 7.4,
-      "imdbId": "tt16418808",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/tt16418808.png?v=1786162155817",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9xp2s8WVmf3UEJtQQEMYXN0TWJr.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-      "background": "https://image.tmdb.org/t/p/original/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o0E3l9TcfJSTY89ckCICY387OFM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5RK1xYHGELAkLRkjcwJrCHomJSp.png",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt30413181",
       "type": "series",
       "name": "Flex X Cop",
       "description": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
-      "rank": 5,
+      "rank": 4,
       "imdbRating": 7.8,
       "imdbId": "tt30413181",
       "genres": [
@@ -96,12 +76,32 @@
         "Mystery",
         "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt30413181.png?v=1786162155817",
+      "poster": "https://posters-rank.vercel.app/image/tt30413181.png?v=1786164739180",
       "HDPoster": "https://image.tmdb.org/t/p/original/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
       "background": "https://image.tmdb.org/t/p/original/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/18tu5KcxUHoMjr0dyuXkAUDqWDJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/42Dzr3D1YEeCsFFE7OD2nm4dH1p.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt16418808",
+      "type": "series",
+      "name": "Sugar",
+      "description": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
+      "rank": 5,
+      "imdbRating": 7.4,
+      "imdbId": "tt16418808",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/tt16418808.png?v=1786164739180",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9xp2s8WVmf3UEJtQQEMYXN0TWJr.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o0E3l9TcfJSTY89ckCICY387OFM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5RK1xYHGELAkLRkjcwJrCHomJSp.png",
       "posterShape": "portrait"
     },
     {
@@ -116,7 +116,7 @@
         "Comedy",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt27497393.png?v=1786162155817",
+      "poster": "https://posters-rank.vercel.app/image/tt27497393.png?v=1786164739180",
       "HDPoster": "https://image.tmdb.org/t/p/original/qyoidDZSojQpFdEYygJMkE0m8gC.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
       "background": "https://image.tmdb.org/t/p/original/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
@@ -125,42 +125,42 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt8323628",
-      "type": "series",
-      "name": "My Life with the Walter Boys",
-      "description": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-      "rank": 7,
-      "imdbRating": 6.8,
-      "imdbId": "tt8323628",
-      "genres": [
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/tt8323628.png?v=1786162155817",
-      "HDPoster": null,
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
-      "background": "https://image.tmdb.org/t/p/original/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/4rEjGH08D2xWtb0fBtIOw2oPGqs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/98ro979EumxLzNo8ET77OErNiG4.png",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt35618070",
       "type": "series",
       "name": "Sterling Point",
       "description": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
-      "rank": 8,
+      "rank": 7,
       "imdbRating": 6.8,
       "imdbId": "tt35618070",
       "genres": [
         "Mystery",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt35618070.png?v=1786162155817",
+      "poster": "https://posters-rank.vercel.app/image/tt35618070.png?v=1786164739180",
       "HDPoster": "https://image.tmdb.org/t/p/original/85MT1jmqNov2wcplpTkNAU7NqvA.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
       "background": "https://image.tmdb.org/t/p/original/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/izkto5rArIPALMWzlwsaxVt4I1p.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/qCT5dwsqHa0VlKg2kJUt6ebHzq2.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt8323628",
+      "type": "series",
+      "name": "My Life with the Walter Boys",
+      "description": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+      "rank": 8,
+      "imdbRating": 6.8,
+      "imdbId": "tt8323628",
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/tt8323628.png?v=1786164739180",
+      "HDPoster": null,
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/4rEjGH08D2xWtb0fBtIOw2oPGqs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/98ro979EumxLzNo8ET77OErNiG4.png",
       "posterShape": "portrait"
     },
     {
@@ -175,7 +175,7 @@
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt9892936.png?v=1786162155817",
+      "poster": "https://posters-rank.vercel.app/image/tt9892936.png?v=1786164739180",
       "HDPoster": "https://image.tmdb.org/t/p/original/2u6gjd0lhNiFDtVB1k0y4kUD7uy.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
       "background": "https://image.tmdb.org/t/p/original/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
@@ -194,12 +194,12 @@
       "genres": [
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt29614148.png?v=1786162155817",
+      "poster": "https://posters-rank.vercel.app/image/tt29614148.png?v=1786164739180",
       "HDPoster": null,
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/g6vptk7afH3OHOKSjdjJJtEoOMh.jpg",
       "background": "https://image.tmdb.org/t/p/original/rNnTUZgVhzJc36FViudinVPBDSh.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/3Txrc7sVlZf9n735uT1I0ccHEG9.jpg",
-      "logo": null,
+      "logo": "https://image.tmdb.org/t/p/w500/iBbQQjvn7zoXPIIUUPRTFehVMEI.png",
       "posterShape": "portrait"
     }
   ]
