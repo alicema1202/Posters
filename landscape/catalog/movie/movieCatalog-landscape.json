@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-08T04:09:22.859Z",
+  "updated": "2026-08-08T04:15:16.672Z",
   "metas": [
     {
       "id": "tt32268156",
@@ -15,7 +15,7 @@
       ],
       "imdbRating": null,
       "imdbId": "tt32268156",
-      "poster": "https://posters-rank.vercel.app/image/landscapett32268156.png?v=1786162155817",
+      "poster": "https://posters-rank.vercel.app/image/landscapett32268156.png?v=1786162511782",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/9wCrNgVcaOhS5jPK9B5reFIWvxh.jpg",
       "background": "https://image.tmdb.org/t/p/original/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
@@ -36,7 +36,7 @@
       ],
       "imdbRating": 6.3,
       "imdbId": "tt32358025",
-      "poster": "https://posters-rank.vercel.app/image/landscapett32358025.png?v=1786162155817",
+      "poster": "https://posters-rank.vercel.app/image/landscapett32358025.png?v=1786162511782",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/1dQI9PSRBpogFwC2VAKf4nlcg45.jpg",
       "background": "https://image.tmdb.org/t/p/original/mGcCJvT8YYvf205kYvaTM3QzB8k.jpg",
@@ -45,43 +45,43 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt37287335",
-      "type": "movie",
-      "name": "Obsession",
-      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rank": 3,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "imdbRating": 7.9,
-      "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/landscapett37287335.png?v=1786162155817",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/vj3niHx3ikSAIr1O8A2uBgwsuTp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt31170389",
       "type": "movie",
       "name": "Evil Dead Burn",
       "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-      "rank": 4,
+      "rank": 3,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "imdbRating": 6.5,
       "imdbId": "tt31170389",
-      "poster": "https://posters-rank.vercel.app/image/landscapett31170389.png?v=1786162155817",
+      "poster": "https://posters-rank.vercel.app/image/landscapett31170389.png?v=1786162511782",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/viHFZ7GlzMcmPbADvP4Vd6Ema0g.jpg",
       "background": "https://image.tmdb.org/t/p/original/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/u80cOMncKRSEEwrE9T8NTjX0DNP.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/hwYMirP9p9rhCuFAYkPozYlhrpd.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt37287335",
+      "type": "movie",
+      "name": "Obsession",
+      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "rank": 4,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdbRating": 7.9,
+      "imdbId": "tt37287335",
+      "poster": "https://posters-rank.vercel.app/image/landscapett37287335.png?v=1786162511782",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/vj3niHx3ikSAIr1O8A2uBgwsuTp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
       "posterShape": "landscape"
     },
     {
@@ -97,7 +97,7 @@
       ],
       "imdbRating": 5.9,
       "imdbId": "tt8814476",
-      "poster": "https://posters-rank.vercel.app/image/landscapett8814476.png?v=1786162155817",
+      "poster": "https://posters-rank.vercel.app/image/landscapett8814476.png?v=1786162511782",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/fgwmYhbx9vVdFXrKG9mSsOV9Pnm.jpg",
       "background": "https://image.tmdb.org/t/p/original/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
@@ -106,32 +106,11 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt32654916",
-      "type": "movie",
-      "name": "Soulm8te",
-      "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-      "rank": 6,
-      "genres": [
-        "Horror",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "imdbRating": 5.8,
-      "imdbId": "tt32654916",
-      "poster": "https://posters-rank.vercel.app/image/landscapett32654916.png?v=1786162155817",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/tZ6PAiaydcJvoz7NWMvqxM0HYR3.jpg",
-      "background": "https://image.tmdb.org/t/p/original/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/8Y2nzFzMRyZiHW7uvhNyLN5sL9M.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt26657236",
       "type": "movie",
       "name": "Backrooms",
       "description": "A strange doorway appears in the basement of a furniture showroom.",
-      "rank": 7,
+      "rank": 6,
       "genres": [
         "Horror",
         "Mystery",
@@ -139,7 +118,7 @@
       ],
       "imdbRating": 6.8,
       "imdbId": "tt26657236",
-      "poster": "https://posters-rank.vercel.app/image/landscapett26657236.png?v=1786162155817",
+      "poster": "https://posters-rank.vercel.app/image/landscapett26657236.png?v=1786162511782",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/qhTnrSsFOZi5oKhkTzvA9468lz9.jpg",
       "background": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
@@ -152,19 +131,40 @@
       "type": "movie",
       "name": "Disclosure Day",
       "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "rank": 8,
+      "rank": 7,
       "genres": [
         "Science Fiction",
         "Thriller"
       ],
       "imdbRating": 6.5,
       "imdbId": "tt15047880",
-      "poster": "https://posters-rank.vercel.app/image/landscapett15047880.png?v=1786162155817",
+      "poster": "https://posters-rank.vercel.app/image/landscapett15047880.png?v=1786162511782",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/kxLjrSvs4WuYszwSxzjbtZcLUcC.jpg",
       "background": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/701aTHRSfEm2IHchyMXoZt4T1yV.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt32654916",
+      "type": "movie",
+      "name": "Soulm8te",
+      "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+      "rank": 8,
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdbRating": 5.8,
+      "imdbId": "tt32654916",
+      "poster": "https://posters-rank.vercel.app/image/landscapett32654916.png?v=1786162511782",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/tZ6PAiaydcJvoz7NWMvqxM0HYR3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/8Y2nzFzMRyZiHW7uvhNyLN5sL9M.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png",
       "posterShape": "landscape"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "imdbRating": 7.4,
       "imdbId": "tt11378946",
-      "poster": "https://posters-rank.vercel.app/image/landscapett11378946.png?v=1786162155817",
+      "poster": "https://posters-rank.vercel.app/image/landscapett11378946.png?v=1786162511782",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/joPZFstfdjpsuzlrnGeCbY0FuPS.jpg",
       "background": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
@@ -199,7 +199,7 @@
       ],
       "imdbRating": 8.2,
       "imdbId": "tt12042730",
-      "poster": "https://posters-rank.vercel.app/image/landscapett12042730.png?v=1786162155817",
+      "poster": "https://posters-rank.vercel.app/image/landscapett12042730.png?v=1786162511782",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
       "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
