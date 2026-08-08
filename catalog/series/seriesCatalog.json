@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-08T03:59:33.659Z",
+  "updated": "2026-08-08T04:09:22.859Z",
   "metas": [
     {
       "id": "tt14688458",
@@ -8,13 +8,13 @@
       "name": "Silo",
       "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "rank": 1,
-      "imdbRating": "8.1",
+      "imdbRating": 8.1,
       "imdbId": "tt14688458",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt14688458.png?v=1786161563494",
+      "poster": "https://posters-rank.vercel.app/image/tt14688458.png?v=1786162155817",
       "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -28,13 +28,13 @@
       "name": "The Shards",
       "description": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
       "rank": 2,
-      "imdbRating": "N/A",
+      "imdbRating": 5.8,
       "imdbId": "tt27543562",
       "genres": [
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt27543562.png?v=1786161563494",
+      "poster": "https://posters-rank.vercel.app/image/tt27543562.png?v=1786162155817",
       "HDPoster": "https://image.tmdb.org/t/p/original/n3f64eaJLRbwt29ewgFpUWSFFH9.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
       "background": "https://image.tmdb.org/t/p/original/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
@@ -48,13 +48,13 @@
       "name": "Ted Lasso",
       "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
       "rank": 3,
-      "imdbRating": "8.7",
+      "imdbRating": 8.7,
       "imdbId": "tt10986410",
       "genres": [
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt10986410.png?v=1786161563494",
+      "poster": "https://posters-rank.vercel.app/image/tt10986410.png?v=1786162155817",
       "HDPoster": "https://image.tmdb.org/t/p/original/t1e0wbSmIzhKoQ586kdbp7oGl2e.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "background": "https://image.tmdb.org/t/p/original/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
@@ -68,13 +68,13 @@
       "name": "Sugar",
       "description": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
       "rank": 4,
-      "imdbRating": "7.4",
+      "imdbRating": 7.4,
       "imdbId": "tt16418808",
       "genres": [
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt16418808.png?v=1786161563494",
+      "poster": "https://posters-rank.vercel.app/image/tt16418808.png?v=1786162155817",
       "HDPoster": "https://image.tmdb.org/t/p/original/9xp2s8WVmf3UEJtQQEMYXN0TWJr.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
       "background": "https://image.tmdb.org/t/p/original/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
@@ -88,7 +88,7 @@
       "name": "Flex X Cop",
       "description": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
       "rank": 5,
-      "imdbRating": "7.9",
+      "imdbRating": 7.8,
       "imdbId": "tt30413181",
       "genres": [
         "Drama",
@@ -96,7 +96,7 @@
         "Mystery",
         "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt30413181.png?v=1786161563494",
+      "poster": "https://posters-rank.vercel.app/image/tt30413181.png?v=1786162155817",
       "HDPoster": "https://image.tmdb.org/t/p/original/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
       "background": "https://image.tmdb.org/t/p/original/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
@@ -110,13 +110,13 @@
       "name": "Stuart Fails to Save the Universe",
       "description": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
       "rank": 6,
-      "imdbRating": "7.0",
+      "imdbRating": 7.1,
       "imdbId": "tt27497393",
       "genres": [
         "Comedy",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt27497393.png?v=1786161563494",
+      "poster": "https://posters-rank.vercel.app/image/tt27497393.png?v=1786162155817",
       "HDPoster": "https://image.tmdb.org/t/p/original/qyoidDZSojQpFdEYygJMkE0m8gC.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
       "background": "https://image.tmdb.org/t/p/original/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
@@ -130,12 +130,12 @@
       "name": "My Life with the Walter Boys",
       "description": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
       "rank": 7,
-      "imdbRating": "6.8",
+      "imdbRating": 6.8,
       "imdbId": "tt8323628",
       "genres": [
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt8323628.png?v=1786161563494",
+      "poster": "https://posters-rank.vercel.app/image/tt8323628.png?v=1786162155817",
       "HDPoster": null,
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
       "background": "https://image.tmdb.org/t/p/original/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
@@ -149,13 +149,13 @@
       "name": "Sterling Point",
       "description": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
       "rank": 8,
-      "imdbRating": "N/A",
+      "imdbRating": 6.8,
       "imdbId": "tt35618070",
       "genres": [
         "Mystery",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt35618070.png?v=1786161563494",
+      "poster": "https://posters-rank.vercel.app/image/tt35618070.png?v=1786162155817",
       "HDPoster": "https://image.tmdb.org/t/p/original/85MT1jmqNov2wcplpTkNAU7NqvA.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
       "background": "https://image.tmdb.org/t/p/original/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
@@ -169,13 +169,13 @@
       "name": "One Hundred Years of Solitude",
       "description": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
       "rank": 9,
-      "imdbRating": "8.3",
+      "imdbRating": 8.3,
       "imdbId": "tt9892936",
       "genres": [
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt9892936.png?v=1786161563494",
+      "poster": "https://posters-rank.vercel.app/image/tt9892936.png?v=1786162155817",
       "HDPoster": "https://image.tmdb.org/t/p/original/2u6gjd0lhNiFDtVB1k0y4kUD7uy.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
       "background": "https://image.tmdb.org/t/p/original/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
@@ -189,12 +189,12 @@
       "name": "Death Inc.",
       "description": "When the founder of Torregrosa Funeral Home dies, his scheming right-hand man is poised to take over the business. But the owner's widow has other plans.",
       "rank": 10,
-      "imdbRating": "7.1",
+      "imdbRating": 7.5,
       "imdbId": "tt29614148",
       "genres": [
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/tt29614148.png?v=1786161563494",
+      "poster": "https://posters-rank.vercel.app/image/tt29614148.png?v=1786162155817",
       "HDPoster": null,
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/g6vptk7afH3OHOKSjdjJJtEoOMh.jpg",
       "background": "https://image.tmdb.org/t/p/original/rNnTUZgVhzJc36FViudinVPBDSh.jpg",
