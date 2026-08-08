@@ -2,6 +2,7 @@ const fs = require("fs");
 
 const API_KEY = process.env.TMDB_KEY;
 const OMDB_KEY = process.env.OMDB_KEY;
+const MDBLIST_KEY = process.env.MDBLIST_KEY;
 const GITHUB_PAGES =
     "https://posters-rank.vercel.app/image";
 
@@ -160,7 +161,31 @@ async function getIMDBRating(imdbId) {
 
     return imdb ?? null;
 }
+async function getIMDBRating2(type, tmdbID) {
+    const response = await fetch(
+        `https://api.mdblist.com/rating/${type}/imdb?apikey=${MDBLIST_KEY}`,
+        {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                ids: [tmdbID],
+                provider: "tmdb"
+            })
+        }
+    );
 
+    if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+    }
+
+    const data = await response.json();
+
+    console.log(data);
+
+    return data.ratings[0]?.rating ?? null;
+}
 /**
  * Check movie digital release
  * TMDB release type 4 = Digital
@@ -331,7 +356,8 @@ async function getTopMovies() {
 
     for (const movie of data.results || []) {
         const imdbId = await getIMDbId("movie", movie.id);
-        const imdbRating = await getIMDBRating(imdbId);
+        // const imdbRating = await getIMDBRating(imdbId);
+        const imdbRating = await getIMDBRating2("movie", movie.id);
         if (movies.length >= 10) {
             break;
         }

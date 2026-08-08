@@ -34,6 +34,7 @@ jobs:
         env:
           TMDB_KEY: ${{ secrets.TMDB_KEY }}
           OMDB_KEY: ${{ secrets.OMDB_KEY }}
+          MDBLIST_KEY: ${{ secrets.MDBLIST_KEY }}
         run: node updateCatalog.js
 
 
