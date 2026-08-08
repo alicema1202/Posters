@@ -685,7 +685,7 @@ function saveLandscapeCatalog(path, name, metas) {
         return {
             ...rest,
             poster: `${GITHUB_PAGES}/${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`,
-            background: `${GITHUB_PAGES}/landscape/${meta.imdbId}-bg.png?v=${BUILD_TIMESTAMP}`
+            background: `${GITHUB_PAGES}/landscape${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`
         };
     });
 
