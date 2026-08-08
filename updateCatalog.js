@@ -667,7 +667,43 @@ function saveCatalog(path, name, metas, posterShape = "portrait") {
 
     console.log("Saved:", path);
 }
+function saveLandscapeCatalog(path, name, metas) {
+    const directory = path.substring(
+        0,
+        path.lastIndexOf("/")
+    );
 
+    if (!fs.existsSync(directory)) {
+        fs.mkdirSync(directory, {
+            recursive: true
+        });
+    }
+
+    metas = metas.map(meta => {
+        const { logo, ...rest } = meta;
+
+        return {
+            ...rest,
+            posterShape: "landscape",
+            poster: `${GITHUB_PAGES}/landscape/${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`
+        };
+    });
+
+    fs.writeFileSync(
+        path,
+        JSON.stringify(
+            {
+                name,
+                updated: new Date().toISOString(),
+                metas
+            },
+            null,
+            2
+        )
+    );
+
+    console.log("Saved landscape:", path);
+}
 /**
  * Main
  */
@@ -723,6 +759,18 @@ async function updateCatalog() {
         "landscape/catalog/series/seriesCatalog-landscape.json",
         "TMDB Top 10 Series Today",
         series,
+        "landscape"
+    );
+    saveLandscapeCatalog(
+        "landscape/catalog/series/series-posters.json",
+        "TMDB Top 10 Series Today",
+        series,
+        "landscape"
+    );
+    saveLandscapeCatalog(
+        "landscape/catalog/series/movies-posters.json",
+        "TMDB Top 10 Movies Today",
+        movies,
         "landscape"
     );
 
