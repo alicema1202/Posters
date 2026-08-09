@@ -149,7 +149,7 @@ async function generatePoster(item, browser) {
 
         path:
             // `image/landscape${item.id.replace("tmdb:", "")}.png`
-            `image/landscape${item.rank}.png`
+            `image/${item.type}-landscape${item.rank}.png`
 
     });
 
