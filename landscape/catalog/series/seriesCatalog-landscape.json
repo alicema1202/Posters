@@ -1,60 +1,20 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-08T18:31:13.046Z",
+  "updated": "2026-08-09T00:41:47.124Z",
   "metas": [
-    {
-      "id": "tt36955608",
-      "type": "series",
-      "name": "Our Sticky Love",
-      "description": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
-      "rank": 1,
-      "imdbRating": null,
-      "imdbId": "tt36955608",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett36955608.png?v=1786213867615",
-      "HDPoster": "https://image.tmdb.org/t/p/original/3Yypc9omHiqUAL46ciYHkyAfjOr.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
-      "background": "https://image.tmdb.org/t/p/original/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/xLZGRhkjuYMIyIiJJNwGUn7idwM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tXfXuhXc6PI9i8x3pkHIouAUNAc.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt38264832",
-      "type": "series",
-      "name": "Ricky Gervais Alley Cats",
-      "description": "Outrageous misadventures run wild as feral cats cause chaos on the streets in this no-holds-barred animated comedy from Ricky Gervais.",
-      "rank": 2,
-      "imdbRating": null,
-      "imdbId": "tt38264832",
-      "genres": [
-        "Animation",
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett38264832.png?v=1786213867615",
-      "HDPoster": "https://image.tmdb.org/t/p/original/tTFmJZrwD1p2fP2MRklMxcpHyHL.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
-      "background": "https://image.tmdb.org/t/p/original/w7yWr1UM413lOAPt2XS7TVALWrg.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/2s7MHoDmFtf5kyoEj3yeBSQLBOT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v8YBxYST6RIJ8H78inXZ4EdH5jt.png",
-      "posterShape": "landscape"
-    },
     {
       "id": "tt14688458",
       "type": "series",
       "name": "Silo",
       "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rank": 3,
+      "rank": 1,
       "imdbRating": 8.1,
       "imdbId": "tt14688458",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett14688458.png?v=1786213867615",
+      "poster": "https://posters-rank.vercel.app/image/landscapett14688458.png?v=1786236091860",
       "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -63,23 +23,23 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt16418808",
+      "id": "tt36955608",
       "type": "series",
-      "name": "Sugar",
-      "description": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
-      "rank": 4,
-      "imdbRating": 7.4,
-      "imdbId": "tt16418808",
+      "name": "Our Sticky Love",
+      "description": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
+      "rank": 2,
+      "imdbRating": null,
+      "imdbId": "tt36955608",
       "genres": [
         "Drama",
-        "Mystery"
+        "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett16418808.png?v=1786213867615",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9xp2s8WVmf3UEJtQQEMYXN0TWJr.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-      "background": "https://image.tmdb.org/t/p/original/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o0E3l9TcfJSTY89ckCICY387OFM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5RK1xYHGELAkLRkjcwJrCHomJSp.png",
+      "poster": "https://posters-rank.vercel.app/image/landscapett36955608.png?v=1786236091860",
+      "HDPoster": "https://image.tmdb.org/t/p/original/3Yypc9omHiqUAL46ciYHkyAfjOr.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/xLZGRhkjuYMIyIiJJNwGUn7idwM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tXfXuhXc6PI9i8x3pkHIouAUNAc.png",
       "posterShape": "landscape"
     },
     {
@@ -87,14 +47,14 @@
       "type": "series",
       "name": "The Shards",
       "description": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
-      "rank": 5,
+      "rank": 3,
       "imdbRating": 5.8,
       "imdbId": "tt27543562",
       "genres": [
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett27543562.png?v=1786213867615",
+      "poster": "https://posters-rank.vercel.app/image/landscapett27543562.png?v=1786236091860",
       "HDPoster": "https://image.tmdb.org/t/p/original/n3f64eaJLRbwt29ewgFpUWSFFH9.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
       "background": "https://image.tmdb.org/t/p/original/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
@@ -103,25 +63,64 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt30413181",
+      "id": "tt38264832",
       "type": "series",
-      "name": "Flex X Cop",
-      "description": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
-      "rank": 6,
-      "imdbRating": 7.8,
-      "imdbId": "tt30413181",
+      "name": "Ricky Gervais Alley Cats",
+      "description": "Outrageous misadventures run wild as feral cats cause chaos on the streets in this no-holds-barred animated comedy from Ricky Gervais.",
+      "rank": 4,
+      "imdbRating": null,
+      "imdbId": "tt38264832",
       "genres": [
-        "Drama",
-        "Crime",
-        "Mystery",
-        "Action & Adventure"
+        "Animation",
+        "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett30413181.png?v=1786213867615",
-      "HDPoster": "https://image.tmdb.org/t/p/original/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
-      "background": "https://image.tmdb.org/t/p/original/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/18tu5KcxUHoMjr0dyuXkAUDqWDJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/42Dzr3D1YEeCsFFE7OD2nm4dH1p.png",
+      "poster": "https://posters-rank.vercel.app/image/landscapett38264832.png?v=1786236091860",
+      "HDPoster": "https://image.tmdb.org/t/p/original/tTFmJZrwD1p2fP2MRklMxcpHyHL.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+      "background": "https://image.tmdb.org/t/p/original/w7yWr1UM413lOAPt2XS7TVALWrg.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/2s7MHoDmFtf5kyoEj3yeBSQLBOT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v8YBxYST6RIJ8H78inXZ4EdH5jt.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt0149460",
+      "type": "series",
+      "name": "Futurama",
+      "description": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "rank": 5,
+      "imdbRating": 8.5,
+      "imdbId": "tt0149460",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/landscapett0149460.png?v=1786236091860",
+      "HDPoster": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/jYuP1J52HzbyeSdPj3Ix0BnKVxy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6jNQtbazLLAu5gLzW46FP8EGePb.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt35618070",
+      "type": "series",
+      "name": "Sterling Point",
+      "description": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
+      "rank": 6,
+      "imdbRating": 6.8,
+      "imdbId": "tt35618070",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/landscapett35618070.png?v=1786236091860",
+      "HDPoster": "https://image.tmdb.org/t/p/original/85MT1jmqNov2wcplpTkNAU7NqvA.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/izkto5rArIPALMWzlwsaxVt4I1p.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qCT5dwsqHa0VlKg2kJUt6ebHzq2.png",
       "posterShape": "landscape"
     },
     {
@@ -136,7 +135,7 @@
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett10986410.png?v=1786213867615",
+      "poster": "https://posters-rank.vercel.app/image/landscapett10986410.png?v=1786236091860",
       "HDPoster": "https://image.tmdb.org/t/p/original/t1e0wbSmIzhKoQ586kdbp7oGl2e.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "background": "https://image.tmdb.org/t/p/original/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
@@ -145,51 +144,11 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt35618070",
-      "type": "series",
-      "name": "Sterling Point",
-      "description": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
-      "rank": 8,
-      "imdbRating": 6.8,
-      "imdbId": "tt35618070",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett35618070.png?v=1786213867615",
-      "HDPoster": "https://image.tmdb.org/t/p/original/85MT1jmqNov2wcplpTkNAU7NqvA.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-      "background": "https://image.tmdb.org/t/p/original/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/izkto5rArIPALMWzlwsaxVt4I1p.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qCT5dwsqHa0VlKg2kJUt6ebHzq2.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt27497393",
-      "type": "series",
-      "name": "Stuart Fails to Save the Universe",
-      "description": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "rank": 9,
-      "imdbRating": 7.1,
-      "imdbId": "tt27497393",
-      "genres": [
-        "Comedy",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett27497393.png?v=1786213867615",
-      "HDPoster": "https://image.tmdb.org/t/p/original/lMvWtYbm7ljZxYoBFfDZcjKlrJN.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
-      "background": "https://image.tmdb.org/t/p/original/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bOhpVQ6BLoKoS5ygtDZayuscP88.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xW9OE6KMDxModOcrCCTZwFPwJyA.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt11198330",
       "type": "series",
       "name": "House of the Dragon",
       "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "rank": 10,
+      "rank": 8,
       "imdbRating": 8.3,
       "imdbId": "tt11198330",
       "genres": [
@@ -197,12 +156,51 @@
         "Drama",
         "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett11198330.png?v=1786213867615",
+      "poster": "https://posters-rank.vercel.app/image/landscapett11198330.png?v=1786236091860",
       "HDPoster": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "background": "https://image.tmdb.org/t/p/original/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt36643714",
+      "type": "series",
+      "name": "Operation Safed Sagar: The Highest Air Force Mission",
+      "description": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
+      "rank": 9,
+      "imdbRating": null,
+      "imdbId": "tt36643714",
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/landscapett36643714.png?v=1786236091860",
+      "HDPoster": null,
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bKvEIOHJ2UpK6NhF86n36dOmfBY.jpg",
+      "backdropPoster": null,
+      "logo": "https://image.tmdb.org/t/p/w500/ykpqLpYgEtOYQQGB3MU1yYHOtpT.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt16418808",
+      "type": "series",
+      "name": "Sugar",
+      "description": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
+      "rank": 10,
+      "imdbRating": 7.4,
+      "imdbId": "tt16418808",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/landscapett16418808.png?v=1786236091860",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9xp2s8WVmf3UEJtQQEMYXN0TWJr.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o0E3l9TcfJSTY89ckCICY387OFM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5RK1xYHGELAkLRkjcwJrCHomJSp.png",
       "posterShape": "landscape"
     }
   ]

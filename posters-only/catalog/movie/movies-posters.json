@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-08T18:31:13.047Z",
+  "updated": "2026-08-09T00:41:47.125Z",
   "metas": [
     {
       "id": "tt32268156",
@@ -15,18 +15,36 @@
       ],
       "imdbRating": null,
       "imdbId": "tt32268156",
-      "poster": "https://posters-rank.vercel.app/image/tt32268156.png?v=1786213867615",
+      "poster": "https://posters-rank.vercel.app/image/tt32268156.png?v=1786236091860",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/9wCrNgVcaOhS5jPK9B5reFIWvxh.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett32268156.png?v=1786213867615",
+      "background": "https://posters-rank.vercel.app/image/landscapett32268156.png?v=1786236091860",
       "backdropPoster": "https://image.tmdb.org/t/p/original/p0qXMcW24HKlCFN6Q8FWA5RpkmA.jpg"
+    },
+    {
+      "id": "tt37287335",
+      "type": "movie",
+      "name": "Obsession",
+      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "rank": 2,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdbRating": 7.9,
+      "imdbId": "tt37287335",
+      "poster": "https://posters-rank.vercel.app/image/tt37287335.png?v=1786236091860",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
+      "background": "https://posters-rank.vercel.app/image/landscapett37287335.png?v=1786236091860",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/vj3niHx3ikSAIr1O8A2uBgwsuTp.jpg"
     },
     {
       "id": "tt32358025",
       "type": "movie",
       "name": "Beast Race",
       "description": "In future Rio de Janeiro, a young leader of the resistance must enter a deadly parkour-inspired competition in order to save his sister's life.",
-      "rank": 2,
+      "rank": 3,
       "genres": [
         "Action",
         "Science Fiction",
@@ -34,10 +52,10 @@
       ],
       "imdbRating": 6.3,
       "imdbId": "tt32358025",
-      "poster": "https://posters-rank.vercel.app/image/tt32358025.png?v=1786213867615",
+      "poster": "https://posters-rank.vercel.app/image/tt32358025.png?v=1786236091860",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/1dQI9PSRBpogFwC2VAKf4nlcg45.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett32358025.png?v=1786213867615",
+      "background": "https://posters-rank.vercel.app/image/landscapett32358025.png?v=1786236091860",
       "backdropPoster": "https://image.tmdb.org/t/p/original/79K4To98sM0xKmKfMCDnMuwtXq6.jpg"
     },
     {
@@ -45,35 +63,17 @@
       "type": "movie",
       "name": "Evil Dead Burn",
       "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-      "rank": 3,
+      "rank": 4,
       "genres": [
         "Horror"
       ],
       "imdbRating": 6.5,
       "imdbId": "tt31170389",
-      "poster": "https://posters-rank.vercel.app/image/tt31170389.png?v=1786213867615",
+      "poster": "https://posters-rank.vercel.app/image/tt31170389.png?v=1786236091860",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/viHFZ7GlzMcmPbADvP4Vd6Ema0g.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett31170389.png?v=1786213867615",
+      "background": "https://posters-rank.vercel.app/image/landscapett31170389.png?v=1786236091860",
       "backdropPoster": "https://image.tmdb.org/t/p/original/u80cOMncKRSEEwrE9T8NTjX0DNP.jpg"
-    },
-    {
-      "id": "tt37287335",
-      "type": "movie",
-      "name": "Obsession",
-      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rank": 4,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "imdbRating": 7.9,
-      "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/tt37287335.png?v=1786213867615",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett37287335.png?v=1786213867615",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/vj3niHx3ikSAIr1O8A2uBgwsuTp.jpg"
     },
     {
       "id": "tt8814476",
@@ -88,10 +88,10 @@
       ],
       "imdbRating": 5.9,
       "imdbId": "tt8814476",
-      "poster": "https://posters-rank.vercel.app/image/tt8814476.png?v=1786213867615",
+      "poster": "https://posters-rank.vercel.app/image/tt8814476.png?v=1786236091860",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/fgwmYhbx9vVdFXrKG9mSsOV9Pnm.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett8814476.png?v=1786213867615",
+      "background": "https://posters-rank.vercel.app/image/landscapett8814476.png?v=1786236091860",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9WyCDqi6ogIWYCnlCLJfvNuR9dF.jpg"
     },
     {
@@ -107,66 +107,28 @@
       ],
       "imdbRating": 6.8,
       "imdbId": "tt26657236",
-      "poster": "https://posters-rank.vercel.app/image/tt26657236.png?v=1786213867615",
+      "poster": "https://posters-rank.vercel.app/image/tt26657236.png?v=1786236091860",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett26657236.png?v=1786213867615",
+      "background": "https://posters-rank.vercel.app/image/landscapett26657236.png?v=1786236091860",
       "backdropPoster": "https://image.tmdb.org/t/p/original/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg"
-    },
-    {
-      "id": "tt18259538",
-      "type": "movie",
-      "name": "Avatar Aang: The Last Airbender",
-      "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "rank": 7,
-      "genres": [
-        "Animation",
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "imdbRating": 7.8,
-      "imdbId": "tt18259538",
-      "poster": "https://posters-rank.vercel.app/image/tt18259538.png?v=1786213867615",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/74iiUwzqe2BnRZl7QD4LVQUQKHb.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett18259538.png?v=1786213867615",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/Y4xpldwjXLaIOSferMrtKzAQJl.jpg"
-    },
-    {
-      "id": "tt33612209",
-      "type": "movie",
-      "name": "The Devil Wears Prada 2",
-      "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "rank": 8,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "imdbRating": 6.4,
-      "imdbId": "tt33612209",
-      "poster": "https://posters-rank.vercel.app/image/tt33612209.png?v=1786213867615",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/1RsYJg3qmMQnoozejpSL2ZLS37p.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett33612209.png?v=1786213867615",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/xHyWDAJ4Dz3eVUqEQ2HQ6pXISDL.jpg"
     },
     {
       "id": "tt15047880",
       "type": "movie",
       "name": "Disclosure Day",
       "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "rank": 9,
+      "rank": 7,
       "genres": [
         "Science Fiction",
         "Thriller"
       ],
       "imdbRating": 6.5,
       "imdbId": "tt15047880",
-      "poster": "https://posters-rank.vercel.app/image/tt15047880.png?v=1786213867615",
+      "poster": "https://posters-rank.vercel.app/image/tt15047880.png?v=1786236091860",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/kxLjrSvs4WuYszwSxzjbtZcLUcC.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett15047880.png?v=1786213867615",
+      "background": "https://posters-rank.vercel.app/image/landscapett15047880.png?v=1786236091860",
       "backdropPoster": "https://image.tmdb.org/t/p/original/701aTHRSfEm2IHchyMXoZt4T1yV.jpg"
     },
     {
@@ -174,18 +136,55 @@
       "type": "movie",
       "name": "Project Hail Mary",
       "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rank": 10,
+      "rank": 8,
       "genres": [
         "Science Fiction",
         "Adventure"
       ],
       "imdbRating": 8.2,
       "imdbId": "tt12042730",
-      "poster": "https://posters-rank.vercel.app/image/tt12042730.png?v=1786213867615",
+      "poster": "https://posters-rank.vercel.app/image/tt12042730.png?v=1786236091860",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscapett12042730.png?v=1786213867615",
+      "background": "https://posters-rank.vercel.app/image/landscapett12042730.png?v=1786236091860",
       "backdropPoster": "https://image.tmdb.org/t/p/original/7mL0PR2jGC283JbPApFS8aJ2x1F.jpg"
+    },
+    {
+      "id": "tt11378946",
+      "type": "movie",
+      "name": "Michael",
+      "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "rank": 9,
+      "genres": [
+        "Music",
+        "Drama"
+      ],
+      "imdbRating": 7.4,
+      "imdbId": "tt11378946",
+      "poster": "https://posters-rank.vercel.app/image/tt11378946.png?v=1786236091860",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/joPZFstfdjpsuzlrnGeCbY0FuPS.jpg",
+      "background": "https://posters-rank.vercel.app/image/landscapett11378946.png?v=1786236091860",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/5HgVwIzug5iCoprtj4ZSvcHjjI1.jpg"
+    },
+    {
+      "id": "tt32654916",
+      "type": "movie",
+      "name": "Soulm8te",
+      "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+      "rank": 10,
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdbRating": 5.8,
+      "imdbId": "tt32654916",
+      "poster": "https://posters-rank.vercel.app/image/tt32654916.png?v=1786236091860",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/tZ6PAiaydcJvoz7NWMvqxM0HYR3.jpg",
+      "background": "https://posters-rank.vercel.app/image/landscapett32654916.png?v=1786236091860",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/8Y2nzFzMRyZiHW7uvhNyLN5sL9M.jpg"
     }
   ]
 }
