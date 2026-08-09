@@ -687,10 +687,16 @@ function saveLandscapeCatalog(path, name, metas) {
 
         return {
             ...rest,
+<<<<<<< HEAD
             // poster: `${GITHUB_PAGES}/${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`,
             poster: `${GITHUB_PAGES}/${meta.rank}.png?v=${BUILD_TIMESTAMP}`,
             // background: `${GITHUB_PAGES}/landscape${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`
             background: `${GITHUB_PAGES}/landscape${meta.rank}.png?v=${BUILD_TIMESTAMP}`
+=======
+            poster: `${GITHUB_PAGES}/${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`,
+            background: `${GITHUB_PAGES}/landscape${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`,
+        //    logo:  `https://posters-rank.vercel.app/transparent.png`
+>>>>>>> 900a07bfac42d99906ff34762aa854bdae65a3ce
         };
     });
 
