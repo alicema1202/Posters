@@ -148,7 +148,8 @@ async function generatePoster(item, browser) {
     await page.screenshot({
 
         path:
-            `image/landscape${item.id.replace("tmdb:", "")}.png`
+            // `image/landscape${item.id.replace("tmdb:", "")}.png`
+            `image/landscape${item.rank}.png`
 
     });
 
