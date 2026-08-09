@@ -446,7 +446,7 @@ async function getTopMovies() {
             imdbId: imdbId,
             poster:
                 // `${GITHUB_PAGES}/${imdbId}.png?v=${BUILD_TIMESTAMP}`,
-                `${GITHUB_PAGES}/${meta.type}-${movies.length + 1}.png?v=${BUILD_TIMESTAMP}`,
+                `${GITHUB_PAGES}/movie-${movies.length + 1}.png?v=${BUILD_TIMESTAMP}`,
 
 
             tmdbPoster:
@@ -589,7 +589,7 @@ async function getTopSeries() {
 
             poster:
                 // `${GITHUB_PAGES}/${imdbId}.png?v=${BUILD_TIMESTAMP}`,
-                `${GITHUB_PAGES}/${meta.type}-${series.length + 1}.png?v=${BUILD_TIMESTAMP}`,
+                `${GITHUB_PAGES}/series-${series.length + 1}.png?v=${BUILD_TIMESTAMP}`,
 
             HDPoster:
                 images.HDPoster,
