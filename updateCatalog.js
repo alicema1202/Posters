@@ -446,7 +446,7 @@ async function getTopMovies() {
             imdbId: imdbId,
             poster:
                 // `${GITHUB_PAGES}/${imdbId}.png?v=${BUILD_TIMESTAMP}`,
-                `${GITHUB_PAGES}/${movies.length + 1}.png?v=${BUILD_TIMESTAMP}`,
+                `${GITHUB_PAGES}/${meta.type}-${movies.length + 1}.png?v=${BUILD_TIMESTAMP}`,
 
 
             tmdbPoster:
@@ -589,7 +589,7 @@ async function getTopSeries() {
 
             poster:
                 // `${GITHUB_PAGES}/${imdbId}.png?v=${BUILD_TIMESTAMP}`,
-                `${GITHUB_PAGES}/${series.length + 1}.png?v=${BUILD_TIMESTAMP}`,
+                `${GITHUB_PAGES}/${meta.type}-${series.length + 1}.png?v=${BUILD_TIMESTAMP}`,
 
             HDPoster:
                 images.HDPoster,
@@ -651,7 +651,7 @@ function saveCatalog(path, name, metas, posterShape = "portrait") {
         metas = metas.map(meta => ({
             ...meta,
             // poster: `${GITHUB_PAGES}/landscape${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`
-            poster: `${GITHUB_PAGES}/landscape${meta.rank}.png?v=${BUILD_TIMESTAMP}`
+            poster: `${GITHUB_PAGES}/${meta.type}-landscape${meta.rank}.png?v=${BUILD_TIMESTAMP}`
         }));
     }
 
@@ -688,9 +688,9 @@ function saveLandscapeCatalog(path, name, metas) {
         return {
             ...rest,
             // poster: `${GITHUB_PAGES}/${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`,
-            poster: `${GITHUB_PAGES}/${meta.rank}.png?v=${BUILD_TIMESTAMP}`,
+            poster: `${GITHUB_PAGES}/${meta.type}-${meta.rank}.png?v=${BUILD_TIMESTAMP}`,
             // background: `${GITHUB_PAGES}/landscape${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`
-            background: `${GITHUB_PAGES}/landscape${meta.rank}.png?v=${BUILD_TIMESTAMP}`
+            background: `${GITHUB_PAGES}/${meta.type}-landscape${meta.rank}.png?v=${BUILD_TIMESTAMP}`
         };
     });
 
