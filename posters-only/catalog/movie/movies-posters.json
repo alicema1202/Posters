@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-09T07:28:53.952Z",
+  "updated": "2026-08-09T07:39:12.711Z",
   "metas": [
     {
       "id": "tt32268156",
@@ -15,10 +15,10 @@
       ],
       "imdbRating": null,
       "imdbId": "tt32268156",
-      "poster": "https://posters-rank.vercel.app/image/1.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1786261140176",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/9wCrNgVcaOhS5jPK9B5reFIWvxh.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape1.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/p0qXMcW24HKlCFN6Q8FWA5RpkmA.jpg"
     },
     {
@@ -33,10 +33,10 @@
       ],
       "imdbRating": 7.9,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/2.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1786261140176",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape2.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/vj3niHx3ikSAIr1O8A2uBgwsuTp.jpg"
     },
     {
@@ -50,10 +50,10 @@
       ],
       "imdbRating": 6.5,
       "imdbId": "tt31170389",
-      "poster": "https://posters-rank.vercel.app/image/3.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1786261140176",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/viHFZ7GlzMcmPbADvP4Vd6Ema0g.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape3.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/u80cOMncKRSEEwrE9T8NTjX0DNP.jpg"
     },
     {
@@ -69,10 +69,10 @@
       ],
       "imdbRating": 5.9,
       "imdbId": "tt8814476",
-      "poster": "https://posters-rank.vercel.app/image/4.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1786261140176",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/fgwmYhbx9vVdFXrKG9mSsOV9Pnm.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape4.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9WyCDqi6ogIWYCnlCLJfvNuR9dF.jpg"
     },
     {
@@ -88,10 +88,10 @@
       ],
       "imdbRating": 6.8,
       "imdbId": "tt26657236",
-      "poster": "https://posters-rank.vercel.app/image/5.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1786261140176",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape5.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg"
     },
     {
@@ -107,10 +107,10 @@
       ],
       "imdbRating": 6.3,
       "imdbId": "tt32358025",
-      "poster": "https://posters-rank.vercel.app/image/6.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1786261140176",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/1dQI9PSRBpogFwC2VAKf4nlcg45.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape6.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/79K4To98sM0xKmKfMCDnMuwtXq6.jpg"
     },
     {
@@ -125,10 +125,10 @@
       ],
       "imdbRating": 6.5,
       "imdbId": "tt15047880",
-      "poster": "https://posters-rank.vercel.app/image/7.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1786261140176",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/kxLjrSvs4WuYszwSxzjbtZcLUcC.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape7.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/701aTHRSfEm2IHchyMXoZt4T1yV.jpg"
     },
     {
@@ -143,10 +143,10 @@
       ],
       "imdbRating": 8.2,
       "imdbId": "tt12042730",
-      "poster": "https://posters-rank.vercel.app/image/8.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1786261140176",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape8.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/7mL0PR2jGC283JbPApFS8aJ2x1F.jpg"
     },
     {
@@ -161,10 +161,10 @@
       ],
       "imdbRating": 6.4,
       "imdbId": "tt39143902",
-      "poster": "https://posters-rank.vercel.app/image/9.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1786261140176",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/ltaH5yyUd73VNWD9VshcNib3CnF.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape9.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/aT0IYDtMAQLdv0yPfckWG58Lt3a.jpg"
     },
     {
@@ -181,10 +181,10 @@
       ],
       "imdbRating": 7.8,
       "imdbId": "tt18259538",
-      "poster": "https://posters-rank.vercel.app/image/10.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1786261140176",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/74iiUwzqe2BnRZl7QD4LVQUQKHb.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape10.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/Y4xpldwjXLaIOSferMrtKzAQJl.jpg"
     }
   ]

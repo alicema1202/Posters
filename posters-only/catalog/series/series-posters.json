@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-09T07:28:53.952Z",
+  "updated": "2026-08-09T07:39:12.711Z",
   "metas": [
     {
       "id": "tt36955608",
@@ -14,10 +14,10 @@
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/1.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1786261140176",
       "HDPoster": "https://image.tmdb.org/t/p/original/3Yypc9omHiqUAL46ciYHkyAfjOr.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape1.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/xLZGRhkjuYMIyIiJJNwGUn7idwM.jpg"
     },
     {
@@ -32,10 +32,10 @@
         "Animation",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/2.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1786261140176",
       "HDPoster": "https://image.tmdb.org/t/p/original/tTFmJZrwD1p2fP2MRklMxcpHyHL.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape2.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/2s7MHoDmFtf5kyoEj3yeBSQLBOT.jpg"
     },
     {
@@ -50,10 +50,10 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/3.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1786261140176",
       "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape3.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg"
     },
     {
@@ -69,10 +69,10 @@
         "Drama",
         "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/4.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1786261140176",
       "HDPoster": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape4.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg"
     },
     {
@@ -87,10 +87,10 @@
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/5.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1786261140176",
       "HDPoster": "https://image.tmdb.org/t/p/original/2u6gjd0lhNiFDtVB1k0y4kUD7uy.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape5.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/pqsmFDTdjzkxmGdiuZw2KxWVz8O.jpg"
     },
     {
@@ -107,10 +107,10 @@
         "Mystery",
         "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/6.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1786261140176",
       "HDPoster": "https://image.tmdb.org/t/p/original/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape6.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/18tu5KcxUHoMjr0dyuXkAUDqWDJ.jpg"
     },
     {
@@ -125,10 +125,10 @@
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/7.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1786261140176",
       "HDPoster": "https://image.tmdb.org/t/p/original/t1e0wbSmIzhKoQ586kdbp7oGl2e.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape7.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/kP3v1eZIrL0xAA1BdmBKStapzIQ.jpg"
     },
     {
@@ -143,10 +143,10 @@
         "Drama",
         "War & Politics"
       ],
-      "poster": "https://posters-rank.vercel.app/image/8.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1786261140176",
       "HDPoster": "https://image.tmdb.org/t/p/original/4K5Jdry2gZj5XbomCa0H56g9XCs.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape8.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg"
     },
     {
@@ -161,10 +161,10 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/9.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1786261140176",
       "HDPoster": "https://image.tmdb.org/t/p/original/n3f64eaJLRbwt29ewgFpUWSFFH9.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape9.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1786261140176",
       "backdropPoster": "https://image.tmdb.org/t/p/original/i3RJx0zwaEWNH5BveK8RMPIP7md.jpg"
     },
     {
@@ -178,10 +178,10 @@
       "genres": [
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/10.png?v=1786260527512",
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1786261140176",
       "HDPoster": null,
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
-      "background": "https://posters-rank.vercel.app/image/landscape10.png?v=1786260527512",
+      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1786261140176",
       "backdropPoster": null
     }
   ]
