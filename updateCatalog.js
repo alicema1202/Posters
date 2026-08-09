@@ -686,7 +686,7 @@ function saveLandscapeCatalog(path, name, metas) {
             ...rest,
             poster: `${GITHUB_PAGES}/${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`,
             background: `${GITHUB_PAGES}/landscape${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`,
-            logo:  `https://posters-rank.vercel.app/transparent.png`
+        //    logo:  `https://posters-rank.vercel.app/transparent.png`
         };
     });
 
