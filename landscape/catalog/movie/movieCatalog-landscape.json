@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-09T04:45:12.953Z",
+  "updated": "2026-08-09T07:28:53.951Z",
   "metas": [
     {
       "id": "tt32268156",
@@ -15,7 +15,7 @@
       ],
       "imdbRating": null,
       "imdbId": "tt32268156",
-      "poster": "https://posters-rank.vercel.app/image/landscapett32268156.png?v=1786250707417",
+      "poster": "https://posters-rank.vercel.app/image/landscape1.png?v=1786260527512",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/9wCrNgVcaOhS5jPK9B5reFIWvxh.jpg",
       "background": "https://image.tmdb.org/t/p/original/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
@@ -35,7 +35,7 @@
       ],
       "imdbRating": 7.9,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/landscapett37287335.png?v=1786250707417",
+      "poster": "https://posters-rank.vercel.app/image/landscape2.png?v=1786260527512",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
       "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
@@ -54,7 +54,7 @@
       ],
       "imdbRating": 6.5,
       "imdbId": "tt31170389",
-      "poster": "https://posters-rank.vercel.app/image/landscapett31170389.png?v=1786250707417",
+      "poster": "https://posters-rank.vercel.app/image/landscape3.png?v=1786260527512",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/viHFZ7GlzMcmPbADvP4Vd6Ema0g.jpg",
       "background": "https://image.tmdb.org/t/p/original/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
@@ -75,7 +75,7 @@
       ],
       "imdbRating": 5.9,
       "imdbId": "tt8814476",
-      "poster": "https://posters-rank.vercel.app/image/landscapett8814476.png?v=1786250707417",
+      "poster": "https://posters-rank.vercel.app/image/landscape4.png?v=1786260527512",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/fgwmYhbx9vVdFXrKG9mSsOV9Pnm.jpg",
       "background": "https://image.tmdb.org/t/p/original/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
@@ -84,32 +84,11 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt32358025",
-      "type": "movie",
-      "name": "Beast Race",
-      "description": "In future Rio de Janeiro, a young leader of the resistance must enter a deadly parkour-inspired competition in order to save his sister's life.",
-      "rank": 5,
-      "genres": [
-        "Action",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "imdbRating": 6.3,
-      "imdbId": "tt32358025",
-      "poster": "https://posters-rank.vercel.app/image/landscapett32358025.png?v=1786250707417",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/1dQI9PSRBpogFwC2VAKf4nlcg45.jpg",
-      "background": "https://image.tmdb.org/t/p/original/mGcCJvT8YYvf205kYvaTM3QzB8k.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/79K4To98sM0xKmKfMCDnMuwtXq6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gmpB2eNbz29ZBw5MAhpIg0mKXwb.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt26657236",
       "type": "movie",
       "name": "Backrooms",
       "description": "A strange doorway appears in the basement of a furniture showroom.",
-      "rank": 6,
+      "rank": 5,
       "genres": [
         "Horror",
         "Mystery",
@@ -117,12 +96,33 @@
       ],
       "imdbRating": 6.8,
       "imdbId": "tt26657236",
-      "poster": "https://posters-rank.vercel.app/image/landscapett26657236.png?v=1786250707417",
+      "poster": "https://posters-rank.vercel.app/image/landscape5.png?v=1786260527512",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg",
       "background": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/g0PswKqAFJdwGK3d1fKvj8LGnrW.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt32358025",
+      "type": "movie",
+      "name": "Beast Race",
+      "description": "In future Rio de Janeiro, a young leader of the resistance must enter a deadly parkour-inspired competition in order to save his sister's life.",
+      "rank": 6,
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdbRating": 6.3,
+      "imdbId": "tt32358025",
+      "poster": "https://posters-rank.vercel.app/image/landscape6.png?v=1786260527512",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/1dQI9PSRBpogFwC2VAKf4nlcg45.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1WWukZCoavYEofNVRHJqE4t1urW.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/79K4To98sM0xKmKfMCDnMuwtXq6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gmpB2eNbz29ZBw5MAhpIg0mKXwb.png",
       "posterShape": "landscape"
     },
     {
@@ -137,7 +137,7 @@
       ],
       "imdbRating": 6.5,
       "imdbId": "tt15047880",
-      "poster": "https://posters-rank.vercel.app/image/landscapett15047880.png?v=1786250707417",
+      "poster": "https://posters-rank.vercel.app/image/landscape7.png?v=1786260527512",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/kxLjrSvs4WuYszwSxzjbtZcLUcC.jpg",
       "background": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
@@ -157,7 +157,7 @@
       ],
       "imdbRating": 8.2,
       "imdbId": "tt12042730",
-      "poster": "https://posters-rank.vercel.app/image/landscapett12042730.png?v=1786250707417",
+      "poster": "https://posters-rank.vercel.app/image/landscape8.png?v=1786260527512",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
       "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
@@ -166,44 +166,45 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt32654916",
-      "type": "movie",
-      "name": "Soulm8te",
-      "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-      "rank": 9,
-      "genres": [
-        "Horror",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "imdbRating": 5.8,
-      "imdbId": "tt32654916",
-      "poster": "https://posters-rank.vercel.app/image/landscapett32654916.png?v=1786250707417",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/tZ6PAiaydcJvoz7NWMvqxM0HYR3.jpg",
-      "background": "https://image.tmdb.org/t/p/original/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/8Y2nzFzMRyZiHW7uvhNyLN5sL9M.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qAgFWZZFCtQUx2b7QcCzFE20yyW.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt39143902",
       "type": "movie",
       "name": "Leviticus",
       "description": "Two teenage boys must escape a violent entity that takes the form of the person they desire most:  each other.",
-      "rank": 10,
+      "rank": 9,
       "genres": [
         "Horror",
         "Romance"
       ],
       "imdbRating": 6.4,
       "imdbId": "tt39143902",
-      "poster": "https://posters-rank.vercel.app/image/landscapett39143902.png?v=1786250707417",
+      "poster": "https://posters-rank.vercel.app/image/landscape9.png?v=1786260527512",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/ltaH5yyUd73VNWD9VshcNib3CnF.jpg",
       "background": "https://image.tmdb.org/t/p/original/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/aT0IYDtMAQLdv0yPfckWG58Lt3a.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/zV3FkR6PX2k3FRDZaLVsjFWgoSt.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt18259538",
+      "type": "movie",
+      "name": "Avatar Aang: The Last Airbender",
+      "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "rank": 10,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "imdbRating": 7.8,
+      "imdbId": "tt18259538",
+      "poster": "https://posters-rank.vercel.app/image/landscape10.png?v=1786260527512",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/74iiUwzqe2BnRZl7QD4LVQUQKHb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/Y4xpldwjXLaIOSferMrtKzAQJl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vVzGZ7ghSF1tkeuJP1bMFd3pMdY.png",
       "posterShape": "landscape"
     }
   ]

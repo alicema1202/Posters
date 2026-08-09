@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-09T04:45:12.953Z",
+  "updated": "2026-08-09T07:28:53.951Z",
   "metas": [
     {
       "id": "tt36955608",
@@ -14,7 +14,7 @@
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett36955608.png?v=1786250707417",
+      "poster": "https://posters-rank.vercel.app/image/landscape1.png?v=1786260527512",
       "HDPoster": "https://image.tmdb.org/t/p/original/3Yypc9omHiqUAL46ciYHkyAfjOr.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
       "background": "https://image.tmdb.org/t/p/original/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
@@ -23,43 +23,43 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt14688458",
-      "type": "series",
-      "name": "Silo",
-      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rank": 2,
-      "imdbRating": 8.1,
-      "imdbId": "tt14688458",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett14688458.png?v=1786250707417",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt38264832",
       "type": "series",
       "name": "Ricky Gervais Alley Cats",
       "description": "Outrageous misadventures run wild as feral cats cause chaos on the streets in this no-holds-barred animated comedy from Ricky Gervais.",
-      "rank": 3,
+      "rank": 2,
       "imdbRating": null,
       "imdbId": "tt38264832",
       "genres": [
         "Animation",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett38264832.png?v=1786250707417",
+      "poster": "https://posters-rank.vercel.app/image/landscape2.png?v=1786260527512",
       "HDPoster": "https://image.tmdb.org/t/p/original/tTFmJZrwD1p2fP2MRklMxcpHyHL.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
       "background": "https://image.tmdb.org/t/p/original/w7yWr1UM413lOAPt2XS7TVALWrg.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/2s7MHoDmFtf5kyoEj3yeBSQLBOT.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/v8YBxYST6RIJ8H78inXZ4EdH5jt.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "rank": 3,
+      "imdbRating": 8.1,
+      "imdbId": "tt14688458",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/landscape3.png?v=1786260527512",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
       "posterShape": "landscape"
     },
     {
@@ -75,7 +75,7 @@
         "Drama",
         "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett11198330.png?v=1786250707417",
+      "poster": "https://posters-rank.vercel.app/image/landscape4.png?v=1786260527512",
       "HDPoster": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "background": "https://image.tmdb.org/t/p/original/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
@@ -84,43 +84,23 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt27543562",
+      "id": "tt9892936",
       "type": "series",
-      "name": "The Shards",
-      "description": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+      "name": "One Hundred Years of Solitude",
+      "description": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
       "rank": 5,
-      "imdbRating": 5.8,
-      "imdbId": "tt27543562",
+      "imdbRating": 8.3,
+      "imdbId": "tt9892936",
       "genres": [
         "Drama",
-        "Mystery"
+        "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett27543562.png?v=1786250707417",
-      "HDPoster": "https://image.tmdb.org/t/p/original/n3f64eaJLRbwt29ewgFpUWSFFH9.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-      "background": "https://image.tmdb.org/t/p/original/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/i3RJx0zwaEWNH5BveK8RMPIP7md.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lGMA0PAKUgrgpbJiOAmoSqqQgDW.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt10986410",
-      "type": "series",
-      "name": "Ted Lasso",
-      "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "rank": 6,
-      "imdbRating": 8.7,
-      "imdbId": "tt10986410",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett10986410.png?v=1786250707417",
-      "HDPoster": "https://image.tmdb.org/t/p/original/t1e0wbSmIzhKoQ586kdbp7oGl2e.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "background": "https://image.tmdb.org/t/p/original/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/kP3v1eZIrL0xAA1BdmBKStapzIQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
+      "poster": "https://posters-rank.vercel.app/image/landscape5.png?v=1786260527512",
+      "HDPoster": "https://image.tmdb.org/t/p/original/2u6gjd0lhNiFDtVB1k0y4kUD7uy.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/pqsmFDTdjzkxmGdiuZw2KxWVz8O.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6vGU2nX4NlqoaKH6WlaVRsOJD2k.png",
       "posterShape": "landscape"
     },
     {
@@ -128,7 +108,7 @@
       "type": "series",
       "name": "Flex X Cop",
       "description": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
-      "rank": 7,
+      "rank": 6,
       "imdbRating": 7.8,
       "imdbId": "tt30413181",
       "genres": [
@@ -137,7 +117,7 @@
         "Mystery",
         "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett30413181.png?v=1786250707417",
+      "poster": "https://posters-rank.vercel.app/image/landscape6.png?v=1786260527512",
       "HDPoster": "https://image.tmdb.org/t/p/original/kPHKRCsSkz3kanwmR6XPcms2TCG.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
       "background": "https://image.tmdb.org/t/p/original/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
@@ -146,62 +126,82 @@
       "posterShape": "landscape"
     },
     {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "rank": 7,
+      "imdbRating": 8.7,
+      "imdbId": "tt10986410",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/landscape7.png?v=1786260527512",
+      "HDPoster": "https://image.tmdb.org/t/p/original/t1e0wbSmIzhKoQ586kdbp7oGl2e.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/kP3v1eZIrL0xAA1BdmBKStapzIQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt13111078",
+      "type": "series",
+      "name": "Lioness",
+      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "rank": 8,
+      "imdbRating": 7.8,
+      "imdbId": "tt13111078",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/landscape8.png?v=1786260527512",
+      "HDPoster": "https://image.tmdb.org/t/p/original/4K5Jdry2gZj5XbomCa0H56g9XCs.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt27543562",
+      "type": "series",
+      "name": "The Shards",
+      "description": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+      "rank": 9,
+      "imdbRating": 5.8,
+      "imdbId": "tt27543562",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/landscape9.png?v=1786260527512",
+      "HDPoster": "https://image.tmdb.org/t/p/original/n3f64eaJLRbwt29ewgFpUWSFFH9.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/i3RJx0zwaEWNH5BveK8RMPIP7md.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lGMA0PAKUgrgpbJiOAmoSqqQgDW.png",
+      "posterShape": "landscape"
+    },
+    {
       "id": "tt36643714",
       "type": "series",
       "name": "Operation Safed Sagar: The Highest Air Force Mission",
       "description": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
-      "rank": 8,
+      "rank": 10,
       "imdbRating": null,
       "imdbId": "tt36643714",
       "genres": [
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett36643714.png?v=1786250707417",
+      "poster": "https://posters-rank.vercel.app/image/landscape10.png?v=1786260527512",
       "HDPoster": null,
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
       "background": "https://image.tmdb.org/t/p/original/bKvEIOHJ2UpK6NhF86n36dOmfBY.jpg",
       "backdropPoster": null,
       "logo": "https://image.tmdb.org/t/p/w500/ykpqLpYgEtOYQQGB3MU1yYHOtpT.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt16418808",
-      "type": "series",
-      "name": "Sugar",
-      "description": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
-      "rank": 9,
-      "imdbRating": 7.4,
-      "imdbId": "tt16418808",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett16418808.png?v=1786250707417",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9xp2s8WVmf3UEJtQQEMYXN0TWJr.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-      "background": "https://image.tmdb.org/t/p/original/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o0E3l9TcfJSTY89ckCICY387OFM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5RK1xYHGELAkLRkjcwJrCHomJSp.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt35618070",
-      "type": "series",
-      "name": "Sterling Point",
-      "description": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
-      "rank": 10,
-      "imdbRating": 6.8,
-      "imdbId": "tt35618070",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/landscapett35618070.png?v=1786250707417",
-      "HDPoster": "https://image.tmdb.org/t/p/original/85MT1jmqNov2wcplpTkNAU7NqvA.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-      "background": "https://image.tmdb.org/t/p/original/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/izkto5rArIPALMWzlwsaxVt4I1p.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qCT5dwsqHa0VlKg2kJUt6ebHzq2.png",
       "posterShape": "landscape"
     }
   ]
