@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-12T00:50:37.484Z",
+  "updated": "2026-08-13T00:52:46.642Z",
   "metas": [
     {
       "id": "tt14173636",
@@ -15,7 +15,7 @@
       ],
       "imdbRating": 7.9,
       "imdbId": "tt14173636",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1786495828565",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1786582351936",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/vNACQTOWt9mYvFONNzDhUf3Ah4.jpg",
       "background": "https://image.tmdb.org/t/p/original/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
@@ -36,7 +36,7 @@
       ],
       "imdbRating": 5.6,
       "imdbId": "tt32268156",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1786495828565",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1786582351936",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/9wCrNgVcaOhS5jPK9B5reFIWvxh.jpg",
       "background": "https://image.tmdb.org/t/p/original/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
@@ -45,18 +45,38 @@
       "posterShape": "portrait"
     },
     {
+      "id": "tt43640198",
+      "type": "movie",
+      "name": "Nando Between Two Worlds - A Sintonia Film",
+      "description": "Caught between family life and his obligations to the criminal underworld, Nando faces an impossible choice about where his true loyalties lie.",
+      "rank": 3,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt43640198",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1786582351936",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/oy1WU8EKXg1foyL5pe9e9kiLy8w.jpg",
+      "background": "https://image.tmdb.org/t/p/original/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg",
+      "backdropPoster": null,
+      "logo": "https://image.tmdb.org/t/p/w500/xDHXSTr6KQqdfz4A3jyBEfwI8Bb.png",
+      "posterShape": "portrait"
+    },
+    {
       "id": "tt37287335",
       "type": "movie",
       "name": "Obsession",
       "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rank": 3,
+      "rank": 4,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "imdbRating": 7.9,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1786495828565",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1786582351936",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
       "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
@@ -69,14 +89,14 @@
       "type": "movie",
       "name": "Project Hail Mary",
       "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rank": 4,
+      "rank": 5,
       "genres": [
         "Science Fiction",
         "Adventure"
       ],
       "imdbRating": 8.2,
       "imdbId": "tt12042730",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1786495828565",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1786582351936",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
       "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
@@ -89,7 +109,7 @@
       "type": "movie",
       "name": "Supergirl",
       "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "rank": 5,
+      "rank": 6,
       "genres": [
         "Action",
         "Adventure",
@@ -97,31 +117,12 @@
       ],
       "imdbRating": 5.9,
       "imdbId": "tt8814476",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1786495828565",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1786582351936",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/fgwmYhbx9vVdFXrKG9mSsOV9Pnm.jpg",
-      "background": "https://image.tmdb.org/t/p/original/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
+      "background": "https://image.tmdb.org/t/p/original/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9WyCDqi6ogIWYCnlCLJfvNuR9dF.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/sOKyZ1al829AnlmjWoghvzXFbQ6.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt36834010",
-      "type": "movie",
-      "name": "Gail Daughtry and the Celebrity Sex Pass",
-      "description": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
-      "rank": 6,
-      "genres": [
-        "Comedy"
-      ],
-      "imdbRating": 6.9,
-      "imdbId": "tt36834010",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1786495828565",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/uJ6yvOkHxSoFOUKsgi0I162x3RV.jpg",
-      "background": "https://image.tmdb.org/t/p/original/id8sWbXYB9ieuSQdDSxLM4gbqG0.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/nmZtpHvLFq5aBKaziMmhpDGRSI8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mrvMnjEYFceBSeZG8EuePP3embX.png",
       "posterShape": "portrait"
     },
     {
@@ -135,34 +136,31 @@
       ],
       "imdbRating": 6.4,
       "imdbId": "tt31170389",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1786495828565",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1786582351936",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/viHFZ7GlzMcmPbADvP4Vd6Ema0g.jpg",
-      "background": "https://image.tmdb.org/t/p/original/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+      "background": "https://image.tmdb.org/t/p/original/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/u80cOMncKRSEEwrE9T8NTjX0DNP.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ohYhg6EogWRTy2uf3uXXuINCbmz.png",
       "posterShape": "portrait"
     },
     {
-      "id": "tt29355505",
+      "id": "tt36834010",
       "type": "movie",
-      "name": "Toy Story 5",
-      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "name": "Gail Daughtry and the Celebrity Sex Pass",
+      "description": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
       "rank": 8,
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy",
-        "Adventure"
+        "Comedy"
       ],
-      "imdbRating": 7.5,
-      "imdbId": "tt29355505",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1786495828565",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/gnAwcLTZ0ooeIc6DdIrwOZ383OR.jpg",
-      "background": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/4qr9cjN9iiC8TF0Uhpp2Qaib72O.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
+      "imdbRating": 6.9,
+      "imdbId": "tt36834010",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1786582351936",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/uJ6yvOkHxSoFOUKsgi0I162x3RV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vfcqksiJMpzFJ8Y1cVbSAH6J6rY.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/nmZtpHvLFq5aBKaziMmhpDGRSI8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mrvMnjEYFceBSeZG8EuePP3embX.png",
       "posterShape": "portrait"
     },
     {
@@ -178,7 +176,7 @@
       ],
       "imdbRating": 6.8,
       "imdbId": "tt26657236",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1786495828565",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1786582351936",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg",
       "background": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
@@ -187,23 +185,24 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt15047880",
+      "id": "tt33311069",
       "type": "movie",
-      "name": "Disclosure Day",
-      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "name": "The Furious",
+      "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
       "rank": 10,
       "genres": [
-        "Science Fiction",
+        "Action",
+        "Crime",
         "Thriller"
       ],
-      "imdbRating": 6.4,
-      "imdbId": "tt15047880",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1786495828565",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/kxLjrSvs4WuYszwSxzjbtZcLUcC.jpg",
-      "background": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/701aTHRSfEm2IHchyMXoZt4T1yV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png",
+      "imdbRating": 7.3,
+      "imdbId": "tt33311069",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1786582351936",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/xSX9o9cy60IGc16sgaJTadjIQmg.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/58moy1T9hq9LbcuOUlEceQkD3uM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/msFWTNrFwfjsHKnMxDUexR9uofh.png",
       "posterShape": "portrait"
     }
   ]
