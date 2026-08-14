@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-13T00:52:46.644Z",
+  "updated": "2026-08-14T00:51:55.757Z",
   "metas": [
     {
       "id": "tt14173636",
@@ -13,12 +13,12 @@
         "Drama",
         "Romance"
       ],
-      "imdbRating": 7.9,
+      "imdbRating": 7.8,
       "imdbId": "tt14173636",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1786582351936",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1786668694639",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/vNACQTOWt9mYvFONNzDhUf3Ah4.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1786582351936",
+      "HDPoster": "https://image.tmdb.org/t/p/original/tqo7eD7YBHQB4D4UWYsGOFNVUFY.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1786668694639",
       "backdropPoster": "https://image.tmdb.org/t/p/original/vR0BiB5Mx1g0bb9w65FRmjQAd5U.jpg"
     },
     {
@@ -32,12 +32,12 @@
         "Science Fiction",
         "Thriller"
       ],
-      "imdbRating": 5.6,
+      "imdbRating": 5.5,
       "imdbId": "tt32268156",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1786582351936",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1786668694639",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/9wCrNgVcaOhS5jPK9B5reFIWvxh.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1786582351936",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1786668694639",
       "backdropPoster": "https://image.tmdb.org/t/p/original/p0qXMcW24HKlCFN6Q8FWA5RpkmA.jpg"
     },
     {
@@ -47,15 +47,16 @@
       "description": "Caught between family life and his obligations to the criminal underworld, Nando faces an impossible choice about where his true loyalties lie.",
       "rank": 3,
       "genres": [
-        "Crime",
-        "Drama"
+        "Drama",
+        "Thriller",
+        "Crime"
       ],
       "imdbRating": null,
       "imdbId": "tt43640198",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1786582351936",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1786668694639",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/oy1WU8EKXg1foyL5pe9e9kiLy8w.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1786582351936",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1786668694639",
       "backdropPoster": null
     },
     {
@@ -70,89 +71,18 @@
       ],
       "imdbRating": 7.9,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1786582351936",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1786668694639",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1786582351936",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1786668694639",
       "backdropPoster": "https://image.tmdb.org/t/p/original/vj3niHx3ikSAIr1O8A2uBgwsuTp.jpg"
-    },
-    {
-      "id": "tt12042730",
-      "type": "movie",
-      "name": "Project Hail Mary",
-      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rank": 5,
-      "genres": [
-        "Science Fiction",
-        "Adventure"
-      ],
-      "imdbRating": 8.2,
-      "imdbId": "tt12042730",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1786582351936",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1786582351936",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7mL0PR2jGC283JbPApFS8aJ2x1F.jpg"
-    },
-    {
-      "id": "tt8814476",
-      "type": "movie",
-      "name": "Supergirl",
-      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "rank": 6,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "imdbRating": 5.9,
-      "imdbId": "tt8814476",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1786582351936",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fgwmYhbx9vVdFXrKG9mSsOV9Pnm.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1786582351936",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9WyCDqi6ogIWYCnlCLJfvNuR9dF.jpg"
-    },
-    {
-      "id": "tt31170389",
-      "type": "movie",
-      "name": "Evil Dead Burn",
-      "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-      "rank": 7,
-      "genres": [
-        "Horror"
-      ],
-      "imdbRating": 6.4,
-      "imdbId": "tt31170389",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1786582351936",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/viHFZ7GlzMcmPbADvP4Vd6Ema0g.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1786582351936",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/u80cOMncKRSEEwrE9T8NTjX0DNP.jpg"
-    },
-    {
-      "id": "tt36834010",
-      "type": "movie",
-      "name": "Gail Daughtry and the Celebrity Sex Pass",
-      "description": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
-      "rank": 8,
-      "genres": [
-        "Comedy"
-      ],
-      "imdbRating": 6.9,
-      "imdbId": "tt36834010",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1786582351936",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/uJ6yvOkHxSoFOUKsgi0I162x3RV.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1786582351936",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/nmZtpHvLFq5aBKaziMmhpDGRSI8.jpg"
     },
     {
       "id": "tt26657236",
       "type": "movie",
       "name": "Backrooms",
       "description": "A strange doorway appears in the basement of a furniture showroom.",
-      "rank": 9,
+      "rank": 5,
       "genres": [
         "Horror",
         "Mystery",
@@ -160,10 +90,10 @@
       ],
       "imdbRating": 6.8,
       "imdbId": "tt26657236",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1786582351936",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1786668694639",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1786582351936",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1786668694639",
       "backdropPoster": "https://image.tmdb.org/t/p/original/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg"
     },
     {
@@ -171,7 +101,7 @@
       "type": "movie",
       "name": "The Furious",
       "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
-      "rank": 10,
+      "rank": 6,
       "genres": [
         "Action",
         "Crime",
@@ -179,11 +109,84 @@
       ],
       "imdbRating": 7.3,
       "imdbId": "tt33311069",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1786582351936",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1786668694639",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/xSX9o9cy60IGc16sgaJTadjIQmg.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1786582351936",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1786668694639",
       "backdropPoster": "https://image.tmdb.org/t/p/original/58moy1T9hq9LbcuOUlEceQkD3uM.jpg"
+    },
+    {
+      "id": "tt15047880",
+      "type": "movie",
+      "name": "Disclosure Day",
+      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "rank": 7,
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdbRating": 6.4,
+      "imdbId": "tt15047880",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1786668694639",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/kxLjrSvs4WuYszwSxzjbtZcLUcC.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1786668694639",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/701aTHRSfEm2IHchyMXoZt4T1yV.jpg"
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "name": "Project Hail Mary",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "rank": 8,
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "imdbRating": 8.2,
+      "imdbId": "tt12042730",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1786668694639",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1786668694639",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7mL0PR2jGC283JbPApFS8aJ2x1F.jpg"
+    },
+    {
+      "id": "tt33296751",
+      "type": "movie",
+      "name": "Tuner",
+      "description": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+      "rank": 9,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdbRating": 7.2,
+      "imdbId": "tt33296751",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1786668694639",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/qjjNeT3uIS1WlRXIYAoCIncyMOi.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1786668694639",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/sB1jmJWgFvh1P2l43gd4WqJi4hu.jpg"
+    },
+    {
+      "id": "tt27681354",
+      "type": "movie",
+      "name": "In the Grey",
+      "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+      "rank": 10,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdbRating": 6.3,
+      "imdbId": "tt27681354",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1786668694639",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/flnL4bbRwinTp6gDr7M29oWHWXg.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1786668694639",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/parLHiFZtrzsCygZhv3kHWqmoN7.jpg"
     }
   ]
 }

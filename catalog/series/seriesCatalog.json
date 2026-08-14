@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-13T00:52:46.643Z",
+  "updated": "2026-08-14T00:51:55.756Z",
   "metas": [
     {
       "id": "tt9288030",
@@ -15,7 +15,7 @@
         "Drama",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1786582351936",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1786668694639",
       "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "background": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -36,7 +36,7 @@
         "Drama",
         "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1786582351936",
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1786668694639",
       "HDPoster": "https://image.tmdb.org/t/p/original/fFOk5QlPH6qpKLHZW67sdmbLAQQ.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -57,7 +57,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1786582351936",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1786668694639",
       "HDPoster": "https://image.tmdb.org/t/p/original/5R812JOQbX9RPHYbG61V7WQfarp.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
       "background": "https://image.tmdb.org/t/p/original/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
@@ -66,43 +66,43 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt34866681",
-      "type": "series",
-      "name": "Lucky",
-      "description": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "rank": 4,
-      "imdbRating": 6.6,
-      "imdbId": "tt34866681",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1786582351936",
-      "HDPoster": "https://image.tmdb.org/t/p/original/rAuU77vC82faJEnYa4ByDVbWzxw.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "background": "https://image.tmdb.org/t/p/original/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/ybOjiCTtCp2N8VfgaHP1eRqq3yA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt10986410",
       "type": "series",
       "name": "Ted Lasso",
       "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "rank": 5,
+      "rank": 4,
       "imdbRating": 8.7,
       "imdbId": "tt10986410",
       "genres": [
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1786582351936",
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1786668694639",
       "HDPoster": "https://image.tmdb.org/t/p/original/wDihPx2ILax8HNEjYx8SI1yBcyI.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "background": "https://image.tmdb.org/t/p/original/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/kP3v1eZIrL0xAA1BdmBKStapzIQ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "rank": 5,
+      "imdbRating": 8.1,
+      "imdbId": "tt14688458",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1786668694639",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
       "posterShape": "portrait"
     },
     {
@@ -118,7 +118,7 @@
         "Action & Adventure",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1786582351936",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1786668694639",
       "HDPoster": "https://image.tmdb.org/t/p/original/vU8d6PU0tauitQeyUJHUvK05g8T.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
       "background": "https://image.tmdb.org/t/p/original/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
@@ -127,84 +127,82 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt20516590",
+      "id": "tt31491435",
       "type": "series",
-      "name": "Women in Blue",
-      "description": "In 1971, four women defy ultraconservative norms and join Mexico's first female police force—only to discover that it's a publicity stunt to distract the media from a serial killer. As the body count grows, they make a pact to bring the killer to justice.",
+      "name": "Tires",
+      "description": "At his father's auto shop, a hapless manager strives to improve customer service and drive profits while keeping his troublemaking cousin in line.",
       "rank": 7,
-      "imdbRating": 7.3,
-      "imdbId": "tt20516590",
+      "imdbRating": 7.6,
+      "imdbId": "tt31491435",
       "genres": [
-        "Crime",
-        "Drama"
+        "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1786582351936",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2xZnKgVx2Q5KNKxEbkAeT5v3yjS.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7x7ONogOLYypFzRsoMcTINGABPD.jpg",
-      "background": "https://image.tmdb.org/t/p/original/v713kGiwYw2amhk6v9lfxvAYncv.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/wA4vMRtcwwSEj7FOm7mfQ06uqfL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t56XJJViWbpW9CsWL82soLSWj6A.png",
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1786668694639",
+      "HDPoster": "https://image.tmdb.org/t/p/original/gqaBup7LzCG7Umjs8xsFShtmGAk.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cNHTFUV39qyEsm7edSaJdSqJYtJ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xyS9R7Dno812rPLzpN4gJrDUUFd.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/5c2hlVuokFpTBdEmHgPclkRTfAu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9zMaW6dc4cZ9hNakUMJjNcXvV8h.png",
       "posterShape": "portrait"
     },
     {
-      "id": "tt14688458",
+      "id": "tt27543562",
       "type": "series",
-      "name": "Silo",
-      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "name": "The Shards",
+      "description": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
       "rank": 8,
-      "imdbRating": 8.1,
-      "imdbId": "tt14688458",
+      "imdbRating": 5.8,
+      "imdbId": "tt27543562",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1786668694639",
+      "HDPoster": "https://image.tmdb.org/t/p/original/n3f64eaJLRbwt29ewgFpUWSFFH9.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/i3RJx0zwaEWNH5BveK8RMPIP7md.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lGMA0PAKUgrgpbJiOAmoSqqQgDW.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt34866681",
+      "type": "series",
+      "name": "Lucky",
+      "description": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "rank": 9,
+      "imdbRating": 6.6,
+      "imdbId": "tt34866681",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1786668694639",
+      "HDPoster": "https://image.tmdb.org/t/p/original/rAuU77vC82faJEnYa4ByDVbWzxw.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/ybOjiCTtCp2N8VfgaHP1eRqq3yA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt12327578",
+      "type": "series",
+      "name": "Star Trek: Strange New Worlds",
+      "description": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "rank": 10,
+      "imdbRating": 8.2,
+      "imdbId": "tt12327578",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1786582351936",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt0149460",
-      "type": "series",
-      "name": "Futurama",
-      "description": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "rank": 9,
-      "imdbRating": 8.5,
-      "imdbId": "tt0149460",
-      "genres": [
-        "Animation",
-        "Comedy",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1786582351936",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "background": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/jYuP1J52HzbyeSdPj3Ix0BnKVxy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6jNQtbazLLAu5gLzW46FP8EGePb.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt35618070",
-      "type": "series",
-      "name": "Sterling Point",
-      "description": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
-      "rank": 10,
-      "imdbRating": 7.3,
-      "imdbId": "tt35618070",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1786582351936",
-      "HDPoster": "https://image.tmdb.org/t/p/original/ieepBliPqckTatnBCGWFRleTGed.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-      "background": "https://image.tmdb.org/t/p/original/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bs8mtE5561yEEdVjxecd1seNl1a.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oI9xCt2yBSRhJRWpDb5v3JB3uZ0.png",
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1786668694639",
+      "HDPoster": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/vMFxmogUUe5lhhzNnS59o51C77i.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png",
       "posterShape": "portrait"
     }
   ]
