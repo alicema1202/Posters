@@ -1,27 +1,25 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-15T00:28:43.424Z",
+  "updated": "2026-08-16T00:29:24.978Z",
   "metas": [
     {
-      "id": "tt6743524",
+      "id": "tt37287335",
       "type": "movie",
-      "name": "Camp Rock 3",
-      "description": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
+      "name": "Obsession",
+      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "rank": 1,
       "genres": [
-        "Music",
-        "Comedy",
-        "Drama",
-        "TV Movie"
+        "Horror",
+        "Thriller"
       ],
-      "imdbRating": null,
-      "imdbId": "tt6743524",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1786753712074",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8wI9KByZtzBMWOzDFjxHPSOAuOH.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/uGOdNLogSk3GluGDfXlTkushsJs.jpg",
-      "background": "https://image.tmdb.org/t/p/original/9rEeKxd5JdFD0tMeDtGD6eSltWw.jpg",
-      "backdropPoster": null,
-      "logo": "https://image.tmdb.org/t/p/w500/kWeJn2zThyuBYmcLFMQ2oFErW3I.png",
+      "imdbRating": 7.8,
+      "imdbId": "tt37287335",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1786840156864",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/vj3niHx3ikSAIr1O8A2uBgwsuTp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
       "posterShape": "landscape"
     },
     {
@@ -37,72 +35,34 @@
       ],
       "imdbRating": null,
       "imdbId": "tt36590417",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1786753712074",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1786840156864",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/kEjXp62o7EWQad8O37urtAs1M9Q.jpg",
       "background": "https://image.tmdb.org/t/p/original/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
-      "backdropPoster": null,
+      "backdropPoster": "https://image.tmdb.org/t/p/original/uNVfPGB2r9KIPTxDIz95ryhikWj.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kkw7ciB1uPAGRlAkiTBhfGHDe4Y.png",
       "posterShape": "landscape"
     },
     {
-      "id": "tt38662472",
+      "id": "tt6743524",
       "type": "movie",
-      "name": "My Best Friend, His Girlfriend and Me",
-      "description": "Olli and Matze are best friends living, working and planning to travel the world together — until Matze's romance with Rebecca turns it all upside down.",
+      "name": "Camp Rock 3",
+      "description": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
       "rank": 3,
       "genres": [
-        "Comedy"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt38662472",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1786753712074",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-      "HDPoster": null,
-      "background": "https://image.tmdb.org/t/p/original/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bviJSdRyEaiBaHDmMDrINNzjZqf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5RDcDMLci4kYqTTxVgHxbXj8h7z.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt14173636",
-      "type": "movie",
-      "name": "The Invite",
-      "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "rank": 4,
-      "genres": [
+        "Music",
         "Comedy",
         "Drama",
-        "Romance"
+        "TV Movie"
       ],
-      "imdbRating": 7.8,
-      "imdbId": "tt14173636",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1786753712074",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/vNACQTOWt9mYvFONNzDhUf3Ah4.jpg",
-      "background": "https://image.tmdb.org/t/p/original/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/vR0BiB5Mx1g0bb9w65FRmjQAd5U.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dahmDVuu9xOR1Obr4MKTuA3aAmG.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt37287335",
-      "type": "movie",
-      "name": "Obsession",
-      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rank": 5,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "imdbRating": 7.9,
-      "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1786753712074",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/vj3niHx3ikSAIr1O8A2uBgwsuTp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+      "imdbRating": 7.2,
+      "imdbId": "tt6743524",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1786840156864",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/uGOdNLogSk3GluGDfXlTkushsJs.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7tt3K3xEOBRODnigWpNGF53cKrd.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/rQ1AqSondf9pIyvxxMEK8uUrlSn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kWeJn2zThyuBYmcLFMQ2oFErW3I.png",
       "posterShape": "landscape"
     },
     {
@@ -110,7 +70,7 @@
       "type": "movie",
       "name": "The Last House",
       "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "rank": 6,
+      "rank": 4,
       "genres": [
         "Horror",
         "Science Fiction",
@@ -118,7 +78,7 @@
       ],
       "imdbRating": 5.5,
       "imdbId": "tt32268156",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1786753712074",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1786840156864",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/9wCrNgVcaOhS5jPK9B5reFIWvxh.jpg",
       "background": "https://image.tmdb.org/t/p/original/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
@@ -127,18 +87,78 @@
       "posterShape": "landscape"
     },
     {
+      "id": "tt38662472",
+      "type": "movie",
+      "name": "My Best Friend, His Girlfriend and Me",
+      "description": "Olli and Matze are best friends living, working and planning to travel the world together — until Matze's romance with Rebecca turns it all upside down.",
+      "rank": 5,
+      "genres": [
+        "Comedy"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt38662472",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1786840156864",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/YYlAZZ42lxiqtlT6uB7ZOT1Hbi.jpg",
+      "background": "https://image.tmdb.org/t/p/original/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bviJSdRyEaiBaHDmMDrINNzjZqf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kGVMih26bAjJ4voU1pQR3hEkN19.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt14173636",
+      "type": "movie",
+      "name": "The Invite",
+      "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "rank": 6,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdbRating": 7.8,
+      "imdbId": "tt14173636",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1786840156864",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/vNACQTOWt9mYvFONNzDhUf3Ah4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/vR0BiB5Mx1g0bb9w65FRmjQAd5U.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dahmDVuu9xOR1Obr4MKTuA3aAmG.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt15047880",
+      "type": "movie",
+      "name": "Disclosure Day",
+      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "rank": 7,
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdbRating": 6.4,
+      "imdbId": "tt15047880",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1786840156864",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/kxLjrSvs4WuYszwSxzjbtZcLUcC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/701aTHRSfEm2IHchyMXoZt4T1yV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png",
+      "posterShape": "landscape"
+    },
+    {
       "id": "tt12042730",
       "type": "movie",
       "name": "Project Hail Mary",
       "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rank": 7,
+      "rank": 8,
       "genres": [
         "Science Fiction",
         "Adventure"
       ],
       "imdbRating": 8.2,
       "imdbId": "tt12042730",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1786753712074",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1786840156864",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
       "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
@@ -147,24 +167,23 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt26657236",
+      "id": "tt36454145",
       "type": "movie",
-      "name": "Backrooms",
-      "description": "A strange doorway appears in the basement of a furniture showroom.",
-      "rank": 8,
+      "name": "To the Max",
+      "description": "A group of friends bonded by their love for extreme sports discovers BASE jumping in wingsuits — but feeling like flying carries the highest risks.",
+      "rank": 9,
       "genres": [
-        "Horror",
-        "Mystery",
-        "Science Fiction"
+        "Drama",
+        "Adventure"
       ],
-      "imdbRating": 6.8,
-      "imdbId": "tt26657236",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1786753712074",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg",
-      "background": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/g0PswKqAFJdwGK3d1fKvj8LGnrW.png",
+      "imdbRating": 6.7,
+      "imdbId": "tt36454145",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1786840156864",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7KtjwHzp2EB5N63bZtxVb2gImjf.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/fFi7P5lUgh3Tx9KfuMJnu9TGs0M.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vIYxi7G0nK64cgiiVwSV0sFeQ7F.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7ysA4CRVoRlvY47un1BcipRBtYN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2vYgm6NdVCK8EXEQpjgM8tUi335.png",
       "posterShape": "landscape"
     },
     {
@@ -172,7 +191,7 @@
       "type": "movie",
       "name": "Supergirl",
       "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "rank": 9,
+      "rank": 10,
       "genres": [
         "Action",
         "Adventure",
@@ -180,33 +199,12 @@
       ],
       "imdbRating": 5.9,
       "imdbId": "tt8814476",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1786753712074",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1786840156864",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/fgwmYhbx9vVdFXrKG9mSsOV9Pnm.jpg",
       "background": "https://image.tmdb.org/t/p/original/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9WyCDqi6ogIWYCnlCLJfvNuR9dF.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/sOKyZ1al829AnlmjWoghvzXFbQ6.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt43640198",
-      "type": "movie",
-      "name": "Nando Between Two Worlds - A Sintonia Film",
-      "description": "Caught between family life and his obligations to the criminal underworld, Nando faces an impossible choice about where his true loyalties lie.",
-      "rank": 10,
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Crime"
-      ],
-      "imdbRating": 5.1,
-      "imdbId": "tt43640198",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1786753712074",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/oy1WU8EKXg1foyL5pe9e9kiLy8w.jpg",
-      "background": "https://image.tmdb.org/t/p/original/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg",
-      "backdropPoster": null,
-      "logo": "https://image.tmdb.org/t/p/w500/xDHXSTr6KQqdfz4A3jyBEfwI8Bb.png",
       "posterShape": "landscape"
     }
   ]

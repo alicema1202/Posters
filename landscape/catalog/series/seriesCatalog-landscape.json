@@ -1,33 +1,13 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-15T00:28:43.425Z",
+  "updated": "2026-08-16T00:29:24.979Z",
   "metas": [
-    {
-      "id": "tt14688458",
-      "type": "series",
-      "name": "Silo",
-      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rank": 1,
-      "imdbRating": 8.1,
-      "imdbId": "tt14688458",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1786753712074",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
-      "posterShape": "landscape"
-    },
     {
       "id": "tt9288030",
       "type": "series",
       "name": "Reacher",
       "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "rank": 2,
+      "rank": 1,
       "imdbRating": 8,
       "imdbId": "tt9288030",
       "genres": [
@@ -35,12 +15,32 @@
         "Drama",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1786753712074",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1786840156864",
       "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "background": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/1Gm9vxf6D5szIMzEY96DrDQPrMr.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/2iSPeGH5o2G3pUjS4XpCgBKUnOG.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "rank": 2,
+      "imdbRating": 8.1,
+      "imdbId": "tt14688458",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1786840156864",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
       "posterShape": "landscape"
     },
     {
@@ -56,7 +56,7 @@
         "Drama",
         "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1786753712074",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1786840156864",
       "HDPoster": "https://image.tmdb.org/t/p/original/fFOk5QlPH6qpKLHZW67sdmbLAQQ.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
       "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
@@ -65,45 +65,24 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt37352716",
+      "id": "tt16026746",
       "type": "series",
-      "name": "My Brilliant Career",
-      "description": "Restless, razor-sharp, and refusing to conform, Sybylla is dead set on writing her own story in an era that expects her to find a man and settle down.",
+      "name": "X-Men '97",
+      "description": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "rank": 4,
-      "imdbRating": null,
-      "imdbId": "tt37352716",
-      "genres": [
-        "Drama",
-        "Family"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1786753712074",
-      "HDPoster": "https://image.tmdb.org/t/p/original/dKgefiyGDFoTK8nY9XfTOgZgMI7.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-      "background": "https://image.tmdb.org/t/p/original/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg",
-      "backdropPoster": null,
-      "logo": "https://image.tmdb.org/t/p/w500/tBoQboA2ROmZ8AE0Mo8IStfTCaj.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt14976292",
-      "type": "series",
-      "name": "LINK CLICK",
-      "description": "Using superpowers to enter their clientele’s photos one by one, Cheng Xiaoshi and Lu Guang take their work seriously at “Time Photo Studio,” a small photography shop set in the backdrop of a modern metropolis. Each job can be full of danger, but nothing is more important than fulfilling every order, no matter the scale…or peril involved!",
-      "rank": 5,
-      "imdbRating": 8.5,
-      "imdbId": "tt14976292",
+      "imdbRating": 8.7,
+      "imdbId": "tt16026746",
       "genres": [
         "Animation",
-        "Sci-Fi & Fantasy",
-        "Mystery",
-        "Drama"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1786753712074",
-      "HDPoster": "https://image.tmdb.org/t/p/original/cEa77esuWGAgR1bygmk8ey1w4wZ.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/hCt2bLRGTCjHGqtV5FP3Img6w1h.jpg",
-      "background": "https://image.tmdb.org/t/p/original/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/5B0BO1TJsCqE3fqQBRIiS842XKm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/afS3wRroucg2Tku3tH0NNmyurST.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1786840156864",
+      "HDPoster": "https://image.tmdb.org/t/p/original/5R812JOQbX9RPHYbG61V7WQfarp.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/rxXCDYzkN2pn1U1kcgeaLsFSTl8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/i4O2d2EYfBCVFVIQaES16gchiMj.png",
       "posterShape": "landscape"
     },
     {
@@ -111,14 +90,14 @@
       "type": "series",
       "name": "Ted Lasso",
       "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "rank": 6,
+      "rank": 5,
       "imdbRating": 8.7,
       "imdbId": "tt10986410",
       "genres": [
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1786753712074",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1786840156864",
       "HDPoster": "https://image.tmdb.org/t/p/original/wDihPx2ILax8HNEjYx8SI1yBcyI.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "background": "https://image.tmdb.org/t/p/original/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
@@ -127,38 +106,18 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt12327578",
-      "type": "series",
-      "name": "Star Trek: Strange New Worlds",
-      "description": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-      "rank": 7,
-      "imdbRating": 8.2,
-      "imdbId": "tt12327578",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1786753712074",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-      "background": "https://image.tmdb.org/t/p/original/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/vMFxmogUUe5lhhzNnS59o51C77i.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt27497393",
       "type": "series",
       "name": "Stuart Fails to Save the Universe",
       "description": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "rank": 8,
+      "rank": 6,
       "imdbRating": 7.1,
       "imdbId": "tt27497393",
       "genres": [
         "Comedy",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1786753712074",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1786840156864",
       "HDPoster": "https://image.tmdb.org/t/p/original/lMvWtYbm7ljZxYoBFfDZcjKlrJN.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
       "background": "https://image.tmdb.org/t/p/original/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
@@ -167,42 +126,84 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt31491435",
+      "id": "tt13111078",
       "type": "series",
-      "name": "Tires",
-      "description": "At his father's auto shop, a hapless manager strives to improve customer service and drive profits while keeping his troublemaking cousin in line.",
-      "rank": 9,
-      "imdbRating": 7.6,
-      "imdbId": "tt31491435",
+      "name": "Lioness",
+      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "rank": 7,
+      "imdbRating": 7.8,
+      "imdbId": "tt13111078",
       "genres": [
-        "Comedy"
+        "Drama",
+        "War & Politics"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1786753712074",
-      "HDPoster": "https://image.tmdb.org/t/p/original/gqaBup7LzCG7Umjs8xsFShtmGAk.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cNHTFUV39qyEsm7edSaJdSqJYtJ.jpg",
-      "background": "https://image.tmdb.org/t/p/original/xyS9R7Dno812rPLzpN4gJrDUUFd.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/BfuGoKJX75T2MmfFCYbCiBVWWx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9zMaW6dc4cZ9hNakUMJjNcXvV8h.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1786840156864",
+      "HDPoster": "https://image.tmdb.org/t/p/original/4K5Jdry2gZj5XbomCa0H56g9XCs.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
       "posterShape": "landscape"
     },
     {
-      "id": "tt27543562",
+      "id": "tt26450613",
       "type": "series",
-      "name": "The Shards",
-      "description": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
-      "rank": 10,
-      "imdbRating": 5.8,
-      "imdbId": "tt27543562",
+      "name": "A Shop for Killers",
+      "description": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+      "rank": 8,
+      "imdbRating": 8,
+      "imdbId": "tt26450613",
       "genres": [
         "Drama",
+        "Action & Adventure",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1786753712074",
-      "HDPoster": "https://image.tmdb.org/t/p/original/n3f64eaJLRbwt29ewgFpUWSFFH9.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-      "background": "https://image.tmdb.org/t/p/original/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/i3RJx0zwaEWNH5BveK8RMPIP7md.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lGMA0PAKUgrgpbJiOAmoSqqQgDW.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1786840156864",
+      "HDPoster": "https://image.tmdb.org/t/p/original/vU8d6PU0tauitQeyUJHUvK05g8T.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/vPr6bJ2qvrhJRwazrmQUcTlOCqS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/u9mNj02iYfhRx4p48QmOkKKjQpu.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt37352716",
+      "type": "series",
+      "name": "My Brilliant Career",
+      "description": "Restless, razor-sharp, and refusing to conform, Sybylla is dead set on writing her own story in an era that expects her to find a man and settle down.",
+      "rank": 9,
+      "imdbRating": 6.7,
+      "imdbId": "tt37352716",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1786840156864",
+      "HDPoster": "https://image.tmdb.org/t/p/original/dKgefiyGDFoTK8nY9XfTOgZgMI7.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg",
+      "backdropPoster": null,
+      "logo": "https://image.tmdb.org/t/p/w500/tBoQboA2ROmZ8AE0Mo8IStfTCaj.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt37118307",
+      "type": "series",
+      "name": "Mystic Nine",
+      "description": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "rank": 10,
+      "imdbRating": 6.9,
+      "imdbId": "tt37118307",
+      "genres": [
+        "Drama",
+        "Action & Adventure"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1786840156864",
+      "HDPoster": "https://image.tmdb.org/t/p/original/ojnPh1mhuK4zJ9pzG7belf6osJ5.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/eOddhiEvjUFhhbhVzixTr9G8LIi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lKTcv3oVw2aUqmfA2MASnp2gGr7.png",
       "posterShape": "landscape"
     }
   ]
