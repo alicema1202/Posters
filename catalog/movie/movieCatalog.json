@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-16T00:29:24.978Z",
+  "updated": "2026-08-17T00:28:15.302Z",
   "metas": [
     {
       "id": "tt37287335",
@@ -14,7 +14,7 @@
       ],
       "imdbRating": 7.8,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1786840156864",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1786926485912",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
       "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
@@ -23,54 +23,11 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt36590417",
-      "type": "movie",
-      "name": "Don't Say Good Luck",
-      "description": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "rank": 2,
-      "genres": [
-        "Comedy",
-        "Music",
-        "Drama"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt36590417",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1786840156864",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/kEjXp62o7EWQad8O37urtAs1M9Q.jpg",
-      "background": "https://image.tmdb.org/t/p/original/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/uNVfPGB2r9KIPTxDIz95ryhikWj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kkw7ciB1uPAGRlAkiTBhfGHDe4Y.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt6743524",
-      "type": "movie",
-      "name": "Camp Rock 3",
-      "description": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
-      "rank": 3,
-      "genres": [
-        "Music",
-        "Comedy",
-        "Drama",
-        "TV Movie"
-      ],
-      "imdbRating": 7.2,
-      "imdbId": "tt6743524",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1786840156864",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/uGOdNLogSk3GluGDfXlTkushsJs.jpg",
-      "background": "https://image.tmdb.org/t/p/original/7tt3K3xEOBRODnigWpNGF53cKrd.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/rQ1AqSondf9pIyvxxMEK8uUrlSn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kWeJn2zThyuBYmcLFMQ2oFErW3I.png",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt32268156",
       "type": "movie",
       "name": "The Last House",
       "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "rank": 4,
+      "rank": 2,
       "genres": [
         "Horror",
         "Science Fiction",
@@ -78,52 +35,33 @@
       ],
       "imdbRating": 5.5,
       "imdbId": "tt32268156",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1786840156864",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1786926485912",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/9wCrNgVcaOhS5jPK9B5reFIWvxh.jpg",
-      "background": "https://image.tmdb.org/t/p/original/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/p0qXMcW24HKlCFN6Q8FWA5RpkmA.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/5XOOZnF6JtwNCn7RdZJcU5xPRXs.png",
       "posterShape": "portrait"
     },
     {
-      "id": "tt38662472",
+      "id": "tt36590417",
       "type": "movie",
-      "name": "My Best Friend, His Girlfriend and Me",
-      "description": "Olli and Matze are best friends living, working and planning to travel the world together — until Matze's romance with Rebecca turns it all upside down.",
-      "rank": 5,
-      "genres": [
-        "Comedy"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt38662472",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1786840156864",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/YYlAZZ42lxiqtlT6uB7ZOT1Hbi.jpg",
-      "background": "https://image.tmdb.org/t/p/original/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bviJSdRyEaiBaHDmMDrINNzjZqf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kGVMih26bAjJ4voU1pQR3hEkN19.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt14173636",
-      "type": "movie",
-      "name": "The Invite",
-      "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "rank": 6,
+      "name": "Don't Say Good Luck",
+      "description": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "rank": 3,
       "genres": [
         "Comedy",
-        "Drama",
-        "Romance"
+        "Music",
+        "Drama"
       ],
-      "imdbRating": 7.8,
-      "imdbId": "tt14173636",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1786840156864",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/vNACQTOWt9mYvFONNzDhUf3Ah4.jpg",
-      "background": "https://image.tmdb.org/t/p/original/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/vR0BiB5Mx1g0bb9w65FRmjQAd5U.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dahmDVuu9xOR1Obr4MKTuA3aAmG.png",
+      "imdbRating": 6.7,
+      "imdbId": "tt36590417",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1786926485912",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/kEjXp62o7EWQad8O37urtAs1M9Q.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/uSfGkwOMzxG2kyC3wmxP5C6hs6Q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kkw7ciB1uPAGRlAkiTBhfGHDe4Y.png",
       "posterShape": "portrait"
     },
     {
@@ -131,19 +69,83 @@
       "type": "movie",
       "name": "Disclosure Day",
       "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "rank": 7,
+      "rank": 4,
       "genres": [
         "Science Fiction",
         "Thriller"
       ],
       "imdbRating": 6.4,
       "imdbId": "tt15047880",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1786840156864",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1786926485912",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/kxLjrSvs4WuYszwSxzjbtZcLUcC.jpg",
       "background": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/701aTHRSfEm2IHchyMXoZt4T1yV.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt14173636",
+      "type": "movie",
+      "name": "The Invite",
+      "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "rank": 5,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdbRating": 7.7,
+      "imdbId": "tt14173636",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1786926485912",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/vNACQTOWt9mYvFONNzDhUf3Ah4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/xQldGuO9wbahB62ywrp8UtOdAFt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dahmDVuu9xOR1Obr4MKTuA3aAmG.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt6743524",
+      "type": "movie",
+      "name": "Camp Rock 3",
+      "description": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
+      "rank": 6,
+      "genres": [
+        "Music",
+        "Comedy",
+        "Drama",
+        "TV Movie"
+      ],
+      "imdbRating": 5.7,
+      "imdbId": "tt6743524",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1786926485912",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/uGOdNLogSk3GluGDfXlTkushsJs.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tpRYtzeEl1Vc7vYr5unWs7qBNMW.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/rQ1AqSondf9pIyvxxMEK8uUrlSn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kWeJn2zThyuBYmcLFMQ2oFErW3I.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt26657236",
+      "type": "movie",
+      "name": "Backrooms",
+      "description": "A strange doorway appears in the basement of a furniture showroom.",
+      "rank": 7,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "imdbRating": 6.8,
+      "imdbId": "tt26657236",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1786926485912",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/qCOwFIkbt0fUBgHRaCCf742C4tu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g0PswKqAFJdwGK3d1fKvj8LGnrW.png",
       "posterShape": "portrait"
     },
     {
@@ -158,7 +160,7 @@
       ],
       "imdbRating": 8.2,
       "imdbId": "tt12042730",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1786840156864",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1786926485912",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
       "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
@@ -167,31 +169,11 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt36454145",
-      "type": "movie",
-      "name": "To the Max",
-      "description": "A group of friends bonded by their love for extreme sports discovers BASE jumping in wingsuits — but feeling like flying carries the highest risks.",
-      "rank": 9,
-      "genres": [
-        "Drama",
-        "Adventure"
-      ],
-      "imdbRating": 6.7,
-      "imdbId": "tt36454145",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1786840156864",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7KtjwHzp2EB5N63bZtxVb2gImjf.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fFi7P5lUgh3Tx9KfuMJnu9TGs0M.jpg",
-      "background": "https://image.tmdb.org/t/p/original/vIYxi7G0nK64cgiiVwSV0sFeQ7F.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7ysA4CRVoRlvY47un1BcipRBtYN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2vYgm6NdVCK8EXEQpjgM8tUi335.png",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt8814476",
       "type": "movie",
       "name": "Supergirl",
       "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "rank": 10,
+      "rank": 9,
       "genres": [
         "Action",
         "Adventure",
@@ -199,12 +181,31 @@
       ],
       "imdbRating": 5.9,
       "imdbId": "tt8814476",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1786840156864",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1786926485912",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/fgwmYhbx9vVdFXrKG9mSsOV9Pnm.jpg",
       "background": "https://image.tmdb.org/t/p/original/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9WyCDqi6ogIWYCnlCLJfvNuR9dF.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/sOKyZ1al829AnlmjWoghvzXFbQ6.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt31170389",
+      "type": "movie",
+      "name": "Evil Dead Burn",
+      "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+      "rank": 10,
+      "genres": [
+        "Horror"
+      ],
+      "imdbRating": 6.4,
+      "imdbId": "tt31170389",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1786926485912",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/viHFZ7GlzMcmPbADvP4Vd6Ema0g.jpg",
+      "background": "https://image.tmdb.org/t/p/original/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/u80cOMncKRSEEwrE9T8NTjX0DNP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ohYhg6EogWRTy2uf3uXXuINCbmz.png",
       "posterShape": "portrait"
     }
   ]
