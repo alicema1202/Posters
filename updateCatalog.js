@@ -336,7 +336,40 @@ async function isSportsEvent(type, id, title) {
 
 }
 
+function getReleaseInfo(data, type) {
+    if (type === "movie") {
+        return data.release_date
+            ? data.release_date.substring(0, 4)
+            : null;
+    }
 
+    if (type === "series") {
+        const startYear = data.first_air_date
+            ? data.first_air_date.substring(0, 4)
+            : null;
+
+        if (!startYear) {
+            return null;
+        }
+
+        if (
+            data.status === "Returning Series" ||
+            data.status === "In Production"
+        ) {
+            return `${startYear}-`;
+        }
+
+        const endYear = data.last_air_date
+            ? data.last_air_date.substring(0, 4)
+            : null;
+
+        return endYear
+            ? `${startYear}-${endYear}`
+            : `${startYear}-`;
+    }
+
+    return null;
+}
 
 /**
  * Get top movies
@@ -345,25 +378,20 @@ async function getTopMovies() {
 
     const movies = [];
 
-
     const response = await fetch(
         `https://api.themoviedb.org/3/trending/movie/day?api_key=${API_KEY}`
     );
 
-
     const data = await response.json();
 
-
-
     for (const movie of data.results || []) {
+
         const imdbId = await getIMDbId("movie", movie.id);
-        // const imdbRating = await getIMDBRating(imdbId);
         const imdbRating = await getIMDBRating2("movie", movie.id);
+
         if (movies.length >= 10) {
             break;
         }
-
-
 
         if (await isAnime("movie", movie.id)) {
 
@@ -373,10 +401,7 @@ async function getTopMovies() {
             );
 
             continue;
-
         }
-
-
 
         if (
             await isSportsEvent(
@@ -392,10 +417,7 @@ async function getTopMovies() {
             );
 
             continue;
-
         }
-
-
 
         if (!(await hasDigitalRelease(movie.id))) {
 
@@ -405,18 +427,13 @@ async function getTopMovies() {
             );
 
             continue;
-
         }
-
-
 
         const images =
             await getImages(
                 "movie",
                 movie.id
             );
-
-
 
         movies.push({
 
@@ -432,9 +449,13 @@ async function getTopMovies() {
             description:
                 movie.overview,
 
+            releaseInfo:
+                movie.release_date
+                    ? movie.release_date.substring(0, 4)
+                    : null,
+
             rank:
                 movies.length + 1,
-
 
             genres:
                 getGenres(
@@ -442,12 +463,14 @@ async function getTopMovies() {
                     movie.genre_ids
                 ),
 
-            imdbRating: imdbRating,
-            imdbId: imdbId,
-            poster:
-                // `${GITHUB_PAGES}/${imdbId}.png?v=${BUILD_TIMESTAMP}`,
-                `${GITHUB_PAGES}/movie-${movies.length + 1}.png?v=${BUILD_TIMESTAMP}`,
+            imdbRating:
+                imdbRating,
 
+            imdbId:
+                imdbId,
+
+            poster:
+                `${GITHUB_PAGES}/movie-${movies.length + 1}.png?v=${BUILD_TIMESTAMP}`,
 
             tmdbPoster:
                 movie.poster_path
@@ -456,28 +479,25 @@ async function getTopMovies() {
 
             HDPoster:
                 images.HDPoster,
+
             background:
                 images.backdrop,
 
-            backdropPoster: 
+            backdropPoster:
                 images.backdropPoster,
+
             logo:
                 images.logo
 
         });
 
-
-
         console.log(
             `Movie #${movies.length}:`,
             movie.title
         );
-
     }
 
-
     return movies;
-
 }
 
 
@@ -489,24 +509,20 @@ async function getTopSeries() {
 
     const series = [];
 
-
     const response = await fetch(
         `https://api.themoviedb.org/3/trending/tv/day?api_key=${API_KEY}`
     );
 
-
     const data = await response.json();
 
-
-
     for (const show of data.results || []) {
+
         const imdbId = await getIMDbId("tv", show.id);
         const imdbRating = await getIMDBRating2("show", show.id);
+
         if (series.length >= 10) {
             break;
         }
-
-
 
         if (await isAnime("tv", show.id)) {
 
@@ -516,10 +532,7 @@ async function getTopSeries() {
             );
 
             continue;
-
         }
-
-
 
         if (
             await isSportsEvent(
@@ -535,10 +548,7 @@ async function getTopSeries() {
             );
 
             continue;
-
         }
-
-
 
         if (!(await hasUSAvailability(show.id))) {
 
@@ -548,18 +558,31 @@ async function getTopSeries() {
             );
 
             continue;
-
         }
 
+        /*
+         * Get full TV details so we have:
+         * first_air_date
+         * last_air_date
+         * status
+         */
+        const detailsResponse = await fetch(
+            `https://api.themoviedb.org/3/tv/${show.id}?api_key=${API_KEY}`
+        );
 
+        const details = await detailsResponse.json();
+
+        const releaseInfo =
+            getReleaseInfo(
+                details,
+                "series"
+            );
 
         const images =
             await getImages(
                 "tv",
                 show.id
             );
-
-
 
         series.push({
 
@@ -575,29 +598,34 @@ async function getTopSeries() {
             description:
                 show.overview,
 
+            releaseInfo:
+                releaseInfo,
+
             rank:
                 series.length + 1,
 
-            imdbRating: imdbRating,
-            imdbId: imdbId,
+            imdbRating:
+                imdbRating,
+
+            imdbId:
+                imdbId,
+
             genres:
                 getGenres(
                     "tv",
                     show.genre_ids
                 ),
 
-
             poster:
-                // `${GITHUB_PAGES}/${imdbId}.png?v=${BUILD_TIMESTAMP}`,
                 `${GITHUB_PAGES}/series-${series.length + 1}.png?v=${BUILD_TIMESTAMP}`,
 
             HDPoster:
                 images.HDPoster,
+
             tmdbPoster:
                 show.poster_path
                     ? `https://image.tmdb.org/t/p/w500${show.poster_path}`
                     : null,
-
 
             background:
                 images.backdrop,
@@ -610,18 +638,14 @@ async function getTopSeries() {
 
         });
 
-
-
         console.log(
             `Series #${series.length}:`,
-            show.name
+            show.name,
+            `(${releaseInfo})`
         );
-
     }
 
-
     return series;
-
 }
 
 
