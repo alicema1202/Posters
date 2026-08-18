@@ -1,12 +1,13 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-18T00:28:12.835Z",
+  "updated": "2026-08-18T04:00:23.399Z",
   "metas": [
     {
       "id": "tt9288030",
       "type": "series",
       "name": "Reacher",
       "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "releaseInfo": "2022-",
       "rank": 1,
       "imdbRating": 8,
       "imdbId": "tt9288030",
@@ -15,7 +16,7 @@
         "Drama",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1787012877919",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1787025609521",
       "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "background": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -24,72 +25,12 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt11198330",
-      "type": "series",
-      "name": "House of the Dragon",
-      "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "rank": 2,
-      "imdbRating": 8.3,
-      "imdbId": "tt11198330",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1787012877919",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fFOk5QlPH6qpKLHZW67sdmbLAQQ.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt14688458",
-      "type": "series",
-      "name": "Silo",
-      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rank": 3,
-      "imdbRating": 8.1,
-      "imdbId": "tt14688458",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1787012877919",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt13111078",
-      "type": "series",
-      "name": "Lioness",
-      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "rank": 4,
-      "imdbRating": 7.8,
-      "imdbId": "tt13111078",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1787012877919",
-      "HDPoster": "https://image.tmdb.org/t/p/original/4K5Jdry2gZj5XbomCa0H56g9XCs.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "background": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt0149460",
       "type": "series",
       "name": "Futurama",
       "description": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "rank": 5,
+      "releaseInfo": "1999-",
+      "rank": 2,
       "imdbRating": 8.5,
       "imdbId": "tt0149460",
       "genres": [
@@ -97,7 +38,7 @@
         "Comedy",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1787012877919",
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1787025609521",
       "HDPoster": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "background": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
@@ -106,43 +47,67 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt10986410",
+      "id": "tt11198330",
       "type": "series",
-      "name": "Ted Lasso",
-      "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "rank": 6,
-      "imdbRating": 8.7,
-      "imdbId": "tt10986410",
+      "name": "House of the Dragon",
+      "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "releaseInfo": "2022-",
+      "rank": 3,
+      "imdbRating": 8.3,
+      "imdbId": "tt11198330",
       "genres": [
+        "Sci-Fi & Fantasy",
         "Drama",
-        "Comedy"
+        "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1787012877919",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wDihPx2ILax8HNEjYx8SI1yBcyI.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "background": "https://image.tmdb.org/t/p/original/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/kP3v1eZIrL0xAA1BdmBKStapzIQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1787025609521",
+      "HDPoster": "https://image.tmdb.org/t/p/original/fFOk5QlPH6qpKLHZW67sdmbLAQQ.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png",
       "posterShape": "portrait"
     },
     {
-      "id": "tt36303968",
+      "id": "tt13111078",
       "type": "series",
-      "name": "Furious",
-      "description": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-      "rank": 7,
-      "imdbRating": 7.6,
-      "imdbId": "tt36303968",
+      "name": "Lioness",
+      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "releaseInfo": "2023-",
+      "rank": 4,
+      "imdbRating": 7.8,
+      "imdbId": "tt13111078",
       "genres": [
         "Drama",
-        "Crime"
+        "War & Politics"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1787012877919",
-      "HDPoster": "https://image.tmdb.org/t/p/original/p2BRmtZvk2WtRln5avS9W6vgwDf.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "background": "https://image.tmdb.org/t/p/original/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/srWmmuaQxV9yPBp9uK1vNNaDPk6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1787025609521",
+      "HDPoster": "https://image.tmdb.org/t/p/original/4K5Jdry2gZj5XbomCa0H56g9XCs.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "releaseInfo": "2023-",
+      "rank": 5,
+      "imdbRating": 8.1,
+      "imdbId": "tt14688458",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1787025609521",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
       "posterShape": "portrait"
     },
     {
@@ -150,7 +115,8 @@
       "type": "series",
       "name": "The Apartment Job",
       "description": "Desperate for cash, a former gang boss teams up with an aspiring lawyer to steal an apartment complex's reserve fund — only to uncover deep corruption.",
-      "rank": 8,
+      "releaseInfo": "2026-2026",
+      "rank": 6,
       "imdbRating": 6.7,
       "imdbId": "tt43357366",
       "genres": [
@@ -158,7 +124,7 @@
         "Comedy",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1787012877919",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1787025609521",
       "HDPoster": "https://image.tmdb.org/t/p/original/36F5wm9exXhKACPdMSZfJduJ6l.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg",
       "background": "https://image.tmdb.org/t/p/original/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
@@ -167,44 +133,87 @@
       "posterShape": "portrait"
     },
     {
+      "id": "tt36303968",
+      "type": "series",
+      "name": "Furious",
+      "description": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+      "releaseInfo": "2026-",
+      "rank": 7,
+      "imdbRating": 7.6,
+      "imdbId": "tt36303968",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1787025609521",
+      "HDPoster": "https://image.tmdb.org/t/p/original/p2BRmtZvk2WtRln5avS9W6vgwDf.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/srWmmuaQxV9yPBp9uK1vNNaDPk6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt34866681",
+      "type": "series",
+      "name": "Lucky",
+      "description": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "releaseInfo": "2026-",
+      "rank": 8,
+      "imdbRating": 6.6,
+      "imdbId": "tt34866681",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1787025609521",
+      "HDPoster": "https://image.tmdb.org/t/p/original/rAuU77vC82faJEnYa4ByDVbWzxw.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hOJqvvhRnSsAEqMaCUuzfdYJajG.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/aGAC4OUgKe1l3bkZEam1ej1iBtk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ofBcrmZTjCSh2bL9Cpy6AgJQX2J.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "releaseInfo": "2020-",
+      "rank": 9,
+      "imdbRating": 8.7,
+      "imdbId": "tt10986410",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1787025609521",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wDihPx2ILax8HNEjYx8SI1yBcyI.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/kP3v1eZIrL0xAA1BdmBKStapzIQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
+      "posterShape": "portrait"
+    },
+    {
       "id": "tt37692332",
       "type": "series",
       "name": "President Curtis",
       "description": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
-      "rank": 9,
+      "releaseInfo": "2026-",
+      "rank": 10,
       "imdbRating": 7.3,
       "imdbId": "tt37692332",
       "genres": [
         "Animation",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1787012877919",
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1787025609521",
       "HDPoster": "https://image.tmdb.org/t/p/original/xBG5M8tflHMUEKbmO8T4M8RTT8q.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
       "background": "https://image.tmdb.org/t/p/original/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/pbnopXJrJfhMhlLMhMQUaCeqGic.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/oA1orEp9XUfZRfhX4d5bWjJGuAk.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt16026746",
-      "type": "series",
-      "name": "X-Men '97",
-      "description": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "rank": 10,
-      "imdbRating": 8.7,
-      "imdbId": "tt16026746",
-      "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1787012877919",
-      "HDPoster": "https://image.tmdb.org/t/p/original/5R812JOQbX9RPHYbG61V7WQfarp.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "background": "https://image.tmdb.org/t/p/original/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/fdNEbKPMlme1toVlGoW5sPhqHkR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/i4O2d2EYfBCVFVIQaES16gchiMj.png",
       "posterShape": "portrait"
     }
   ]
