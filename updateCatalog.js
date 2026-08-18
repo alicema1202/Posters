@@ -337,6 +337,7 @@ async function isSportsEvent(type, id, title) {
 }
 
 function getReleaseInfo(data, type) {
+
     if (type === "movie") {
         return data.release_date
             ? data.release_date.substring(0, 4)
@@ -344,6 +345,7 @@ function getReleaseInfo(data, type) {
     }
 
     if (type === "series") {
+
         const startYear = data.first_air_date
             ? data.first_air_date.substring(0, 4)
             : null;
@@ -363,9 +365,16 @@ function getReleaseInfo(data, type) {
             ? data.last_air_date.substring(0, 4)
             : null;
 
-        return endYear
-            ? `${startYear}-${endYear}`
-            : `${startYear}-`;
+        if (!endYear) {
+            return `${startYear}-`;
+        }
+
+        // Same year = just the year
+        if (startYear === endYear) {
+            return startYear;
+        }
+
+        return `${startYear}-${endYear}`;
     }
 
     return null;
