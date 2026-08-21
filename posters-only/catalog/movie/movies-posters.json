@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-20T00:28:00.802Z",
+  "updated": "2026-08-21T00:30:38.798Z",
   "metas": [
     {
       "id": "tt29355505",
@@ -15,13 +15,13 @@
         "Comedy",
         "Adventure"
       ],
-      "imdbRating": 7.5,
+      "imdbRating": 7.4,
       "imdbId": "tt29355505",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1787185672913",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1787272230766",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/owUcU7WcM42uPXIVJHglDQceY5R.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1787185672913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/4qr9cjN9iiC8TF0Uhpp2Qaib72O.jpg"
+      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1787272230766",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/to5PIWJXXOmatYepPRTLGWENLJf.jpg"
     },
     {
       "id": "tt37287335",
@@ -36,10 +36,10 @@
       ],
       "imdbRating": 7.8,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1787185672913",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1787272230766",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1787185672913",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1787272230766",
       "backdropPoster": "https://image.tmdb.org/t/p/original/vj3niHx3ikSAIr1O8A2uBgwsuTp.jpg"
     },
     {
@@ -53,131 +53,33 @@
         "Comedy",
         "Romance"
       ],
-      "imdbRating": 8.1,
+      "imdbRating": 8.2,
       "imdbId": "tt40001699",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1787185672913",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7SkSZOAHPJbks40PQYwIH2bV1f2.jpg",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1787272230766",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/y3zqa6qmLz2C2bUImOgYs6JxDNT.jpg",
       "HDPoster": null,
-      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1787185672913",
-      "backdropPoster": null
+      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1787272230766",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/gdMCa6igIABE2bps78gjHXJ1JZG.jpg"
     },
     {
-      "id": "tt14173636",
+      "id": "tt30887701",
       "type": "movie",
-      "name": "The Invite",
-      "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "name": "Pinocchio: Unstrung",
+      "description": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
       "releaseInfo": "2026",
       "rank": 4,
       "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "imdbRating": 7.6,
-      "imdbId": "tt14173636",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1787185672913",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/vNACQTOWt9mYvFONNzDhUf3Ah4.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1787185672913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/xQldGuO9wbahB62ywrp8UtOdAFt.jpg"
-    },
-    {
-      "id": "tt15047880",
-      "type": "movie",
-      "name": "Disclosure Day",
-      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "releaseInfo": "2026",
-      "rank": 5,
-      "genres": [
-        "Science Fiction",
-        "Thriller"
-      ],
-      "imdbRating": 6.4,
-      "imdbId": "tt15047880",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1787185672913",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/kxLjrSvs4WuYszwSxzjbtZcLUcC.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1787185672913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/701aTHRSfEm2IHchyMXoZt4T1yV.jpg"
-    },
-    {
-      "id": "tt26657236",
-      "type": "movie",
-      "name": "Backrooms",
-      "description": "A strange doorway appears in the basement of a furniture showroom.",
-      "releaseInfo": "2026",
-      "rank": 6,
-      "genres": [
         "Horror",
-        "Mystery",
-        "Science Fiction"
-      ],
-      "imdbRating": 6.8,
-      "imdbId": "tt26657236",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1787185672913",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1787185672913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg"
-    },
-    {
-      "id": "tt8814476",
-      "type": "movie",
-      "name": "Supergirl",
-      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "releaseInfo": "2026",
-      "rank": 7,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
+        "Fantasy",
+        "Mystery"
       ],
       "imdbRating": 5.9,
-      "imdbId": "tt8814476",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1787185672913",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fgwmYhbx9vVdFXrKG9mSsOV9Pnm.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1787185672913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9WyCDqi6ogIWYCnlCLJfvNuR9dF.jpg"
-    },
-    {
-      "id": "tt12042730",
-      "type": "movie",
-      "name": "Project Hail Mary",
-      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "genres": [
-        "Science Fiction",
-        "Adventure"
-      ],
-      "imdbRating": 8.2,
-      "imdbId": "tt12042730",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1787185672913",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1787185672913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7mL0PR2jGC283JbPApFS8aJ2x1F.jpg"
-    },
-    {
-      "id": "tt32268156",
-      "type": "movie",
-      "name": "The Last House",
-      "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "Horror",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "imdbRating": 5.5,
-      "imdbId": "tt32268156",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1787185672913",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9wCrNgVcaOhS5jPK9B5reFIWvxh.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1787185672913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/tuE3eg1eNeoJfrYtTDns4CnEhZQ.jpg"
+      "imdbId": "tt30887701",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1787272230766",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/r0hCOPsYHFc7qok51canND9TVoN.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/uUzZrj2HYtuvf5uzLLdYAucZ9iI.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1787272230766",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/tpd5xnef4f5x1fbZzmM4YM42bC.jpg"
     },
     {
       "id": "tt30825738",
@@ -185,7 +87,7 @@
       "name": "The Mandalorian and Grogu",
       "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
       "releaseInfo": "2026",
-      "rank": 10,
+      "rank": 5,
       "genres": [
         "Action",
         "Adventure",
@@ -193,11 +95,111 @@
       ],
       "imdbRating": 6.8,
       "imdbId": "tt30825738",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1787185672913",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1787272230766",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/uhKu98XD2VFzzfDgNOM3wBrAOuH.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1787185672913",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1787272230766",
       "backdropPoster": "https://image.tmdb.org/t/p/original/zAxyRS0GiDDVCztJIwL1o4PuJpO.jpg"
+    },
+    {
+      "id": "tt32268156",
+      "type": "movie",
+      "name": "The Last House",
+      "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+      "releaseInfo": "2026",
+      "rank": 6,
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdbRating": 5.5,
+      "imdbId": "tt32268156",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1787272230766",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9wCrNgVcaOhS5jPK9B5reFIWvxh.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1787272230766",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/tuE3eg1eNeoJfrYtTDns4CnEhZQ.jpg"
+    },
+    {
+      "id": "tt14173636",
+      "type": "movie",
+      "name": "The Invite",
+      "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "releaseInfo": "2026",
+      "rank": 7,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdbRating": 7.6,
+      "imdbId": "tt14173636",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1787272230766",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/vNACQTOWt9mYvFONNzDhUf3Ah4.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1787272230766",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/xQldGuO9wbahB62ywrp8UtOdAFt.jpg"
+    },
+    {
+      "id": "tt33311069",
+      "type": "movie",
+      "name": "The Furious",
+      "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
+      "releaseInfo": "2026",
+      "rank": 8,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "imdbRating": 7.3,
+      "imdbId": "tt33311069",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1787272230766",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/xSX9o9cy60IGc16sgaJTadjIQmg.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1787272230766",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/58moy1T9hq9LbcuOUlEceQkD3uM.jpg"
+    },
+    {
+      "id": "tt26657236",
+      "type": "movie",
+      "name": "Backrooms",
+      "description": "A strange doorway appears in the basement of a furniture showroom.",
+      "releaseInfo": "2026",
+      "rank": 9,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "imdbRating": 6.8,
+      "imdbId": "tt26657236",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1787272230766",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1787272230766",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg"
+    },
+    {
+      "id": "tt36590417",
+      "type": "movie",
+      "name": "Don't Say Good Luck",
+      "description": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+      "releaseInfo": "2026",
+      "rank": 10,
+      "genres": [
+        "Comedy",
+        "Music",
+        "Drama"
+      ],
+      "imdbRating": 6.8,
+      "imdbId": "tt36590417",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1787272230766",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/kEjXp62o7EWQad8O37urtAs1M9Q.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1787272230766",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/uSfGkwOMzxG2kyC3wmxP5C6hs6Q.jpg"
     }
   ]
 }

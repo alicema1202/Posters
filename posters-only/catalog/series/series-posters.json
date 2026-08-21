@@ -1,46 +1,25 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-20T00:28:00.802Z",
+  "updated": "2026-08-21T00:30:38.798Z",
   "metas": [
     {
-      "id": "tt26545992",
+      "id": "tt10293938",
       "type": "series",
-      "name": "Lanterns",
-      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "releaseInfo": "2026-",
+      "name": "Outer Banks",
+      "description": "On a North Carolina island of haves and have-nots, John B and his tight-knit crew of friends find mystery and adventure while hunting for lost treasure.",
+      "releaseInfo": "2020-2024",
       "rank": 1,
-      "imdbRating": 8.4,
-      "imdbId": "tt26545992",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1787185672913",
-      "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1787185672913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg"
-    },
-    {
-      "id": "tt9288030",
-      "type": "series",
-      "name": "Reacher",
-      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "releaseInfo": "2022-",
-      "rank": 2,
-      "imdbRating": 8,
-      "imdbId": "tt9288030",
+      "imdbRating": 7.5,
+      "imdbId": "tt10293938",
       "genres": [
         "Action & Adventure",
-        "Drama",
-        "Crime"
+        "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1787185672913",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1787185672913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/sMRfPGh8Xpy7ZNNXu3GzvhM5VQ3.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1787272230766",
+      "HDPoster": "https://image.tmdb.org/t/p/original/juNPe9rBABGNJhe2D9cCcS85y22.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1787272230766",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/vASmM6sVjT8Df8Z8JNedNJCF4Ib.jpg"
     },
     {
       "id": "tt34866681",
@@ -48,37 +27,76 @@
       "name": "Lucky",
       "description": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
       "releaseInfo": "2026",
-      "rank": 3,
-      "imdbRating": 6.6,
+      "rank": 2,
+      "imdbRating": 6.7,
       "imdbId": "tt34866681",
       "genres": [
         "Drama",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1787185672913",
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1787272230766",
       "HDPoster": "https://image.tmdb.org/t/p/original/rAuU77vC82faJEnYa4ByDVbWzxw.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/qdobPy3No4Fi3dCzcIDP9n8AjcO.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1787185672913",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1787272230766",
       "backdropPoster": "https://image.tmdb.org/t/p/original/aGAC4OUgKe1l3bkZEam1ej1iBtk.jpg"
     },
     {
-      "id": "tt10986410",
+      "id": "tt26545992",
       "type": "series",
-      "name": "Ted Lasso",
-      "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "releaseInfo": "2020-",
-      "rank": 4,
-      "imdbRating": 8.7,
-      "imdbId": "tt10986410",
+      "name": "Lanterns",
+      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "releaseInfo": "2026-",
+      "rank": 3,
+      "imdbRating": 8.3,
+      "imdbId": "tt26545992",
       "genres": [
         "Drama",
-        "Comedy"
+        "Mystery",
+        "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1787185672913",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xyXtW9Dgg7SPvrOufXtgkv2ipb9.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1787185672913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/kP3v1eZIrL0xAA1BdmBKStapzIQ.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1787272230766",
+      "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1787272230766",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg"
+    },
+    {
+      "id": "tt12327578",
+      "type": "series",
+      "name": "Star Trek: Strange New Worlds",
+      "description": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "releaseInfo": "2022-",
+      "rank": 4,
+      "imdbRating": 8.2,
+      "imdbId": "tt12327578",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1787272230766",
+      "HDPoster": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1787272230766",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/vMFxmogUUe5lhhzNnS59o51C77i.jpg"
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "releaseInfo": "2022-",
+      "rank": 5,
+      "imdbRating": 8,
+      "imdbId": "tt9288030",
+      "genres": [
+        "Action & Adventure",
+        "Crime"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1787272230766",
+      "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1787272230766",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/sMRfPGh8Xpy7ZNNXu3GzvhM5VQ3.jpg"
     },
     {
       "id": "tt14688458",
@@ -86,17 +104,17 @@
       "name": "Silo",
       "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "releaseInfo": "2023-",
-      "rank": 5,
+      "rank": 6,
       "imdbRating": 8.1,
       "imdbId": "tt14688458",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1787185672913",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1787272230766",
       "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1787185672913",
+      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1787272230766",
       "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg"
     },
     {
@@ -105,7 +123,7 @@
       "name": "House of the Dragon",
       "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "releaseInfo": "2022-",
-      "rank": 6,
+      "rank": 7,
       "imdbRating": 8.3,
       "imdbId": "tt11198330",
       "genres": [
@@ -113,89 +131,70 @@
         "Drama",
         "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1787185672913",
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1787272230766",
       "HDPoster": "https://image.tmdb.org/t/p/original/fFOk5QlPH6qpKLHZW67sdmbLAQQ.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1787185672913",
+      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1787272230766",
       "backdropPoster": "https://image.tmdb.org/t/p/original/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg"
     },
     {
-      "id": "tt13111078",
+      "id": "tt27543562",
       "type": "series",
-      "name": "Lioness",
-      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "releaseInfo": "2023-",
-      "rank": 7,
-      "imdbRating": 7.8,
-      "imdbId": "tt13111078",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1787185672913",
-      "HDPoster": "https://image.tmdb.org/t/p/original/4K5Jdry2gZj5XbomCa0H56g9XCs.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1787185672913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg"
-    },
-    {
-      "id": "tt18070984",
-      "type": "series",
-      "name": "Average Joe",
-      "description": "Blue-collar plumber, Joe Washington, discovers his recently deceased father lived a secret, second life and stole millions of dollars from dangerous people just before he died. Now those people think Joe knows where it is. A bloody and violent confrontation triggers a chain of events that force Joe and his close-knit circle of family and friends out of their very average and mundane lives into a life-or-death race against time to find the truth and the millions.",
-      "releaseInfo": "2023-",
+      "name": "The Shards",
+      "description": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+      "releaseInfo": "2026",
       "rank": 8,
-      "imdbRating": 7.4,
-      "imdbId": "tt18070984",
+      "imdbRating": 5.8,
+      "imdbId": "tt27543562",
       "genres": [
-        "Comedy",
         "Drama",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1787185672913",
-      "HDPoster": "https://image.tmdb.org/t/p/original/nBlEHQOZAITRsrSkh6GAyCJvI4W.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/jsLYlsWA3CsE7V1owlSqfU9QzVG.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1787185672913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/eALUW1kXLavDZ5WrfP88nyYEBKa.jpg"
-    },
-    {
-      "id": "tt10293938",
-      "type": "series",
-      "name": "Outer Banks",
-      "description": "A tight-knit group of teens unearths a long-buried secret, setting off a chain of illicit events that takes them on an adventure they'll never forget.",
-      "releaseInfo": "2020-",
-      "rank": 9,
-      "imdbRating": 7.5,
-      "imdbId": "tt10293938",
-      "genres": [
-        "Action & Adventure",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1787185672913",
-      "HDPoster": "https://image.tmdb.org/t/p/original/juNPe9rBABGNJhe2D9cCcS85y22.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1787185672913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/vASmM6sVjT8Df8Z8JNedNJCF4Ib.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1787272230766",
+      "HDPoster": "https://image.tmdb.org/t/p/original/n3f64eaJLRbwt29ewgFpUWSFFH9.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1787272230766",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/i3RJx0zwaEWNH5BveK8RMPIP7md.jpg"
     },
     {
-      "id": "tt0149460",
+      "id": "tt27846061",
       "type": "series",
-      "name": "Futurama",
-      "description": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "releaseInfo": "1999-",
-      "rank": 10,
-      "imdbRating": 8.5,
-      "imdbId": "tt0149460",
+      "name": "Ludwig",
+      "description": "John Taylor lives in quiet solitude, designing puzzles for a living, under the nom-de-plume of 'Ludwig'. When his identical twin, James, disappears off the face of the earth, John takes over his brother's identity in a quest to discover his whereabouts.",
+      "releaseInfo": "2024-",
+      "rank": 9,
+      "imdbRating": 8.1,
+      "imdbId": "tt27846061",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Sci-Fi & Fantasy"
+        "Mystery",
+        "Crime",
+        "Drama",
+        "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1787185672913",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1787185672913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/jYuP1J52HzbyeSdPj3Ix0BnKVxy.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1787272230766",
+      "HDPoster": "https://image.tmdb.org/t/p/original/ol2KdP81yW3hasVQvGDOqwUGdS7.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6xpAG4tJKhRT6y2Uxw2nAJareoQ.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1787272230766",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/owjLozneHHy2ndsbY0Yttpm5iyM.jpg"
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "releaseInfo": "2020-",
+      "rank": 10,
+      "imdbRating": 8.7,
+      "imdbId": "tt10986410",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1787272230766",
+      "HDPoster": "https://image.tmdb.org/t/p/original/xyXtW9Dgg7SPvrOufXtgkv2ipb9.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1787272230766",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/kP3v1eZIrL0xAA1BdmBKStapzIQ.jpg"
     }
   ]
 }
