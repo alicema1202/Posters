@@ -1,44 +1,44 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-21T00:30:38.798Z",
+  "updated": "2026-08-22T00:28:22.233Z",
   "metas": [
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "releaseInfo": "2023-",
+      "rank": 1,
+      "imdbRating": 8.1,
+      "imdbId": "tt14688458",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1787358483042",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1787358483042",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg"
+    },
     {
       "id": "tt10293938",
       "type": "series",
       "name": "Outer Banks",
       "description": "On a North Carolina island of haves and have-nots, John B and his tight-knit crew of friends find mystery and adventure while hunting for lost treasure.",
-      "releaseInfo": "2020-2024",
-      "rank": 1,
+      "releaseInfo": "2020-2026",
+      "rank": 2,
       "imdbRating": 7.5,
       "imdbId": "tt10293938",
       "genres": [
         "Action & Adventure",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1787272230766",
-      "HDPoster": "https://image.tmdb.org/t/p/original/juNPe9rBABGNJhe2D9cCcS85y22.jpg",
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1787358483042",
+      "HDPoster": "https://image.tmdb.org/t/p/original/b5M9IIf9zBha7gNcCw7J6LB8oNS.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1787272230766",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/vASmM6sVjT8Df8Z8JNedNJCF4Ib.jpg"
-    },
-    {
-      "id": "tt34866681",
-      "type": "series",
-      "name": "Lucky",
-      "description": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "releaseInfo": "2026",
-      "rank": 2,
-      "imdbRating": 6.7,
-      "imdbId": "tt34866681",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1787272230766",
-      "HDPoster": "https://image.tmdb.org/t/p/original/rAuU77vC82faJEnYa4ByDVbWzxw.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1787272230766",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/aGAC4OUgKe1l3bkZEam1ej1iBtk.jpg"
+      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1787358483042",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/eVudAa7i78BfY3Gq7TWrfuIWUMf.jpg"
     },
     {
       "id": "tt26545992",
@@ -47,37 +47,56 @@
       "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "releaseInfo": "2026-",
       "rank": 3,
-      "imdbRating": 8.3,
+      "imdbRating": 8.1,
       "imdbId": "tt26545992",
       "genres": [
         "Drama",
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1787272230766",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1787358483042",
       "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1787272230766",
+      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1787358483042",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg"
     },
     {
-      "id": "tt12327578",
+      "id": "tt27497393",
       "type": "series",
-      "name": "Star Trek: Strange New Worlds",
-      "description": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-      "releaseInfo": "2022-",
+      "name": "Stuart Fails to Save the Universe",
+      "description": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "releaseInfo": "2026-",
       "rank": 4,
-      "imdbRating": 8.2,
-      "imdbId": "tt12327578",
+      "imdbRating": 7.2,
+      "imdbId": "tt27497393",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "Comedy",
+        "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1787272230766",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1787272230766",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/vMFxmogUUe5lhhzNnS59o51C77i.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1787358483042",
+      "HDPoster": "https://image.tmdb.org/t/p/original/lMvWtYbm7ljZxYoBFfDZcjKlrJN.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1787358483042",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bOhpVQ6BLoKoS5ygtDZayuscP88.jpg"
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "releaseInfo": "2020-",
+      "rank": 5,
+      "imdbRating": 8.7,
+      "imdbId": "tt10986410",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1787358483042",
+      "HDPoster": "https://image.tmdb.org/t/p/original/xyXtW9Dgg7SPvrOufXtgkv2ipb9.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1787358483042",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/kP3v1eZIrL0xAA1BdmBKStapzIQ.jpg"
     },
     {
       "id": "tt9288030",
@@ -85,76 +104,18 @@
       "name": "Reacher",
       "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "releaseInfo": "2022-",
-      "rank": 5,
+      "rank": 6,
       "imdbRating": 8,
       "imdbId": "tt9288030",
       "genres": [
         "Action & Adventure",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1787272230766",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1787358483042",
       "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1787272230766",
+      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1787358483042",
       "backdropPoster": "https://image.tmdb.org/t/p/original/sMRfPGh8Xpy7ZNNXu3GzvhM5VQ3.jpg"
-    },
-    {
-      "id": "tt14688458",
-      "type": "series",
-      "name": "Silo",
-      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "releaseInfo": "2023-",
-      "rank": 6,
-      "imdbRating": 8.1,
-      "imdbId": "tt14688458",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1787272230766",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1787272230766",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg"
-    },
-    {
-      "id": "tt11198330",
-      "type": "series",
-      "name": "House of the Dragon",
-      "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "releaseInfo": "2022-",
-      "rank": 7,
-      "imdbRating": 8.3,
-      "imdbId": "tt11198330",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Action & Adventure"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1787272230766",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fFOk5QlPH6qpKLHZW67sdmbLAQQ.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1787272230766",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg"
-    },
-    {
-      "id": "tt27543562",
-      "type": "series",
-      "name": "The Shards",
-      "description": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "imdbRating": 5.8,
-      "imdbId": "tt27543562",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1787272230766",
-      "HDPoster": "https://image.tmdb.org/t/p/original/n3f64eaJLRbwt29ewgFpUWSFFH9.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1787272230766",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/i3RJx0zwaEWNH5BveK8RMPIP7md.jpg"
     },
     {
       "id": "tt27846061",
@@ -162,7 +123,7 @@
       "name": "Ludwig",
       "description": "John Taylor lives in quiet solitude, designing puzzles for a living, under the nom-de-plume of 'Ludwig'. When his identical twin, James, disappears off the face of the earth, John takes over his brother's identity in a quest to discover his whereabouts.",
       "releaseInfo": "2024-",
-      "rank": 9,
+      "rank": 7,
       "imdbRating": 8.1,
       "imdbId": "tt27846061",
       "genres": [
@@ -171,30 +132,69 @@
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1787272230766",
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1787358483042",
       "HDPoster": "https://image.tmdb.org/t/p/original/ol2KdP81yW3hasVQvGDOqwUGdS7.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6xpAG4tJKhRT6y2Uxw2nAJareoQ.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1787272230766",
+      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1787358483042",
       "backdropPoster": "https://image.tmdb.org/t/p/original/owjLozneHHy2ndsbY0Yttpm5iyM.jpg"
     },
     {
-      "id": "tt10986410",
+      "id": "tt12327578",
       "type": "series",
-      "name": "Ted Lasso",
-      "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "releaseInfo": "2020-",
-      "rank": 10,
-      "imdbRating": 8.7,
-      "imdbId": "tt10986410",
+      "name": "Star Trek: Strange New Worlds",
+      "description": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "releaseInfo": "2022-",
+      "rank": 8,
+      "imdbRating": 8.2,
+      "imdbId": "tt12327578",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1787358483042",
+      "HDPoster": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1787358483042",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/vMFxmogUUe5lhhzNnS59o51C77i.jpg"
+    },
+    {
+      "id": "tt34866681",
+      "type": "series",
+      "name": "Lucky",
+      "description": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "releaseInfo": "2026",
+      "rank": 9,
+      "imdbRating": 6.7,
+      "imdbId": "tt34866681",
       "genres": [
         "Drama",
-        "Comedy"
+        "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1787272230766",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xyXtW9Dgg7SPvrOufXtgkv2ipb9.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1787272230766",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/kP3v1eZIrL0xAA1BdmBKStapzIQ.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1787358483042",
+      "HDPoster": "https://image.tmdb.org/t/p/original/rAuU77vC82faJEnYa4ByDVbWzxw.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1787358483042",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/aGAC4OUgKe1l3bkZEam1ej1iBtk.jpg"
+    },
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "House of the Dragon",
+      "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "releaseInfo": "2022-",
+      "rank": 10,
+      "imdbRating": 8.3,
+      "imdbId": "tt11198330",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1787358483042",
+      "HDPoster": "https://image.tmdb.org/t/p/original/fFOk5QlPH6qpKLHZW67sdmbLAQQ.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1787358483042",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg"
     }
   ]
 }
