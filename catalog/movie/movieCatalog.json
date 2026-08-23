@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-22T00:28:22.232Z",
+  "updated": "2026-08-23T00:30:23.045Z",
   "metas": [
     {
       "id": "tt39390497",
@@ -16,11 +16,11 @@
       ],
       "imdbRating": null,
       "imdbId": "tt39390497",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1787358483042",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1787445016181",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/etFPzmqXZlHDderOCgg3YjQswT1.jpg",
       "background": "https://image.tmdb.org/t/p/original/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-      "backdropPoster": null,
+      "backdropPoster": "https://image.tmdb.org/t/p/original/g58Y24t3XiexAyquCrciuNH3syF.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/1d22QQ6k9kAwI3ku4f8c3d3vUrM.png",
       "posterShape": "portrait"
     },
@@ -39,7 +39,7 @@
       ],
       "imdbRating": 7.4,
       "imdbId": "tt29355505",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1787358483042",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1787445016181",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/owUcU7WcM42uPXIVJHglDQceY5R.jpg",
       "background": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
@@ -48,46 +48,46 @@
       "posterShape": "portrait"
     },
     {
+      "id": "tt33764258",
+      "type": "movie",
+      "name": "The Odyssey",
+      "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "releaseInfo": "2026",
+      "rank": 3,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "imdbRating": 8.5,
+      "imdbId": "tt33764258",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1787445016181",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/qaWgqQdJwohmc4XK4iXAiZiPOKH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/ugEXTmwvFj8oqOui6ZwXjQgSwAp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kX6ZX4GL7km04332caiOVapR2lb.png",
+      "posterShape": "portrait"
+    },
+    {
       "id": "tt37287335",
       "type": "movie",
       "name": "Obsession",
       "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "releaseInfo": "2026",
-      "rank": 3,
+      "rank": 4,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "imdbRating": 7.8,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1787358483042",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1787445016181",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
       "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/vj3niHx3ikSAIr1O8A2uBgwsuTp.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt27844906",
-      "type": "movie",
-      "name": "Rosebush Pruning",
-      "description": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
-      "releaseInfo": "2026",
-      "rank": 4,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Thriller"
-      ],
-      "imdbRating": 5.5,
-      "imdbId": "tt27844906",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1787358483042",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/tXsTtSgguTsk5J115jokwK55awF.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/ogE9h8PzZvpPVNYeCSXHlEZRm8X.jpg",
-      "background": "https://image.tmdb.org/t/p/original/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/kzyi88IY1v0vB9yYc1HzazfP36X.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dxmSv8GoAow4iNdQgiF3Ts4pwXc.png",
       "posterShape": "portrait"
     },
     {
@@ -104,7 +104,7 @@
       ],
       "imdbRating": 6.8,
       "imdbId": "tt26657236",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1787358483042",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1787445016181",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg",
       "background": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
@@ -113,45 +113,24 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt34383465",
+      "id": "tt37540328",
       "type": "movie",
-      "name": "Nightborn",
-      "description": "In Finnish forest, Saga and her husband Jon embark on a new chapter as parents. But Saga's joy is overshadowed by a chilling suspicion about their newborn, unbeknownst to Jon, causing a rift as she alone grapples with the disturbing truth.",
+      "name": "Back to the 90s",
+      "description": "When a mysterious glitch sends a rising boyband back to 1995 - just days before the biggest showcase of their lives - the five friends race to reverse the time slip. But as unexpected connections form and the past pulls them in deeper, getting home means confronting what they're willing to leave behind - and who they truly are to each other.",
       "releaseInfo": "2026",
       "rank": 6,
       "genres": [
-        "Horror"
+        "Comedy",
+        "Music"
       ],
-      "imdbRating": 5.6,
-      "imdbId": "tt34383465",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1787358483042",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/e9ALgOANOJbcFpw84MbafK3xvD2.jpg",
-      "HDPoster": null,
-      "background": "https://image.tmdb.org/t/p/original/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/1M9f9nDw1LD6UGRiN3I9XMPTJcO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qJyv3hguD0K3G5NvzF284tsnKgD.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt30887701",
-      "type": "movie",
-      "name": "Pinocchio: Unstrung",
-      "description": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
-      "releaseInfo": "2026",
-      "rank": 7,
-      "genres": [
-        "Horror",
-        "Fantasy",
-        "Mystery"
-      ],
-      "imdbRating": 5.9,
-      "imdbId": "tt30887701",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1787358483042",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/r0hCOPsYHFc7qok51canND9TVoN.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/68CwdYjUYImHZUn4a05cTxe1KhX.jpg",
-      "background": "https://image.tmdb.org/t/p/original/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/tpd5xnef4f5x1fbZzmM4YM42bC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bLYRqP5oe0T5yeYzDNwkBs5ldW7.png",
+      "imdbRating": null,
+      "imdbId": "tt37540328",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1787445016181",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/kYlupcri0UZ2MjZ5m8QeVWP00rh.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6CG7wAnzAief9Vy87ChN77oBeXh.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wJaqJIBZB8D5rPTwQDnGyhTX6RB.jpg",
+      "backdropPoster": null,
+      "logo": "https://image.tmdb.org/t/p/w500/lUaRtK15krx1C90e7DBlsDFRF8x.png",
       "posterShape": "portrait"
     },
     {
@@ -160,7 +139,7 @@
       "name": "The Invite",
       "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
       "releaseInfo": "2026",
-      "rank": 8,
+      "rank": 7,
       "genres": [
         "Comedy",
         "Drama",
@@ -168,7 +147,7 @@
       ],
       "imdbRating": 7.6,
       "imdbId": "tt14173636",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1787358483042",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1787445016181",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/vNACQTOWt9mYvFONNzDhUf3Ah4.jpg",
       "background": "https://image.tmdb.org/t/p/original/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
@@ -177,46 +156,68 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt33311069",
-      "type": "movie",
-      "name": "The Furious",
-      "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "imdbRating": 7.3,
-      "imdbId": "tt33311069",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1787358483042",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xSX9o9cy60IGc16sgaJTadjIQmg.jpg",
-      "background": "https://image.tmdb.org/t/p/original/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/58moy1T9hq9LbcuOUlEceQkD3uM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/msFWTNrFwfjsHKnMxDUexR9uofh.png",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt12042730",
       "type": "movie",
       "name": "Project Hail Mary",
       "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "releaseInfo": "2026",
-      "rank": 10,
+      "rank": 8,
       "genres": [
         "Science Fiction",
         "Adventure"
       ],
       "imdbRating": 8.2,
       "imdbId": "tt12042730",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1787358483042",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1787445016181",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
       "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/7mL0PR2jGC283JbPApFS8aJ2x1F.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt39260895",
+      "type": "movie",
+      "name": "Pyaar Prema Kalyanam",
+      "description": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof.",
+      "releaseInfo": "2026",
+      "rank": 9,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt39260895",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1787445016181",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+      "HDPoster": null,
+      "background": "https://image.tmdb.org/t/p/original/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg",
+      "backdropPoster": null,
+      "logo": "https://image.tmdb.org/t/p/w500/5xy8KV7JfNJUMz8Ddff7CheWhF4.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt27844906",
+      "type": "movie",
+      "name": "Rosebush Pruning",
+      "description": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
+      "releaseInfo": "2026",
+      "rank": 10,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "imdbRating": 5.5,
+      "imdbId": "tt27844906",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1787445016181",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/tXsTtSgguTsk5J115jokwK55awF.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/ogE9h8PzZvpPVNYeCSXHlEZRm8X.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/kzyi88IY1v0vB9yYc1HzazfP36X.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dxmSv8GoAow4iNdQgiF3Ts4pwXc.png",
       "posterShape": "portrait"
     }
   ]
