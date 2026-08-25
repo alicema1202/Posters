@@ -1,48 +1,25 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-08-24T00:30:12.223Z",
+  "updated": "2026-08-25T00:28:57.740Z",
   "metas": [
     {
-      "id": "tt33764258",
+      "id": "tt31170389",
       "type": "movie",
-      "name": "The Odyssey",
-      "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "name": "Evil Dead Burn",
+      "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
       "releaseInfo": "2026",
       "rank": 1,
       "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
+        "Horror"
       ],
-      "imdbRating": 8.5,
-      "imdbId": "tt33764258",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1787531392867",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/qaWgqQdJwohmc4XK4iXAiZiPOKH.jpg",
-      "background": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/ugEXTmwvFj8oqOui6ZwXjQgSwAp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kX6ZX4GL7km04332caiOVapR2lb.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt37287335",
-      "type": "movie",
-      "name": "Obsession",
-      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "releaseInfo": "2026",
-      "rank": 2,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "imdbRating": 7.8,
-      "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1787531392867",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/UXpArc19K5MQL3y2YEurQu7OHP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+      "imdbRating": 6.3,
+      "imdbId": "tt31170389",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1787617729863",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/viHFZ7GlzMcmPbADvP4Vd6Ema0g.jpg",
+      "background": "https://image.tmdb.org/t/p/original/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/u80cOMncKRSEEwrE9T8NTjX0DNP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ohYhg6EogWRTy2uf3uXXuINCbmz.png",
       "posterShape": "landscape"
     },
     {
@@ -51,7 +28,7 @@
       "name": "Toy Story 5",
       "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "releaseInfo": "2026",
-      "rank": 3,
+      "rank": 2,
       "genres": [
         "Animation",
         "Family",
@@ -60,12 +37,55 @@
       ],
       "imdbRating": 7.4,
       "imdbId": "tt29355505",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1787531392867",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1787617729863",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/owUcU7WcM42uPXIVJHglDQceY5R.jpg",
-      "background": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/to5PIWJXXOmatYepPRTLGWENLJf.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt37287335",
+      "type": "movie",
+      "name": "Obsession",
+      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "releaseInfo": "2026",
+      "rank": 3,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdbRating": 7.8,
+      "imdbId": "tt37287335",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1787617729863",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/UXpArc19K5MQL3y2YEurQu7OHP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt33764258",
+      "type": "movie",
+      "name": "The Odyssey",
+      "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "releaseInfo": "2026",
+      "rank": 4,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "imdbRating": 8.5,
+      "imdbId": "tt33764258",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1787617729863",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/qaWgqQdJwohmc4XK4iXAiZiPOKH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/ugEXTmwvFj8oqOui6ZwXjQgSwAp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kX6ZX4GL7km04332caiOVapR2lb.png",
       "posterShape": "landscape"
     },
     {
@@ -74,15 +94,15 @@
       "name": "Facing El Chapo",
       "description": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
       "releaseInfo": "2026",
-      "rank": 4,
+      "rank": 5,
       "genres": [
         "Crime",
         "Action",
         "Thriller"
       ],
-      "imdbRating": 6.4,
+      "imdbRating": 6.6,
       "imdbId": "tt39390497",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1787531392867",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1787617729863",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/etFPzmqXZlHDderOCgg3YjQswT1.jpg",
       "background": "https://image.tmdb.org/t/p/original/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
@@ -96,7 +116,7 @@
       "name": "Backrooms",
       "description": "A strange doorway appears in the basement of a furniture showroom.",
       "releaseInfo": "2026",
-      "rank": 5,
+      "rank": 6,
       "genres": [
         "Horror",
         "Mystery",
@@ -104,7 +124,7 @@
       ],
       "imdbRating": 6.8,
       "imdbId": "tt26657236",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1787531392867",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1787617729863",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg",
       "background": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
@@ -113,19 +133,41 @@
       "posterShape": "landscape"
     },
     {
+      "id": "tt8814476",
+      "type": "movie",
+      "name": "Supergirl",
+      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "releaseInfo": "2026",
+      "rank": 7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "imdbRating": 5.9,
+      "imdbId": "tt8814476",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1787617729863",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/fgwmYhbx9vVdFXrKG9mSsOV9Pnm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9WyCDqi6ogIWYCnlCLJfvNuR9dF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sOKyZ1al829AnlmjWoghvzXFbQ6.png",
+      "posterShape": "landscape"
+    },
+    {
       "id": "tt12042730",
       "type": "movie",
       "name": "Project Hail Mary",
       "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "releaseInfo": "2026",
-      "rank": 6,
+      "rank": 8,
       "genres": [
         "Science Fiction",
         "Adventure"
       ],
       "imdbRating": 8.2,
       "imdbId": "tt12042730",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1787531392867",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1787617729863",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
       "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
@@ -134,12 +176,33 @@
       "posterShape": "landscape"
     },
     {
+      "id": "tt15047880",
+      "type": "movie",
+      "name": "Disclosure Day",
+      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "releaseInfo": "2026",
+      "rank": 9,
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdbRating": 6.4,
+      "imdbId": "tt15047880",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1787617729863",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/kxLjrSvs4WuYszwSxzjbtZcLUcC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/701aTHRSfEm2IHchyMXoZt4T1yV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png",
+      "posterShape": "landscape"
+    },
+    {
       "id": "tt14173636",
       "type": "movie",
       "name": "The Invite",
       "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
       "releaseInfo": "2026",
-      "rank": 7,
+      "rank": 10,
       "genres": [
         "Comedy",
         "Drama",
@@ -147,76 +210,12 @@
       ],
       "imdbRating": 7.6,
       "imdbId": "tt14173636",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1787531392867",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1787617729863",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/hFLVVF6GSfFkvDlht6iCsCcFjrh.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/vNACQTOWt9mYvFONNzDhUf3Ah4.jpg",
       "background": "https://image.tmdb.org/t/p/original/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/seZyY20Tec4GXKtQHBjvpR69lAr.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/dahmDVuu9xOR1Obr4MKTuA3aAmG.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt18259538",
-      "type": "movie",
-      "name": "Avatar Aang: The Last Airbender",
-      "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "genres": [
-        "Animation",
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "imdbRating": 7.8,
-      "imdbId": "tt18259538",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1787531392867",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/74iiUwzqe2BnRZl7QD4LVQUQKHb.jpg",
-      "background": "https://image.tmdb.org/t/p/original/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/Y4xpldwjXLaIOSferMrtKzAQJl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vVzGZ7ghSF1tkeuJP1bMFd3pMdY.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt37540328",
-      "type": "movie",
-      "name": "Back to the 90s",
-      "description": "When a mysterious glitch sends a rising boyband back to 1995 - just days before the biggest showcase of their lives - the five friends race to reverse the time slip. But as unexpected connections form and the past pulls them in deeper, getting home means confronting what they're willing to leave behind - and who they truly are to each other.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "Comedy",
-        "Music"
-      ],
-      "imdbRating": 4.8,
-      "imdbId": "tt37540328",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1787531392867",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/2T0j25ofU6aUei6J6ek2hlTL1wc.jpg",
-      "HDPoster": null,
-      "background": "https://image.tmdb.org/t/p/original/wJaqJIBZB8D5rPTwQDnGyhTX6RB.jpg",
-      "backdropPoster": null,
-      "logo": "https://image.tmdb.org/t/p/w500/bSWpHrS4GfpShLVqL1NhuWsDHy4.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt31170389",
-      "type": "movie",
-      "name": "Evil Dead Burn",
-      "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-      "releaseInfo": "2026",
-      "rank": 10,
-      "genres": [
-        "Horror"
-      ],
-      "imdbRating": 6.3,
-      "imdbId": "tt31170389",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1787531392867",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/viHFZ7GlzMcmPbADvP4Vd6Ema0g.jpg",
-      "background": "https://image.tmdb.org/t/p/original/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/u80cOMncKRSEEwrE9T8NTjX0DNP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ohYhg6EogWRTy2uf3uXXuINCbmz.png",
       "posterShape": "landscape"
     }
   ]
