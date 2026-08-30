@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-08-30T06:01:53.866Z",
+  "updated": "2026-08-30T17:23:32.521Z",
   "metas": [
     {
       "id": "tt36996011",
@@ -9,56 +9,37 @@
       "description": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
       "releaseInfo": "2026",
       "rank": 1,
-      "imdbRating": null,
+      "imdbRating": 7.6,
       "imdbId": "tt36996011",
       "genres": [
         "Crime",
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1788069695097",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1788110592990",
       "HDPoster": "https://image.tmdb.org/t/p/original/6B3xYx8ishrDshAO0tO8t4rUGzI.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1788069695097",
+      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1788110592990",
       "backdropPoster": "https://image.tmdb.org/t/p/original/uHK7lwJIPlzqu8jDHi3Cycx1qX2.jpg"
     },
     {
-      "id": "tt14688458",
+      "id": "tt13111078",
       "type": "series",
-      "name": "Silo",
-      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "name": "Lioness",
+      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "releaseInfo": "2023-",
       "rank": 2,
-      "imdbRating": 8.1,
-      "imdbId": "tt14688458",
+      "imdbRating": 7.8,
+      "imdbId": "tt13111078",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "Drama",
+        "War & Politics"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1788069695097",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1788069695097",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg"
-    },
-    {
-      "id": "tt19231492",
-      "type": "series",
-      "name": "Dark Matter",
-      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "releaseInfo": "2024-",
-      "rank": 3,
-      "imdbRating": 7.6,
-      "imdbId": "tt19231492",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1788069695097",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2UFwBzMvbGEVJReVlSbsZfdMo2r.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1788069695097",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9FkCTXMsYhyCuWYJ8E1raC8yMP3.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1788110592990",
+      "HDPoster": "https://image.tmdb.org/t/p/original/4K5Jdry2gZj5XbomCa0H56g9XCs.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1788110592990",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg"
     },
     {
       "id": "tt26545992",
@@ -66,7 +47,7 @@
       "name": "Lanterns",
       "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "releaseInfo": "2026-",
-      "rank": 4,
+      "rank": 3,
       "imdbRating": 8,
       "imdbId": "tt26545992",
       "genres": [
@@ -74,29 +55,49 @@
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1788069695097",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1788110592990",
       "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1788069695097",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1788110592990",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg"
     },
     {
-      "id": "tt33049767",
+      "id": "tt19231492",
       "type": "series",
-      "name": "Adults",
-      "description": "A group of twenty-somethings in New York trying to be good people, despite being neither \"good\" nor \"people\" yet.",
-      "releaseInfo": "2025-",
-      "rank": 5,
-      "imdbRating": 7.4,
-      "imdbId": "tt33049767",
+      "name": "Dark Matter",
+      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+      "releaseInfo": "2024-",
+      "rank": 4,
+      "imdbRating": 7.6,
+      "imdbId": "tt19231492",
       "genres": [
-        "Comedy"
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1788069695097",
-      "HDPoster": "https://image.tmdb.org/t/p/original/r2yaABeXmcgQDmRxRJsmLbTsPHQ.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/oJUoRlVXGl3MJb62Ugi1G08GPbx.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1788069695097",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/rkoOFJaVyZ3zxMaxBin4DM6YTQF.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1788110592990",
+      "HDPoster": "https://image.tmdb.org/t/p/original/2UFwBzMvbGEVJReVlSbsZfdMo2r.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1788110592990",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9FkCTXMsYhyCuWYJ8E1raC8yMP3.jpg"
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "releaseInfo": "2023-",
+      "rank": 5,
+      "imdbRating": 8.1,
+      "imdbId": "tt14688458",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1788110592990",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1788110592990",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg"
     },
     {
       "id": "tt9288030",
@@ -111,11 +112,48 @@
         "Action & Adventure",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1788069695097",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1788110592990",
       "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1788069695097",
+      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1788110592990",
       "backdropPoster": "https://image.tmdb.org/t/p/original/sMRfPGh8Xpy7ZNNXu3GzvhM5VQ3.jpg"
+    },
+    {
+      "id": "tt11846996",
+      "type": "series",
+      "name": "Vigil",
+      "description": "The mysterious disappearance of a Scottish fishing trawler and a death on-board the submarine HMS Vigil bring the police into conflict with the Navy and British security services. DCI Amy Silva and DS Kirsten Longacre lead an investigation on land and at sea into a conspiracy that goes to the very heart of Britain’s national security.",
+      "releaseInfo": "2021-",
+      "rank": 7,
+      "imdbRating": 7.4,
+      "imdbId": "tt11846996",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1788110592990",
+      "HDPoster": "https://image.tmdb.org/t/p/original/reaNiZb8DjDuHZPl2LVRYN4g2kd.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5zAheY0Upi2MwU3edGtEgb7Ldh3.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1788110592990",
+      "backdropPoster": null
+    },
+    {
+      "id": "tt33049767",
+      "type": "series",
+      "name": "Adults",
+      "description": "A group of twenty-somethings in New York trying to be good people, despite being neither \"good\" nor \"people\" yet.",
+      "releaseInfo": "2025-",
+      "rank": 8,
+      "imdbRating": 7.5,
+      "imdbId": "tt33049767",
+      "genres": [
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1788110592990",
+      "HDPoster": "https://image.tmdb.org/t/p/original/r2yaABeXmcgQDmRxRJsmLbTsPHQ.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/oJUoRlVXGl3MJb62Ugi1G08GPbx.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1788110592990",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/rkoOFJaVyZ3zxMaxBin4DM6YTQF.jpg"
     },
     {
       "id": "tt10986410",
@@ -123,17 +161,17 @@
       "name": "Ted Lasso",
       "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
       "releaseInfo": "2020-",
-      "rank": 7,
+      "rank": 9,
       "imdbRating": 8.7,
       "imdbId": "tt10986410",
       "genres": [
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1788069695097",
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1788110592990",
       "HDPoster": "https://image.tmdb.org/t/p/original/xyXtW9Dgg7SPvrOufXtgkv2ipb9.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1788069695097",
+      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1788110592990",
       "backdropPoster": "https://image.tmdb.org/t/p/original/bzrc7m045cIBHoDhMojgTcea8Kd.jpg"
     },
     {
@@ -141,55 +179,18 @@
       "type": "series",
       "name": "The Early Spring",
       "description": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "imdbRating": 8.3,
+      "releaseInfo": "2026-",
+      "rank": 10,
+      "imdbRating": 8.5,
       "imdbId": "tt37884717",
       "genres": [
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1788069695097",
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1788110592990",
       "HDPoster": "https://image.tmdb.org/t/p/original/humHhdm4odTEMii5VM5KcKn73kf.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1788069695097",
+      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1788110592990",
       "backdropPoster": "https://image.tmdb.org/t/p/original/khs6raCRahi6CxFo97MHHbh2Egs.jpg"
-    },
-    {
-      "id": "tt31260386",
-      "type": "series",
-      "name": "Beauty in Black",
-      "description": "A stripper's fate takes a turn when she crosses paths with the wealthy, dysfunctional family behind a cosmetics dynasty and a devious trafficking scheme.",
-      "releaseInfo": "2024-",
-      "rank": 9,
-      "imdbRating": 5.9,
-      "imdbId": "tt31260386",
-      "genres": [
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1788069695097",
-      "HDPoster": "https://image.tmdb.org/t/p/original/kKep27Lh3Gi78cy0xHGTVsoGsQp.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1788069695097",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/1YNnAVdCfJfYNjlYxnCsMz9VjNA.jpg"
-    },
-    {
-      "id": "tt37053085",
-      "type": "series",
-      "name": "All the Truth in My Lies",
-      "description": "Two roommates join a bachelorette road trip, where unspoken feelings ignite and shake up their entire friend group.",
-      "releaseInfo": "2026-",
-      "rank": 10,
-      "imdbRating": null,
-      "imdbId": "tt37053085",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1788069695097",
-      "HDPoster": null,
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1788069695097",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/5dhSjXp0jDOmlHu2UyQo0Ekl8yw.jpg"
     }
   ]
 }
