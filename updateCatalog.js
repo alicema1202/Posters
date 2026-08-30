@@ -106,13 +106,19 @@ async function getImages(type, id) {
                 const aEnglish = a.iso_639_1 === "en" ? 1 : 0;
                 const bEnglish = b.iso_639_1 === "en" ? 1 : 0;
 
+                // English logos first
                 if (aEnglish !== bEnglish) {
                     return bEnglish - aEnglish;
                 }
 
-                return b.vote_average - a.vote_average;
-            })[0];
+                // Higher vote average first
+                if (a.vote_average !== b.vote_average) {
+                    return b.vote_average - a.vote_average;
+                }
 
+                // If score is tied, higher vote count first
+                return b.vote_count - a.vote_count;
+            })[0];  
     return {
 
         backdrop:
