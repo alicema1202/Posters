@@ -198,14 +198,11 @@ async function getIMDBRating2(type, tmdbID) {
  * TMDB release type 4 = Digital
  */
 async function hasDigitalRelease(movieId) {
-
     const response = await fetch(
         `https://api.themoviedb.org/3/movie/${movieId}/release_dates?api_key=${API_KEY}`
     );
 
-
     const data = await response.json();
-
 
     const usRelease =
         data.results?.find(
@@ -213,17 +210,25 @@ async function hasDigitalRelease(movieId) {
                 country.iso_3166_1 === "US"
         );
 
-
     if (!usRelease) {
         return false;
     }
 
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
 
     return usRelease.release_dates.some(
-        release =>
-            release.type === 4
-    );
+        release => {
+            if (release.type !== 4) {
+                return false;
+            }
 
+            const releaseDate = new Date(release.release_date);
+            releaseDate.setHours(0, 0, 0, 0);
+
+            return releaseDate <= today;
+        }
+    );
 }
 
 
