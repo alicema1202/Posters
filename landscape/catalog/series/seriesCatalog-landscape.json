@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-09-01T02:13:06.624Z",
+  "updated": "2026-09-01T06:27:53.901Z",
   "metas": [
     {
       "id": "tt26545992",
@@ -16,7 +16,7 @@
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1788228778067",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1788244066139",
       "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "background": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
@@ -37,7 +37,7 @@
         "Drama",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1788228778067",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1788244066139",
       "HDPoster": "https://image.tmdb.org/t/p/original/p2BRmtZvk2WtRln5avS9W6vgwDf.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
       "background": "https://image.tmdb.org/t/p/original/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
@@ -58,7 +58,7 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1788228778067",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1788244066139",
       "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
@@ -67,33 +67,12 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt13111078",
-      "type": "series",
-      "name": "Lioness",
-      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "releaseInfo": "2023-",
-      "rank": 4,
-      "imdbRating": 7.8,
-      "imdbId": "tt13111078",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1788228778067",
-      "HDPoster": "https://image.tmdb.org/t/p/original/4K5Jdry2gZj5XbomCa0H56g9XCs.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "background": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt36996011",
       "type": "series",
       "name": "Mousetrap",
       "description": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
       "releaseInfo": "2026",
-      "rank": 5,
+      "rank": 4,
       "imdbRating": 6.7,
       "imdbId": "tt36996011",
       "genres": [
@@ -101,12 +80,33 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1788228778067",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1788244066139",
       "HDPoster": "https://image.tmdb.org/t/p/original/6B3xYx8ishrDshAO0tO8t4rUGzI.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
       "background": "https://image.tmdb.org/t/p/original/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/uHK7lwJIPlzqu8jDHi3Cycx1qX2.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/uJfYt0J9X3QGdcqwIVqcLSrN1c3.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt13111078",
+      "type": "series",
+      "name": "Lioness",
+      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "releaseInfo": "2023-",
+      "rank": 5,
+      "imdbRating": 7.8,
+      "imdbId": "tt13111078",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1788244066139",
+      "HDPoster": "https://image.tmdb.org/t/p/original/4K5Jdry2gZj5XbomCa0H56g9XCs.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
       "posterShape": "landscape"
     },
     {
@@ -123,7 +123,7 @@
         "Comedy",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1788228778067",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1788244066139",
       "HDPoster": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "background": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
@@ -132,19 +132,39 @@
       "posterShape": "landscape"
     },
     {
+      "id": "tt8819906",
+      "type": "series",
+      "name": "Love Island USA",
+      "description": "The matchmaking begins as a group of single \"Islanders\" come together in a stunning villa on a beautiful tropical island, ready to embark on a summer of dating, romance, and ultimately, relationships. Every few days the Islanders pair up and those who are not coupled are at risk of being dumped from the island. Islanders are on the lookout for romance, but the road to love doesn't always run smoothly.",
+      "releaseInfo": "2019-",
+      "rank": 7,
+      "imdbRating": 5.2,
+      "imdbId": "tt8819906",
+      "genres": [
+        "Reality"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1788244066139",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9raSyLNb2e5lxfClDgG9jZ63YaW.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/kU2y21cls8WargMaX7KI47URMjD.jpg",
+      "background": "https://image.tmdb.org/t/p/original/m0TiLZ79RR19Zz0AZruQSBeH39x.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/5geFIfQKX6jpTqfMvllXyeXRzBL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bH4yI9cmPYS38G76EmkvmRCT09J.png",
+      "posterShape": "landscape"
+    },
+    {
       "id": "tt9288030",
       "type": "series",
       "name": "Reacher",
       "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "releaseInfo": "2022-",
-      "rank": 7,
+      "rank": 8,
       "imdbRating": 8,
       "imdbId": "tt9288030",
       "genres": [
         "Action & Adventure",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1788228778067",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1788244066139",
       "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "background": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
@@ -158,14 +178,14 @@
       "name": "Dark Matter",
       "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
       "releaseInfo": "2024-",
-      "rank": 8,
+      "rank": 9,
       "imdbRating": 7.6,
       "imdbId": "tt19231492",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1788228778067",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1788244066139",
       "HDPoster": "https://image.tmdb.org/t/p/original/2UFwBzMvbGEVJReVlSbsZfdMo2r.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
       "background": "https://image.tmdb.org/t/p/original/lcyaTfX6KEMpWNnzPoGPKp7LwwC.jpg",
@@ -179,38 +199,18 @@
       "name": "Four Hands, Two Sonatas",
       "description": "When two young pianists from completely different worlds meet at an elite music high school, the melodies of their lives become intimately intertwined.",
       "releaseInfo": "2026-",
-      "rank": 9,
+      "rank": 10,
       "imdbRating": null,
       "imdbId": "tt39368345",
       "genres": [
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1788228778067",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1788244066139",
       "HDPoster": "https://image.tmdb.org/t/p/original/c8saa6GyN8a3bjHCLGG65j7WeMA.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
       "background": "https://image.tmdb.org/t/p/original/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/t2qwK0vuOu4VL9as7uOMrX3oW6r.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ioBZEKDQ390CyxwPQXxHkRD7G9K.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt37884717",
-      "type": "series",
-      "name": "The Early Spring",
-      "description": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
-      "releaseInfo": "2026-",
-      "rank": 10,
-      "imdbRating": 8.6,
-      "imdbId": "tt37884717",
-      "genres": [
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1788228778067",
-      "HDPoster": "https://image.tmdb.org/t/p/original/humHhdm4odTEMii5VM5KcKn73kf.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-      "background": "https://image.tmdb.org/t/p/original/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/khs6raCRahi6CxFo97MHHbh2Egs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/b5pNKvsEPlCG0UPVTXhHgtQcFFZ.png",
       "posterShape": "landscape"
     }
   ]
