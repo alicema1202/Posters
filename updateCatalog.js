@@ -398,128 +398,134 @@ async function getTopMovies() {
 
     const movies = [];
 
-    const response = await fetch(
-        `https://api.themoviedb.org/3/trending/movie/day?api_key=${API_KEY}`
-    );
-
-    const data = await response.json();
-
-    for (const movie of data.results || []) {
-
-        const imdbId = await getIMDbId("movie", movie.id);
-        const imdbRating = await getIMDBRating2("movie", movie.id);
+    for (let page = 1; page <= 5; page++) {
 
         if (movies.length >= 10) {
             break;
         }
 
-        if (await isAnime("movie", movie.id)) {
-
-            console.log(
-                "Movie skipped (anime):",
-                movie.title
-            );
-
-            continue;
-        }
-
-        if (
-            await isSportsEvent(
-                "movie",
-                movie.id,
-                movie.title
-            )
-        ) {
-
-            console.log(
-                "Movie skipped (sports event):",
-                movie.title
-            );
-
-            continue;
-        }
-
-        if (!(await hasDigitalRelease(movie.id))) {
-
-            console.log(
-                "Movie skipped (no digital):",
-                movie.title
-            );
-
-            continue;
-        }
-
-        const images =
-            await getImages(
-                "movie",
-                movie.id
-            );
-
-        movies.push({
-
-            id:
-                imdbId,
-
-            type:
-                "movie",
-
-            name:
-                movie.title,
-
-            description:
-                movie.overview,
-
-            releaseInfo:
-                movie.release_date
-                    ? movie.release_date.substring(0, 4)
-                    : null,
-
-            rank:
-                movies.length + 1,
-
-            genres:
-                getGenres(
-                    "movie",
-                    movie.genre_ids
-                ),
-
-            imdbRating:
-                imdbRating,
-
-            imdbId:
-                imdbId,
-
-            poster:
-                `${GITHUB_PAGES}/movie-${movies.length + 1}.png?v=${BUILD_TIMESTAMP}`,
-
-            tmdbPoster:
-                movie.poster_path
-                    ? `https://image.tmdb.org/t/p/w500${movie.poster_path}`
-                    : null,
-
-            HDPoster:
-                images.HDPoster,
-
-            background:
-                images.backdrop,
-
-            backdropPoster:
-                images.backdropPoster,
-
-            logo:
-                images.logo
-
-        });
-
-        console.log(
-            `Movie #${movies.length}:`,
-            movie.title
+        const response = await fetch(
+            `https://api.themoviedb.org/3/trending/movie/day?api_key=${API_KEY}&page=${page}`
         );
+
+        const data = await response.json();
+
+        for (const movie of data.results || []) {
+
+            if (movies.length >= 10) {
+                break;
+            }
+
+            const imdbId = await getIMDbId("movie", movie.id);
+            const imdbRating = await getIMDBRating2("movie", movie.id);
+
+            if (await isAnime("movie", movie.id)) {
+
+                console.log(
+                    "Movie skipped (anime/documentary):",
+                    movie.title
+                );
+
+                continue;
+            }
+
+            if (
+                await isSportsEvent(
+                    "movie",
+                    movie.id,
+                    movie.title
+                )
+            ) {
+
+                console.log(
+                    "Movie skipped (sports event):",
+                    movie.title
+                );
+
+                continue;
+            }
+
+            if (!(await hasDigitalRelease(movie.id))) {
+
+                console.log(
+                    "Movie skipped (no digital):",
+                    movie.title
+                );
+
+                continue;
+            }
+
+            const images =
+                await getImages(
+                    "movie",
+                    movie.id
+                );
+
+            movies.push({
+
+                id:
+                    imdbId,
+
+                type:
+                    "movie",
+
+                name:
+                    movie.title,
+
+                description:
+                    movie.overview,
+
+                releaseInfo:
+                    movie.release_date
+                        ? movie.release_date.substring(0, 4)
+                        : null,
+
+                rank:
+                    movies.length + 1,
+
+                genres:
+                    getGenres(
+                        "movie",
+                        movie.genre_ids
+                    ),
+
+                imdbRating:
+                    imdbRating,
+
+                imdbId:
+                    imdbId,
+
+                poster:
+                    `${GITHUB_PAGES}/movie-${movies.length + 1}.png?v=${BUILD_TIMESTAMP}`,
+
+                tmdbPoster:
+                    movie.poster_path
+                        ? `https://image.tmdb.org/t/p/w500${movie.poster_path}`
+                        : null,
+
+                HDPoster:
+                    images.HDPoster,
+
+                background:
+                    images.backdrop,
+
+                backdropPoster:
+                    images.backdropPoster,
+
+                logo:
+                    images.logo
+
+            });
+
+            console.log(
+                `Movie #${movies.length}:`,
+                movie.title
+            );
+        }
     }
 
     return movies;
 }
-
 
 
 /**
