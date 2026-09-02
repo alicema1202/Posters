@@ -1,27 +1,46 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-09-01T06:27:53.900Z",
+  "updated": "2026-09-02T01:35:54.262Z",
   "metas": [
     {
-      "id": "tt11561116",
+      "id": "tt32332915",
       "type": "movie",
-      "name": "The Whisper Man",
-      "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+      "name": "I Want Your Sex",
+      "description": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
       "releaseInfo": "2026",
       "rank": 1,
       "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
+        "Comedy"
       ],
-      "imdbRating": 6.3,
-      "imdbId": "tt11561116",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1788244066139",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/vxqyAKDjfqlkUWWIJMSfhAnFbNk.jpg",
-      "background": "https://image.tmdb.org/t/p/original/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/mRq39hwWC1g97BK57klv9wazfUe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2ANvBpXxOPfJCHDuqRw1hC7B1NV.png",
+      "imdbRating": 6.4,
+      "imdbId": "tt32332915",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1788312934495",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/7fLT2x5aIHxO4mjjtzXSKzwTojU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xKPKNJI93LO2QPlIMLM8mthlCPi.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/yZse4cXCgfwL5Jyqs3FzcDWlxEM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bzHH30OjjiTENKFrUFi1EWNVcW8.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt36948232",
+      "type": "movie",
+      "name": "Just Play Dead",
+      "description": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
+      "releaseInfo": "2026",
+      "rank": 2,
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "imdbRating": 7.5,
+      "imdbId": "tt36948232",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1788312934495",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/8iZXcIxfvbShhKofyeGY6zyJ8yR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lBWfbmUj9Jw0EM1OYtDXr0B5FPW.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/glkULWRQYa1RWhi3Z93MZn2JpvN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xCJHXIcFJ1ql0JOKDgtJ0TJaMuV.png",
       "posterShape": "portrait"
     },
     {
@@ -30,14 +49,14 @@
       "name": "Obsession",
       "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "releaseInfo": "2026",
-      "rank": 2,
+      "rank": 3,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "imdbRating": 7.8,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1788244066139",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1788312934495",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
       "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
@@ -46,12 +65,34 @@
       "posterShape": "portrait"
     },
     {
+      "id": "tt11561116",
+      "type": "movie",
+      "name": "The Whisper Man",
+      "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+      "releaseInfo": "2026",
+      "rank": 4,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdbRating": 6.3,
+      "imdbId": "tt11561116",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1788312934495",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/vxqyAKDjfqlkUWWIJMSfhAnFbNk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/mRq39hwWC1g97BK57klv9wazfUe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2ANvBpXxOPfJCHDuqRw1hC7B1NV.png",
+      "posterShape": "portrait"
+    },
+    {
       "id": "tt29355505",
       "type": "movie",
       "name": "Toy Story 5",
       "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "releaseInfo": "2026",
-      "rank": 3,
+      "rank": 5,
       "genres": [
         "Animation",
         "Family",
@@ -60,7 +101,7 @@
       ],
       "imdbRating": 7.4,
       "imdbId": "tt29355505",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1788244066139",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1788312934495",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/owUcU7WcM42uPXIVJHglDQceY5R.jpg",
       "background": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
@@ -74,7 +115,7 @@
       "name": "Backrooms",
       "description": "A strange doorway appears in the basement of a furniture showroom.",
       "releaseInfo": "2026",
-      "rank": 4,
+      "rank": 6,
       "genres": [
         "Horror",
         "Mystery",
@@ -82,7 +123,7 @@
       ],
       "imdbRating": 6.8,
       "imdbId": "tt26657236",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1788244066139",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1788312934495",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg",
       "background": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
@@ -91,41 +132,19 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt37275992",
-      "type": "movie",
-      "name": "The Secret Woman",
-      "description": "After discovering she has a family and a shipping empire, a woman with amnesia returns to a wealthy and seemingly perfect past to uncover why she left.",
-      "releaseInfo": "2026",
-      "rank": 5,
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Mystery"
-      ],
-      "imdbRating": 6.2,
-      "imdbId": "tt37275992",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1788244066139",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wcgEDIlKH0ME9SrOe2Az2spVaKC.jpg",
-      "background": "https://image.tmdb.org/t/p/original/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/BmhO9bgYKZWUkSAN9Vy4usAhEc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iGOMhMPLJUEXiewep48JVTKb1d.png",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt37654096",
       "type": "movie",
       "name": "The Last Sunrise",
       "description": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
       "releaseInfo": "2026",
-      "rank": 6,
+      "rank": 7,
       "genres": [
         "Romance",
         "Drama"
       ],
       "imdbRating": 5.6,
       "imdbId": "tt37654096",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1788244066139",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1788312934495",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/dJdZcLn8t1ZLodoxaP4DJ6jgBKy.jpg",
       "background": "https://image.tmdb.org/t/p/original/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
@@ -134,25 +153,24 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt14173636",
+      "id": "tt12042730",
       "type": "movie",
-      "name": "The Invite",
-      "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "name": "Project Hail Mary",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "releaseInfo": "2026",
-      "rank": 7,
+      "rank": 8,
       "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
+        "Science Fiction",
+        "Adventure"
       ],
-      "imdbRating": 7.5,
-      "imdbId": "tt14173636",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1788244066139",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/vNACQTOWt9mYvFONNzDhUf3Ah4.jpg",
-      "background": "https://image.tmdb.org/t/p/original/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/seZyY20Tec4GXKtQHBjvpR69lAr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dahmDVuu9xOR1Obr4MKTuA3aAmG.png",
+      "imdbRating": 8.2,
+      "imdbId": "tt12042730",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1788312934495",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7mL0PR2jGC283JbPApFS8aJ2x1F.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
       "posterShape": "portrait"
     },
     {
@@ -161,15 +179,15 @@
       "name": "Motor City",
       "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
       "releaseInfo": "2026",
-      "rank": 8,
+      "rank": 9,
       "genres": [
         "Action",
         "Thriller",
         "Crime"
       ],
-      "imdbRating": 5.9,
+      "imdbRating": 5.8,
       "imdbId": "tt2012616",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1788244066139",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1788312934495",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/3AMJfpYY78BZ1tqn9eMUhv6OPSR.jpg",
       "background": "https://image.tmdb.org/t/p/original/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
@@ -178,46 +196,24 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt31170389",
+      "id": "tt38907741",
       "type": "movie",
-      "name": "Evil Dead Burn",
-      "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "Horror"
-      ],
-      "imdbRating": 6.3,
-      "imdbId": "tt31170389",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1788244066139",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/viHFZ7GlzMcmPbADvP4Vd6Ema0g.jpg",
-      "background": "https://image.tmdb.org/t/p/original/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/u80cOMncKRSEEwrE9T8NTjX0DNP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ohYhg6EogWRTy2uf3uXXuINCbmz.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt43749709",
-      "type": "movie",
-      "name": "Grand Theft Auto VI: An Extended Look",
-      "description": "Captured entirely from in-game footage on PlayStation 5, this extended look at the next Grand Theft Auto showcases the biggest, most immersive evolution of the series yet.",
+      "name": "Confinement",
+      "description": "Pregnant and recently widowed, Stella is taken in by her late husband’s estranged family. But beneath their generosity lies something deeply unsettling, leaving Stella fighting for her life as their obsession with her unborn child turns deadly.",
       "releaseInfo": "2026",
       "rank": 10,
       "genres": [
-        "Animation",
-        "Action",
-        "Adventure",
-        "Crime"
+        "Thriller",
+        "Horror"
       ],
-      "imdbRating": 8.5,
-      "imdbId": "tt43749709",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1788244066139",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/XJXylXvPKLXrcOtYZpwKbhRztD.jpg",
-      "background": "https://image.tmdb.org/t/p/original/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/1SAGuyPOE6POYY6Gxg67uJZYJgo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uL3XkJ5tyiqxAruUYKiNM6rn6on.png",
+      "imdbRating": null,
+      "imdbId": "tt38907741",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1788312934495",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/i92X6pBSqZgHAvIX28p0AZJU8xz.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/55AyFFzhWN4eE1gv6QoUCltWJaK.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xQbHmeJdT95pSDMzP92CrvjceBh.jpg",
+      "backdropPoster": null,
+      "logo": "https://image.tmdb.org/t/p/w500/jYAwtOIZ8L6hwmcsErWMHk9aKYu.png",
       "posterShape": "portrait"
     }
   ]
