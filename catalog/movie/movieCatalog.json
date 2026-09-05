@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-09-04T01:36:08.953Z",
+  "updated": "2026-09-05T01:34:39.831Z",
   "metas": [
     {
       "id": "tt34564059",
@@ -10,13 +10,11 @@
       "releaseInfo": "2026",
       "rank": 1,
       "genres": [
-        "Thriller",
-        "Action",
-        "Adventure"
+        "Thriller"
       ],
-      "imdbRating": null,
+      "imdbRating": 4.4,
       "imdbId": "tt34564059",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1788485700941",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1788572070797",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/uIoARHk8zc76lp93zKtKAwGnLuD.jpg",
       "background": "https://image.tmdb.org/t/p/original/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
@@ -25,22 +23,44 @@
       "posterShape": "portrait"
     },
     {
+      "id": "tt33354945",
+      "type": "movie",
+      "name": "Gandhari",
+      "description": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
+      "releaseInfo": "2026",
+      "rank": 2,
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt33354945",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1788572070797",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+      "HDPoster": null,
+      "background": "https://image.tmdb.org/t/p/original/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/ipmPaFp5ZANVxGqcROIJqlQOK3m.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oIn6zUEIOipYu3E1kZWacu9lHWB.png",
+      "posterShape": "portrait"
+    },
+    {
       "id": "tt37752275",
       "type": "movie",
       "name": "Clash of the Thundermans",
       "description": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.",
       "releaseInfo": "2026",
-      "rank": 2,
+      "rank": 3,
       "genres": [
+        "TV Movie",
+        "Family",
         "Science Fiction",
         "Action",
-        "Comedy",
-        "Family",
-        "TV Movie"
+        "Comedy"
       ],
-      "imdbRating": 8.8,
+      "imdbRating": 8.5,
       "imdbId": "tt37752275",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1788485700941",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1788572070797",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
       "HDPoster": null,
       "background": "https://image.tmdb.org/t/p/original/6yT5O0g8ZXNOm9I5IXLZonZRBgx.jpg",
@@ -54,14 +74,14 @@
       "name": "Obsession",
       "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "releaseInfo": "2026",
-      "rank": 3,
+      "rank": 4,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "imdbRating": 7.8,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1788485700941",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1788572070797",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
       "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
@@ -70,27 +90,25 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt43679852",
+      "id": "tt26657236",
       "type": "movie",
-      "name": "LEGO Star Wars: The Mandalorian",
-      "description": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adventures, a pirate threat looms.",
+      "name": "Backrooms",
+      "description": "A strange doorway appears in the basement of a furniture showroom.",
       "releaseInfo": "2026",
-      "rank": 4,
+      "rank": 5,
       "genres": [
-        "Animation",
-        "Science Fiction",
-        "Adventure",
-        "Family",
-        "Action"
+        "Horror",
+        "Mystery",
+        "Science Fiction"
       ],
-      "imdbRating": 5.8,
-      "imdbId": "tt43679852",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1788485700941",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/g4EwlW0lrYt5IgqJvXSabYzRApn.jpg",
-      "background": "https://image.tmdb.org/t/p/original/upecGaCuQOIbSpdz85mrJ395UMg.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/wabSwucQitYownCG5JCn7RV2LO5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Aa5zpih0BzJjhb8ev38je2CjFQ3.png",
+      "imdbRating": 6.8,
+      "imdbId": "tt26657236",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1788572070797",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g0PswKqAFJdwGK3d1fKvj8LGnrW.png",
       "posterShape": "portrait"
     },
     {
@@ -99,7 +117,7 @@
       "name": "The Whisper Man",
       "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
       "releaseInfo": "2026",
-      "rank": 5,
+      "rank": 6,
       "genres": [
         "Crime",
         "Drama",
@@ -107,7 +125,7 @@
       ],
       "imdbRating": 6.2,
       "imdbId": "tt11561116",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1788485700941",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1788572070797",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/rHGJWs4XjO88QL4o9PWY618CVY8.jpg",
       "background": "https://image.tmdb.org/t/p/original/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
@@ -116,25 +134,50 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt8814476",
+      "id": "tt29355505",
       "type": "movie",
-      "name": "Supergirl",
-      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "name": "Toy Story 5",
+      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "releaseInfo": "2026",
-      "rank": 6,
+      "rank": 7,
       "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure"
       ],
-      "imdbRating": 5.8,
-      "imdbId": "tt8814476",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1788485700941",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fgwmYhbx9vVdFXrKG9mSsOV9Pnm.jpg",
-      "background": "https://image.tmdb.org/t/p/original/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9WyCDqi6ogIWYCnlCLJfvNuR9dF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sOKyZ1al829AnlmjWoghvzXFbQ6.png",
+      "imdbRating": 7.4,
+      "imdbId": "tt29355505",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1788572070797",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/9VWplgfRcYkUao9QGQXUP3rWQK7.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/owUcU7WcM42uPXIVJHglDQceY5R.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/to5PIWJXXOmatYepPRTLGWENLJf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt43679852",
+      "type": "movie",
+      "name": "LEGO Star Wars: The Mandalorian",
+      "description": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adventures, a pirate threat looms.",
+      "releaseInfo": "2026",
+      "rank": 8,
+      "genres": [
+        "Animation",
+        "Science Fiction",
+        "Adventure",
+        "Family",
+        "Action"
+      ],
+      "imdbRating": 6.3,
+      "imdbId": "tt43679852",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1788572070797",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/g4EwlW0lrYt5IgqJvXSabYzRApn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/upecGaCuQOIbSpdz85mrJ395UMg.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/wabSwucQitYownCG5JCn7RV2LO5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Aa5zpih0BzJjhb8ev38je2CjFQ3.png",
       "posterShape": "portrait"
     },
     {
@@ -143,15 +186,15 @@
       "name": "Just Play Dead",
       "description": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
       "releaseInfo": "2026",
-      "rank": 7,
+      "rank": 9,
       "genres": [
         "Thriller",
         "Crime"
       ],
-      "imdbRating": 4.5,
+      "imdbRating": 4.2,
       "imdbId": "tt36948232",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1788485700941",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1788572070797",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/8iZXcIxfvbShhKofyeGY6zyJ8yR.jpg",
       "background": "https://image.tmdb.org/t/p/original/lBWfbmUj9Jw0EM1OYtDXr0B5FPW.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/glkULWRQYa1RWhi3Z93MZn2JpvN.jpg",
@@ -159,65 +202,24 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt30825738",
+      "id": "tt21452628",
       "type": "movie",
-      "name": "The Mandalorian and Grogu",
-      "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "imdbRating": 6.8,
-      "imdbId": "tt30825738",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1788485700941",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/uhKu98XD2VFzzfDgNOM3wBrAOuH.jpg",
-      "background": "https://image.tmdb.org/t/p/original/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/zAxyRS0GiDDVCztJIwL1o4PuJpO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xSj9QrjsR8fZnSuEt6e7QZvrqSy.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt32332915",
-      "type": "movie",
-      "name": "I Want Your Sex",
-      "description": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "Comedy"
-      ],
-      "imdbRating": 6.3,
-      "imdbId": "tt32332915",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1788485700941",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/7fLT2x5aIHxO4mjjtzXSKzwTojU.jpg",
-      "background": "https://image.tmdb.org/t/p/original/34z9eBtEBv6QoroLuUA55cU3e8Q.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9TivaUrdC9KJ2Cc4QTmpl1tyQES.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bzHH30OjjiTENKFrUFi1EWNVcW8.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt32332915",
-      "type": "movie",
-      "name": "I Want Your Sex",
-      "description": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
+      "name": "The Girl in the River",
+      "description": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
       "releaseInfo": "2026",
       "rank": 10,
       "genres": [
-        "Comedy"
+        "Crime",
+        "Thriller"
       ],
-      "imdbRating": 6.3,
-      "imdbId": "tt32332915",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1788485700941",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/7fLT2x5aIHxO4mjjtzXSKzwTojU.jpg",
-      "background": "https://image.tmdb.org/t/p/original/34z9eBtEBv6QoroLuUA55cU3e8Q.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9TivaUrdC9KJ2Cc4QTmpl1tyQES.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bzHH30OjjiTENKFrUFi1EWNVcW8.png",
+      "imdbRating": null,
+      "imdbId": "tt21452628",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1788572070797",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/jjTMUmxP3Wu1RRUqvBLGSLcYaee.jpg",
+      "HDPoster": null,
+      "background": "https://image.tmdb.org/t/p/original/8eGdhSaOiGYpybNsGHuJXqNK5JY.jpg",
+      "backdropPoster": null,
+      "logo": "https://image.tmdb.org/t/p/w500/xsh2TfpFZBHGnP5Z3yBteGiuMrT.png",
       "posterShape": "portrait"
     }
   ]
