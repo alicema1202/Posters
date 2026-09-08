@@ -1,77 +1,14 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-09-07T01:27:24.569Z",
+  "updated": "2026-09-08T01:36:55.653Z",
   "metas": [
-    {
-      "id": "tt14688458",
-      "type": "series",
-      "name": "Silo",
-      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "releaseInfo": "2023-",
-      "rank": 1,
-      "imdbRating": 8.1,
-      "imdbId": "tt14688458",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1788744434346",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7YRJGRauKshXINkX1rajw62cVpW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gd9499KuHAoXin227ZTwn9vCF8S.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt9288030",
-      "type": "series",
-      "name": "Reacher",
-      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "releaseInfo": "2022-",
-      "rank": 2,
-      "imdbRating": 8,
-      "imdbId": "tt9288030",
-      "genres": [
-        "Action & Adventure",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1788744434346",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "background": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/pP1eQJM9LfqujqXPHCx2KrrCEuy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2iSPeGH5o2G3pUjS4XpCgBKUnOG.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt38128417",
-      "type": "series",
-      "name": "A Tale of Two Cities",
-      "description": "A pair of lookalikes, one a former French aristocrat and the other an alcoholic English lawyer, fall in love with the same woman amidst the turmoil of the French Revolution.",
-      "releaseInfo": "2026-",
-      "rank": 3,
-      "imdbRating": null,
-      "imdbId": "tt38128417",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1788744434346",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9EGYa51w81iQRqvPaiFKxah1lly.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ht3OVVRBTrTeVtUVQiKSekjIFVH.jpg",
-      "background": "https://image.tmdb.org/t/p/original/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
-      "backdropPoster": null,
-      "logo": "https://image.tmdb.org/t/p/w500/vnahglPxiw9PpSNlqpCCluXZYth.png",
-      "posterShape": "landscape"
-    },
     {
       "id": "tt26545992",
       "type": "series",
       "name": "Lanterns",
       "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "releaseInfo": "2026-",
-      "rank": 4,
+      "rank": 1,
       "imdbRating": 7.8,
       "imdbId": "tt26545992",
       "genres": [
@@ -79,12 +16,33 @@
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1788744434346",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1788831407511",
       "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "background": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kANHXGvFKW13UEkZbYwl9nIJeEl.png",
+      "logo": "https://image.tmdb.org/t/p/w500/n8K4D8MjwGIfeflMYqeVBVdQvbp.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "releaseInfo": "2023-",
+      "rank": 2,
+      "imdbRating": 8.1,
+      "imdbId": "tt14688458",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1788831407511",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7YRJGRauKshXINkX1rajw62cVpW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gd9499KuHAoXin227ZTwn9vCF8S.png",
       "posterShape": "landscape"
     },
     {
@@ -93,7 +51,7 @@
       "name": "The Gentlemen",
       "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
       "releaseInfo": "2024-",
-      "rank": 5,
+      "rank": 3,
       "imdbRating": 8,
       "imdbId": "tt13210838",
       "genres": [
@@ -101,7 +59,7 @@
         "Drama",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1788744434346",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1788831407511",
       "HDPoster": "https://image.tmdb.org/t/p/original/2UTptUCms8tjMUWycUdcNjyEufq.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
       "background": "https://image.tmdb.org/t/p/original/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
@@ -115,14 +73,14 @@
       "name": "Lioness",
       "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "releaseInfo": "2023-",
-      "rank": 6,
+      "rank": 4,
       "imdbRating": 7.8,
       "imdbId": "tt13111078",
       "genres": [
         "Drama",
         "War & Politics"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1788744434346",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1788831407511",
       "HDPoster": "https://image.tmdb.org/t/p/original/4K5Jdry2gZj5XbomCa0H56g9XCs.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "background": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
@@ -131,18 +89,103 @@
       "posterShape": "landscape"
     },
     {
+      "id": "tt0096697",
+      "type": "series",
+      "name": "The Simpsons",
+      "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "releaseInfo": "1989-",
+      "rank": 5,
+      "imdbRating": 8.6,
+      "imdbId": "tt0096697",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1788831407511",
+      "HDPoster": "https://image.tmdb.org/t/p/original/vrDJZgnCDmexHBQKgbOgavQDGnk.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/5NW6rUmsJSxtcdL3FgF6vq9Aanr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/heDwFJx51IiBSJtjA1JYcWOXy7M.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt0149460",
+      "type": "series",
+      "name": "Futurama",
+      "description": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "releaseInfo": "1999-",
+      "rank": 6,
+      "imdbRating": 8.5,
+      "imdbId": "tt0149460",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1788831407511",
+      "HDPoster": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/jYuP1J52HzbyeSdPj3Ix0BnKVxy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6jNQtbazLLAu5gLzW46FP8EGePb.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt38128417",
+      "type": "series",
+      "name": "A Tale of Two Cities",
+      "description": "A pair of lookalikes, one a former French aristocrat and the other an alcoholic English lawyer, fall in love with the same woman amidst the turmoil of the French Revolution.",
+      "releaseInfo": "2026-",
+      "rank": 7,
+      "imdbRating": null,
+      "imdbId": "tt38128417",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1788831407511",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9EGYa51w81iQRqvPaiFKxah1lly.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ht3OVVRBTrTeVtUVQiKSekjIFVH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/wos0qwI8WHIdGdtCeBfZsoSRV8c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vnahglPxiw9PpSNlqpCCluXZYth.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "releaseInfo": "2022-",
+      "rank": 8,
+      "imdbRating": 8,
+      "imdbId": "tt9288030",
+      "genres": [
+        "Action & Adventure",
+        "Crime"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1788831407511",
+      "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/pP1eQJM9LfqujqXPHCx2KrrCEuy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2iSPeGH5o2G3pUjS4XpCgBKUnOG.png",
+      "posterShape": "landscape"
+    },
+    {
       "id": "tt44974627",
       "type": "series",
       "name": "The Grand Tour",
       "description": "Welcome to The Grand Tour. The world's greatest motoring show reboots with new presenters - Thomas Holland, James Engelsman and Francis Bourgeois - and its trademark blend of global adventure, incredible vehicles, epic stunts and strong opinions.",
       "releaseInfo": "2026-",
-      "rank": 7,
-      "imdbRating": 8.8,
+      "rank": 9,
+      "imdbRating": 8.5,
       "imdbId": "tt44974627",
       "genres": [
         "Reality"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1788744434346",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1788831407511",
       "HDPoster": "https://image.tmdb.org/t/p/original/uR5nHTqzKn0Of4m4nwpqBux05jr.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
       "background": "https://image.tmdb.org/t/p/original/40Dx3P1mllQq1jhgN3K8dlti6CS.jpg",
@@ -156,61 +199,19 @@
       "name": "Ted Lasso",
       "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
       "releaseInfo": "2020-",
-      "rank": 8,
+      "rank": 10,
       "imdbRating": 8.7,
       "imdbId": "tt10986410",
       "genres": [
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1788744434346",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1788831407511",
       "HDPoster": "https://image.tmdb.org/t/p/original/xyXtW9Dgg7SPvrOufXtgkv2ipb9.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "background": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/bzrc7m045cIBHoDhMojgTcea8Kd.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt19231492",
-      "type": "series",
-      "name": "Dark Matter",
-      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "releaseInfo": "2024-",
-      "rank": 9,
-      "imdbRating": 7.6,
-      "imdbId": "tt19231492",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1788744434346",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2UFwBzMvbGEVJReVlSbsZfdMo2r.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "background": "https://image.tmdb.org/t/p/original/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/nKbcRnd3STGmoKYZus16l36YqWR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/41oTdX0XzO8VskZTfiNIKijfRuq.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt36303968",
-      "type": "series",
-      "name": "Furious",
-      "description": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-      "releaseInfo": "2026-",
-      "rank": 10,
-      "imdbRating": 7.9,
-      "imdbId": "tt36303968",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1788744434346",
-      "HDPoster": "https://image.tmdb.org/t/p/original/p2BRmtZvk2WtRln5avS9W6vgwDf.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "background": "https://image.tmdb.org/t/p/original/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/srWmmuaQxV9yPBp9uK1vNNaDPk6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
       "posterShape": "landscape"
     }
   ]
