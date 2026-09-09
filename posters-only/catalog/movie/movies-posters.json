@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-09-08T01:36:55.654Z",
+  "updated": "2026-09-09T01:44:38.552Z",
   "metas": [
     {
       "id": "tt27419466",
@@ -17,11 +17,30 @@
       ],
       "imdbRating": 5.8,
       "imdbId": "tt27419466",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1788831407511",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1788918268784",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/7gidpHWeWlnjJOgQQsQIxwJs2Pp.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1788831407511",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1788918268784",
       "backdropPoster": "https://image.tmdb.org/t/p/original/4pYIal4WsO5hVrjffjGLr1Bf2QX.jpg"
+    },
+    {
+      "id": "tt37853455",
+      "type": "movie",
+      "name": "One Night Only",
+      "description": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+      "releaseInfo": "2026",
+      "rank": 2,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdbRating": 6.3,
+      "imdbId": "tt37853455",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1788918268784",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/cQijkqnB0TbrNILztYwrTxlLq5h.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1788918268784",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/ofJtMNweUYX3L4rOO0yQhod7VMP.jpg"
     },
     {
       "id": "tt28014327",
@@ -29,18 +48,37 @@
       "name": "Mayday",
       "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
       "releaseInfo": "2026",
-      "rank": 2,
+      "rank": 3,
       "genres": [
         "Action",
         "Comedy"
       ],
       "imdbRating": 6.9,
       "imdbId": "tt28014327",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1788831407511",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1788918268784",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/nFNCdoKCDE4Gc27iEBh5yiF7DwX.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1788831407511",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1788918268784",
       "backdropPoster": "https://image.tmdb.org/t/p/original/4BsC2aaMojSGavrZDndGjmfdPbr.jpg"
+    },
+    {
+      "id": "tt32338669",
+      "type": "movie",
+      "name": "Mutiny",
+      "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+      "releaseInfo": "2026",
+      "rank": 4,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdbRating": 5.7,
+      "imdbId": "tt32338669",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1788918268784",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/5kmju0rHpro6g8YWdihio8SJ1jH.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1788918268784",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/6MKDpbJg0fn9T56iITTY9DD6ocy.jpg"
     },
     {
       "id": "tt34564059",
@@ -48,17 +86,17 @@
       "name": "The Runner",
       "description": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
       "releaseInfo": "2026",
-      "rank": 3,
+      "rank": 5,
       "genres": [
         "Thriller",
         "Action"
       ],
       "imdbRating": 4.1,
       "imdbId": "tt34564059",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1788831407511",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1788918268784",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/uIoARHk8zc76lp93zKtKAwGnLuD.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1788831407511",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1788918268784",
       "backdropPoster": "https://image.tmdb.org/t/p/original/hpxe9voFdsphmImyVKyhMxMHDsO.jpg"
     },
     {
@@ -67,56 +105,40 @@
       "name": "Obsession",
       "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "releaseInfo": "2026",
-      "rank": 4,
+      "rank": 6,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "imdbRating": 7.8,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1788831407511",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1788918268784",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1788831407511",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1788918268784",
       "backdropPoster": "https://image.tmdb.org/t/p/original/pgya613gQdfzfmksLZO0HeWdTHZ.jpg"
     },
     {
-      "id": "tt32338669",
+      "id": "tt37752275",
       "type": "movie",
-      "name": "Mutiny",
-      "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+      "name": "Clash of the Thundermans",
+      "description": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.",
       "releaseInfo": "2026",
-      "rank": 5,
+      "rank": 7,
       "genres": [
+        "TV Movie",
+        "Family",
+        "Science Fiction",
         "Action",
-        "Thriller"
+        "Comedy"
       ],
-      "imdbRating": 5.7,
-      "imdbId": "tt32338669",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1788831407511",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/5kmju0rHpro6g8YWdihio8SJ1jH.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1788831407511",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/6MKDpbJg0fn9T56iITTY9DD6ocy.jpg"
-    },
-    {
-      "id": "tt36948232",
-      "type": "movie",
-      "name": "Just Play Dead",
-      "description": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
-      "releaseInfo": "2026",
-      "rank": 6,
-      "genres": [
-        "Thriller",
-        "Crime"
-      ],
-      "imdbRating": 4.1,
-      "imdbId": "tt36948232",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1788831407511",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/8iZXcIxfvbShhKofyeGY6zyJ8yR.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1788831407511",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/glkULWRQYa1RWhi3Z93MZn2JpvN.jpg"
+      "imdbRating": 4.6,
+      "imdbId": "tt37752275",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1788918268784",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/4c7PB1x53W0wqym7a8KtTqI7gnF.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1788918268784",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/eci25T8480FlDilswUo5g6N9FNr.jpg"
     },
     {
       "id": "tt26657236",
@@ -124,7 +146,7 @@
       "name": "Backrooms",
       "description": "A strange doorway appears in the basement of a furniture showroom.",
       "releaseInfo": "2026",
-      "rank": 7,
+      "rank": 8,
       "genres": [
         "Horror",
         "Mystery",
@@ -132,31 +154,11 @@
       ],
       "imdbRating": 6.8,
       "imdbId": "tt26657236",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1788831407511",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1788918268784",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1788831407511",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1788918268784",
       "backdropPoster": "https://image.tmdb.org/t/p/original/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg"
-    },
-    {
-      "id": "tt11561116",
-      "type": "movie",
-      "name": "The Whisper Man",
-      "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "imdbRating": 6.2,
-      "imdbId": "tt11561116",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1788831407511",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/rHGJWs4XjO88QL4o9PWY618CVY8.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1788831407511",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/mRq39hwWC1g97BK57klv9wazfUe.jpg"
     },
     {
       "id": "tt29355505",
@@ -173,17 +175,17 @@
       ],
       "imdbRating": 7.4,
       "imdbId": "tt29355505",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1788831407511",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1788918268784",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/owUcU7WcM42uPXIVJHglDQceY5R.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1788831407511",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1788918268784",
       "backdropPoster": "https://image.tmdb.org/t/p/original/to5PIWJXXOmatYepPRTLGWENLJf.jpg"
     },
     {
-      "id": "tt8814476",
+      "id": "tt30825738",
       "type": "movie",
-      "name": "Supergirl",
-      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "name": "The Mandalorian and Grogu",
+      "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
       "releaseInfo": "2026",
       "rank": 10,
       "genres": [
@@ -191,13 +193,13 @@
         "Adventure",
         "Science Fiction"
       ],
-      "imdbRating": 5.8,
-      "imdbId": "tt8814476",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1788831407511",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fgwmYhbx9vVdFXrKG9mSsOV9Pnm.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1788831407511",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9WyCDqi6ogIWYCnlCLJfvNuR9dF.jpg"
+      "imdbRating": 6.8,
+      "imdbId": "tt30825738",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1788918268784",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/uhKu98XD2VFzzfDgNOM3wBrAOuH.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1788918268784",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/zAxyRS0GiDDVCztJIwL1o4PuJpO.jpg"
     }
   ]
 }
