@@ -1,33 +1,14 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-09-10T01:40:04.587Z",
+  "updated": "2026-09-11T01:39:03.615Z",
   "metas": [
-    {
-      "id": "tt33298903",
-      "type": "series",
-      "name": "Made in Korea",
-      "description": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
-      "releaseInfo": "2025-",
-      "rank": 1,
-      "imdbRating": 7.2,
-      "imdbId": "tt33298903",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1789004382165",
-      "HDPoster": "https://image.tmdb.org/t/p/original/3S7EDGQeOF9xV2sT8iygpA0JlA8.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/2yEXTvaCPUe9In5MZJBLFwiq0NL.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1789004382165",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/AuxZGyMb7KD82GRqXakEN7Nw8F3.jpg"
-    },
     {
       "id": "tt26545992",
       "type": "series",
       "name": "Lanterns",
       "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "releaseInfo": "2026-",
-      "rank": 2,
+      "rank": 1,
       "imdbRating": 7.8,
       "imdbId": "tt26545992",
       "genres": [
@@ -35,11 +16,30 @@
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1789004382165",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1789090730682",
       "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1789004382165",
+      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1789090730682",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg"
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "releaseInfo": "2023-",
+      "rank": 2,
+      "imdbRating": 8.1,
+      "imdbId": "tt14688458",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1789090730682",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1789090730682",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7YRJGRauKshXINkX1rajw62cVpW.jpg"
     },
     {
       "id": "tt9288030",
@@ -54,49 +54,31 @@
         "Action & Adventure",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1789004382165",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1789090730682",
       "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1789004382165",
+      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1789090730682",
       "backdropPoster": "https://image.tmdb.org/t/p/original/pP1eQJM9LfqujqXPHCx2KrrCEuy.jpg"
     },
     {
-      "id": "tt10986410",
+      "id": "tt6037988",
       "type": "series",
-      "name": "Ted Lasso",
-      "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "releaseInfo": "2020-",
+      "name": "Last Seen",
+      "description": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her.",
+      "releaseInfo": "2026-",
       "rank": 4,
-      "imdbRating": 8.7,
-      "imdbId": "tt10986410",
+      "imdbRating": null,
+      "imdbId": "tt6037988",
       "genres": [
+        "Crime",
         "Drama",
-        "Comedy"
+        "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1789004382165",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xyXtW9Dgg7SPvrOufXtgkv2ipb9.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1789004382165",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bzrc7m045cIBHoDhMojgTcea8Kd.jpg"
-    },
-    {
-      "id": "tt14688458",
-      "type": "series",
-      "name": "Silo",
-      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "releaseInfo": "2023-",
-      "rank": 5,
-      "imdbRating": 8.1,
-      "imdbId": "tt14688458",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1789004382165",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1789004382165",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7YRJGRauKshXINkX1rajw62cVpW.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1789090730682",
+      "HDPoster": "https://image.tmdb.org/t/p/original/7bLffQv1ZhD22PFlhBXzb0RBqC0.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1789090730682",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/fRjnp3eYk5BNlAayBxH7w1cM2qr.jpg"
     },
     {
       "id": "tt32159809",
@@ -104,96 +86,113 @@
       "name": "The Paper",
       "description": "The documentary crew that immortalized Dunder Mifflin's Scranton branch is in search of a new subject when they discover a historic Toledo newspaper, The Truth Teller, and the eager publisher trying to revive it.",
       "releaseInfo": "2025-",
-      "rank": 6,
+      "rank": 5,
       "imdbRating": 6.9,
       "imdbId": "tt32159809",
       "genres": [
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1789004382165",
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1789090730682",
       "HDPoster": "https://image.tmdb.org/t/p/original/psl9EwpdLYDCLrX5RcdYhbqLhtj.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1789004382165",
+      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1789090730682",
       "backdropPoster": "https://image.tmdb.org/t/p/original/okXnYhTV2xXpqJNFoaePj7YT5br.jpg"
     },
     {
-      "id": "tt4565380",
+      "id": "tt27543562",
       "type": "series",
-      "name": "Fauda",
-      "description": "A top Israeli agent comes out of retirement to hunt for a Palestinian militant he thought he'd killed, setting a chaotic chain of events into motion.",
-      "releaseInfo": "2015-",
+      "name": "The Shards",
+      "description": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+      "releaseInfo": "2026-",
+      "rank": 6,
+      "imdbRating": 6,
+      "imdbId": "tt27543562",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1789090730682",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9NrKpGms03Gk5mtKyiygQB6XSTw.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1789090730682",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/i3RJx0zwaEWNH5BveK8RMPIP7md.jpg"
+    },
+    {
+      "id": "tt33298903",
+      "type": "series",
+      "name": "Made in Korea",
+      "description": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
+      "releaseInfo": "2025-",
       "rank": 7,
-      "imdbRating": 8.3,
-      "imdbId": "tt4565380",
+      "imdbRating": 7.2,
+      "imdbId": "tt33298903",
       "genres": [
-        "Drama",
-        "Action & Adventure",
-        "War & Politics"
+        "Crime",
+        "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1789004382165",
-      "HDPoster": "https://image.tmdb.org/t/p/original/b3S01b9R5djFXUlun5CMj4rw7dP.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bc6XIKP1TrnugYMzIIUz9YCL8VM.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1789004382165",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/avujiTydAD6fqHNinkm1Is0b81T.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1789090730682",
+      "HDPoster": "https://image.tmdb.org/t/p/original/3S7EDGQeOF9xV2sT8iygpA0JlA8.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1789090730682",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/AuxZGyMb7KD82GRqXakEN7Nw8F3.jpg"
     },
     {
-      "id": "tt13210838",
+      "id": "tt10986410",
       "type": "series",
-      "name": "The Gentlemen",
-      "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
-      "releaseInfo": "2024-",
+      "name": "Ted Lasso",
+      "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "releaseInfo": "2020-",
       "rank": 8,
-      "imdbRating": 8,
-      "imdbId": "tt13210838",
+      "imdbRating": 8.7,
+      "imdbId": "tt10986410",
       "genres": [
-        "Comedy",
         "Drama",
-        "Crime"
+        "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1789004382165",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2UTptUCms8tjMUWycUdcNjyEufq.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1789004382165",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/eI9JBOFaJAiK3m90ebGQyyWMdqA.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1789090730682",
+      "HDPoster": "https://image.tmdb.org/t/p/original/xyXtW9Dgg7SPvrOufXtgkv2ipb9.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1789090730682",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bzrc7m045cIBHoDhMojgTcea8Kd.jpg"
     },
     {
-      "id": "tt19231492",
+      "id": "tt12327578",
       "type": "series",
-      "name": "Dark Matter",
-      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "releaseInfo": "2024-",
+      "name": "Star Trek: Strange New Worlds",
+      "description": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "releaseInfo": "2022-",
       "rank": 9,
-      "imdbRating": 7.6,
-      "imdbId": "tt19231492",
+      "imdbRating": 8.2,
+      "imdbId": "tt12327578",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1789004382165",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2UFwBzMvbGEVJReVlSbsZfdMo2r.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1789004382165",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/nKbcRnd3STGmoKYZus16l36YqWR.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1789090730682",
+      "HDPoster": "https://image.tmdb.org/t/p/original/aLnnZkZXkOSIxeBKzVH1z0lxT86.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1789090730682",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/vMFxmogUUe5lhhzNnS59o51C77i.jpg"
     },
     {
-      "id": "tt0149460",
+      "id": "tt4378376",
       "type": "series",
-      "name": "Futurama",
-      "description": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "releaseInfo": "1999-",
+      "name": "Babylon Berlin",
+      "description": "Beneath the decadence of 1929 Berlin, lies an underworld city of sin. Police investigator Gereon Rath has been transferred from Cologne to the epicenter of political and social changes in the Golden Twenties.",
+      "releaseInfo": "2017-",
       "rank": 10,
-      "imdbRating": 8.5,
-      "imdbId": "tt0149460",
+      "imdbRating": 8.4,
+      "imdbId": "tt4378376",
       "genres": [
-        "Animation",
-        "Comedy",
-        "Sci-Fi & Fantasy"
+        "Drama",
+        "Crime",
+        "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1789004382165",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1789004382165",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/jYuP1J52HzbyeSdPj3Ix0BnKVxy.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1789090730682",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6YTsP5VSWCm7KFl4uiJCG9lXEGq.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/hr18RHPMQSA0zbCzAZN2asIOqy5.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1789090730682",
+      "backdropPoster": null
     }
   ]
 }

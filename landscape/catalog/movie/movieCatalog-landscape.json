@@ -1,14 +1,35 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-09-10T01:40:04.587Z",
+  "updated": "2026-09-11T01:39:03.614Z",
   "metas": [
+    {
+      "id": "tt36073210",
+      "type": "movie",
+      "name": "Drawn Together",
+      "description": "Marfil Cortés, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
+      "releaseInfo": "2026",
+      "rank": 1,
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt36073210",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1789090730682",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/raBLJODE6ogmwn4Ca27pgCRRRtW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o9GJthQaWjSj0KLxkQxWkSxz4jI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AbFVWXxZ76enpA1GHCq13CN8xGu.png",
+      "posterShape": "landscape"
+    },
     {
       "id": "tt27419466",
       "type": "movie",
       "name": "Moana",
       "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "releaseInfo": "2026",
-      "rank": 1,
+      "rank": 2,
       "genres": [
         "Family",
         "Fantasy",
@@ -17,12 +38,33 @@
       ],
       "imdbRating": 5.8,
       "imdbId": "tt27419466",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1789004382165",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1789090730682",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/7gidpHWeWlnjJOgQQsQIxwJs2Pp.jpg",
-      "background": "https://image.tmdb.org/t/p/original/dmwb15BCkqjoXA9dXIsoY2Hn10F.jpg",
+      "background": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/4pYIal4WsO5hVrjffjGLr1Bf2QX.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/pRHIM8liJBYy1Z4wNgAizqCOuOU.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt38267923",
+      "type": "movie",
+      "name": "Call My Agent! The Movie",
+      "description": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.",
+      "releaseInfo": "2026",
+      "rank": 3,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt38267923",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1789090730682",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
+      "HDPoster": null,
+      "background": "https://image.tmdb.org/t/p/original/blh99dDTXa0Gpiuws2BoVyas8Pp.jpg",
+      "backdropPoster": null,
+      "logo": "https://image.tmdb.org/t/p/w500/3On95qLhzux7HuJEEe9pbHfDJ1H.png",
       "posterShape": "landscape"
     },
     {
@@ -31,7 +73,7 @@
       "name": "Why Did I Get Married Again?",
       "description": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
       "releaseInfo": "2026",
-      "rank": 2,
+      "rank": 4,
       "genres": [
         "Romance",
         "Comedy",
@@ -39,55 +81,12 @@
       ],
       "imdbRating": null,
       "imdbId": "tt38061210",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1789004382165",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1789090730682",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
       "HDPoster": null,
       "background": "https://image.tmdb.org/t/p/original/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bgZN3gniRohjfKdsw1Q7EGBAyqz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/d5kNFe4BZyispY3L6YCTqjHuVa6.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt36073210",
-      "type": "movie",
-      "name": "Drawn Together",
-      "description": "Marfil Cortés, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
-      "releaseInfo": "2026",
-      "rank": 3,
-      "genres": [
-        "Romance",
-        "Drama",
-        "Thriller"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt36073210",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1789004382165",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/raBLJODE6ogmwn4Ca27pgCRRRtW.jpg",
-      "background": "https://image.tmdb.org/t/p/original/oZkk6B15Ak4uTa2aVrJaDmSk3Xl.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o9GJthQaWjSj0KLxkQxWkSxz4jI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/AbFVWXxZ76enpA1GHCq13CN8xGu.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt37853455",
-      "type": "movie",
-      "name": "One Night Only",
-      "description": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-      "releaseInfo": "2026",
-      "rank": 4,
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "imdbRating": 6.3,
-      "imdbId": "tt37853455",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1789004382165",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/cQijkqnB0TbrNILztYwrTxlLq5h.jpg",
-      "background": "https://image.tmdb.org/t/p/original/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7yVwX9IN9LI4g9N6aawmv0cdGZT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/AaHXwuFNm0gknm5FqwcjGxT415V.png",
+      "backdropPoster": null,
+      "logo": "https://image.tmdb.org/t/p/w500/opsE1rUAgCy29Bdv6EbXnP1e5PO.png",
       "posterShape": "landscape"
     },
     {
@@ -103,12 +102,33 @@
       ],
       "imdbRating": 6.9,
       "imdbId": "tt28014327",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1789004382165",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1789090730682",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/nFNCdoKCDE4Gc27iEBh5yiF7DwX.jpg",
-      "background": "https://image.tmdb.org/t/p/original/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/4BsC2aaMojSGavrZDndGjmfdPbr.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/uy6Sna1PeNyE7mWbOKLvbH3WTaB.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt37853455",
+      "type": "movie",
+      "name": "One Night Only",
+      "description": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+      "releaseInfo": "2026",
+      "rank": 6,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdbRating": 6.2,
+      "imdbId": "tt37853455",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1789090730682",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/cQijkqnB0TbrNILztYwrTxlLq5h.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7yVwX9IN9LI4g9N6aawmv0cdGZT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AaHXwuFNm0gknm5FqwcjGxT415V.png",
       "posterShape": "landscape"
     },
     {
@@ -117,14 +137,14 @@
       "name": "Mutiny",
       "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
       "releaseInfo": "2026",
-      "rank": 6,
+      "rank": 7,
       "genres": [
         "Action",
         "Thriller"
       ],
       "imdbRating": 5.7,
       "imdbId": "tt32338669",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1789004382165",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1789090730682",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/5kmju0rHpro6g8YWdihio8SJ1jH.jpg",
       "background": "https://image.tmdb.org/t/p/original/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
@@ -133,24 +153,27 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt34564059",
+      "id": "tt14119302",
       "type": "movie",
-      "name": "The Runner",
-      "description": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+      "name": "Hot Spot",
+      "description": "Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.",
       "releaseInfo": "2026",
-      "rank": 7,
+      "rank": 8,
       "genres": [
-        "Thriller",
-        "Action"
+        "Science Fiction",
+        "Action",
+        "Crime",
+        "Fantasy",
+        "Thriller"
       ],
-      "imdbRating": 4.1,
-      "imdbId": "tt34564059",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1789004382165",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/uIoARHk8zc76lp93zKtKAwGnLuD.jpg",
-      "background": "https://image.tmdb.org/t/p/original/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/hpxe9voFdsphmImyVKyhMxMHDsO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/L3ZBm0slDHruUcZ4dgkvWHh0rq.png",
+      "imdbRating": 4.6,
+      "imdbId": "tt14119302",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1789090730682",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
+      "HDPoster": null,
+      "background": "https://image.tmdb.org/t/p/original/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/ho1dgmSo9r9DRVXBZMckLpKVfjt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nLqBtLc0KXeXkDb84NNowQFka7U.png",
       "posterShape": "landscape"
     },
     {
@@ -159,14 +182,14 @@
       "name": "Obsession",
       "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "releaseInfo": "2026",
-      "rank": 8,
+      "rank": 9,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "imdbRating": 7.8,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1789004382165",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1789090730682",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
       "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
@@ -175,49 +198,24 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt29355505",
+      "id": "tt34564059",
       "type": "movie",
-      "name": "Toy Story 5",
-      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "Animation",
-        "Family",
-        "Comedy",
-        "Adventure"
-      ],
-      "imdbRating": 7.4,
-      "imdbId": "tt29355505",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1789004382165",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/z5Z5rhqJGz6w5VuIpOzUk83K9We.jpg",
-      "background": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/to5PIWJXXOmatYepPRTLGWENLJf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt29355505",
-      "type": "movie",
-      "name": "Toy Story 5",
-      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "name": "The Runner",
+      "description": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
       "releaseInfo": "2026",
       "rank": 10,
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy",
-        "Adventure"
+        "Thriller",
+        "Action"
       ],
-      "imdbRating": 7.4,
-      "imdbId": "tt29355505",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1789004382165",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/z5Z5rhqJGz6w5VuIpOzUk83K9We.jpg",
-      "background": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/to5PIWJXXOmatYepPRTLGWENLJf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
+      "imdbRating": 4.1,
+      "imdbId": "tt34564059",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1789090730682",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/uIoARHk8zc76lp93zKtKAwGnLuD.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/hpxe9voFdsphmImyVKyhMxMHDsO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/L3ZBm0slDHruUcZ4dgkvWHh0rq.png",
       "posterShape": "landscape"
     }
   ]
