@@ -1,14 +1,34 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-09-12T01:45:11.494Z",
+  "updated": "2026-09-13T01:35:58.414Z",
   "metas": [
+    {
+      "id": "tt38616652",
+      "type": "movie",
+      "name": "Go Team!",
+      "description": "When their team-building event gets downgraded to a tiny village, a cheese company's staff think it can't get worse — then they learn about the layoffs.",
+      "releaseInfo": "2026",
+      "rank": 1,
+      "genres": [
+        "Comedy"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt38616652",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1789263336259",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
+      "HDPoster": null,
+      "background": "https://image.tmdb.org/t/p/original/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/2aaSzf4TlamFmgQgQz0sAGdm59F.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ivQkigjM2ueqYXgAnNPE34AWFza.png",
+      "posterShape": "landscape"
+    },
     {
       "id": "tt27419466",
       "type": "movie",
       "name": "Moana",
       "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "releaseInfo": "2026",
-      "rank": 1,
+      "rank": 2,
       "genres": [
         "Family",
         "Fantasy",
@@ -17,33 +37,12 @@
       ],
       "imdbRating": 5.8,
       "imdbId": "tt27419466",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1789177491403",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1789263336259",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/7gidpHWeWlnjJOgQQsQIxwJs2Pp.jpg",
-      "background": "https://image.tmdb.org/t/p/original/dmwb15BCkqjoXA9dXIsoY2Hn10F.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/bmzkFxTZGHW4BlKL6kLm7TDyW4f.jpg",
+      "background": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/4pYIal4WsO5hVrjffjGLr1Bf2QX.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/pRHIM8liJBYy1Z4wNgAizqCOuOU.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt38267923",
-      "type": "movie",
-      "name": "Call My Agent! The Movie",
-      "description": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.",
-      "releaseInfo": "2026",
-      "rank": 2,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt38267923",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1789177491403",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
-      "HDPoster": null,
-      "background": "https://image.tmdb.org/t/p/original/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/1eGFgr8teQ9HMj7TVocZHwdUq09.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/r3Njjs8PeIH5MlUKxBPRRJemWJz.png",
       "posterShape": "landscape"
     },
     {
@@ -59,7 +58,7 @@
       ],
       "imdbRating": 7.8,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1789177491403",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1789263336259",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
       "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
@@ -68,40 +67,19 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt36073210",
-      "type": "movie",
-      "name": "Drawn Together",
-      "description": "Marfil Cortés, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
-      "releaseInfo": "2026",
-      "rank": 4,
-      "genres": [
-        "Romance",
-        "Thriller"
-      ],
-      "imdbRating": 5.6,
-      "imdbId": "tt36073210",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1789177491403",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/raBLJODE6ogmwn4Ca27pgCRRRtW.jpg",
-      "background": "https://image.tmdb.org/t/p/original/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o9GJthQaWjSj0KLxkQxWkSxz4jI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/AbFVWXxZ76enpA1GHCq13CN8xGu.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt28014327",
       "type": "movie",
       "name": "Mayday",
       "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
       "releaseInfo": "2026",
-      "rank": 5,
+      "rank": 4,
       "genres": [
         "Action",
         "Comedy"
       ],
       "imdbRating": 6.8,
       "imdbId": "tt28014327",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1789177491403",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1789263336259",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/nFNCdoKCDE4Gc27iEBh5yiF7DwX.jpg",
       "background": "https://image.tmdb.org/t/p/original/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
@@ -110,25 +88,45 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt38061210",
+      "id": "tt36073210",
       "type": "movie",
-      "name": "Why Did I Get Married Again?",
-      "description": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
+      "name": "Drawn Together",
+      "description": "Marfil Cortés, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
+      "releaseInfo": "2026",
+      "rank": 5,
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "imdbRating": 5.5,
+      "imdbId": "tt36073210",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1789263336259",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/raBLJODE6ogmwn4Ca27pgCRRRtW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o9GJthQaWjSj0KLxkQxWkSxz4jI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AbFVWXxZ76enpA1GHCq13CN8xGu.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt38267923",
+      "type": "movie",
+      "name": "Call My Agent! The Movie",
+      "description": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.",
       "releaseInfo": "2026",
       "rank": 6,
       "genres": [
         "Comedy",
-        "Romance",
         "Drama"
       ],
-      "imdbRating": 5.3,
-      "imdbId": "tt38061210",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1789177491403",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+      "imdbRating": 6.1,
+      "imdbId": "tt38267923",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1789263336259",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
       "HDPoster": null,
-      "background": "https://image.tmdb.org/t/p/original/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/dCpFtRBCKKpy3oG6B1oXqaRagZv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/opsE1rUAgCy29Bdv6EbXnP1e5PO.png",
+      "background": "https://image.tmdb.org/t/p/original/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/1eGFgr8teQ9HMj7TVocZHwdUq09.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/r3Njjs8PeIH5MlUKxBPRRJemWJz.png",
       "posterShape": "landscape"
     },
     {
@@ -144,32 +142,33 @@
       ],
       "imdbRating": 6.2,
       "imdbId": "tt37853455",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1789177491403",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1789263336259",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/cQijkqnB0TbrNILztYwrTxlLq5h.jpg",
       "background": "https://image.tmdb.org/t/p/original/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7yVwX9IN9LI4g9N6aawmv0cdGZT.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/ijhuKfuYMmL4QfWvJE7MzO9TgiQ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/AaHXwuFNm0gknm5FqwcjGxT415V.png",
       "posterShape": "landscape"
     },
     {
-      "id": "tt38616652",
+      "id": "tt34564059",
       "type": "movie",
-      "name": "Go Team!",
-      "description": "Gracias, equipo follows a struggling Spanish cheese company whose rural team-building retreat spirals into betrayal and layoffs, satirizing office politics and corporate absurdity.",
+      "name": "The Runner",
+      "description": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
       "releaseInfo": "2026",
       "rank": 8,
       "genres": [
-        "Comedy"
+        "Thriller",
+        "Action"
       ],
-      "imdbRating": null,
-      "imdbId": "tt38616652",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1789177491403",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/brPyXyvpYI87ybV3LXtaeLijVnw.jpg",
-      "HDPoster": null,
-      "background": "https://image.tmdb.org/t/p/original/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/2aaSzf4TlamFmgQgQz0sAGdm59F.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/AbTmkvHDw4pIEDWxHbVUTQAYZg3.png",
+      "imdbRating": 4.1,
+      "imdbId": "tt34564059",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1789263336259",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/uIoARHk8zc76lp93zKtKAwGnLuD.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yeEkiAx9ZqPXBxZAkUXj7XLIyi2.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/hpxe9voFdsphmImyVKyhMxMHDsO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/L3ZBm0slDHruUcZ4dgkvWHh0rq.png",
       "posterShape": "landscape"
     },
     {
@@ -185,7 +184,7 @@
       ],
       "imdbRating": 5.7,
       "imdbId": "tt32338669",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1789177491403",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1789263336259",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/5kmju0rHpro6g8YWdihio8SJ1jH.jpg",
       "background": "https://image.tmdb.org/t/p/original/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
@@ -194,24 +193,24 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt34564059",
+      "id": "tt15047880",
       "type": "movie",
-      "name": "The Runner",
-      "description": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+      "name": "Disclosure Day",
+      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "releaseInfo": "2026",
       "rank": 10,
       "genres": [
-        "Thriller",
-        "Action"
+        "Science Fiction",
+        "Thriller"
       ],
-      "imdbRating": 4.1,
-      "imdbId": "tt34564059",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1789177491403",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/uIoARHk8zc76lp93zKtKAwGnLuD.jpg",
-      "background": "https://image.tmdb.org/t/p/original/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/hpxe9voFdsphmImyVKyhMxMHDsO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/L3ZBm0slDHruUcZ4dgkvWHh0rq.png",
+      "imdbRating": 6.4,
+      "imdbId": "tt15047880",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1789263336259",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/kxLjrSvs4WuYszwSxzjbtZcLUcC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/701aTHRSfEm2IHchyMXoZt4T1yV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v05SwcbdADZsf9I54w68i6OmYTR.png",
       "posterShape": "landscape"
     }
   ]
