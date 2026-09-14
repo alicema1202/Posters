@@ -1,32 +1,14 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-09-13T01:35:58.415Z",
+  "updated": "2026-09-14T01:53:36.716Z",
   "metas": [
-    {
-      "id": "tt38616652",
-      "type": "movie",
-      "name": "Go Team!",
-      "description": "When their team-building event gets downgraded to a tiny village, a cheese company's staff think it can't get worse — then they learn about the layoffs.",
-      "releaseInfo": "2026",
-      "rank": 1,
-      "genres": [
-        "Comedy"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt38616652",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1789263336259",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
-      "HDPoster": null,
-      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1789263336259",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/2aaSzf4TlamFmgQgQz0sAGdm59F.jpg"
-    },
     {
       "id": "tt27419466",
       "type": "movie",
       "name": "Moana",
       "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "releaseInfo": "2026",
-      "rank": 2,
+      "rank": 1,
       "genres": [
         "Family",
         "Fantasy",
@@ -35,11 +17,30 @@
       ],
       "imdbRating": 5.8,
       "imdbId": "tt27419466",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1789263336259",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1789350808800",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/bmzkFxTZGHW4BlKL6kLm7TDyW4f.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1789263336259",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1789350808800",
       "backdropPoster": "https://image.tmdb.org/t/p/original/4pYIal4WsO5hVrjffjGLr1Bf2QX.jpg"
+    },
+    {
+      "id": "tt28014327",
+      "type": "movie",
+      "name": "Mayday",
+      "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+      "releaseInfo": "2026",
+      "rank": 2,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "imdbRating": 6.8,
+      "imdbId": "tt28014327",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1789350808800",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/nFNCdoKCDE4Gc27iEBh5yiF7DwX.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1789350808800",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/dzOnDgSDZ0NMGGRwq0I0CyxCdsI.jpg"
     },
     {
       "id": "tt37287335",
@@ -54,36 +55,35 @@
       ],
       "imdbRating": 7.8,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1789263336259",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1789350808800",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1789263336259",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/pgya613gQdfzfmksLZO0HeWdTHZ.jpg"
+      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1789350808800",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o5VincY0eEAq4GHHiKcWjSuNPCm.jpg"
     },
     {
-      "id": "tt28014327",
+      "id": "tt38616652",
       "type": "movie",
-      "name": "Mayday",
-      "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+      "name": "Go Team!",
+      "description": "When their team-building event gets downgraded to a tiny village, a cheese company's staff think it can't get worse — then they learn about the layoffs.",
       "releaseInfo": "2026",
       "rank": 4,
       "genres": [
-        "Action",
         "Comedy"
       ],
-      "imdbRating": 6.8,
-      "imdbId": "tt28014327",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1789263336259",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/nFNCdoKCDE4Gc27iEBh5yiF7DwX.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1789263336259",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/4BsC2aaMojSGavrZDndGjmfdPbr.jpg"
+      "imdbRating": 5.2,
+      "imdbId": "tt38616652",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1789350808800",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
+      "HDPoster": null,
+      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1789350808800",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/2aaSzf4TlamFmgQgQz0sAGdm59F.jpg"
     },
     {
       "id": "tt36073210",
       "type": "movie",
       "name": "Drawn Together",
-      "description": "Marfil Cortés, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
+      "description": "After a wealthy Spanish heiress is kidnapped, she falls into a dangerous attraction with the newly hired bodyguard assigned to protect her in a world full of deception.",
       "releaseInfo": "2026",
       "rank": 5,
       "genres": [
@@ -92,30 +92,51 @@
       ],
       "imdbRating": 5.5,
       "imdbId": "tt36073210",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1789263336259",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1789350808800",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/raBLJODE6ogmwn4Ca27pgCRRRtW.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1789263336259",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1789350808800",
       "backdropPoster": "https://image.tmdb.org/t/p/original/o9GJthQaWjSj0KLxkQxWkSxz4jI.jpg"
     },
     {
-      "id": "tt38267923",
+      "id": "tt8814476",
       "type": "movie",
-      "name": "Call My Agent! The Movie",
-      "description": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.",
+      "name": "Supergirl",
+      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "releaseInfo": "2026",
       "rank": 6,
       "genres": [
-        "Comedy",
-        "Drama"
+        "Action",
+        "Adventure",
+        "Science Fiction"
       ],
-      "imdbRating": 6.1,
-      "imdbId": "tt38267923",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1789263336259",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
-      "HDPoster": null,
-      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1789263336259",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/1eGFgr8teQ9HMj7TVocZHwdUq09.jpg"
+      "imdbRating": 5.8,
+      "imdbId": "tt8814476",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1789350808800",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/fgwmYhbx9vVdFXrKG9mSsOV9Pnm.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1789350808800",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9WyCDqi6ogIWYCnlCLJfvNuR9dF.jpg"
+    },
+    {
+      "id": "tt26657236",
+      "type": "movie",
+      "name": "Backrooms",
+      "description": "A strange doorway appears in the basement of a furniture showroom.",
+      "releaseInfo": "2026",
+      "rank": 7,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "imdbRating": 6.8,
+      "imdbId": "tt26657236",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1789350808800",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1789350808800",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg"
     },
     {
       "id": "tt37853455",
@@ -123,17 +144,17 @@
       "name": "One Night Only",
       "description": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
       "releaseInfo": "2026",
-      "rank": 7,
+      "rank": 8,
       "genres": [
         "Romance",
         "Comedy"
       ],
       "imdbRating": 6.2,
       "imdbId": "tt37853455",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1789263336259",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1789350808800",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/cQijkqnB0TbrNILztYwrTxlLq5h.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1789263336259",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1789350808800",
       "backdropPoster": "https://image.tmdb.org/t/p/original/ijhuKfuYMmL4QfWvJE7MzO9TgiQ.jpg"
     },
     {
@@ -142,56 +163,37 @@
       "name": "The Runner",
       "description": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
       "releaseInfo": "2026",
-      "rank": 8,
+      "rank": 9,
       "genres": [
         "Thriller",
         "Action"
       ],
       "imdbRating": 4.1,
       "imdbId": "tt34564059",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1789263336259",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1789350808800",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/uIoARHk8zc76lp93zKtKAwGnLuD.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1789263336259",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1789350808800",
       "backdropPoster": "https://image.tmdb.org/t/p/original/hpxe9voFdsphmImyVKyhMxMHDsO.jpg"
     },
     {
-      "id": "tt32338669",
+      "id": "tt38267923",
       "type": "movie",
-      "name": "Mutiny",
-      "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "imdbRating": 5.7,
-      "imdbId": "tt32338669",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1789263336259",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/5kmju0rHpro6g8YWdihio8SJ1jH.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1789263336259",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/6MKDpbJg0fn9T56iITTY9DD6ocy.jpg"
-    },
-    {
-      "id": "tt15047880",
-      "type": "movie",
-      "name": "Disclosure Day",
-      "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "name": "Call My Agent! The Movie",
+      "description": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.",
       "releaseInfo": "2026",
       "rank": 10,
       "genres": [
-        "Science Fiction",
-        "Thriller"
+        "Comedy",
+        "Drama"
       ],
-      "imdbRating": 6.4,
-      "imdbId": "tt15047880",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1789263336259",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/kxLjrSvs4WuYszwSxzjbtZcLUcC.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1789263336259",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/701aTHRSfEm2IHchyMXoZt4T1yV.jpg"
+      "imdbRating": 6.1,
+      "imdbId": "tt38267923",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1789350808800",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
+      "HDPoster": null,
+      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1789350808800",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/1eGFgr8teQ9HMj7TVocZHwdUq09.jpg"
     }
   ]
 }
