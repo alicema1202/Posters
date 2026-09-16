@@ -1,14 +1,36 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-09-15T02:10:08.668Z",
+  "updated": "2026-09-16T01:53:50.186Z",
   "metas": [
+    {
+      "id": "tt33332385",
+      "type": "series",
+      "name": "Widow's Bay",
+      "description": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
+      "releaseInfo": "2026-",
+      "rank": 1,
+      "imdbRating": 8.1,
+      "imdbId": "tt33332385",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1789523613430",
+      "HDPoster": "https://image.tmdb.org/t/p/original/kvUKkSsWtK0LPqwq6bfs7QViw6I.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/cyUyNa7x3ZgomXUGT9mxK0Rko9r.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sTu3Xvai7lVNRZcniEC0kFC9BvA.png",
+      "posterShape": "portrait"
+    },
     {
       "id": "tt26545992",
       "type": "series",
       "name": "Lanterns",
       "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "releaseInfo": "2026-",
-      "rank": 1,
+      "rank": 2,
       "imdbRating": 7.8,
       "imdbId": "tt26545992",
       "genres": [
@@ -16,96 +38,12 @@
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1789437752205",
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1789523613430",
       "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "background": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n8K4D8MjwGIfeflMYqeVBVdQvbp.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt13111078",
-      "type": "series",
-      "name": "Lioness",
-      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "releaseInfo": "2023-",
-      "rank": 2,
-      "imdbRating": 7.8,
-      "imdbId": "tt13111078",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1789437752205",
-      "HDPoster": "https://image.tmdb.org/t/p/original/4K5Jdry2gZj5XbomCa0H56g9XCs.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "background": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt43736405",
-      "type": "series",
-      "name": "A Love Other Than Yours",
-      "description": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
-      "releaseInfo": "2026-",
-      "rank": 3,
-      "imdbRating": 7.6,
-      "imdbId": "tt43736405",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1789437752205",
-      "HDPoster": "https://image.tmdb.org/t/p/original/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
-      "background": "https://image.tmdb.org/t/p/original/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/8gdfb5jCq1GC9k02IPxLADvsKSh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rxCkzjbWlVnclpLDSsr69rVTBQE.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt9288030",
-      "type": "series",
-      "name": "Reacher",
-      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "releaseInfo": "2022-",
-      "rank": 4,
-      "imdbRating": 8,
-      "imdbId": "tt9288030",
-      "genres": [
-        "Action & Adventure",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1789437752205",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "background": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qKGQXrrxZCNWPi1hJl3ohAQOdGh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2iSPeGH5o2G3pUjS4XpCgBKUnOG.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt14688458",
-      "type": "series",
-      "name": "Silo",
-      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "releaseInfo": "2023-",
-      "rank": 5,
-      "imdbRating": 8.1,
-      "imdbId": "tt14688458",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1789437752205",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7YRJGRauKshXINkX1rajw62cVpW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gd9499KuHAoXin227ZTwn9vCF8S.png",
+      "logo": "https://image.tmdb.org/t/p/w500/kANHXGvFKW13UEkZbYwl9nIJeEl.png",
       "posterShape": "portrait"
     },
     {
@@ -114,7 +52,7 @@
       "name": "The Walking Dead: Dead City",
       "description": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
       "releaseInfo": "2023-",
-      "rank": 6,
+      "rank": 3,
       "imdbRating": 7,
       "imdbId": "tt18546730",
       "genres": [
@@ -122,7 +60,7 @@
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1789437752205",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1789523613430",
       "HDPoster": "https://image.tmdb.org/t/p/original/vkKhHAygrFStG2H27M131dEQKsH.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
       "background": "https://image.tmdb.org/t/p/original/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
@@ -131,12 +69,95 @@
       "posterShape": "portrait"
     },
     {
+      "id": "tt33184638",
+      "type": "series",
+      "name": "Has Fallen",
+      "description": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
+      "releaseInfo": "2024-",
+      "rank": 4,
+      "imdbRating": 6.6,
+      "imdbId": "tt33184638",
+      "genres": [
+        "Action & Adventure",
+        "War & Politics"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1789523613430",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6RCM8JwIMLcryFGMedoVbF3wBOM.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ei1jnjJ154XN1E4q9JKEpuEImup.jpg",
+      "background": "https://image.tmdb.org/t/p/original/v0eBR7tZIWQKNtb2MyJtAji5OjA.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/crPuhrVER8Hw4GFhvJlW6Ew1vBj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/UuOJgdnJc4ZQujdM4byYvyZLwj.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "releaseInfo": "2022-",
+      "rank": 5,
+      "imdbRating": 8,
+      "imdbId": "tt9288030",
+      "genres": [
+        "Action & Adventure",
+        "Crime"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1789523613430",
+      "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/qKGQXrrxZCNWPi1hJl3ohAQOdGh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt31938062",
+      "type": "series",
+      "name": "The Pitt",
+      "description": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "releaseInfo": "2025-",
+      "rank": 6,
+      "imdbRating": 8.9,
+      "imdbId": "tt31938062",
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1789523613430",
+      "HDPoster": "https://image.tmdb.org/t/p/original/58uwPn7t9ZGZIRgzcBfxCv60GZ1.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "background": "https://image.tmdb.org/t/p/original/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/jLxZPL8OGvkiZW5J7uXN8RK8HCi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zqsePGDhPnk5KpSjlZFpmZyy8h6.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt13111078",
+      "type": "series",
+      "name": "Lioness",
+      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "releaseInfo": "2023-",
+      "rank": 7,
+      "imdbRating": 7.8,
+      "imdbId": "tt13111078",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1789523613430",
+      "HDPoster": "https://image.tmdb.org/t/p/original/4K5Jdry2gZj5XbomCa0H56g9XCs.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
+      "posterShape": "portrait"
+    },
+    {
       "id": "tt0149460",
       "type": "series",
       "name": "Futurama",
       "description": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "releaseInfo": "1999-",
-      "rank": 7,
+      "rank": 8,
       "imdbRating": 8.5,
       "imdbId": "tt0149460",
       "genres": [
@@ -144,7 +165,7 @@
         "Comedy",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1789437752205",
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1789523613430",
       "HDPoster": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "background": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
@@ -153,67 +174,46 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt33184638",
+      "id": "tt14688458",
       "type": "series",
-      "name": "Has Fallen",
-      "description": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
-      "releaseInfo": "2024-",
-      "rank": 8,
-      "imdbRating": 6.6,
-      "imdbId": "tt33184638",
+      "name": "Silo",
+      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "releaseInfo": "2023-",
+      "rank": 9,
+      "imdbRating": 8.1,
+      "imdbId": "tt14688458",
       "genres": [
-        "Action & Adventure",
-        "War & Politics"
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1789437752205",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6RCM8JwIMLcryFGMedoVbF3wBOM.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ei1jnjJ154XN1E4q9JKEpuEImup.jpg",
-      "background": "https://image.tmdb.org/t/p/original/v0eBR7tZIWQKNtb2MyJtAji5OjA.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/tuv24FcYl30LD4JxPlyrkIqp5di.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/UuOJgdnJc4ZQujdM4byYvyZLwj.png",
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1789523613430",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fQGrzO0Iwo7CO4b2zVdJLkcnhwK.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/zexU1Ljv4aHen9vNPD1ozritHdk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gd9499KuHAoXin227ZTwn9vCF8S.png",
       "posterShape": "portrait"
     },
     {
-      "id": "tt38128417",
+      "id": "tt5875444",
       "type": "series",
-      "name": "A Tale of Two Cities",
-      "description": "A pair of lookalikes, one a former French aristocrat and the other an alcoholic English lawyer, fall in love with the same woman amidst the turmoil of the French Revolution.",
-      "releaseInfo": "2026-",
-      "rank": 9,
-      "imdbRating": 6.3,
-      "imdbId": "tt38128417",
+      "name": "Slow Horses",
+      "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "releaseInfo": "2022-",
+      "rank": 10,
+      "imdbRating": 8.3,
+      "imdbId": "tt5875444",
       "genres": [
+        "Crime",
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1789437752205",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9EGYa51w81iQRqvPaiFKxah1lly.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ht3OVVRBTrTeVtUVQiKSekjIFVH.jpg",
-      "background": "https://image.tmdb.org/t/p/original/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/wos0qwI8WHIdGdtCeBfZsoSRV8c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vnahglPxiw9PpSNlqpCCluXZYth.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt13210838",
-      "type": "series",
-      "name": "The Gentlemen",
-      "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
-      "releaseInfo": "2024-",
-      "rank": 10,
-      "imdbRating": 8,
-      "imdbId": "tt13210838",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1789437752205",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2UTptUCms8tjMUWycUdcNjyEufq.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-      "background": "https://image.tmdb.org/t/p/original/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/eI9JBOFaJAiK3m90ebGQyyWMdqA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2IWoFSHK77SedaqSWgws0YFYmdW.png",
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1789523613430",
+      "HDPoster": "https://image.tmdb.org/t/p/original/atJkPAeM0FSZ1sMJ909P2fedXcz.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/w5r3VW8KRCB7ZfmRIaDaMb1ggPK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2zTYCYPEOck6BsFfjj7SDMBoCRJ.png",
       "posterShape": "portrait"
     }
   ]
