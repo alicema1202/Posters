@@ -464,7 +464,7 @@ async function getTopMovies() {
             movies.push({
 
                 id:
-                    imdbId,
+                    imdbId ?? `tmdb:${movie.id}`,
 
                 type:
                     "movie",
@@ -613,7 +613,7 @@ async function getTopSeries() {
         series.push({
 
             id:
-                imdbId,
+                imdbId ?? `tmdb:${show.id}`,
 
             type:
                 "series",
