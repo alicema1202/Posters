@@ -133,7 +133,7 @@ async function getImages(type, id) {
 
         logo:
             logo?.file_path
-                ? `https://image.tmdb.org/t/p/w500${logo.file_path}`
+                ? `https://image.tmdb.org/t/p/original${logo.file_path}`
                 : null,
         HDPoster:
             HDPoster?.file_path
