@@ -1,46 +1,160 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-09-17T01:57:27.113Z",
+  "updated": "2026-09-19T01:49:55.070Z",
   "metas": [
+    {
+      "id": "tt43617372",
+      "type": "movie",
+      "name": "You+Me – Against the World",
+      "description": "Alma Lancaster, 18, leads a seemingly perfect life in a wealthy family, who believe she is studying law. In secret, she pursues her true dream — cinema. On campus, she meets 20-year-old Vadim Arcadi, a rebellious and magnetic solitaire with a troubled past. Forced to collaborate on a student film, they compete, get closer and start to fall in love – in spite of themselves. But someone is watching them. A mysterious figure begins to send anonymous threats, determined to separate them and expose secrets that could destroy Alma and Vadim.",
+      "releaseInfo": "2026",
+      "rank": 1,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt43617372",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1789782576676",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/ll0KHqhRi6pWycQ3BGbmiBffm1i.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1789782576676",
+      "backdropPoster": null
+    },
     {
       "id": "tt27165187",
       "type": "movie",
       "name": "The End of Oak Street",
       "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
       "releaseInfo": "2026",
-      "rank": 1,
+      "rank": 2,
       "genres": [
         "Science Fiction",
         "Mystery",
         "Thriller"
       ],
-      "imdbRating": 6.5,
+      "imdbRating": 6.4,
       "imdbId": "tt27165187",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1789610237738",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1789782576676",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/3bq3Jy5cnE2FjngeRVvkJawquVf.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1789610237738",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1789782576676",
       "backdropPoster": "https://image.tmdb.org/t/p/original/tFuzktvrE8PwSVrO5kTbtjphtnh.jpg"
     },
     {
-      "id": "tt27706593",
+      "id": "tt39667834",
       "type": "movie",
-      "name": "The Rivals of Amziah King",
-      "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
+      "name": "Lust Stories 3",
+      "description": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human connection in all their complexity.",
       "releaseInfo": "2026",
-      "rank": 2,
+      "rank": 3,
       "genres": [
-        "Crime",
-        "Drama",
+        "Romance",
+        "Drama"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt39667834",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1789782576676",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/1GBe4TeCeXa1ENg0rv2JH8cH0ry.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/4KhYHimTT2j1YOvAXZ62o2anPNj.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1789782576676",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/ixWYV97WTObTSvcnExYK9sMxzxb.jpg"
+    },
+    {
+      "id": "tt32321803",
+      "type": "movie",
+      "name": "The Get Out",
+      "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+      "releaseInfo": "2026",
+      "rank": 4,
+      "genres": [
+        "Action",
         "Thriller"
       ],
-      "imdbRating": 7.3,
-      "imdbId": "tt27706593",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1789610237738",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/bNpCrCZLRaqrNyaX0Ty29VvyDH8.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1789610237738",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/rHYtPf1qFFZZ3gjmVG48VxyYa6v.jpg"
+      "imdbRating": 5.6,
+      "imdbId": "tt32321803",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1789782576676",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/5vqPhj3ux4PkzSUSfcERXT8jq0x.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1789782576676",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/pL2OOi7V6rRQd9CujS6oskpjdPH.jpg"
+    },
+    {
+      "id": "tt33095251",
+      "type": "movie",
+      "name": "Tony",
+      "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+      "releaseInfo": "2026",
+      "rank": 5,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdbRating": 7.5,
+      "imdbId": "tt33095251",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1789782576676",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/mtQersk06ioKkNYnhxaVMPTJ4ae.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1789782576676",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/5yDTCHGyueYGMNXTkkGoO6WeHCR.jpg"
+    },
+    {
+      "id": "tt16478058",
+      "type": "movie",
+      "name": "Best of the Best",
+      "description": "Two best friends at UCLA leap into the competitive and cutthroat world of collegiate Bollywood-fusion dance.",
+      "releaseInfo": "2026",
+      "rank": 6,
+      "genres": [
+        "Comedy"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt16478058",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1789782576676",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/Zm5i6MmXp5cfIT3LffiuAX1uZ6.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/l66G12NvVhkpm02CHWJteA7nJUb.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1789782576676",
+      "backdropPoster": null
+    },
+    {
+      "id": "tt37287335",
+      "type": "movie",
+      "name": "Obsession",
+      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "releaseInfo": "2026",
+      "rank": 7,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdbRating": 7.8,
+      "imdbId": "tt37287335",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1789782576676",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1789782576676",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/tTX4xnZKoPJnNQT8vYYkNgRt6hr.jpg"
+    },
+    {
+      "id": "tt29355505",
+      "type": "movie",
+      "name": "Toy Story 5",
+      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "releaseInfo": "2026",
+      "rank": 8,
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure"
+      ],
+      "imdbRating": 7.4,
+      "imdbId": "tt29355505",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1789782576676",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/z5Z5rhqJGz6w5VuIpOzUk83K9We.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1789782576676",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/to5PIWJXXOmatYepPRTLGWENLJf.jpg"
     },
     {
       "id": "tt27419466",
@@ -48,7 +162,7 @@
       "name": "Moana",
       "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "releaseInfo": "2026",
-      "rank": 3,
+      "rank": 9,
       "genres": [
         "Family",
         "Fantasy",
@@ -57,146 +171,31 @@
       ],
       "imdbRating": 5.8,
       "imdbId": "tt27419466",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1789610237738",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1789782576676",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/bmzkFxTZGHW4BlKL6kLm7TDyW4f.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1789610237738",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1789782576676",
       "backdropPoster": "https://image.tmdb.org/t/p/original/4pYIal4WsO5hVrjffjGLr1Bf2QX.jpg"
     },
     {
-      "id": "tt33253206",
+      "id": "tt27706593",
       "type": "movie",
-      "name": "The Last Kiss",
-      "description": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
-      "releaseInfo": "2026",
-      "rank": 4,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt33253206",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1789610237738",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/axlPrPBwdlhcWFnjLLpAH1CEP96.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1789610237738",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7gM38aJvuHNEPgL2xoi2Mp9SGTF.jpg"
-    },
-    {
-      "id": "tt37287335",
-      "type": "movie",
-      "name": "Obsession",
-      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "releaseInfo": "2026",
-      "rank": 5,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "imdbRating": 7.8,
-      "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1789610237738",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1789610237738",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o5VincY0eEAq4GHHiKcWjSuNPCm.jpg"
-    },
-    {
-      "id": "tt34564059",
-      "type": "movie",
-      "name": "The Runner",
-      "description": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
-      "releaseInfo": "2026",
-      "rank": 6,
-      "genres": [
-        "Thriller",
-        "Action"
-      ],
-      "imdbRating": 4.1,
-      "imdbId": "tt34564059",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1789610237738",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/uIoARHk8zc76lp93zKtKAwGnLuD.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1789610237738",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/hpxe9voFdsphmImyVKyhMxMHDsO.jpg"
-    },
-    {
-      "id": "tt34895535",
-      "type": "movie",
-      "name": "Nimrods",
-      "description": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
-      "releaseInfo": "2026",
-      "rank": 7,
-      "genres": [
-        "Comedy",
-        "Music"
-      ],
-      "imdbRating": 7,
-      "imdbId": "tt34895535",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1789610237738",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/4h2WtFCLZPXbydbpi248uqOT9yz.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6LUBxoe7ZpwrQluyK21jx1unLkH.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1789610237738",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qiauJhpy13Z6SrUAFGNmHSAYUOl.jpg"
-    },
-    {
-      "id": "tt28014327",
-      "type": "movie",
-      "name": "Mayday",
-      "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "imdbRating": 6.8,
-      "imdbId": "tt28014327",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1789610237738",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/nFNCdoKCDE4Gc27iEBh5yiF7DwX.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1789610237738",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/dzOnDgSDZ0NMGGRwq0I0CyxCdsI.jpg"
-    },
-    {
-      "id": "tt26657236",
-      "type": "movie",
-      "name": "Backrooms",
-      "description": "A strange doorway appears in the basement of a furniture showroom.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Science Fiction"
-      ],
-      "imdbRating": 6.8,
-      "imdbId": "tt26657236",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1789610237738",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1789610237738",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg"
-    },
-    {
-      "id": "tt37853455",
-      "type": "movie",
-      "name": "One Night Only",
-      "description": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+      "name": "The Rivals of Amziah King",
+      "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
       "releaseInfo": "2026",
       "rank": 10,
       "genres": [
-        "Romance",
-        "Comedy"
+        "Crime",
+        "Drama",
+        "Thriller"
       ],
-      "imdbRating": 6.1,
-      "imdbId": "tt37853455",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1789610237738",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/cQijkqnB0TbrNILztYwrTxlLq5h.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1789610237738",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/ijhuKfuYMmL4QfWvJE7MzO9TgiQ.jpg"
+      "imdbRating": 7.1,
+      "imdbId": "tt27706593",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1789782576676",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/bNpCrCZLRaqrNyaX0Ty29VvyDH8.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1789782576676",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/rHYtPf1qFFZZ3gjmVG48VxyYa6v.jpg"
     }
   ]
 }
