@@ -149,7 +149,7 @@ async function getIMDbId(type, id) {
 
     const data = await response.json();
 
-    return data.imdb_id ?? null;
+    return data.imdb_id || null;
 
 }
 async function getIMDBRating(imdbId) {
