@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-09-19T01:49:55.070Z",
+  "updated": "2026-09-19T23:05:27.231Z",
   "metas": [
     {
       "id": "",
@@ -15,12 +15,12 @@
         "Drama",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1789782576676",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1789859109569",
       "HDPoster": "https://image.tmdb.org/t/p/original/1V4qYjjNNhldd3fQLUuTnzXRPmJ.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
       "background": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/7bNEsXjfjid5nhM0Wf4Z7kX0u9R.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uTQrN2E9ulajgC6nN3JbjjSIjFl.png",
+      "logo": "https://image.tmdb.org/t/p/original/fyr5SgLKsfpOTlSsXRwyoDYZNN7.png",
       "posterShape": "landscape"
     },
     {
@@ -36,12 +36,32 @@
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1789782576676",
-      "HDPoster": "https://image.tmdb.org/t/p/original/bQnGWAAbQkfeB7aGlGrusKY3IyI.jpg",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1789859109569",
+      "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/r01olcPTFU1eeC63ZikHXBwxKgj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/a9YLMuK3MoQr1Au5SJPVp4dMn3o.png",
+      "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/rmqRJv8Q7NdMkcinNBdoosNYLwG.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/a9YLMuK3MoQr1Au5SJPVp4dMn3o.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt36347588",
+      "type": "series",
+      "name": "The Scandal",
+      "description": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+      "releaseInfo": "2026",
+      "rank": 3,
+      "imdbRating": null,
+      "imdbId": "tt36347588",
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1789859109569",
+      "HDPoster": "https://image.tmdb.org/t/p/original/av8T87Tdd1lN74FBTmCYyVGxFIe.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/pJsIzlTjmx07ilwEkl0cglrMVa1.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/siDYj3xQgkPKA6y1TEFwDhac1gI.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/l6YIvpcx7XmKhZYGbA6SwVH5ney.png",
       "posterShape": "landscape"
     },
     {
@@ -50,20 +70,20 @@
       "name": "Neagley",
       "description": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
       "releaseInfo": "2026-",
-      "rank": 3,
-      "imdbRating": 7.6,
+      "rank": 4,
+      "imdbRating": 7.8,
       "imdbId": "tt33539520",
       "genres": [
         "Drama",
         "Mystery",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1789782576676",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1789859109569",
       "HDPoster": "https://image.tmdb.org/t/p/original/2P1z1SwTCc6c6ZzshkftJtPXK0X.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg",
       "background": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/5n8yuHdiObGIhZypMDwawQCW0s1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lI6zO2lw8pteZnIzm1DuucVGutG.png",
+      "logo": "https://image.tmdb.org/t/p/original/lI6zO2lw8pteZnIzm1DuucVGutG.png",
       "posterShape": "landscape"
     },
     {
@@ -72,105 +92,19 @@
       "name": "Reacher",
       "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "releaseInfo": "2022-",
-      "rank": 4,
+      "rank": 5,
       "imdbRating": 8,
       "imdbId": "tt9288030",
       "genres": [
         "Action & Adventure",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1789782576676",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1789859109569",
       "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
       "background": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/qKGQXrrxZCNWPi1hJl3ohAQOdGh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt19231492",
-      "type": "series",
-      "name": "Dark Matter",
-      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "releaseInfo": "2024-",
-      "rank": 5,
-      "imdbRating": 7.6,
-      "imdbId": "tt19231492",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1789782576676",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2UFwBzMvbGEVJReVlSbsZfdMo2r.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "background": "https://image.tmdb.org/t/p/original/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/sj81WpEIjvUQFCMWKXOcejFlFTQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/41oTdX0XzO8VskZTfiNIKijfRuq.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt0121955",
-      "type": "series",
-      "name": "South Park",
-      "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-      "releaseInfo": "1997-",
-      "rank": 6,
-      "imdbRating": 8.7,
-      "imdbId": "tt0121955",
-      "genres": [
-        "Animation",
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1789782576676",
-      "HDPoster": "https://image.tmdb.org/t/p/original/8BzcYcoi0i8JKWFvDYtjFUYx1cR.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "background": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/lMuMzMx8lWlt1BeR7XCsidyFfkc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/13yS7ws7ZxiMWZZCHnby7qBgbeV.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt27486290",
-      "type": "series",
-      "name": "Stranger Things: Tales from '85",
-      "description": "Winter. Hawkins. 1985. Welcome back to a town crawling with secrets, where beloved heroes are facing fresh mysteries... and an all-new breed of strange.",
-      "releaseInfo": "2026-",
-      "rank": 7,
-      "imdbRating": 5.9,
-      "imdbId": "tt27486290",
-      "genres": [
-        "Animation",
-        "Sci-Fi & Fantasy",
-        "Mystery",
-        "Action & Adventure"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1789782576676",
-      "HDPoster": "https://image.tmdb.org/t/p/original/7PoEyK2EFMDRvJg15Ld9Qbtbhe4.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
-      "background": "https://image.tmdb.org/t/p/original/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/ydI56O0ivv3FDd3e8lRk4RXTa8M.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ff4nzGS3122NvLVN10dheKtEZ9E.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt33184638",
-      "type": "series",
-      "name": "Has Fallen",
-      "description": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
-      "releaseInfo": "2024-",
-      "rank": 8,
-      "imdbRating": 6.6,
-      "imdbId": "tt33184638",
-      "genres": [
-        "Action & Adventure",
-        "War & Politics"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1789782576676",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6RCM8JwIMLcryFGMedoVbF3wBOM.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
-      "background": "https://image.tmdb.org/t/p/original/v0eBR7tZIWQKNtb2MyJtAji5OjA.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/crPuhrVER8Hw4GFhvJlW6Ew1vBj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kynicYYpxhAj1PvmFSfhOySNOVz.png",
+      "logo": "https://image.tmdb.org/t/p/original/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
       "posterShape": "landscape"
     },
     {
@@ -179,7 +113,7 @@
       "name": "Lanterns",
       "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "releaseInfo": "2026-",
-      "rank": 9,
+      "rank": 6,
       "imdbRating": 7.8,
       "imdbId": "tt26545992",
       "genres": [
@@ -187,32 +121,96 @@
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1789782576676",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1789859109569",
       "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "background": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kANHXGvFKW13UEkZbYwl9nIJeEl.png",
+      "logo": "https://image.tmdb.org/t/p/original/kANHXGvFKW13UEkZbYwl9nIJeEl.png",
       "posterShape": "landscape"
     },
     {
-      "id": "tt32642114",
+      "id": "tt18332852",
       "type": "series",
-      "name": "City of Blood",
-      "description": "Berlin — a city-state on the brink. While a privileged few live beneath a climate-controlled dome, those outside struggle to survive in a world ravaged by heat, corruption, and crime. After years apart, sisters Bea and Phoebe are reunited and uncover a dark secret: Vampires are determined to seize political power — and blood has become the city's new currency.",
-      "releaseInfo": "2026",
-      "rank": 10,
-      "imdbRating": 5.7,
-      "imdbId": "tt32642114",
+      "name": "Outlander: Blood of My Blood",
+      "description": "From the battlefields of World War I to the rugged Highlands of 18th century Scotland, two fated couples must defy the forces that seek to tear them apart, unfolding in surprising and unforeseen ways in this romantic saga that unfolds across time.",
+      "releaseInfo": "2025-",
+      "rank": 7,
+      "imdbRating": 8.1,
+      "imdbId": "tt18332852",
       "genres": [
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1789859109569",
+      "HDPoster": "https://image.tmdb.org/t/p/original/woz7IYtEDj2aYvuh9p9fnqMa0Lv.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/8STc1ch0kRYfBvD6W1MD8iwsfG0.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/3WqbicAKsH65x4nA02cTegs82ra.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt5875444",
+      "type": "series",
+      "name": "Slow Horses",
+      "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "releaseInfo": "2022-",
+      "rank": 8,
+      "imdbRating": 8.3,
+      "imdbId": "tt5875444",
+      "genres": [
+        "Crime",
+        "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1789782576676",
-      "HDPoster": "https://image.tmdb.org/t/p/original/ip9kIgOnKysrplQ2dUMdPZHyRMx.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
-      "background": "https://image.tmdb.org/t/p/original/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/n7fCwnzXcC2FPiG6jFZP2Pyg3p2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uSjG3n64Zn1MdhJd0sftGxYVJuO.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1789859109569",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6VWcSPawl9pSCNJC8G3KNeryVCz.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/w5r3VW8KRCB7ZfmRIaDaMb1ggPK.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/2zTYCYPEOck6BsFfjj7SDMBoCRJ.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt0121955",
+      "type": "series",
+      "name": "South Park",
+      "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+      "releaseInfo": "1997-",
+      "rank": 9,
+      "imdbRating": 8.7,
+      "imdbId": "tt0121955",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1789859109569",
+      "HDPoster": "https://image.tmdb.org/t/p/original/8BzcYcoi0i8JKWFvDYtjFUYx1cR.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/fqoPlnpwRBbTWDNFgGQvp9AsBOQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/13yS7ws7ZxiMWZZCHnby7qBgbeV.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt33184638",
+      "type": "series",
+      "name": "Has Fallen",
+      "description": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
+      "releaseInfo": "2024-",
+      "rank": 10,
+      "imdbRating": 6.6,
+      "imdbId": "tt33184638",
+      "genres": [
+        "Action & Adventure",
+        "War & Politics"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1789859109569",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6RCM8JwIMLcryFGMedoVbF3wBOM.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
+      "background": "https://image.tmdb.org/t/p/original/v0eBR7tZIWQKNtb2MyJtAji5OjA.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/crPuhrVER8Hw4GFhvJlW6Ew1vBj.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/kynicYYpxhAj1PvmFSfhOySNOVz.png",
       "posterShape": "landscape"
     }
   ]
