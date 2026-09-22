@@ -9,6 +9,89 @@ const catalogs = [
 
 
 
+const DARK_LOGO_BRIGHTNESS_THRESHOLD = 100;
+
+async function removeShadowIfLogoIsDark(page) {
+
+    const isDark = await page.evaluate((threshold) => {
+
+        const img = Array.from(document.querySelectorAll(".logo")).find(
+            (el) =>
+                el.complete &&
+                el.naturalWidth > 0 &&
+                getComputedStyle(el).display !== "none"
+        );
+
+        if (!img) {
+            return false;
+        }
+
+        const canvas = document.createElement("canvas");
+        canvas.width = img.naturalWidth;
+        canvas.height = img.naturalHeight;
+
+        const ctx = canvas.getContext("2d");
+        ctx.drawImage(img, 0, 0);
+
+        let data;
+
+        try {
+            data = ctx.getImageData(0, 0, canvas.width, canvas.height).data;
+        } catch (err) {
+            return false;
+        }
+
+        let total = 0;
+        let count = 0;
+
+        for (let i = 0; i < data.length; i += 4) {
+
+            const alpha = data[i + 3];
+
+            if (alpha === 0) {
+                continue;
+            }
+
+            const r = data[i];
+            const g = data[i + 1];
+            const b = data[i + 2];
+
+            total += (r * 299 + g * 587 + b * 114) / 1000;
+            count++;
+
+        }
+
+        if (count === 0) {
+            return false;
+        }
+
+        return (total / count) < threshold;
+
+    }, DARK_LOGO_BRIGHTNESS_THRESHOLD);
+
+    if (isDark) {
+
+        await page.evaluate(() => {
+
+            const img = Array.from(document.querySelectorAll(".logo")).find(
+                (el) =>
+                    el.complete &&
+                    el.naturalWidth > 0 &&
+                    getComputedStyle(el).display !== "none"
+            );
+
+            if (img) {
+                img.classList.add("logo-dark");
+            }
+
+        });
+
+    }
+
+}
+
+
+
 async function generatePoster(item, browser) {
 
     const page = await browser.newPage();
@@ -68,6 +151,7 @@ async function generatePoster(item, browser) {
                 `
                 <img
                     class="logo"
+                    crossorigin="anonymous"
                     src="${item.logo}"
                 />
                 `
@@ -90,6 +174,7 @@ async function generatePoster(item, browser) {
                 `
                 <img
                     class="logo"
+                    crossorigin="anonymous"
                     src="${item.logo}"
                 />
                 `
@@ -99,6 +184,7 @@ async function generatePoster(item, browser) {
                 `
                 <img
                     class="fallback logo"
+                    crossorigin="anonymous"
                     src="${item.logo}"
                 />
                 `
@@ -142,6 +228,14 @@ async function generatePoster(item, browser) {
             waitUntil: "networkidle0"
         }
     );
+
+
+
+    if (item.logo) {
+
+        await removeShadowIfLogoIsDark(page);
+
+    }
 
 
 
