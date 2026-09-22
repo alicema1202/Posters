@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-09-22T05:48:22.512Z",
+  "updated": "2026-09-22T06:24:01.819Z",
   "metas": [
     {
       "id": "tt26545992",
@@ -16,7 +16,7 @@
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1790056092576",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1790058232460",
       "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "background": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
@@ -37,7 +37,7 @@
         "Drama",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1790056092576",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1790058232460",
       "HDPoster": "https://image.tmdb.org/t/p/original/1V4qYjjNNhldd3fQLUuTnzXRPmJ.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
       "background": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
@@ -58,7 +58,7 @@
         "Drama",
         "War & Politics"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1790056092576",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1790058232460",
       "HDPoster": "https://image.tmdb.org/t/p/original/d06gcQz1YmdWcapC40ARBAoGF2p.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
       "background": "https://image.tmdb.org/t/p/original/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
@@ -79,7 +79,7 @@
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1790056092576",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1790058232460",
       "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "background": "https://image.tmdb.org/t/p/original/vW6oPZEdqxZyQIYimouqA5b78mT.jpg",
@@ -88,12 +88,33 @@
       "posterShape": "landscape"
     },
     {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "releaseInfo": "2022-",
+      "rank": 5,
+      "imdbRating": 8,
+      "imdbId": "tt9288030",
+      "genres": [
+        "Action & Adventure",
+        "Crime"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1790058232460",
+      "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/qKGQXrrxZCNWPi1hJl3ohAQOdGh.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
+      "posterShape": "landscape"
+    },
+    {
       "id": "tt33539520",
       "type": "series",
       "name": "Neagley",
       "description": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
       "releaseInfo": "2026-",
-      "rank": 5,
+      "rank": 6,
       "imdbRating": 7.8,
       "imdbId": "tt33539520",
       "genres": [
@@ -101,33 +122,12 @@
         "Mystery",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1790056092576",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1790058232460",
       "HDPoster": "https://image.tmdb.org/t/p/original/2P1z1SwTCc6c6ZzshkftJtPXK0X.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
       "background": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/5n8yuHdiObGIhZypMDwawQCW0s1.jpg",
       "logo": "https://image.tmdb.org/t/p/original/lI6zO2lw8pteZnIzm1DuucVGutG.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt9288030",
-      "type": "series",
-      "name": "Reacher",
-      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "releaseInfo": "2022-",
-      "rank": 6,
-      "imdbRating": 8,
-      "imdbId": "tt9288030",
-      "genres": [
-        "Action & Adventure",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1790056092576",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "background": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qKGQXrrxZCNWPi1hJl3ohAQOdGh.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
       "posterShape": "landscape"
     },
     {
@@ -143,7 +143,7 @@
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1790056092576",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1790058232460",
       "HDPoster": "https://image.tmdb.org/t/p/original/izUp7ooQj5z4kwCYNQd3cOp1LpX.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/kVXkBIJw4eW9KC8VZvYvoS6Qg0j.jpg",
       "background": "https://image.tmdb.org/t/p/original/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
@@ -163,7 +163,7 @@
       "genres": [
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1790056092576",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1790058232460",
       "HDPoster": "https://image.tmdb.org/t/p/original/av8T87Tdd1lN74FBTmCYyVGxFIe.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
       "background": "https://image.tmdb.org/t/p/original/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
@@ -185,7 +185,7 @@
         "Comedy",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1790056092576",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1790058232460",
       "HDPoster": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
       "background": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
@@ -206,7 +206,7 @@
         "Animation",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1790056092576",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1790058232460",
       "HDPoster": "https://image.tmdb.org/t/p/original/8BzcYcoi0i8JKWFvDYtjFUYx1cR.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
       "background": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
