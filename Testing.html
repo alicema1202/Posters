@@ -1,55 +1,786 @@
 
 <!DOCTYPE html>
 
-    <html>
+<html>
 
-    <head>
-        <link rel="stylesheet" href="posterStyle.css">
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-        
-    </head>
+<head>
+    <meta charset="utf-8">
+    <title>Poster Style Preview</title>
+    <link rel="stylesheet" href="posterStyle.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            background: #111;
+            font-family: "Inter", sans-serif;
+            color: #eee;
+            padding: 32px;
+        }
+
+        h1 {
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+
+        h2 {
+            font-weight: 600;
+            font-size: 18px;
+            margin: 40px 0 16px;
+            border-top: 1px solid #333;
+            padding-top: 24px;
+        }
+
+        .intro {
+            color: #999;
+            max-width: 720px;
+        }
+
+        .row {
+            display: flex;
+            flex-wrap: nowrap;
+            gap: 24px;
+            align-items: flex-start;
+            overflow-x: auto;
+            padding-bottom: 16px;
+        }
+
+        .card {
+            width: 340px;
+            flex: 0 0 auto;
+        }
+
+        .card.landscape {
+            width: 640px;
+        }
+
+        .card h3 {
+            margin: 0 0 4px;
+            font-size: 13px;
+            font-weight: 600;
+            color: #777;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .card p {
+            margin: 0 0 10px;
+            font-size: 13px;
+            color: #ccc;
+        }
+
+        /* .landscape-poster uses the CSS `scale` property, which shrinks
+           only its paint (not its 768x432 layout box), so it needs a frame
+           sized to the visible result to clip it correctly. This mirrors
+           the 640x360 Puppeteer viewport used when generating real posters. */
+        .landscape-frame {
+            width: 640px;
+            height: 360px;
+            overflow: hidden;
+            border-radius: 8px;
+        }
+
+        .card .poster {
+            border-radius: 8px;
+        }
+    </style>
+
+</head>
 
 
-    <body>
-        <div class="landscape-poster">
-            <img
-                class="background"
-                src="https://image.tmdb.org/t/p/original/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
-            />
-            <div class="overlay">
+<body>
+
+    <h1>Poster Style Preview</h1>
+    <p class="intro">
+        Gradual blur (bottom only, portrait) + dark overlay (shortened for dark logos, full-size for light ones) +
+        automatic drop-shadow removal on dark logos. Every current catalog item, plus a few edge cases
+        (no logo, no HDPoster).
+    </p>
+
+    <h2>Portrait posters</h2>
+    <div class="row">
+
+        <div class="card">
+            <h3>movie 1</h3>
+            <p>The End of Oak Street</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/9WVfWKbYL7hJIygCYLgajtiFnJn.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">1</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/ctnUQ8UdBLfJE6EkpzzmHLSbTMG.png" />
+                <div class="genre">Science Fiction</div>
             </div>
-            <div class="rank">
-                5
-            </div>
-            <img
-                class="logo"
-                src="https://image.tmdb.org/t/p/w500/i4O2d2EYfBCVFVIQaES16gchiMj.png"
-            />
-            <!-- <div class="title">
-                    Blablabla
-                </div> -->
-            <div class="genre">
-                    Science Fiction
-                </div>
         </div>
-        <div class="poster">
-            <img
-                class="background"
-                src="https://image.tmdb.org/t/p/original/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
-            />
-            <div class="overlay"></div>
-            <div class="rank">
-                10
+
+        <div class="card">
+            <h3>movie 2</h3>
+            <p>Best of the Best</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/pqvXwlsih5LySEPkxY9VZXFKeWo.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">2</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/sYUyAtjok4sy1Fl04giFbIbF9ns.png" />
+                <div class="genre">Comedy</div>
             </div>
-            <img
-                class="logo"
-                src="https://image.tmdb.org/t/p/original/v6TyxpV3ZXG28MXTaHCXTmXc0B.png"
-            />
-            <div class="genre">
-                    Fantasy
-                </div>
         </div>
-    </body>
+
+        <div class="card">
+            <h3>movie 3</h3>
+            <p>Spa Weekend</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/m86XrvZQ35clrQEmWqdfm3o8cGR.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">3</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/nMb9B7NKkHKgppeOeO98a0GWX6Y.png" />
+                <div class="genre">Comedy</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>movie 4</h3>
+            <p>Super Troopers 3</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/f2bPrlXRpprJArJfKhE7a6HeZJT.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">4</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/m5oChjEmB9nULBhgS9LHXdlJC82.png" />
+                <div class="genre">Comedy</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>movie 5</h3>
+            <p>Ice Cream Man</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/u4IkgcUehvByKpejt4GSRKKcTJ7.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">5</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/dmHPwUjYNECPpcldxbXZITxYkHD.png" />
+                <div class="genre">Horror</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>movie 6</h3>
+            <p>Obsession</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/tTX4xnZKoPJnNQT8vYYkNgRt6hr.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">6</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/2y6qVk9YIPxTzO43anxUQ9iTuh4.png" />
+                <div class="genre">Horror</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>movie 7</h3>
+            <p>Backrooms</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">7</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/g0PswKqAFJdwGK3d1fKvj8LGnrW.png" />
+                <div class="genre">Horror</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>movie 8</h3>
+            <p>Moana</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/4pYIal4WsO5hVrjffjGLr1Bf2QX.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">8</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/pRHIM8liJBYy1Z4wNgAizqCOuOU.png" />
+                <div class="genre">Family</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>movie 9</h3>
+            <p>Toy Story 5</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/to5PIWJXXOmatYepPRTLGWENLJf.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">9</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png" />
+                <div class="genre">Animation</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>movie 10</h3>
+            <p>Project Hail Mary</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/7mL0PR2jGC283JbPApFS8aJ2x1F.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">10</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/jvqIELbZctv3Jqtcc7Ic5of8vY7.png" />
+                <div class="genre">Science Fiction</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>series 1</h3>
+            <p>Lanterns</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">1</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/kANHXGvFKW13UEkZbYwl9nIJeEl.png" />
+                <div class="genre">Drama</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>series 2</h3>
+            <p>Lioness</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">2</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/xCXmYvX8UwggLh0h3I1A1fbHBxI.png" />
+                <div class="genre">Drama</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>series 3</h3>
+            <p>MobLand</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">3</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/a9YLMuK3MoQr1Au5SJPVp4dMn3o.png" />
+                <div class="genre">Crime</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>series 4</h3>
+            <p>Monster: The Lizzie Borden Story</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/7bNEsXjfjid5nhM0Wf4Z7kX0u9R.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">4</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/ieyQiTGojX0osFVhDsg7D5L1ET2.svg" />
+                <div class="genre">Drama</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>series 5</h3>
+            <p>The Scandal</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/siDYj3xQgkPKA6y1TEFwDhac1gI.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">5</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/i8NWMINx7uTJJlsKZvgPwP9dQll.png" />
+                <div class="genre">Drama</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>series 6</h3>
+            <p>Neagley</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/5n8yuHdiObGIhZypMDwawQCW0s1.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">6</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/lI6zO2lw8pteZnIzm1DuucVGutG.png" />
+                <div class="genre">Drama</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>series 7</h3>
+            <p>American Hostage</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/5CJrEIGiwh8RQkTR4tSjjE4oW2u.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">7</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/azITiQL9UBQVK9z95UQipLoWHkB.png" />
+                <div class="genre">Crime</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>series 8</h3>
+            <p>Reacher</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/qKGQXrrxZCNWPi1hJl3ohAQOdGh.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">8</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/2YkCVT6opPxKh2ogEqxVrCiFgsr.png" />
+                <div class="genre">Action &amp; Adventure</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>series 9</h3>
+            <p>Futurama</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/jYuP1J52HzbyeSdPj3Ix0BnKVxy.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">9</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/6jNQtbazLLAu5gLzW46FP8EGePb.png" />
+                <div class="genre">Animation</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>series 10</h3>
+            <p>Has Fallen</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/crPuhrVER8Hw4GFhvJlW6Ew1vBj.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">10</div>
+                <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/kynicYYpxhAj1PvmFSfhOySNOVz.png" />
+                <div class="genre">Action &amp; Adventure</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>edge case</h3>
+            <p>No logo &mdash; title-text fallback</p>
+            <div class="poster">
+                <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/m86XrvZQ35clrQEmWqdfm3o8cGR.jpg" />
+                <div class="overlay"></div>
+                <div class="rank">99</div>
+                <div class="title">Untitled Feature</div>
+                <div class="genre">Drama</div>
+            </div>
+        </div>
+
+    </div>
+
+    <h2>Landscape posters</h2>
+    <div class="row">
+
+        <div class="card landscape">
+            <h3>movie 1</h3>
+            <p>The End of Oak Street</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/3bq3Jy5cnE2FjngeRVvkJawquVf.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">1</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/ctnUQ8UdBLfJE6EkpzzmHLSbTMG.png" />
+                    <div class="genre">Science Fiction</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>movie 2</h3>
+            <p>Best of the Best</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/l66G12NvVhkpm02CHWJteA7nJUb.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">2</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/sYUyAtjok4sy1Fl04giFbIbF9ns.png" />
+                    <div class="genre">Comedy</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>movie 3</h3>
+            <p>Spa Weekend</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/hXHzJiIocjKIysuam5rLtkHOA2D.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">3</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/nMb9B7NKkHKgppeOeO98a0GWX6Y.png" />
+                    <div class="genre">Comedy</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>movie 4</h3>
+            <p>Super Troopers 3</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/sVtb0ASjjpJgz3fJYUqybGoLEp3.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">4</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/m5oChjEmB9nULBhgS9LHXdlJC82.png" />
+                    <div class="genre">Comedy</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>movie 5</h3>
+            <p>Ice Cream Man</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/yVnhi77S17Mk9pKx2wq6FKMF5hn.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">5</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/dmHPwUjYNECPpcldxbXZITxYkHD.png" />
+                    <div class="genre">Horror</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>movie 6</h3>
+            <p>Obsession</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">6</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/2y6qVk9YIPxTzO43anxUQ9iTuh4.png" />
+                    <div class="genre">Horror</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>movie 7</h3>
+            <p>Backrooms</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/vqgbIravMFb3XR0qm0STynacXi3.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">7</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/g0PswKqAFJdwGK3d1fKvj8LGnrW.png" />
+                    <div class="genre">Horror</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>movie 8</h3>
+            <p>Moana</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/bmzkFxTZGHW4BlKL6kLm7TDyW4f.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">8</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/pRHIM8liJBYy1Z4wNgAizqCOuOU.png" />
+                    <div class="genre">Family</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>movie 9</h3>
+            <p>Toy Story 5</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/z5Z5rhqJGz6w5VuIpOzUk83K9We.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">9</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png" />
+                    <div class="genre">Animation</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>movie 10</h3>
+            <p>Project Hail Mary</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/wLWvHcQz7N13DvSOTV7bHgwGXpT.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">10</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/jvqIELbZctv3Jqtcc7Ic5of8vY7.png" />
+                    <div class="genre">Science Fiction</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>series 1</h3>
+            <p>Lanterns</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">1</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/kANHXGvFKW13UEkZbYwl9nIJeEl.png" />
+                    <div class="genre">Drama</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>series 2</h3>
+            <p>Lioness</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/d06gcQz1YmdWcapC40ARBAoGF2p.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">2</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/xCXmYvX8UwggLh0h3I1A1fbHBxI.png" />
+                    <div class="genre">Drama</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>series 3</h3>
+            <p>MobLand</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">3</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/a9YLMuK3MoQr1Au5SJPVp4dMn3o.png" />
+                    <div class="genre">Crime</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>series 4</h3>
+            <p>Monster: The Lizzie Borden Story</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/1V4qYjjNNhldd3fQLUuTnzXRPmJ.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">4</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/ieyQiTGojX0osFVhDsg7D5L1ET2.svg" />
+                    <div class="genre">Drama</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>series 5</h3>
+            <p>The Scandal</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/av8T87Tdd1lN74FBTmCYyVGxFIe.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">5</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/i8NWMINx7uTJJlsKZvgPwP9dQll.png" />
+                    <div class="genre">Drama</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>series 6</h3>
+            <p>Neagley</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/2P1z1SwTCc6c6ZzshkftJtPXK0X.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">6</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/lI6zO2lw8pteZnIzm1DuucVGutG.png" />
+                    <div class="genre">Drama</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>series 7</h3>
+            <p>American Hostage</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/izUp7ooQj5z4kwCYNQd3cOp1LpX.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">7</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/azITiQL9UBQVK9z95UQipLoWHkB.png" />
+                    <div class="genre">Crime</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>series 8</h3>
+            <p>Reacher</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">8</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/2YkCVT6opPxKh2ogEqxVrCiFgsr.png" />
+                    <div class="genre">Action &amp; Adventure</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>series 9</h3>
+            <p>Futurama</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">9</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/6jNQtbazLLAu5gLzW46FP8EGePb.png" />
+                    <div class="genre">Animation</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>series 10</h3>
+            <p>Has Fallen</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/6RCM8JwIMLcryFGMedoVbF3wBOM.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">10</div>
+                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/kynicYYpxhAj1PvmFSfhOySNOVz.png" />
+                    <div class="genre">Action &amp; Adventure</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>edge case</h3>
+            <p>MobLand &mdash; no HDPoster (fallback)</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/vW6oPZEdqxZyQIYimouqA5b78mT.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">3</div>
+                    <img class="fallback logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/a9YLMuK3MoQr1Au5SJPVp4dMn3o.png" />
+                    <div class="genre">Crime</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card landscape">
+            <h3>edge case</h3>
+            <p>Reacher &mdash; no HDPoster (fallback)</p>
+            <div class="landscape-frame">
+                <div class="landscape-poster">
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg" />
+                    <div class="overlay"></div>
+                    <div class="rank">8</div>
+                    <img class="fallback logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/2YkCVT6opPxKh2ogEqxVrCiFgsr.png" />
+                    <div class="genre">Action &amp; Adventure</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="gradualBlur.js"></script>
+    <script>
+
+        const DARK_LOGO_BRIGHTNESS_THRESHOLD = 100;
+
+        const BOTTOM_BLUR = { position: "bottom", height: "38%", strength: 2.5, divCount: 6, curve: "bezier" };
+
+        // For a dark logo, removes its drop-shadow and shortens the dark
+        // .overlay gradient (the full-size versions boost contrast for a
+        // light logo, but darkening more of the image would fight a dark
+        // one).
+        function applyDarkLogoAdjustments(container) {
+
+            const imgs = Array.from(container.querySelectorAll(".logo"));
+
+            function run() {
+
+                const img = imgs.find(
+                    (el) =>
+                        el.complete &&
+                        el.naturalWidth > 0 &&
+                        getComputedStyle(el).display !== "none"
+                );
+
+                if (!img) {
+                    return;
+                }
+
+                const canvas = document.createElement("canvas");
+                canvas.width = img.naturalWidth;
+                canvas.height = img.naturalHeight;
+
+                const ctx = canvas.getContext("2d");
+                ctx.drawImage(img, 0, 0);
+
+                let data;
+
+                try {
+                    data = ctx.getImageData(0, 0, canvas.width, canvas.height).data;
+                } catch (err) {
+                    return;
+                }
+
+                let total = 0;
+                let count = 0;
+
+                for (let i = 0; i < data.length; i += 4) {
+
+                    const alpha = data[i + 3];
+
+                    if (alpha === 0) {
+                        continue;
+                    }
+
+                    total += (data[i] * 299 + data[i + 1] * 587 + data[i + 2] * 114) / 1000;
+                    count++;
+
+                }
+
+                if (count === 0 || total / count >= DARK_LOGO_BRIGHTNESS_THRESHOLD) {
+                    return;
+                }
+
+                img.classList.add("logo-dark");
+
+                const overlay = container.querySelector(".overlay");
+
+                if (overlay) {
+                    overlay.classList.add("overlay-compact");
+                }
+
+            }
+
+            const pending = imgs.filter((el) => !el.complete);
+
+            if (pending.length === 0) {
+                run();
+                return;
+            }
+
+            let remaining = pending.length;
+
+            pending.forEach((img) => {
+                img.addEventListener("load", () => {
+                    remaining--;
+                    if (remaining === 0) {
+                        run();
+                    }
+                });
+            });
+
+        }
+
+        document.querySelectorAll(".poster").forEach((poster) => {
+
+            const background = poster.querySelector(".background");
+
+            background.insertAdjacentHTML(
+                "afterend",
+                GradualBlur.renderGradualBlur(BOTTOM_BLUR)
+            );
+
+            applyDarkLogoAdjustments(poster);
+
+        });
+
+        document.querySelectorAll(".landscape-poster").forEach((poster) => {
+
+            applyDarkLogoAdjustments(poster);
+
+        });
+
+    </script>
+
+</body>
 </html>

@@ -1,6 +1,15 @@
 const fs = require("fs");
 const puppeteer = require("puppeteer");
+const { renderGradualBlur } = require("./gradualBlur");
 const css = fs.readFileSync("posterStyle.css", "utf8");
+
+const bottomGradualBlur = renderGradualBlur({
+    position: "bottom",
+    height: "38%",
+    strength: 2.5,
+    divCount: 6,
+    curve: "bezier"
+});
 
 const catalogs = [
     "catalog/movie/movieCatalog.json",
@@ -11,9 +20,12 @@ const catalogs = [
 
 const DARK_LOGO_BRIGHTNESS_THRESHOLD = 100;
 
-async function removeShadowIfLogoIsDark(page) {
+// For a dark logo, removes its drop-shadow and shortens the dark .overlay
+// gradient (the full-size versions boost contrast for a light logo, but
+// darkening more of the image would fight a dark one).
+async function applyDarkLogoAdjustments(page) {
 
-    const isDark = await page.evaluate((threshold) => {
+    await page.evaluate((threshold) => {
 
         const img = Array.from(document.querySelectorAll(".logo")).find(
             (el) =>
@@ -23,7 +35,7 @@ async function removeShadowIfLogoIsDark(page) {
         );
 
         if (!img) {
-            return false;
+            return;
         }
 
         const canvas = document.createElement("canvas");
@@ -38,7 +50,7 @@ async function removeShadowIfLogoIsDark(page) {
         try {
             data = ctx.getImageData(0, 0, canvas.width, canvas.height).data;
         } catch (err) {
-            return false;
+            return;
         }
 
         let total = 0;
@@ -61,32 +73,19 @@ async function removeShadowIfLogoIsDark(page) {
 
         }
 
-        if (count === 0) {
-            return false;
+        if (count === 0 || total / count >= threshold) {
+            return;
         }
 
-        return (total / count) < threshold;
+        img.classList.add("logo-dark");
+
+        const overlay = document.querySelector(".overlay");
+
+        if (overlay) {
+            overlay.classList.add("overlay-compact");
+        }
 
     }, DARK_LOGO_BRIGHTNESS_THRESHOLD);
-
-    if (isDark) {
-
-        await page.evaluate(() => {
-
-            const img = Array.from(document.querySelectorAll(".logo")).find(
-                (el) =>
-                    el.complete &&
-                    el.naturalWidth > 0 &&
-                    getComputedStyle(el).display !== "none"
-            );
-
-            if (img) {
-                img.classList.add("logo-dark");
-            }
-
-        });
-
-    }
 
 }
 
@@ -131,6 +130,8 @@ async function generatePoster(item, browser) {
             />
 
 
+
+            ${bottomGradualBlur}
 
             <div class="overlay"></div>
 
@@ -208,7 +209,7 @@ async function generatePoster(item, browser) {
 
     if (item.logo) {
 
-        await removeShadowIfLogoIsDark(page);
+        await applyDarkLogoAdjustments(page);
 
     }
 

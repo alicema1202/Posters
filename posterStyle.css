@@ -32,7 +32,44 @@ html, body {
 }
 
 
-/* Dark overlays */
+/* =========================
+   GRADUAL BLUR
+   (stacked, progressively
+   blurred backdrop behind the
+   bottom text/logo, ported
+   from the React Bits
+   <GradualBlur /> component)
+========================= */
+
+.gradual-blur {
+    position: absolute;
+    pointer-events: none;
+    isolation: isolate;
+}
+
+.gradual-blur-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.gradual-blur-layer {
+    position: absolute;
+    inset: 0;
+}
+
+
+/* =========================
+   DARK OVERLAY
+   (full-size gradient for
+   light logos / no logo; a
+   shorter gradient via
+   .overlay-compact for dark
+   logos, so a dark-colored
+   logo still gets some
+   contrast without as much
+   of the image darkened)
+========================= */
 
 .overlay {
     position: absolute;
@@ -47,6 +84,20 @@ html, body {
             to bottom right,
             rgba(0,0,0,0.8),
             rgba(0,0,0,0) 40%
+        );
+}
+
+.overlay.overlay-compact {
+    background:
+        linear-gradient(
+            to top,
+            rgba(0,0,0,0.9),
+            rgba(0,0,0,0) 20%
+        ),
+        linear-gradient(
+            to bottom right,
+            rgba(0,0,0,0.8),
+            rgba(0,0,0,0) 20%
         );
 }
 
@@ -148,6 +199,8 @@ html, body {
     font-weight: 600;
 
     letter-spacing: 0.5px;
+
+    text-shadow: 0 2px 8px black;
 }
 
 
@@ -195,17 +248,20 @@ html, body {
     height: 100%;
 
     background:
-        /* linear-gradient(
-            to top right,
-            rgba(0,0,0,0.5),
-            rgba(0,0,0,0) 35%
-        ), */
         linear-gradient(
             to bottom right,
             rgba(0,0,0,0.5),
             rgba(0,0,0,0) 40%
         );
-    /* box-shadow: inset 20px -20px 100px 20px rgba(0,0,0,0.9); */
+}
+
+.landscape-poster .overlay.overlay-compact {
+    background:
+        linear-gradient(
+            to bottom right,
+            rgba(0,0,0,0.5),
+            rgba(0,0,0,0) 20%
+        );
 }
 
 
