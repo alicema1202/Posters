@@ -1,102 +1,25 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-09-22T06:31:06.412Z",
+  "updated": "2026-09-23T01:23:43.288Z",
   "metas": [
-    {
-      "id": "tt26545992",
-      "type": "series",
-      "name": "Lanterns",
-      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "releaseInfo": "2026-",
-      "rank": 1,
-      "imdbRating": 7.8,
-      "imdbId": "tt26545992",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1790058657913",
-      "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1790058657913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg"
-    },
     {
       "id": "tmdb:299939",
       "type": "series",
       "name": "Monster: The Lizzie Borden Story",
       "description": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
       "releaseInfo": "2026",
-      "rank": 2,
+      "rank": 1,
       "imdbRating": null,
       "imdbId": null,
       "genres": [
         "Drama",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1790058657913",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1790126603279",
       "HDPoster": "https://image.tmdb.org/t/p/original/1V4qYjjNNhldd3fQLUuTnzXRPmJ.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1790058657913",
+      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1790126603279",
       "backdropPoster": "https://image.tmdb.org/t/p/original/7bNEsXjfjid5nhM0Wf4Z7kX0u9R.jpg"
-    },
-    {
-      "id": "tt13111078",
-      "type": "series",
-      "name": "Lioness",
-      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "releaseInfo": "2023-",
-      "rank": 3,
-      "imdbRating": 7.8,
-      "imdbId": "tt13111078",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1790058657913",
-      "HDPoster": "https://image.tmdb.org/t/p/original/d06gcQz1YmdWcapC40ARBAoGF2p.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1790058657913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg"
-    },
-    {
-      "id": "tt31510819",
-      "type": "series",
-      "name": "MobLand",
-      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "releaseInfo": "2025-",
-      "rank": 4,
-      "imdbRating": 8.3,
-      "imdbId": "tt31510819",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1790058657913",
-      "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1790058657913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg"
-    },
-    {
-      "id": "tt9288030",
-      "type": "series",
-      "name": "Reacher",
-      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "releaseInfo": "2022-",
-      "rank": 5,
-      "imdbRating": 8,
-      "imdbId": "tt9288030",
-      "genres": [
-        "Action & Adventure",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1790058657913",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1790058657913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qKGQXrrxZCNWPi1hJl3ohAQOdGh.jpg"
     },
     {
       "id": "tt33539520",
@@ -104,7 +27,7 @@
       "name": "Neagley",
       "description": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
       "releaseInfo": "2026-",
-      "rank": 6,
+      "rank": 2,
       "imdbRating": 7.8,
       "imdbId": "tt33539520",
       "genres": [
@@ -112,11 +35,107 @@
         "Mystery",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1790058657913",
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1790126603279",
       "HDPoster": "https://image.tmdb.org/t/p/original/2P1z1SwTCc6c6ZzshkftJtPXK0X.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1790058657913",
+      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1790126603279",
       "backdropPoster": "https://image.tmdb.org/t/p/original/5n8yuHdiObGIhZypMDwawQCW0s1.jpg"
+    },
+    {
+      "id": "tt26545992",
+      "type": "series",
+      "name": "Lanterns",
+      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "releaseInfo": "2026-",
+      "rank": 3,
+      "imdbRating": 7.8,
+      "imdbId": "tt26545992",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1790126603279",
+      "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1790126603279",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg"
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "releaseInfo": "2022-",
+      "rank": 4,
+      "imdbRating": 8,
+      "imdbId": "tt9288030",
+      "genres": [
+        "Action & Adventure",
+        "Crime"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1790126603279",
+      "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1790126603279",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/qKGQXrrxZCNWPi1hJl3ohAQOdGh.jpg"
+    },
+    {
+      "id": "tt13111078",
+      "type": "series",
+      "name": "Lioness",
+      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "releaseInfo": "2023-",
+      "rank": 5,
+      "imdbRating": 7.8,
+      "imdbId": "tt13111078",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1790126603279",
+      "HDPoster": "https://image.tmdb.org/t/p/original/d06gcQz1YmdWcapC40ARBAoGF2p.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1790126603279",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg"
+    },
+    {
+      "id": "tt35949226",
+      "type": "series",
+      "name": "Youth",
+      "description": "A 50-year-old divorcee searches for sex and love whilst juggling caring for her ailing parents and parenting her should-be grown up son.",
+      "releaseInfo": "2026-",
+      "rank": 6,
+      "imdbRating": 7.8,
+      "imdbId": "tt35949226",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1790126603279",
+      "HDPoster": "https://image.tmdb.org/t/p/original/p7JB64Lc7bI2c0g6jCgtxnJsJXD.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zKaTNcWmP2dxYnxmOAVhBvSqNy9.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1790126603279",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/u1qPUGUJFs34MjrtBlQkX9kyOcn.jpg"
+    },
+    {
+      "id": "tt31510819",
+      "type": "series",
+      "name": "MobLand",
+      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "releaseInfo": "2025-",
+      "rank": 7,
+      "imdbRating": 8.3,
+      "imdbId": "tt31510819",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1790126603279",
+      "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1790126603279",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg"
     },
     {
       "id": "tt30051064",
@@ -124,36 +143,18 @@
       "name": "American Hostage",
       "description": "A psychological thriller anthology series focusing on a different hostage case every season.",
       "releaseInfo": "2026-",
-      "rank": 7,
+      "rank": 8,
       "imdbRating": 6.9,
       "imdbId": "tt30051064",
       "genres": [
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1790058657913",
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1790126603279",
       "HDPoster": "https://image.tmdb.org/t/p/original/izUp7ooQj5z4kwCYNQd3cOp1LpX.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/kVXkBIJw4eW9KC8VZvYvoS6Qg0j.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1790058657913",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cJX6cFqJsX4cWe3DeZBJzg7w4rH.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1790126603279",
       "backdropPoster": "https://image.tmdb.org/t/p/original/5CJrEIGiwh8RQkTR4tSjjE4oW2u.jpg"
-    },
-    {
-      "id": "tt36347588",
-      "type": "series",
-      "name": "The Scandal",
-      "description": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "imdbRating": 6.2,
-      "imdbId": "tt36347588",
-      "genres": [
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1790058657913",
-      "HDPoster": "https://image.tmdb.org/t/p/original/av8T87Tdd1lN74FBTmCYyVGxFIe.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1790058657913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/siDYj3xQgkPKA6y1TEFwDhac1gI.jpg"
     },
     {
       "id": "tt0149460",
@@ -169,30 +170,29 @@
         "Comedy",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1790058657913",
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1790126603279",
       "HDPoster": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1790058657913",
+      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1790126603279",
       "backdropPoster": "https://image.tmdb.org/t/p/original/jYuP1J52HzbyeSdPj3Ix0BnKVxy.jpg"
     },
     {
-      "id": "tt0121955",
+      "id": "tt36347588",
       "type": "series",
-      "name": "South Park",
-      "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-      "releaseInfo": "1997-",
+      "name": "The Scandal",
+      "description": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+      "releaseInfo": "2026",
       "rank": 10,
-      "imdbRating": 8.7,
-      "imdbId": "tt0121955",
+      "imdbRating": 6.2,
+      "imdbId": "tt36347588",
       "genres": [
-        "Animation",
-        "Comedy"
+        "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1790058657913",
-      "HDPoster": "https://image.tmdb.org/t/p/original/8BzcYcoi0i8JKWFvDYtjFUYx1cR.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1790058657913",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/fqoPlnpwRBbTWDNFgGQvp9AsBOQ.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1790126603279",
+      "HDPoster": "https://image.tmdb.org/t/p/original/av8T87Tdd1lN74FBTmCYyVGxFIe.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1790126603279",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/siDYj3xQgkPKA6y1TEFwDhac1gI.jpg"
     }
   ]
 }
