@@ -10,13 +10,38 @@ const catalogs = [
 
 
 const DARK_LOGO_BRIGHTNESS_THRESHOLD = 100;
+const LOW_CONTRAST_THRESHOLD = 30;
 
 // For a dark logo, removes its drop-shadow and shortens the dark .overlay
 // gradient (the full-size versions boost contrast for a light logo, but
-// darkening more of the image would fight a dark one).
+// darkening more of the image would fight a dark one) — unless the logo
+// barely contrasts the backdrop directly behind it, in which case the
+// shadow/overlay stay since the logo has no other way to stand out.
 async function applyDarkLogoAdjustments(page) {
 
-    await page.evaluate((threshold) => {
+    await page.evaluate((darkThreshold, contrastThreshold) => {
+
+        function averageBrightness(data) {
+
+            let total = 0;
+            let count = 0;
+
+            for (let i = 0; i < data.length; i += 4) {
+
+                const alpha = data[i + 3];
+
+                if (alpha === 0) {
+                    continue;
+                }
+
+                total += (data[i] * 299 + data[i + 1] * 587 + data[i + 2] * 114) / 1000;
+                count++;
+
+            }
+
+            return count > 0 ? total / count : null;
+
+        }
 
         const img = Array.from(document.querySelectorAll(".logo")).find(
             (el) =>
@@ -29,42 +54,68 @@ async function applyDarkLogoAdjustments(page) {
             return;
         }
 
-        const canvas = document.createElement("canvas");
-        canvas.width = img.naturalWidth;
-        canvas.height = img.naturalHeight;
+        const logoCanvas = document.createElement("canvas");
+        logoCanvas.width = img.naturalWidth;
+        logoCanvas.height = img.naturalHeight;
 
-        const ctx = canvas.getContext("2d");
-        ctx.drawImage(img, 0, 0);
+        const logoCtx = logoCanvas.getContext("2d");
+        logoCtx.drawImage(img, 0, 0);
 
-        let data;
+        let logoBrightness;
 
         try {
-            data = ctx.getImageData(0, 0, canvas.width, canvas.height).data;
+            logoBrightness = averageBrightness(
+                logoCtx.getImageData(0, 0, logoCanvas.width, logoCanvas.height).data
+            );
         } catch (err) {
             return;
         }
 
-        let total = 0;
-        let count = 0;
+        if (logoBrightness === null || logoBrightness >= darkThreshold) {
+            return;
+        }
 
-        for (let i = 0; i < data.length; i += 4) {
+        const background = document.querySelector(".background");
 
-            const alpha = data[i + 3];
+        let backdropBrightness = null;
 
-            if (alpha === 0) {
-                continue;
+        if (background) {
+
+            const bgRect = background.getBoundingClientRect();
+            const logoRect = img.getBoundingClientRect();
+
+            const bgCanvas = document.createElement("canvas");
+            bgCanvas.width = Math.max(1, Math.round(bgRect.width));
+            bgCanvas.height = Math.max(1, Math.round(bgRect.height));
+
+            const bgCtx = bgCanvas.getContext("2d");
+
+            try {
+
+                bgCtx.drawImage(background, 0, 0, bgCanvas.width, bgCanvas.height);
+
+                const sx = Math.max(0, Math.round(logoRect.left - bgRect.left));
+                const sy = Math.max(0, Math.round(logoRect.top - bgRect.top));
+                const sw = Math.min(bgCanvas.width - sx, Math.round(logoRect.width));
+                const sh = Math.min(bgCanvas.height - sy, Math.round(logoRect.height));
+
+                if (sw > 0 && sh > 0) {
+                    backdropBrightness = averageBrightness(
+                        bgCtx.getImageData(sx, sy, sw, sh).data
+                    );
+                }
+
+            } catch (err) {
+                backdropBrightness = null;
             }
-
-            const r = data[i];
-            const g = data[i + 1];
-            const b = data[i + 2];
-
-            total += (r * 299 + g * 587 + b * 114) / 1000;
-            count++;
 
         }
 
-        if (count === 0 || total / count >= threshold) {
+        const hasContrast =
+            backdropBrightness === null ||
+            Math.abs(logoBrightness - backdropBrightness) >= contrastThreshold;
+
+        if (!hasContrast) {
             return;
         }
 
@@ -76,7 +127,7 @@ async function applyDarkLogoAdjustments(page) {
             overlay.classList.add("overlay-compact");
         }
 
-    }, DARK_LOGO_BRIGHTNESS_THRESHOLD);
+    }, DARK_LOGO_BRIGHTNESS_THRESHOLD, LOW_CONTRAST_THRESHOLD);
 
 }
 
@@ -116,6 +167,7 @@ async function generatePoster(item, browser) {
 
             <img
                 class="background"
+                crossorigin="anonymous"
                 src="${item.HDPoster || item.background}"
             />
 

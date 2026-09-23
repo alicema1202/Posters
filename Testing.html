@@ -258,12 +258,12 @@
         </div>
 
         <div class="card">
-            <h3>series 4</h3>
-            <p>Monster: The Lizzie Borden Story</p>
+            <h3>series 2 &mdash; low-contrast test</h3>
+            <p>Monster: The Lizzie Borden Story (dark logo on dark backdrop &mdash; shadow/overlay stay)</p>
             <div class="poster">
                 <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/7bNEsXjfjid5nhM0Wf4Z7kX0u9R.jpg" />
                 <div class="overlay"></div>
-                <div class="rank">4</div>
+                <div class="rank">2</div>
                 <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/ieyQiTGojX0osFVhDsg7D5L1ET2.svg" />
                 <div class="genre">Drama</div>
             </div>
@@ -541,14 +541,14 @@
         </div>
 
         <div class="card landscape">
-            <h3>series 4</h3>
-            <p>Monster: The Lizzie Borden Story</p>
+            <h3>series 2 &mdash; low-contrast test</h3>
+            <p>Monster: The Lizzie Borden Story, fallback (dark logo on dark backdrop &mdash; shadow/overlay stay)</p>
             <div class="landscape-frame">
                 <div class="landscape-poster">
-                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/1V4qYjjNNhldd3fQLUuTnzXRPmJ.jpg" />
+                    <img class="background" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg" />
                     <div class="overlay"></div>
-                    <div class="rank">4</div>
-                    <img class="logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/ieyQiTGojX0osFVhDsg7D5L1ET2.svg" />
+                    <div class="rank">2</div>
+                    <img class="fallback logo" crossorigin="anonymous" src="https://image.tmdb.org/t/p/original/ieyQiTGojX0osFVhDsg7D5L1ET2.svg" />
                     <div class="genre">Drama</div>
                 </div>
             </div>
@@ -672,16 +672,43 @@
     <script>
 
         const DARK_LOGO_BRIGHTNESS_THRESHOLD = 100;
+        const LOW_CONTRAST_THRESHOLD = 30;
 
         const BOTTOM_BLUR = { position: "bottom", height: "38%", strength: 2.5, divCount: 6, curve: "bezier" };
+
+        function averageBrightness(data) {
+
+            let total = 0;
+            let count = 0;
+
+            for (let i = 0; i < data.length; i += 4) {
+
+                const alpha = data[i + 3];
+
+                if (alpha === 0) {
+                    continue;
+                }
+
+                total += (data[i] * 299 + data[i + 1] * 587 + data[i + 2] * 114) / 1000;
+                count++;
+
+            }
+
+            return count > 0 ? total / count : null;
+
+        }
 
         // For a dark logo, removes its drop-shadow and shortens the dark
         // .overlay gradient (the full-size versions boost contrast for a
         // light logo, but darkening more of the image would fight a dark
-        // one).
+        // one) — unless the logo barely contrasts the backdrop directly
+        // behind it, in which case the shadow/overlay stay since the logo
+        // has no other way to stand out.
         function applyDarkLogoAdjustments(container) {
 
             const imgs = Array.from(container.querySelectorAll(".logo"));
+            const background = container.querySelector(".background");
+            const watched = background ? imgs.concat(background) : imgs;
 
             function run() {
 
@@ -696,38 +723,66 @@
                     return;
                 }
 
-                const canvas = document.createElement("canvas");
-                canvas.width = img.naturalWidth;
-                canvas.height = img.naturalHeight;
+                const logoCanvas = document.createElement("canvas");
+                logoCanvas.width = img.naturalWidth;
+                logoCanvas.height = img.naturalHeight;
 
-                const ctx = canvas.getContext("2d");
-                ctx.drawImage(img, 0, 0);
+                const logoCtx = logoCanvas.getContext("2d");
+                logoCtx.drawImage(img, 0, 0);
 
-                let data;
+                let logoBrightness;
 
                 try {
-                    data = ctx.getImageData(0, 0, canvas.width, canvas.height).data;
+                    logoBrightness = averageBrightness(
+                        logoCtx.getImageData(0, 0, logoCanvas.width, logoCanvas.height).data
+                    );
                 } catch (err) {
                     return;
                 }
 
-                let total = 0;
-                let count = 0;
+                if (logoBrightness === null || logoBrightness >= DARK_LOGO_BRIGHTNESS_THRESHOLD) {
+                    return;
+                }
 
-                for (let i = 0; i < data.length; i += 4) {
+                let backdropBrightness = null;
 
-                    const alpha = data[i + 3];
+                if (background && background.complete && background.naturalWidth > 0) {
 
-                    if (alpha === 0) {
-                        continue;
+                    const bgRect = background.getBoundingClientRect();
+                    const logoRect = img.getBoundingClientRect();
+
+                    const bgCanvas = document.createElement("canvas");
+                    bgCanvas.width = Math.max(1, Math.round(bgRect.width));
+                    bgCanvas.height = Math.max(1, Math.round(bgRect.height));
+
+                    const bgCtx = bgCanvas.getContext("2d");
+
+                    try {
+
+                        bgCtx.drawImage(background, 0, 0, bgCanvas.width, bgCanvas.height);
+
+                        const sx = Math.max(0, Math.round(logoRect.left - bgRect.left));
+                        const sy = Math.max(0, Math.round(logoRect.top - bgRect.top));
+                        const sw = Math.min(bgCanvas.width - sx, Math.round(logoRect.width));
+                        const sh = Math.min(bgCanvas.height - sy, Math.round(logoRect.height));
+
+                        if (sw > 0 && sh > 0) {
+                            backdropBrightness = averageBrightness(
+                                bgCtx.getImageData(sx, sy, sw, sh).data
+                            );
+                        }
+
+                    } catch (err) {
+                        backdropBrightness = null;
                     }
-
-                    total += (data[i] * 299 + data[i + 1] * 587 + data[i + 2] * 114) / 1000;
-                    count++;
 
                 }
 
-                if (count === 0 || total / count >= DARK_LOGO_BRIGHTNESS_THRESHOLD) {
+                const hasContrast =
+                    backdropBrightness === null ||
+                    Math.abs(logoBrightness - backdropBrightness) >= LOW_CONTRAST_THRESHOLD;
+
+                if (!hasContrast) {
                     return;
                 }
 
@@ -741,7 +796,7 @@
 
             }
 
-            const pending = imgs.filter((el) => !el.complete);
+            const pending = watched.filter((el) => !el.complete);
 
             if (pending.length === 0) {
                 run();
@@ -750,8 +805,14 @@
 
             let remaining = pending.length;
 
-            pending.forEach((img) => {
-                img.addEventListener("load", () => {
+            pending.forEach((el) => {
+                el.addEventListener("load", () => {
+                    remaining--;
+                    if (remaining === 0) {
+                        run();
+                    }
+                });
+                el.addEventListener("error", () => {
                     remaining--;
                     if (remaining === 0) {
                         run();
