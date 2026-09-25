@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-09-24T01:48:21.693Z",
+  "updated": "2026-09-25T02:05:12.912Z",
   "metas": [
     {
       "id": "tt6773088",
@@ -14,30 +14,31 @@
       "genres": [
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1790214483775",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1790301890311",
       "HDPoster": "https://image.tmdb.org/t/p/original/2bqg3ehBAV8xrq6qmiFCyGYjp4G.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1790214483775",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/sapz1NirksJH5GvRqPnWuNI3O4a.jpg"
+      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1790301890311",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/hL4Wk1sIVmzjQQWQZIiW9dVzjPm.jpg"
     },
     {
-      "id": "tmdb:299939",
+      "id": "tt1844624",
       "type": "series",
-      "name": "Monster: The Lizzie Borden Story",
-      "description": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-      "releaseInfo": "2026",
+      "name": "American Horror Story",
+      "description": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+      "releaseInfo": "2011-",
       "rank": 2,
-      "imdbRating": null,
-      "imdbId": null,
+      "imdbRating": 7.9,
+      "imdbId": "tt1844624",
       "genres": [
         "Drama",
-        "Crime"
+        "Mystery",
+        "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1790214483775",
-      "HDPoster": "https://image.tmdb.org/t/p/original/1V4qYjjNNhldd3fQLUuTnzXRPmJ.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1790214483775",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7bNEsXjfjid5nhM0Wf4Z7kX0u9R.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1790301890311",
+      "HDPoster": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1790301890311",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/4TyphP5WLOz3KICHY1XJDMgJw45.jpg"
     },
     {
       "id": "tt26545992",
@@ -53,50 +54,87 @@
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1790214483775",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1790301890311",
       "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1790214483775",
+      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1790301890311",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg"
     },
     {
-      "id": "tt33298903",
+      "id": "tmdb:299939",
       "type": "series",
-      "name": "Made in Korea",
-      "description": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
-      "releaseInfo": "2025-",
+      "name": "Monster: The Lizzie Borden Story",
+      "description": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+      "releaseInfo": "2026",
       "rank": 4,
-      "imdbRating": 7.2,
-      "imdbId": "tt33298903",
+      "imdbRating": null,
+      "imdbId": null,
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1790301890311",
+      "HDPoster": "https://image.tmdb.org/t/p/original/1V4qYjjNNhldd3fQLUuTnzXRPmJ.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1790301890311",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7bNEsXjfjid5nhM0Wf4Z7kX0u9R.jpg"
+    },
+    {
+      "id": "tt31510819",
+      "type": "series",
+      "name": "MobLand",
+      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "releaseInfo": "2025-",
+      "rank": 5,
+      "imdbRating": 8.3,
+      "imdbId": "tt31510819",
       "genres": [
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1790214483775",
-      "HDPoster": "https://image.tmdb.org/t/p/original/3S7EDGQeOF9xV2sT8iygpA0JlA8.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1790214483775",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/zmEl8it47YgwPHe0BD1gep5EGdG.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1790301890311",
+      "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1790301890311",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg"
     },
     {
-      "id": "tt5875444",
+      "id": "tt12327578",
       "type": "series",
-      "name": "Slow Horses",
-      "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "name": "Star Trek: Strange New Worlds",
+      "description": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
       "releaseInfo": "2022-",
-      "rank": 5,
-      "imdbRating": 8.3,
-      "imdbId": "tt5875444",
+      "rank": 6,
+      "imdbRating": 8.2,
+      "imdbId": "tt12327578",
       "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1790214483775",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6VWcSPawl9pSCNJC8G3KNeryVCz.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1790214483775",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/w5r3VW8KRCB7ZfmRIaDaMb1ggPK.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1790301890311",
+      "HDPoster": "https://image.tmdb.org/t/p/original/aLnnZkZXkOSIxeBKzVH1z0lxT86.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1790301890311",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/vMFxmogUUe5lhhzNnS59o51C77i.jpg"
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "releaseInfo": "2022-",
+      "rank": 7,
+      "imdbRating": 8,
+      "imdbId": "tt9288030",
+      "genres": [
+        "Action & Adventure",
+        "Crime"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1790301890311",
+      "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1790301890311",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/qKGQXrrxZCNWPi1hJl3ohAQOdGh.jpg"
     },
     {
       "id": "tt10986410",
@@ -104,17 +142,17 @@
       "name": "Ted Lasso",
       "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
       "releaseInfo": "2020-",
-      "rank": 6,
+      "rank": 8,
       "imdbRating": 8.7,
       "imdbId": "tt10986410",
       "genres": [
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1790214483775",
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1790301890311",
       "HDPoster": "https://image.tmdb.org/t/p/original/xyXtW9Dgg7SPvrOufXtgkv2ipb9.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1790214483775",
+      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1790301890311",
       "backdropPoster": "https://image.tmdb.org/t/p/original/bzrc7m045cIBHoDhMojgTcea8Kd.jpg"
     },
     {
@@ -123,76 +161,37 @@
       "name": "Lioness",
       "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "releaseInfo": "2023-",
-      "rank": 7,
+      "rank": 9,
       "imdbRating": 7.8,
       "imdbId": "tt13111078",
       "genres": [
         "Drama",
         "War & Politics"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1790214483775",
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1790301890311",
       "HDPoster": "https://image.tmdb.org/t/p/original/d06gcQz1YmdWcapC40ARBAoGF2p.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1790214483775",
+      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1790301890311",
       "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg"
     },
     {
-      "id": "tt28765828",
+      "id": "tt39369819",
       "type": "series",
-      "name": "Minerva Academy",
-      "description": "At Minerva Military High School, teens navigate discipline, rivalry and family pressure as a young cadet searches for answers about his missing friend.",
+      "name": "Habeas Corpus",
+      "description": "A renowned law professor and a team of students attempt to prove the innocence of a convicted man, but the brightest student is secretly connected to his past.",
       "releaseInfo": "2026-",
-      "rank": 8,
+      "rank": 10,
       "imdbRating": null,
-      "imdbId": "tt28765828",
+      "imdbId": "tt39369819",
       "genres": [
         "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1790214483775",
-      "HDPoster": null,
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1790214483775",
-      "backdropPoster": null
-    },
-    {
-      "id": "tt33539520",
-      "type": "series",
-      "name": "Neagley",
-      "description": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
-      "releaseInfo": "2026-",
-      "rank": 9,
-      "imdbRating": 7.8,
-      "imdbId": "tt33539520",
-      "genres": [
-        "Drama",
-        "Mystery",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1790214483775",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2P1z1SwTCc6c6ZzshkftJtPXK0X.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1790214483775",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/5n8yuHdiObGIhZypMDwawQCW0s1.jpg"
-    },
-    {
-      "id": "tt31510819",
-      "type": "series",
-      "name": "MobLand",
-      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "releaseInfo": "2025-",
-      "rank": 10,
-      "imdbRating": 8.3,
-      "imdbId": "tt31510819",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1790214483775",
-      "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1790214483775",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1790301890311",
+      "HDPoster": null,
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cojcROwZe8681XzroVIOE9VK4zV.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1790301890311",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/t9vqo9aUWnJfEqsAY6H2bZ90G6T.jpg"
     }
   ]
 }
