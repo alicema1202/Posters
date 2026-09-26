@@ -1,34 +1,14 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-09-25T02:05:12.912Z",
+  "updated": "2026-09-26T02:10:41.377Z",
   "metas": [
-    {
-      "id": "tt6773088",
-      "type": "series",
-      "name": "Brothers",
-      "description": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
-      "releaseInfo": "2026-",
-      "rank": 1,
-      "imdbRating": null,
-      "imdbId": "tt6773088",
-      "genres": [
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1790301890311",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2bqg3ehBAV8xrq6qmiFCyGYjp4G.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
-      "background": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/hL4Wk1sIVmzjQQWQZIiW9dVzjPm.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/34yURPkrtNaP3NYQJDI2SZOVXud.png",
-      "posterShape": "portrait"
-    },
     {
       "id": "tt1844624",
       "type": "series",
       "name": "American Horror Story",
       "description": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
       "releaseInfo": "2011-",
-      "rank": 2,
+      "rank": 1,
       "imdbRating": 7.9,
       "imdbId": "tt1844624",
       "genres": [
@@ -36,7 +16,7 @@
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1790301890311",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1790388619080",
       "HDPoster": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
       "background": "https://image.tmdb.org/t/p/original/6TSJRc77dDOesKzcNqkz0KeXdLz.jpg",
@@ -45,62 +25,19 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt26545992",
-      "type": "series",
-      "name": "Lanterns",
-      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "releaseInfo": "2026-",
-      "rank": 3,
-      "imdbRating": 7.8,
-      "imdbId": "tt26545992",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1790301890311",
-      "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "background": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/kANHXGvFKW13UEkZbYwl9nIJeEl.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tmdb:299939",
-      "type": "series",
-      "name": "Monster: The Lizzie Borden Story",
-      "description": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-      "releaseInfo": "2026",
-      "rank": 4,
-      "imdbRating": null,
-      "imdbId": null,
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1790301890311",
-      "HDPoster": "https://image.tmdb.org/t/p/original/1V4qYjjNNhldd3fQLUuTnzXRPmJ.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-      "background": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7bNEsXjfjid5nhM0Wf4Z7kX0u9R.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/ieyQiTGojX0osFVhDsg7D5L1ET2.svg",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt31510819",
       "type": "series",
       "name": "MobLand",
       "description": "Two mob families clash in a war that threatens to topple empires and lives.",
       "releaseInfo": "2025-",
-      "rank": 5,
+      "rank": 2,
       "imdbRating": 8.3,
       "imdbId": "tt31510819",
       "genres": [
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1790301890311",
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1790388619080",
       "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "background": "https://image.tmdb.org/t/p/original/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
@@ -109,108 +46,174 @@
       "posterShape": "portrait"
     },
     {
+      "id": "tt27497393",
+      "type": "series",
+      "name": "Stuart Fails to Save the Universe",
+      "description": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "releaseInfo": "2026-",
+      "rank": 3,
+      "imdbRating": 7.1,
+      "imdbId": "tt27497393",
+      "genres": [
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1790388619080",
+      "HDPoster": "https://image.tmdb.org/t/p/original/aYBOc5UgZ50fjr4spTiqDqAn6yb.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bOhpVQ6BLoKoS5ygtDZayuscP88.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/bLnszAIKG4YC6KBgS17aczxryDU.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt26545992",
+      "type": "series",
+      "name": "Lanterns",
+      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "releaseInfo": "2026-",
+      "rank": 4,
+      "imdbRating": 7.8,
+      "imdbId": "tt26545992",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1790388619080",
+      "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/kANHXGvFKW13UEkZbYwl9nIJeEl.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt33081352",
+      "type": "series",
+      "name": "A Different World",
+      "description": "Deborah Wayne enters her freshman year at her parents' HBCU alma mater and finds their shadow difficult to escape. She sets out to build her own legacy – while having the time of her life – alongside a whole new generation of Hillman’s best and brightest.",
+      "releaseInfo": "2026",
+      "rank": 5,
+      "imdbRating": null,
+      "imdbId": "tt33081352",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1790388619080",
+      "HDPoster": null,
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/dZLwSSWIvHPkJsSrIUAZ76HwdgE.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/btPU2DsXixzuZfvseRi1mYgcCPV.svg",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tmdb:299939",
+      "type": "series",
+      "name": "Monster: The Lizzie Borden Story",
+      "description": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+      "releaseInfo": "2026",
+      "rank": 6,
+      "imdbRating": null,
+      "imdbId": null,
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1790388619080",
+      "HDPoster": "https://image.tmdb.org/t/p/original/1V4qYjjNNhldd3fQLUuTnzXRPmJ.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7bNEsXjfjid5nhM0Wf4Z7kX0u9R.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/ieyQiTGojX0osFVhDsg7D5L1ET2.svg",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt39749747",
+      "type": "series",
+      "name": "Delusion",
+      "description": "When her father's worsening dementia makes him a prime suspect in a murder case, a small-town school teacher races to uncover the truth amid dark rumors.",
+      "releaseInfo": "2026",
+      "rank": 7,
+      "imdbRating": null,
+      "imdbId": "tt39749747",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1790388619080",
+      "HDPoster": null,
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cae4gjklRHnzQTmVCxpZnOdPw71.jpg",
+      "backdropPoster": null,
+      "logo": null,
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt5875444",
+      "type": "series",
+      "name": "Slow Horses",
+      "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "releaseInfo": "2022-",
+      "rank": 8,
+      "imdbRating": 8.4,
+      "imdbId": "tt5875444",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1790388619080",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6VWcSPawl9pSCNJC8G3KNeryVCz.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/w5r3VW8KRCB7ZfmRIaDaMb1ggPK.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/2zTYCYPEOck6BsFfjj7SDMBoCRJ.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt19231492",
+      "type": "series",
+      "name": "Dark Matter",
+      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+      "releaseInfo": "2024-",
+      "rank": 9,
+      "imdbRating": 7.6,
+      "imdbId": "tt19231492",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1790388619080",
+      "HDPoster": "https://image.tmdb.org/t/p/original/2UFwBzMvbGEVJReVlSbsZfdMo2r.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/sj81WpEIjvUQFCMWKXOcejFlFTQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/41oTdX0XzO8VskZTfiNIKijfRuq.png",
+      "posterShape": "portrait"
+    },
+    {
       "id": "tt12327578",
       "type": "series",
       "name": "Star Trek: Strange New Worlds",
       "description": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
       "releaseInfo": "2022-",
-      "rank": 6,
+      "rank": 10,
       "imdbRating": 8.2,
       "imdbId": "tt12327578",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1790301890311",
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1790388619080",
       "HDPoster": "https://image.tmdb.org/t/p/original/aLnnZkZXkOSIxeBKzVH1z0lxT86.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
       "background": "https://image.tmdb.org/t/p/original/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/vMFxmogUUe5lhhzNnS59o51C77i.jpg",
       "logo": "https://image.tmdb.org/t/p/original/oTwnbowXtY08Ck9XnmaYoG7V5tI.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt9288030",
-      "type": "series",
-      "name": "Reacher",
-      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "releaseInfo": "2022-",
-      "rank": 7,
-      "imdbRating": 8,
-      "imdbId": "tt9288030",
-      "genres": [
-        "Action & Adventure",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1790301890311",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "background": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qKGQXrrxZCNWPi1hJl3ohAQOdGh.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt10986410",
-      "type": "series",
-      "name": "Ted Lasso",
-      "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "releaseInfo": "2020-",
-      "rank": 8,
-      "imdbRating": 8.7,
-      "imdbId": "tt10986410",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1790301890311",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xyXtW9Dgg7SPvrOufXtgkv2ipb9.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "background": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bzrc7m045cIBHoDhMojgTcea8Kd.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/iNudegFbTBAGBB529k7wGVivqE4.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt13111078",
-      "type": "series",
-      "name": "Lioness",
-      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "releaseInfo": "2023-",
-      "rank": 9,
-      "imdbRating": 7.8,
-      "imdbId": "tt13111078",
-      "genres": [
-        "Drama",
-        "War & Politics"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1790301890311",
-      "HDPoster": "https://image.tmdb.org/t/p/original/d06gcQz1YmdWcapC40ARBAoGF2p.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "background": "https://image.tmdb.org/t/p/original/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt39369819",
-      "type": "series",
-      "name": "Habeas Corpus",
-      "description": "A renowned law professor and a team of students attempt to prove the innocence of a convicted man, but the brightest student is secretly connected to his past.",
-      "releaseInfo": "2026-",
-      "rank": 10,
-      "imdbRating": null,
-      "imdbId": "tt39369819",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1790301890311",
-      "HDPoster": null,
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-      "background": "https://image.tmdb.org/t/p/original/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/t9vqo9aUWnJfEqsAY6H2bZ90G6T.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/f60R5ThzUTBiozmRZgYYrHSwlRO.png",
       "posterShape": "portrait"
     }
   ]
