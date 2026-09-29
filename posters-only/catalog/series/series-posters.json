@@ -1,33 +1,14 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-09-28T02:08:11.999Z",
+  "updated": "2026-09-29T02:54:27.995Z",
   "metas": [
-    {
-      "id": "tt9288030",
-      "type": "series",
-      "name": "Reacher",
-      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "releaseInfo": "2022-",
-      "rank": 1,
-      "imdbRating": 8,
-      "imdbId": "tt9288030",
-      "genres": [
-        "Action & Adventure",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1790561282882",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1790561282882",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qKGQXrrxZCNWPi1hJl3ohAQOdGh.jpg"
-    },
     {
       "id": "tt26545992",
       "type": "series",
       "name": "Lanterns",
       "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "releaseInfo": "2026-",
-      "rank": 2,
+      "rank": 1,
       "imdbRating": 7.8,
       "imdbId": "tt26545992",
       "genres": [
@@ -35,11 +16,50 @@
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1790561282882",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1790650454248",
       "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1790561282882",
+      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1790650454248",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg"
+    },
+    {
+      "id": "tt0149460",
+      "type": "series",
+      "name": "Futurama",
+      "description": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "releaseInfo": "1999-2026",
+      "rank": 2,
+      "imdbRating": 8.5,
+      "imdbId": "tt0149460",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1790650454248",
+      "HDPoster": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7RRHbCUtAsVmKI6FEMzZB6Re88P.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1790650454248",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/jYuP1J52HzbyeSdPj3Ix0BnKVxy.jpg"
+    },
+    {
+      "id": "tt0096697",
+      "type": "series",
+      "name": "The Simpsons",
+      "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "releaseInfo": "1989-",
+      "rank": 3,
+      "imdbRating": 8.6,
+      "imdbId": "tt0096697",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1790650454248",
+      "HDPoster": "https://image.tmdb.org/t/p/original/vrDJZgnCDmexHBQKgbOgavQDGnk.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1790650454248",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/5NW6rUmsJSxtcdL3FgF6vq9Aanr.jpg"
     },
     {
       "id": "tt31510819",
@@ -47,57 +67,37 @@
       "name": "MobLand",
       "description": "Two mob families clash in a war that threatens to topple empires and lives.",
       "releaseInfo": "2025-",
-      "rank": 3,
+      "rank": 4,
       "imdbRating": 8.3,
       "imdbId": "tt31510819",
       "genres": [
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1790561282882",
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1790650454248",
       "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1790561282882",
+      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1790650454248",
       "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg"
     },
     {
-      "id": "tt1844624",
+      "id": "tt9288030",
       "type": "series",
-      "name": "American Horror Story",
-      "description": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-      "releaseInfo": "2011-",
-      "rank": 4,
-      "imdbRating": 7.9,
-      "imdbId": "tt1844624",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1790561282882",
-      "HDPoster": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1790561282882",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/4TyphP5WLOz3KICHY1XJDMgJw45.jpg"
-    },
-    {
-      "id": "tt36832679",
-      "type": "series",
-      "name": "The Final Problem",
-      "description": "In the spring of 1959, a retired actor, who previously played Sherlock Holmes, must investigate a murder at a small hotel on a tiny island near Mallorca.",
-      "releaseInfo": "2026",
+      "name": "Reacher",
+      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "releaseInfo": "2022-",
       "rank": 5,
-      "imdbRating": 6.4,
-      "imdbId": "tt36832679",
+      "imdbRating": 8,
+      "imdbId": "tt9288030",
       "genres": [
-        "Crime",
-        "Mystery"
+        "Action & Adventure",
+        "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1790561282882",
-      "HDPoster": "https://image.tmdb.org/t/p/original/bhSp2zfyEb7WBtSC6VQ8XmIVhyV.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1790561282882",
-      "backdropPoster": null
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1790650454248",
+      "HDPoster": "https://image.tmdb.org/t/p/original/xbp1pmJ8k6ldUHL8rJaceVSOWjk.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1790650454248",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/iys88owtqK1AK3X6EsJqh2Ualvs.jpg"
     },
     {
       "id": "tmdb:299939",
@@ -112,67 +112,50 @@
         "Drama",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1790561282882",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1790650454248",
       "HDPoster": "https://image.tmdb.org/t/p/original/1V4qYjjNNhldd3fQLUuTnzXRPmJ.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1790561282882",
+      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1790650454248",
       "backdropPoster": "https://image.tmdb.org/t/p/original/7bNEsXjfjid5nhM0Wf4Z7kX0u9R.jpg"
     },
     {
-      "id": "tt27497393",
+      "id": "tt1844624",
       "type": "series",
-      "name": "Stuart Fails to Save the Universe",
-      "description": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "releaseInfo": "2026-",
+      "name": "American Horror Story",
+      "description": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+      "releaseInfo": "2011-",
       "rank": 7,
-      "imdbRating": 7,
-      "imdbId": "tt27497393",
+      "imdbRating": 7.9,
+      "imdbId": "tt1844624",
       "genres": [
-        "Comedy",
+        "Drama",
+        "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1790561282882",
-      "HDPoster": "https://image.tmdb.org/t/p/original/aYBOc5UgZ50fjr4spTiqDqAn6yb.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1790561282882",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bOhpVQ6BLoKoS5ygtDZayuscP88.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1790650454248",
+      "HDPoster": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1790650454248",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/4TyphP5WLOz3KICHY1XJDMgJw45.jpg"
     },
     {
-      "id": "tt14688458",
+      "id": "tt36832679",
       "type": "series",
-      "name": "Silo",
-      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "releaseInfo": "2023-",
+      "name": "The Final Problem",
+      "description": "In the spring of 1959, a retired actor, who previously played Sherlock Holmes, must investigate a murder at a small hotel on a tiny island near Mallorca.",
+      "releaseInfo": "2026",
       "rank": 8,
-      "imdbRating": 8.1,
-      "imdbId": "tt14688458",
+      "imdbRating": 6.3,
+      "imdbId": "tt36832679",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "Crime",
+        "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1790561282882",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wgkzj7qsPr3s5zYj31tTn45BTPq.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1790561282882",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/zexU1Ljv4aHen9vNPD1ozritHdk.jpg"
-    },
-    {
-      "id": "tt6773088",
-      "type": "series",
-      "name": "Brothers",
-      "description": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
-      "releaseInfo": "2026-",
-      "rank": 9,
-      "imdbRating": 6.6,
-      "imdbId": "tt6773088",
-      "genres": [
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1790561282882",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2bqg3ehBAV8xrq6qmiFCyGYjp4G.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1790561282882",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/xDhTsvqhqmK59lIwugyXpBkQW8Q.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1790650454248",
+      "HDPoster": "https://image.tmdb.org/t/p/original/bhSp2zfyEb7WBtSC6VQ8XmIVhyV.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1790650454248",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/zFuOGRHYqzyI4X5yukEHVoOiqqm.jpg"
     },
     {
       "id": "tt13111078",
@@ -180,18 +163,37 @@
       "name": "Lioness",
       "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "releaseInfo": "2023-",
-      "rank": 10,
+      "rank": 9,
       "imdbRating": 7.8,
       "imdbId": "tt13111078",
       "genres": [
         "Drama",
         "War & Politics"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1790561282882",
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1790650454248",
       "HDPoster": "https://image.tmdb.org/t/p/original/d06gcQz1YmdWcapC40ARBAoGF2p.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1790561282882",
+      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1790650454248",
       "backdropPoster": "https://image.tmdb.org/t/p/original/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg"
+    },
+    {
+      "id": "tt37692332",
+      "type": "series",
+      "name": "President Curtis",
+      "description": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
+      "releaseInfo": "2026-",
+      "rank": 10,
+      "imdbRating": 7.2,
+      "imdbId": "tt37692332",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1790650454248",
+      "HDPoster": "https://image.tmdb.org/t/p/original/xBG5M8tflHMUEKbmO8T4M8RTT8q.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1790650454248",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/pbnopXJrJfhMhlLMhMQUaCeqGic.jpg"
     }
   ]
 }
