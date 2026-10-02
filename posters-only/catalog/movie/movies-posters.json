@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-10-01T02:38:57.127Z",
+  "updated": "2026-10-02T02:43:49.774Z",
   "metas": [
     {
       "id": "tt36983905",
@@ -15,11 +15,31 @@
       ],
       "imdbRating": 6.3,
       "imdbId": "tt36983905",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1790822327117",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1790909015731",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/9YKDy9xgIopB2qoFZcHYNkFeikh.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1790822327117",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1790909015731",
       "backdropPoster": "https://image.tmdb.org/t/p/original/ohrQUqO0eXDo7mC2wS8026IaAe2.jpg"
+    },
+    {
+      "id": "tt32654916",
+      "type": "movie",
+      "name": "Soulm8te",
+      "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+      "releaseInfo": "2026",
+      "rank": 2,
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdbRating": 5.8,
+      "imdbId": "tt32654916",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1790909015731",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/tZ6PAiaydcJvoz7NWMvqxM0HYR3.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1790909015731",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/8Y2nzFzMRyZiHW7uvhNyLN5sL9M.jpg"
     },
     {
       "id": "tt1756855",
@@ -27,7 +47,7 @@
       "name": "Coyote vs. Acme",
       "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
       "releaseInfo": "2026",
-      "rank": 2,
+      "rank": 3,
       "genres": [
         "Comedy",
         "Adventure",
@@ -35,50 +55,30 @@
       ],
       "imdbRating": 7.4,
       "imdbId": "tt1756855",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1790822327117",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1790909015731",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/oYWeCzV8gIjTE8U7ukmM6rK0ZDO.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1790822327117",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1790909015731",
       "backdropPoster": "https://image.tmdb.org/t/p/original/4uKCk1L5pVWxjwCxMsbfhxWesGd.jpg"
     },
     {
-      "id": "tt6933238",
+      "id": "tt43738050",
       "type": "movie",
-      "name": "UNABOMBER",
-      "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
-      "releaseInfo": "2026",
-      "rank": 3,
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Crime"
-      ],
-      "imdbRating": 6.2,
-      "imdbId": "tt6933238",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1790822327117",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/kLqPRuoLtyM6Y7DW6t0CqptIEIB.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1790822327117",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/wtLHb8uM8yhtmqS7ioEcYxHLhIL.jpg"
-    },
-    {
-      "id": "tt37287335",
-      "type": "movie",
-      "name": "Obsession",
-      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "name": "Crazy Rich, Incredibly Broke",
+      "description": "When the snobbish and wealthy AlThahabi family find out they're actually not as loaded as they think, they're forced to fake their affluence to survive.",
       "releaseInfo": "2026",
       "rank": 4,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Comedy",
+        "Drama"
       ],
-      "imdbRating": 7.8,
-      "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1790822327117",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1790822327117",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/tTX4xnZKoPJnNQT8vYYkNgRt6hr.jpg"
+      "imdbRating": null,
+      "imdbId": "tt43738050",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1790909015731",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zXrxCpD6UR96mk3umb93ub3RmSs.jpg",
+      "HDPoster": null,
+      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1790909015731",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/z57XzZtBykJv0MH4qb9mpiPeAnl.jpg"
     },
     {
       "id": "tt43750202",
@@ -93,51 +93,50 @@
       ],
       "imdbRating": null,
       "imdbId": "tt43750202",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1790822327117",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1790909015731",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1790822327117",
+      "HDPoster": null,
+      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1790909015731",
       "backdropPoster": null
     },
     {
-      "id": "tt36975519",
+      "id": "tt37287335",
       "type": "movie",
-      "name": "The Nice Ones",
-      "description": "When Kate joins her boyfriend’s friends at a remote countryside retreat, old wounds resurface as strange lights appear in the sky. As unease grows, members of the group begin to change—becoming unnervingly calm, kind, and “nice.” Dismissed as unstable, Kate struggles to convince the others something is wrong before the force behind it spreads.",
+      "name": "Obsession",
+      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "releaseInfo": "2026",
       "rank": 6,
       "genres": [
         "Horror",
-        "Science Fiction",
-        "Fantasy",
-        "Drama"
+        "Thriller"
       ],
-      "imdbRating": null,
-      "imdbId": "tt36975519",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1790822327117",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ktaGbNySsx0csWYRZJIGda27DL7.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xXI4piYkUQF006FdndPHSJJg60B.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1790822327117",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/i8qNQYULnnWLl74HFkzczAkh5yh.jpg"
+      "imdbRating": 7.8,
+      "imdbId": "tt37287335",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1790909015731",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1790909015731",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/tTX4xnZKoPJnNQT8vYYkNgRt6hr.jpg"
     },
     {
-      "id": "tt22526100",
+      "id": "tt6933238",
       "type": "movie",
-      "name": "The Love Hypothesis",
-      "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+      "name": "UNABOMBER",
+      "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
       "releaseInfo": "2026",
       "rank": 7,
       "genres": [
-        "Romance",
-        "Comedy"
+        "Thriller",
+        "Drama",
+        "Crime"
       ],
-      "imdbRating": 7,
-      "imdbId": "tt22526100",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1790822327117",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/mAkLUZlsASmNcLHPk81PDtvt0Uj.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1790822327117",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/tWMwkZ5eKAVPbluVMeJeOIul0h1.jpg"
+      "imdbRating": 6.2,
+      "imdbId": "tt6933238",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1790909015731",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/kLqPRuoLtyM6Y7DW6t0CqptIEIB.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1790909015731",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/wtLHb8uM8yhtmqS7ioEcYxHLhIL.jpg"
     },
     {
       "id": "tt29355505",
@@ -154,50 +153,52 @@
       ],
       "imdbRating": 7.3,
       "imdbId": "tt29355505",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1790822327117",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1790909015731",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/z5Z5rhqJGz6w5VuIpOzUk83K9We.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1790822327117",
+      "HDPoster": "https://image.tmdb.org/t/p/original/lRCpJxk94s6FdSlTstLk0rVoCDR.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1790909015731",
       "backdropPoster": "https://image.tmdb.org/t/p/original/4D5k1Cs9hA0REwXN6w5Lxxlhba5.jpg"
     },
     {
-      "id": "tt37853455",
+      "id": "tt29355505",
       "type": "movie",
-      "name": "One Night Only",
-      "description": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+      "name": "Toy Story 5",
+      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "releaseInfo": "2026",
       "rank": 9,
       "genres": [
-        "Romance",
-        "Comedy"
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure"
       ],
-      "imdbRating": 6,
-      "imdbId": "tt37853455",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1790822327117",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f1v8IcYcQggeq1N0unoMJMrzTd9.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/cQijkqnB0TbrNILztYwrTxlLq5h.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1790822327117",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/ijhuKfuYMmL4QfWvJE7MzO9TgiQ.jpg"
+      "imdbRating": 7.3,
+      "imdbId": "tt29355505",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1790909015731",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/lRCpJxk94s6FdSlTstLk0rVoCDR.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1790909015731",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/4D5k1Cs9hA0REwXN6w5Lxxlhba5.jpg"
     },
     {
-      "id": "tt31195136",
+      "id": "tt27165187",
       "type": "movie",
-      "name": "Normal",
-      "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+      "name": "The End of Oak Street",
+      "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
       "releaseInfo": "2026",
       "rank": 10,
       "genres": [
-        "Action",
-        "Crime",
+        "Science Fiction",
+        "Mystery",
         "Thriller"
       ],
-      "imdbRating": 6.3,
-      "imdbId": "tt31195136",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1790822327117",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/tZP3bbE9AHCsA2SlhtK922p7YeT.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1790822327117",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/s4eTcJ3eQfBfoUPjtisH3L9xuhX.jpg"
+      "imdbRating": 6.2,
+      "imdbId": "tt27165187",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1790909015731",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/3bq3Jy5cnE2FjngeRVvkJawquVf.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1790909015731",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/ffDlu6T4f3sxJqKzuzf0N5DFhBg.jpg"
     }
   ]
 }
