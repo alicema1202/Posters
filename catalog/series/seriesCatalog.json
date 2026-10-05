@@ -1,36 +1,14 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-10-04T03:00:37.631Z",
+  "updated": "2026-10-05T02:34:16.832Z",
   "metas": [
-    {
-      "id": "tt36064406",
-      "type": "series",
-      "name": "Coven Academy",
-      "description": "A coven protects their magic school from a dark fate.",
-      "releaseInfo": "2026-",
-      "rank": 1,
-      "imdbRating": 7.2,
-      "imdbId": "tt36064406",
-      "genres": [
-        "Mystery",
-        "Drama",
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1791082816053",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xtTKZLNYB5Til67KgWhF3NDMVdF.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
-      "background": "https://image.tmdb.org/t/p/original/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/siPSAe6Ug0AweTaIT4raXI2UlIP.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/7WZylCL6enVUsRPnJpYW0B1I7oJ.png",
-      "posterShape": "portrait"
-    },
     {
       "id": "tt26545992",
       "type": "series",
       "name": "Lanterns",
       "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
       "releaseInfo": "2026-",
-      "rank": 2,
+      "rank": 1,
       "imdbRating": 7.8,
       "imdbId": "tt26545992",
       "genres": [
@@ -38,7 +16,7 @@
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1791082816053",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1791167648168",
       "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "background": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
@@ -47,22 +25,64 @@
       "posterShape": "portrait"
     },
     {
+      "id": "tt21097264",
+      "type": "series",
+      "name": "East of Eden",
+      "description": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+      "releaseInfo": "2026",
+      "rank": 2,
+      "imdbRating": 7.8,
+      "imdbId": "tt21097264",
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1791167648168",
+      "HDPoster": "https://image.tmdb.org/t/p/original/to2IL3VSlkjWAp44LpqULPSmXfn.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+      "background": "https://image.tmdb.org/t/p/original/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/vqFCGyVGDgLUrSeJd4xMHr3p1uv.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/jd9EWL7f9Mefmj4c3YGEPqVx4r7.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt36064406",
+      "type": "series",
+      "name": "Coven Academy",
+      "description": "A coven protects their magic school from a dark fate.",
+      "releaseInfo": "2026-",
+      "rank": 3,
+      "imdbRating": 6.5,
+      "imdbId": "tt36064406",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1791167648168",
+      "HDPoster": "https://image.tmdb.org/t/p/original/xtTKZLNYB5Til67KgWhF3NDMVdF.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/siPSAe6Ug0AweTaIT4raXI2UlIP.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/7WZylCL6enVUsRPnJpYW0B1I7oJ.png",
+      "posterShape": "portrait"
+    },
+    {
       "id": "tt35726020",
       "type": "series",
       "name": "Kill Jackie",
       "description": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.",
       "releaseInfo": "2026-",
-      "rank": 3,
-      "imdbRating": null,
+      "rank": 4,
+      "imdbRating": 6.3,
       "imdbId": "tt35726020",
       "genres": [
         "Drama",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1791082816053",
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1791167648168",
       "HDPoster": "https://image.tmdb.org/t/p/original/2VOcRepadY50B7mr3Vn8OOviRA3.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
-      "background": "https://image.tmdb.org/t/p/original/4OJPcAAFAC9TvV75c9hjZVFgbjQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/twc2YYBXTjdv52TShVumB1voT3Q.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/8sywz78UngtZL5lHD5YjdngksII.jpg",
       "logo": "https://image.tmdb.org/t/p/original/mcxfMCC7V4xq1fEVyHV4wGe2quY.png",
       "posterShape": "portrait"
@@ -73,14 +93,14 @@
       "name": "MobLand",
       "description": "Two mob families clash in a war that threatens to topple empires and lives.",
       "releaseInfo": "2025-",
-      "rank": 4,
+      "rank": 5,
       "imdbRating": 8.3,
       "imdbId": "tt31510819",
       "genres": [
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1791082816053",
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1791167648168",
       "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
@@ -89,85 +109,24 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt21097264",
+      "id": "tt0121955",
       "type": "series",
-      "name": "East of Eden",
-      "description": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
-      "releaseInfo": "2026",
-      "rank": 5,
-      "imdbRating": 7.7,
-      "imdbId": "tt21097264",
-      "genres": [
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1791082816053",
-      "HDPoster": "https://image.tmdb.org/t/p/original/to2IL3VSlkjWAp44LpqULPSmXfn.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
-      "background": "https://image.tmdb.org/t/p/original/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/vqFCGyVGDgLUrSeJd4xMHr3p1uv.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/jd9EWL7f9Mefmj4c3YGEPqVx4r7.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt31841438",
-      "type": "series",
-      "name": "I Would Rather Die",
-      "description": "The protagonist Archie, considered the school loser, is bitten by a zombie and finds himself at the center of a mission to save the city alongside his friends Cris and Brenda.",
-      "releaseInfo": "2026-",
+      "name": "South Park",
+      "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+      "releaseInfo": "1997-",
       "rank": 6,
-      "imdbRating": null,
-      "imdbId": "tt31841438",
+      "imdbRating": 8.7,
+      "imdbId": "tt0121955",
       "genres": [
-        "Action & Adventure",
-        "Comedy"
+        "Comedy",
+        "Animation"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1791082816053",
-      "HDPoster": "https://image.tmdb.org/t/p/original/y66hyKHDyBE3vIFUNFWYBPEvGya.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wCFvuoNaL4nk7HCFiH7uEm2CDEp.jpg",
-      "background": "https://image.tmdb.org/t/p/original/x91V52Ew4WFoYOryVuFMNuFPZDC.jpg",
-      "backdropPoster": null,
-      "logo": "https://image.tmdb.org/t/p/original/92f71ElE3HIJFrIDoCGYI5RGshD.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt37972251",
-      "type": "series",
-      "name": "WAR",
-      "description": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
-      "releaseInfo": "2026-",
-      "rank": 7,
-      "imdbRating": 6.7,
-      "imdbId": "tt37972251",
-      "genres": [
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1791082816053",
-      "HDPoster": "https://image.tmdb.org/t/p/original/oulQCeDaIuOrBsEDmYY4aE4diHA.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
-      "background": "https://image.tmdb.org/t/p/original/2hdcWhcyuHllCEjIxz8VDBzC0Fs.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/1hAjwBMCy1URGheWM9ESeKLxS49.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/w80ohpg5izwi0wCBW6060CH7zwP.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt20883126",
-      "type": "series",
-      "name": "Red Queen",
-      "description": "A gifted woman's intellect brings chance to lead covert European police force. But it backfires, costing her everything. Following murder at her home and kidnapped heiress, her ex-supervisor enlists a policeman's aid to reinstate her.",
-      "releaseInfo": "2024-2026",
-      "rank": 8,
-      "imdbRating": 6.8,
-      "imdbId": "tt20883126",
-      "genres": [
-        "Action & Adventure",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1791082816053",
-      "HDPoster": null,
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lk7LVXYSOO5rReR2jzLo8Le3cO1.jpg",
-      "background": "https://image.tmdb.org/t/p/original/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/kVqfOnKS2AxiNyFFBYo6Jmw58mv.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/ouSt5M4ATczzwVFGeWMvx5pi7w2.png",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1791167648168",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/fqoPlnpwRBbTWDNFgGQvp9AsBOQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/13yS7ws7ZxiMWZZCHnby7qBgbeV.png",
       "posterShape": "portrait"
     }
   ]
