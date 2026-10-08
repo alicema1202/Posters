@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-10-07T02:52:32.543Z",
+  "updated": "2026-10-08T03:09:55.346Z",
   "metas": [
     {
       "id": "tt22084616",
@@ -16,33 +16,12 @@
       ],
       "imdbRating": 8,
       "imdbId": "tt22084616",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1791341530171",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1791428985726",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
-      "background": "https://image.tmdb.org/t/p/original/eSvYccJm5ejJXFtJTqM2dIqrhK7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/yxOxOBxspl3NgC676W62G02g1cR.jpg",
       "logo": "https://image.tmdb.org/t/p/original/vbZcDHC5IFylYuRnp3eyOs5rTV1.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt32393988",
-      "type": "movie",
-      "name": "Insidious: Out of the Further",
-      "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-      "releaseInfo": "2026",
-      "rank": 2,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "imdbRating": 6.2,
-      "imdbId": "tt32393988",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1791341530171",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/prGSGD56ihQCaexXldXYpeESBeM.jpg",
-      "background": "https://image.tmdb.org/t/p/original/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qr5JarRxOtr6lURPjQWApT5HCAZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/f65DhAYFi98FsRi4RWHTKkFtChu.png",
       "posterShape": "landscape"
     },
     {
@@ -51,18 +30,39 @@
       "name": "Fall 2: Deadpoint",
       "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
       "releaseInfo": "2026",
-      "rank": 3,
+      "rank": 2,
       "genres": [
         "Thriller"
       ],
       "imdbRating": 5.6,
       "imdbId": "tt31192372",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1791341530171",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1791428985726",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/zwHsEcRcazZCxTWs9Glwo9qWZ0F.jpg",
       "background": "https://image.tmdb.org/t/p/original/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/au44HwfaYPJAdRZP4zlM32xbJVO.jpg",
       "logo": "https://image.tmdb.org/t/p/original/zoJEVzPC6DLHQ5KzoyDQ5357B2z.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt32393988",
+      "type": "movie",
+      "name": "Insidious: Out of the Further",
+      "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
+      "releaseInfo": "2026",
+      "rank": 3,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdbRating": 6.2,
+      "imdbId": "tt32393988",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1791428985726",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/prGSGD56ihQCaexXldXYpeESBeM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/qr5JarRxOtr6lURPjQWApT5HCAZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/f65DhAYFi98FsRi4RWHTKkFtChu.png",
       "posterShape": "landscape"
     },
     {
@@ -79,12 +79,33 @@
       ],
       "imdbRating": 6.1,
       "imdbId": "tt32268691",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1791341530171",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1791428985726",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/qg5U3trH8yEk94Iee9pFFxy8VzK.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/vUhfSneHq6CPUAGIGfOuhjvqvcq.jpg",
       "background": "https://image.tmdb.org/t/p/original/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/ocgaezde7dALuhObRiHpu4FOQ6S.jpg",
       "logo": "https://image.tmdb.org/t/p/original/bDjcbJZL2JpBuyab36UZzpEMTGO.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt39384300",
+      "type": "movie",
+      "name": "Less of a Stranger",
+      "description": "A film inspired by the life of Polish rock legend Jan Borysewicz. A story of music, rebellion, and freedom in a world where dreams often collide with a grim reality.",
+      "releaseInfo": "2026",
+      "rank": 5,
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "imdbRating": 6.2,
+      "imdbId": "tt39384300",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1791428985726",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
+      "HDPoster": null,
+      "background": "https://image.tmdb.org/t/p/original/xn42TCarooeOxY1yrfOknEmMvAu.jpg",
+      "backdropPoster": null,
+      "logo": null,
       "posterShape": "landscape"
     },
     {
@@ -93,14 +114,14 @@
       "name": "Obsession",
       "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "releaseInfo": "2026",
-      "rank": 5,
+      "rank": 6,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "imdbRating": 7.8,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1791341530171",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1791428985726",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
       "background": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
@@ -114,7 +135,7 @@
       "name": "The Uprising",
       "description": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
       "releaseInfo": "2026",
-      "rank": 6,
+      "rank": 7,
       "genres": [
         "History",
         "Drama",
@@ -122,7 +143,7 @@
       ],
       "imdbRating": 6.2,
       "imdbId": "tt36983905",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1791341530171",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1791428985726",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/9YKDy9xgIopB2qoFZcHYNkFeikh.jpg",
       "background": "https://image.tmdb.org/t/p/original/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
@@ -131,55 +152,12 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt36429458",
-      "type": "movie",
-      "name": "Doing Life",
-      "description": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
-      "releaseInfo": "2026",
-      "rank": 7,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "imdbRating": 6.4,
-      "imdbId": "tt36429458",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1791341530171",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/jhlA7tXeynux7WktY4XGOiYNwCK.jpg",
-      "background": "https://image.tmdb.org/t/p/original/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/uewjxJEzhznBELG5tfuuQA1YSHO.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/zMSLBsrkEnP2BbNSd2725MCaXvJ.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt1756855",
-      "type": "movie",
-      "name": "Coyote vs. Acme",
-      "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "genres": [
-        "Comedy",
-        "Adventure",
-        "Family"
-      ],
-      "imdbRating": 7.4,
-      "imdbId": "tt1756855",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1791341530171",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/oYWeCzV8gIjTE8U7ukmM6rK0ZDO.jpg",
-      "background": "https://image.tmdb.org/t/p/original/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/4uKCk1L5pVWxjwCxMsbfhxWesGd.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/3m1raTve2RWZ0jfnUwHSnRtjVK3.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt27419466",
       "type": "movie",
       "name": "Moana",
       "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "releaseInfo": "2026",
-      "rank": 9,
+      "rank": 8,
       "genres": [
         "Family",
         "Fantasy",
@@ -188,7 +166,7 @@
       ],
       "imdbRating": 5.8,
       "imdbId": "tt27419466",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1791341530171",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1791428985726",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/bmzkFxTZGHW4BlKL6kLm7TDyW4f.jpg",
       "background": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
@@ -197,25 +175,47 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt6933238",
+      "id": "tt12446086",
       "type": "movie",
-      "name": "UNABOMBER",
-      "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+      "name": "Legend of the White Dragon",
+      "description": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
+      "releaseInfo": "2026",
+      "rank": 9,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "imdbRating": 4.2,
+      "imdbId": "tt12446086",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1791428985726",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yygzww0GACtCMmwhtPG1P01qSx5.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/dWmn2AS5MIeu8QoLB5donbXzHw4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/hkFk3hddSAagP3HUUCaykbuOSQ0.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/lpz2s32fiYwe9OVv5BmdjSC8BTF.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt29355505",
+      "type": "movie",
+      "name": "Toy Story 5",
+      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "releaseInfo": "2026",
       "rank": 10,
       "genres": [
-        "Thriller",
-        "Drama",
-        "Crime"
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure"
       ],
-      "imdbRating": 6.2,
-      "imdbId": "tt6933238",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1791341530171",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/kLqPRuoLtyM6Y7DW6t0CqptIEIB.jpg",
-      "background": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/wtLHb8uM8yhtmqS7ioEcYxHLhIL.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/uzfKF1RAAbKEgQXaSl0x14zAfIN.png",
+      "imdbRating": 7.3,
+      "imdbId": "tt29355505",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1791428985726",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/lRCpJxk94s6FdSlTstLk0rVoCDR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/4D5k1Cs9hA0REwXN6w5Lxxlhba5.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
       "posterShape": "landscape"
     }
   ]
