@@ -1,14 +1,57 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-10-09T03:16:19.224Z",
+  "updated": "2026-10-10T02:55:55.835Z",
   "metas": [
+    {
+      "id": "tt28498219",
+      "type": "movie",
+      "name": "Matchbox the Movie",
+      "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+      "releaseInfo": "2026",
+      "rank": 1,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Adventure"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt28498219",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1791600931711",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bZ3C0B0O7lMrR1AgQFcybyGtl2u.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/m68Dkn7fNnhgsvV9VhzxfLFbQMe.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt31049299",
+      "type": "movie",
+      "name": "Animals",
+      "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+      "releaseInfo": "2026",
+      "rank": 2,
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt31049299",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1791600931711",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/2lx5WGVJ6cl5wMwdgjxezpPAk7m.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5yzM78Tp8nYwSCQtyRcmnHmCn5C.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/3gcQY1OPX3N1CiW12ntoOGLJ93m.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/dl6aDoFDDjTgNMI4Cui2GmKZUpR.png",
+      "posterShape": "portrait"
+    },
     {
       "id": "tt22084616",
       "type": "movie",
       "name": "Spider-Man: Brand New Day",
       "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "releaseInfo": "2026",
-      "rank": 1,
+      "rank": 3,
       "genres": [
         "Science Fiction",
         "Action",
@@ -16,32 +59,12 @@
       ],
       "imdbRating": 8,
       "imdbId": "tt22084616",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1791515760671",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1791600931711",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
-      "background": "https://image.tmdb.org/t/p/original/yHMJbIEBHnKYWh20XtxV16emwXT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/yxOxOBxspl3NgC676W62G02g1cR.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/7v4gNdci83BcQpuwUMEFMwaAMVz.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt31192372",
-      "type": "movie",
-      "name": "Fall 2: Deadpoint",
-      "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-      "releaseInfo": "2026",
-      "rank": 2,
-      "genres": [
-        "Thriller"
-      ],
-      "imdbRating": 5.6,
-      "imdbId": "tt31192372",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1791515760671",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/zwHsEcRcazZCxTWs9Glwo9qWZ0F.jpg",
-      "background": "https://image.tmdb.org/t/p/original/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/au44HwfaYPJAdRZP4zlM32xbJVO.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/opPdGuLDf5QAlStEXozX9iQr6zG.png",
+      "logo": "https://image.tmdb.org/t/p/original/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
       "posterShape": "portrait"
     },
     {
@@ -50,14 +73,14 @@
       "name": "Insidious: Out of the Further",
       "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
       "releaseInfo": "2026",
-      "rank": 3,
+      "rank": 4,
       "genres": [
         "Horror",
         "Thriller"
       ],
-      "imdbRating": 6.2,
+      "imdbRating": 6.1,
       "imdbId": "tt32393988",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1791515760671",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1791600931711",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/prGSGD56ihQCaexXldXYpeESBeM.jpg",
       "background": "https://image.tmdb.org/t/p/original/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
@@ -66,20 +89,83 @@
       "posterShape": "portrait"
     },
     {
+      "id": "tt31192372",
+      "type": "movie",
+      "name": "Fall 2: Deadpoint",
+      "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+      "releaseInfo": "2026",
+      "rank": 5,
+      "genres": [
+        "Thriller"
+      ],
+      "imdbRating": 5.5,
+      "imdbId": "tt31192372",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1791600931711",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/JzTmH0s7caaS20YyBQd3XFlHHp.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/au44HwfaYPJAdRZP4zlM32xbJVO.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/opPdGuLDf5QAlStEXozX9iQr6zG.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt43739386",
+      "type": "movie",
+      "name": "V/H/S/Mixtape",
+      "description": "V/H/S/MIXTAPE cranks the volume on horror with a blood-soaked collection of cursed music videos, terrifying performances, and found footage. Press play. Pray it stops.",
+      "releaseInfo": "2026",
+      "rank": 6,
+      "genres": [
+        "Horror",
+        "Music",
+        "Thriller"
+      ],
+      "imdbRating": 7.3,
+      "imdbId": "tt43739386",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1791600931711",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+      "HDPoster": null,
+      "background": "https://image.tmdb.org/t/p/original/mpB4pgtUcc7rCLxvlknzCbAQQEE.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/iaLzV46j3GvmJrG7O84Ml1ApCTO.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/sk5s70Fsd5vxGw6FwnMZs5tTJZt.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt33214716",
+      "type": "movie",
+      "name": "The Florist",
+      "description": "A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witnesses to police corruption.",
+      "releaseInfo": "2026",
+      "rank": 7,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdbRating": 6.1,
+      "imdbId": "tt33214716",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1791600931711",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/1etZaDkyHpaRz2cTvH2evgQm19J.jpg",
+      "HDPoster": null,
+      "background": "https://image.tmdb.org/t/p/original/rzxBvCix5Ebl3KYPIXpD8hy64uE.jpg",
+      "backdropPoster": null,
+      "logo": "https://image.tmdb.org/t/p/original/ty0J2C5MhKhSPUvRJp4qYpYpAZf.png",
+      "posterShape": "portrait"
+    },
+    {
       "id": "tt32268691",
       "type": "movie",
       "name": "Onslaught",
       "description": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
       "releaseInfo": "2026",
-      "rank": 4,
+      "rank": 8,
       "genres": [
         "Action",
         "Horror",
         "Thriller"
       ],
-      "imdbRating": 6.1,
+      "imdbRating": 5.8,
       "imdbId": "tt32268691",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1791515760671",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1791600931711",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/vUhfSneHq6CPUAGIGfOuhjvqvcq.jpg",
       "background": "https://image.tmdb.org/t/p/original/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
@@ -88,85 +174,19 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt28498219",
-      "type": "movie",
-      "name": "Matchbox the Movie",
-      "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-      "releaseInfo": "2026",
-      "rank": 5,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Adventure"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt28498219",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1791515760671",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
-      "background": "https://image.tmdb.org/t/p/original/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/AmWDiPcpoHLleHt5QOOYa05camk.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/8BtSxR3zu20GqXwGloGgdKtXWhZ.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt27419466",
-      "type": "movie",
-      "name": "Moana",
-      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "releaseInfo": "2026",
-      "rank": 6,
-      "genres": [
-        "Family",
-        "Fantasy",
-        "Comedy",
-        "Adventure"
-      ],
-      "imdbRating": 5.8,
-      "imdbId": "tt27419466",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1791515760671",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/bmzkFxTZGHW4BlKL6kLm7TDyW4f.jpg",
-      "background": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/4pYIal4WsO5hVrjffjGLr1Bf2QX.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/pRHIM8liJBYy1Z4wNgAizqCOuOU.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt39384300",
-      "type": "movie",
-      "name": "Less of a Stranger",
-      "description": "As the leader of Polish rock band Lady Pank, Jan Borysewicz shapes a generation with his music, while a string of family tragedies shapes him.",
-      "releaseInfo": "2026",
-      "rank": 7,
-      "genres": [
-        "Drama",
-        "Music"
-      ],
-      "imdbRating": 6.2,
-      "imdbId": "tt39384300",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1791515760671",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
-      "HDPoster": null,
-      "background": "https://image.tmdb.org/t/p/original/xn42TCarooeOxY1yrfOknEmMvAu.jpg",
-      "backdropPoster": null,
-      "logo": "https://image.tmdb.org/t/p/original/tbqBkTuwiCkrhqgJEaA5Na7Q3Vj.png",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt37287335",
       "type": "movie",
       "name": "Obsession",
       "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "releaseInfo": "2026",
-      "rank": 8,
+      "rank": 9,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "imdbRating": 7.8,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1791515760671",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1791600931711",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
       "background": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
@@ -175,46 +195,26 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt36983905",
+      "id": "tt27419466",
       "type": "movie",
-      "name": "The Uprising",
-      "description": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "History",
-        "Drama",
-        "Action"
-      ],
-      "imdbRating": 6.2,
-      "imdbId": "tt36983905",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1791515760671",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9YKDy9xgIopB2qoFZcHYNkFeikh.jpg",
-      "background": "https://image.tmdb.org/t/p/original/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/ohrQUqO0eXDo7mC2wS8026IaAe2.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/drBOdj4htH0Chlno2Ctt6OxCGgJ.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt36429458",
-      "type": "movie",
-      "name": "Doing Life",
-      "description": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
+      "name": "Moana",
+      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "releaseInfo": "2026",
       "rank": 10,
       "genres": [
-        "Romance",
-        "Drama"
+        "Family",
+        "Fantasy",
+        "Comedy",
+        "Adventure"
       ],
-      "imdbRating": 6.4,
-      "imdbId": "tt36429458",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1791515760671",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/jhlA7tXeynux7WktY4XGOiYNwCK.jpg",
-      "background": "https://image.tmdb.org/t/p/original/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/uewjxJEzhznBELG5tfuuQA1YSHO.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/zMSLBsrkEnP2BbNSd2725MCaXvJ.png",
+      "imdbRating": 5.8,
+      "imdbId": "tt27419466",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1791600931711",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/bmzkFxTZGHW4BlKL6kLm7TDyW4f.jpg",
+      "background": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/4pYIal4WsO5hVrjffjGLr1Bf2QX.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/pRHIM8liJBYy1Z4wNgAizqCOuOU.png",
       "posterShape": "portrait"
     }
   ]
