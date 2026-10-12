@@ -1,45 +1,45 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-10-11T02:25:00.734Z",
+  "updated": "2026-10-12T02:49:23.658Z",
   "metas": [
-    {
-      "id": "tt28498219",
-      "type": "movie",
-      "name": "Matchbox the Movie",
-      "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-      "releaseInfo": "2026",
-      "rank": 1,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Adventure"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt28498219",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1791685492123",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1791685492123",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bZ3C0B0O7lMrR1AgQFcybyGtl2u.jpg"
-    },
     {
       "id": "tt31049299",
       "type": "movie",
       "name": "Animals",
       "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
       "releaseInfo": "2026",
-      "rank": 2,
+      "rank": 1,
       "genres": [
         "Thriller",
         "Drama"
       ],
-      "imdbRating": null,
+      "imdbRating": 5.7,
       "imdbId": "tt31049299",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1791685492123",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1791773352983",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2lx5WGVJ6cl5wMwdgjxezpPAk7m.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1791685492123",
+      "HDPoster": "https://image.tmdb.org/t/p/original/zah47IGR7eNJud8UQTTfVYNPIgW.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1791773352983",
       "backdropPoster": "https://image.tmdb.org/t/p/original/3gcQY1OPX3N1CiW12ntoOGLJ93m.jpg"
+    },
+    {
+      "id": "tt28498219",
+      "type": "movie",
+      "name": "Matchbox the Movie",
+      "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+      "releaseInfo": "2026",
+      "rank": 2,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Adventure"
+      ],
+      "imdbRating": 5.7,
+      "imdbId": "tt28498219",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1791773352983",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1791773352983",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bZ3C0B0O7lMrR1AgQFcybyGtl2u.jpg"
     },
     {
       "id": "tt22084616",
@@ -55,29 +55,11 @@
       ],
       "imdbRating": 8,
       "imdbId": "tt22084616",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1791685492123",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1791773352983",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1791685492123",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1791773352983",
       "backdropPoster": "https://image.tmdb.org/t/p/original/yxOxOBxspl3NgC676W62G02g1cR.jpg"
-    },
-    {
-      "id": "tt31192372",
-      "type": "movie",
-      "name": "Fall 2: Deadpoint",
-      "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-      "releaseInfo": "2026",
-      "rank": 4,
-      "genres": [
-        "Thriller"
-      ],
-      "imdbRating": 5.4,
-      "imdbId": "tt31192372",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1791685492123",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/JzTmH0s7caaS20YyBQd3XFlHHp.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1791685492123",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/au44HwfaYPJAdRZP4zlM32xbJVO.jpg"
     },
     {
       "id": "tt32393988",
@@ -85,18 +67,36 @@
       "name": "Insidious: Out of the Further",
       "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
       "releaseInfo": "2026",
-      "rank": 5,
+      "rank": 4,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "imdbRating": 6.1,
       "imdbId": "tt32393988",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1791685492123",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1791773352983",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/prGSGD56ihQCaexXldXYpeESBeM.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1791685492123",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1791773352983",
       "backdropPoster": "https://image.tmdb.org/t/p/original/oGFnKv1xZRVDXtAaEJDaaYgnhz.jpg"
+    },
+    {
+      "id": "tt31192372",
+      "type": "movie",
+      "name": "Fall 2: Deadpoint",
+      "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+      "releaseInfo": "2026",
+      "rank": 5,
+      "genres": [
+        "Thriller"
+      ],
+      "imdbRating": 5.4,
+      "imdbId": "tt31192372",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1791773352983",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/JzTmH0s7caaS20YyBQd3XFlHHp.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1791773352983",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/au44HwfaYPJAdRZP4zlM32xbJVO.jpg"
     },
     {
       "id": "tt33214716",
@@ -109,71 +109,13 @@
         "Action",
         "Thriller"
       ],
-      "imdbRating": 5.6,
+      "imdbRating": 4.8,
       "imdbId": "tt33214716",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1791685492123",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1791773352983",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/1etZaDkyHpaRz2cTvH2evgQm19J.jpg",
       "HDPoster": null,
-      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1791685492123",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1791773352983",
       "backdropPoster": "https://image.tmdb.org/t/p/original/bbm5JCLeAbq4SFchfKsOvCCR5VF.jpg"
-    },
-    {
-      "id": "tt47657999",
-      "type": "movie",
-      "name": "Reporting Live",
-      "description": "A young reporter and her reluctant cameraman chase a story, only to get entangled in an illegal sand-mining racket run by a ruthless syndicate.",
-      "releaseInfo": "2026",
-      "rank": 7,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt47657999",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1791685492123",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7Ncfrt43mLLFB8yWcWON8imHr0Q.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/tYYCsmVYr1bobqBl1FGer84SSHl.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1791685492123",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/dvfjjRf50ij2AEKxFoUhXJLKYeI.jpg"
-    },
-    {
-      "id": "tt43739386",
-      "type": "movie",
-      "name": "V/H/S/Mixtape",
-      "description": "V/H/S/MIXTAPE cranks the volume on horror with a blood-soaked collection of cursed music videos, terrifying performances, and found footage. Press play. Pray it stops.",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "genres": [
-        "Horror",
-        "Music",
-        "Thriller"
-      ],
-      "imdbRating": 5.3,
-      "imdbId": "tt43739386",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1791685492123",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
-      "HDPoster": null,
-      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1791685492123",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/iaLzV46j3GvmJrG7O84Ml1ApCTO.jpg"
-    },
-    {
-      "id": "tt37287335",
-      "type": "movie",
-      "name": "Obsession",
-      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "imdbRating": 7.8,
-      "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1791685492123",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1791685492123",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o5VincY0eEAq4GHHiKcWjSuNPCm.jpg"
     },
     {
       "id": "tt32268691",
@@ -181,19 +123,78 @@
       "name": "Onslaught",
       "description": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
       "releaseInfo": "2026",
-      "rank": 10,
+      "rank": 7,
       "genres": [
         "Action",
         "Horror",
         "Thriller"
       ],
-      "imdbRating": 5.7,
+      "imdbRating": 5.6,
       "imdbId": "tt32268691",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1791685492123",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1791773352983",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/vUhfSneHq6CPUAGIGfOuhjvqvcq.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1791685492123",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1791773352983",
       "backdropPoster": "https://image.tmdb.org/t/p/original/6oHjyQz1HWXiZwwJY9d1dqecvcl.jpg"
+    },
+    {
+      "id": "tt37287335",
+      "type": "movie",
+      "name": "Obsession",
+      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "releaseInfo": "2026",
+      "rank": 8,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdbRating": 7.8,
+      "imdbId": "tt37287335",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1791773352983",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1791773352983",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o5VincY0eEAq4GHHiKcWjSuNPCm.jpg"
+    },
+    {
+      "id": "tt36983905",
+      "type": "movie",
+      "name": "The Uprising",
+      "description": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
+      "releaseInfo": "2026",
+      "rank": 9,
+      "genres": [
+        "History",
+        "Drama",
+        "Action"
+      ],
+      "imdbRating": 6.2,
+      "imdbId": "tt36983905",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1791773352983",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9YKDy9xgIopB2qoFZcHYNkFeikh.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1791773352983",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/ohrQUqO0eXDo7mC2wS8026IaAe2.jpg"
+    },
+    {
+      "id": "tt43739386",
+      "type": "movie",
+      "name": "V/H/S/Mixtape",
+      "description": "V/H/S/MIXTAPE cranks the volume on horror with a blood-soaked collection of cursed music videos, terrifying performances, and found footage. Press play. Pray it stops.",
+      "releaseInfo": "2026",
+      "rank": 10,
+      "genres": [
+        "Horror",
+        "Music",
+        "Thriller"
+      ],
+      "imdbRating": 4.7,
+      "imdbId": "tt43739386",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1791773352983",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/ygXMnetWrCUiWUlmbDja0DmHt85.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1791773352983",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/iaLzV46j3GvmJrG7O84Ml1ApCTO.jpg"
     }
   ]
 }

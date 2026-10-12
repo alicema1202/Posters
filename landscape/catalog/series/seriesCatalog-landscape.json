@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-10-11T02:25:00.733Z",
+  "updated": "2026-10-12T02:49:23.658Z",
   "metas": [
     {
       "id": "tt14976292",
@@ -17,7 +17,7 @@
         "Mystery",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1791685492123",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1791773352983",
       "HDPoster": "https://image.tmdb.org/t/p/original/cEa77esuWGAgR1bygmk8ey1w4wZ.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/wo9jwu5qMvXzhW2cyy5E6hOVs92.jpg",
       "background": "https://image.tmdb.org/t/p/original/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
@@ -32,14 +32,14 @@
       "description": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
       "releaseInfo": "2026",
       "rank": 2,
-      "imdbRating": 7.8,
+      "imdbRating": 7.9,
       "imdbId": "tt11540908",
       "genres": [
         "Mystery",
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1791685492123",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1791773352983",
       "HDPoster": "https://image.tmdb.org/t/p/original/eS83I38AwNkZn1dETD63bgsukzP.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
       "background": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
@@ -48,47 +48,46 @@
       "posterShape": "landscape"
     },
     {
+      "id": "tt26545992",
+      "type": "series",
+      "name": "Lanterns",
+      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "releaseInfo": "2026-",
+      "rank": 3,
+      "imdbRating": 7.8,
+      "imdbId": "tt26545992",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1791773352983",
+      "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/kANHXGvFKW13UEkZbYwl9nIJeEl.png",
+      "posterShape": "landscape"
+    },
+    {
       "id": "tt35934755",
       "type": "series",
       "name": "Below",
       "description": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
       "releaseInfo": "2026",
-      "rank": 3,
-      "imdbRating": 6.5,
+      "rank": 4,
+      "imdbRating": 6.4,
       "imdbId": "tt35934755",
       "genres": [
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1791685492123",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1791773352983",
       "HDPoster": "https://image.tmdb.org/t/p/original/tJhDFLNrJsYG2WysMh2jAcfJjEq.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
       "background": "https://image.tmdb.org/t/p/original/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9TEkTV8EtruKx4N140YVHqeyU2r.jpg",
       "logo": "https://image.tmdb.org/t/p/original/A6vkCbJKDb7IeOrBuW1mKWzwxUr.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt35854736",
-      "type": "series",
-      "name": "Avatar: Seven Havens",
-      "description": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
-      "releaseInfo": "2026-",
-      "rank": 4,
-      "imdbRating": null,
-      "imdbId": "tt35854736",
-      "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Family"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1791685492123",
-      "HDPoster": "https://image.tmdb.org/t/p/original/3yf7MRPfL2Mt8AaBGv7SydUydKL.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
-      "background": "https://image.tmdb.org/t/p/original/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/faII8Xy4yIoQfHmntx95T918Seb.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/3t6Yes1JJxr4e9Sk6Wl6WpAuY5d.png",
       "posterShape": "landscape"
     },
     {
@@ -98,13 +97,13 @@
       "description": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
       "releaseInfo": "2026",
       "rank": 5,
-      "imdbRating": null,
+      "imdbRating": 7.7,
       "imdbId": "tt37737331",
       "genres": [
         "Sci-Fi & Fantasy",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1791685492123",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1791773352983",
       "HDPoster": "https://image.tmdb.org/t/p/original/6NAy0c79IPyT4AE4gzD7n4iZ3FR.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
       "background": "https://image.tmdb.org/t/p/original/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
@@ -113,25 +112,26 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt26545992",
+      "id": "tt35854736",
       "type": "series",
-      "name": "Lanterns",
-      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "name": "Avatar: Seven Havens",
+      "description": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
       "releaseInfo": "2026-",
       "rank": 6,
-      "imdbRating": 7.8,
-      "imdbId": "tt26545992",
+      "imdbRating": 8.4,
+      "imdbId": "tt35854736",
       "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi & Fantasy"
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Family"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1791685492123",
-      "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "background": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/kANHXGvFKW13UEkZbYwl9nIJeEl.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1791773352983",
+      "HDPoster": "https://image.tmdb.org/t/p/original/3yf7MRPfL2Mt8AaBGv7SydUydKL.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+      "background": "https://image.tmdb.org/t/p/original/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/FQ0io6KAPkmzVE4VGLhmdOMwTe.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/3t6Yes1JJxr4e9Sk6Wl6WpAuY5d.png",
       "posterShape": "landscape"
     },
     {
@@ -147,74 +147,12 @@
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1791685492123",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1791773352983",
       "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
       "logo": "https://image.tmdb.org/t/p/original/fh6N94BUPuLPN70WpbM0OEgOJbc.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt10986410",
-      "type": "series",
-      "name": "Ted Lasso",
-      "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "releaseInfo": "2020-",
-      "rank": 8,
-      "imdbRating": 8.7,
-      "imdbId": "tt10986410",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1791685492123",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xyXtW9Dgg7SPvrOufXtgkv2ipb9.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "background": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9uT4dT2k5lTd41kZEVmFCSIFQw7.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/iNudegFbTBAGBB529k7wGVivqE4.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt32499579",
-      "type": "series",
-      "name": "Haunted Hotel",
-      "description": "After inheriting a hotel from her late brother, a single mom moves in with his good-natured ghost — and high-maintenance guests who will never check out.",
-      "releaseInfo": "2025-",
-      "rank": 9,
-      "imdbRating": 7.7,
-      "imdbId": "tt32499579",
-      "genres": [
-        "Animation",
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1791685492123",
-      "HDPoster": "https://image.tmdb.org/t/p/original/aA3VZcKUs5TYEufNdyObVgL4ilQ.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/4arTlVw8oceZDOhGv9GFrgGztUq.jpg",
-      "background": "https://image.tmdb.org/t/p/original/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/c091I7VhNjxEznIl4wcUcvE6pa3.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/4XC9L1t7bobqSJMCqcan3LxA4nu.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt33270224",
-      "type": "series",
-      "name": "Cupertino",
-      "description": "A scrappy lawyer takes on a powerful tech giant in a high-stakes legal battle, navigating the cutthroat world of Silicon Valley while fighting for justice and the little guy's rights.",
-      "releaseInfo": "2026-",
-      "rank": 10,
-      "imdbRating": 6.9,
-      "imdbId": "tt33270224",
-      "genres": [
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1791685492123",
-      "HDPoster": "https://image.tmdb.org/t/p/original/18RAyaqaKudVbQL6L3qT97AHEQW.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/70AhJpOqU2oKyQF2paJA764CSje.jpg",
-      "background": "https://image.tmdb.org/t/p/original/f9BMWxAWzFqXtqayrAyNbDFg9cK.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/rv6dfhXIq5lLK4cQa8FHuUg2Ahh.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/rWpDBJIePBvmMD2GQk0BHRw8xgr.png",
       "posterShape": "landscape"
     }
   ]
