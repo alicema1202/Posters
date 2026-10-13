@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-10-12T02:49:23.657Z",
+  "updated": "2026-10-13T04:08:10.463Z",
   "metas": [
     {
       "id": "tt14976292",
@@ -17,7 +17,7 @@
         "Mystery",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1791773352983",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1791864337175",
       "HDPoster": "https://image.tmdb.org/t/p/original/cEa77esuWGAgR1bygmk8ey1w4wZ.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/wo9jwu5qMvXzhW2cyy5E6hOVs92.jpg",
       "background": "https://image.tmdb.org/t/p/original/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
@@ -39,34 +39,32 @@
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1791773352983",
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1791864337175",
       "HDPoster": "https://image.tmdb.org/t/p/original/eS83I38AwNkZn1dETD63bgsukzP.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
       "background": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/7CDmD9H4FRyTngJI717TrKIppb0.jpg",
       "logo": "https://image.tmdb.org/t/p/original/p7lOufvkG9Od7280KE91ca5TLW5.png",
       "posterShape": "portrait"
     },
     {
-      "id": "tt26545992",
+      "id": "tt40385667",
       "type": "series",
-      "name": "Lanterns",
-      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "name": "Treasure Island",
+      "description": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
       "releaseInfo": "2026-",
       "rank": 3,
-      "imdbRating": 7.8,
-      "imdbId": "tt26545992",
+      "imdbRating": null,
+      "imdbId": "tt40385667",
       "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi & Fantasy"
+        "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1791773352983",
-      "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "background": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/kANHXGvFKW13UEkZbYwl9nIJeEl.png",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1791864337175",
+      "HDPoster": "https://image.tmdb.org/t/p/original/i7wMD1lxUGONUhF75bzOSqfexYj.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/ApSudgGiF0pcf1hnCpmZ6lXZEq9.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/hL0kOXZMmv3VYAb5ldP2jMK5GWr.png",
       "posterShape": "portrait"
     },
     {
@@ -82,7 +80,7 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1791773352983",
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1791864337175",
       "HDPoster": "https://image.tmdb.org/t/p/original/tJhDFLNrJsYG2WysMh2jAcfJjEq.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
       "background": "https://image.tmdb.org/t/p/original/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
@@ -91,24 +89,110 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt37737331",
+      "id": "tt26545992",
       "type": "series",
-      "name": "Take Charge of My Heart",
-      "description": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
-      "releaseInfo": "2026",
+      "name": "Lanterns",
+      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "releaseInfo": "2026-",
       "rank": 5,
-      "imdbRating": 7.7,
-      "imdbId": "tt37737331",
+      "imdbRating": 7.8,
+      "imdbId": "tt26545992",
       "genres": [
-        "Sci-Fi & Fantasy",
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1791864337175",
+      "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/kANHXGvFKW13UEkZbYwl9nIJeEl.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt39328047",
+      "type": "series",
+      "name": "Doctor X: Mafia in White",
+      "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+      "releaseInfo": "2026-",
+      "rank": 6,
+      "imdbRating": 8,
+      "imdbId": "tt39328047",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Crime"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1791864337175",
+      "HDPoster": "https://image.tmdb.org/t/p/original/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/s9WHSL8tBYeLppWorXx0YSUMKjr.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt13138834",
+      "type": "series",
+      "name": "Time",
+      "description": "Guilt, violence and impossible choices – what does it take to survive? Tense, gritty and heartbreaking – Jimmy McGovern's award-winning prison drama, with an all-star cast.",
+      "releaseInfo": "2021-",
+      "rank": 7,
+      "imdbRating": 8.1,
+      "imdbId": "tt13138834",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1791864337175",
+      "HDPoster": "https://image.tmdb.org/t/p/original/jcyK4eo9czRdlmPZsFDuIrgA5za.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/mhi7oohUBIufTjF9u41uMXYHsw2.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gJahHqSvFrBjjt3AX6oOL2B0yMP.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/vdb8VWze26EanYh4MCYkk4U2NJh.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/wZ5JQwbxcyHOlcjOpWTWhKCKqtp.svg",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "releaseInfo": "2020-",
+      "rank": 8,
+      "imdbRating": 8.7,
+      "imdbId": "tt10986410",
+      "genres": [
+        "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1791773352983",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6NAy0c79IPyT4AE4gzD7n4iZ3FR.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
-      "background": "https://image.tmdb.org/t/p/original/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/b2FsMWODqmovZZyjAttFts6sFBV.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/H5E49feeD0CdsH6xRbF3L5WEXn.svg",
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1791864337175",
+      "HDPoster": "https://image.tmdb.org/t/p/original/xyXtW9Dgg7SPvrOufXtgkv2ipb9.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9uT4dT2k5lTd41kZEVmFCSIFQw7.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/iNudegFbTBAGBB529k7wGVivqE4.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt0121955",
+      "type": "series",
+      "name": "South Park",
+      "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+      "releaseInfo": "1997-",
+      "rank": 9,
+      "imdbRating": 8.7,
+      "imdbId": "tt0121955",
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1791864337175",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/fqoPlnpwRBbTWDNFgGQvp9AsBOQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/13yS7ws7ZxiMWZZCHnby7qBgbeV.png",
       "posterShape": "portrait"
     },
     {
@@ -117,8 +201,8 @@
       "name": "Avatar: Seven Havens",
       "description": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
       "releaseInfo": "2026-",
-      "rank": 6,
-      "imdbRating": 8.4,
+      "rank": 10,
+      "imdbRating": 8.3,
       "imdbId": "tt35854736",
       "genres": [
         "Animation",
@@ -126,33 +210,12 @@
         "Sci-Fi & Fantasy",
         "Family"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1791773352983",
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1791864337175",
       "HDPoster": "https://image.tmdb.org/t/p/original/3yf7MRPfL2Mt8AaBGv7SydUydKL.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
       "background": "https://image.tmdb.org/t/p/original/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/FQ0io6KAPkmzVE4VGLhmdOMwTe.jpg",
       "logo": "https://image.tmdb.org/t/p/original/3t6Yes1JJxr4e9Sk6Wl6WpAuY5d.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt31510819",
-      "type": "series",
-      "name": "MobLand",
-      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "releaseInfo": "2025-",
-      "rank": 7,
-      "imdbRating": 8.3,
-      "imdbId": "tt31510819",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1791773352983",
-      "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/fh6N94BUPuLPN70WpbM0OEgOJbc.png",
       "posterShape": "portrait"
     }
   ]
