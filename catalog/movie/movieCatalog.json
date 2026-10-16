@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-10-15T02:01:13.210Z",
+  "updated": "2026-10-16T01:50:17.711Z",
   "metas": [
     {
       "id": "tt27369017",
@@ -16,10 +16,10 @@
       ],
       "imdbRating": 6.8,
       "imdbId": "tt27369017",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1792029607998",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1792115406628",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/g9hYfjdk49vjyFvjv8uJIv5ASBZ.jpg",
-      "background": "https://image.tmdb.org/t/p/original/xBcKnWJHodUpvzUVIWTuNMnvEwl.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/2BN96qgj3N12fC5pzGJGFWjatWK.jpg",
       "logo": "https://image.tmdb.org/t/p/original/yEEpQJENq4DLtSO06HY7TRoXeqO.png",
       "posterShape": "portrait"
@@ -35,14 +35,57 @@
         "Romance",
         "Drama"
       ],
-      "imdbRating": 6.7,
+      "imdbRating": 6.3,
       "imdbId": "tt34384900",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1792029607998",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1792115406628",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/bTcnVgSprioQZVnUgKHiyZ2Rli5.jpg",
-      "background": "https://image.tmdb.org/t/p/original/uE4qESNLo6jQrKjnUiNE42hrn1Z.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/rLijpfuv2UmPllBbyFk5FWEdJTA.jpg",
       "logo": "https://image.tmdb.org/t/p/original/uhuoKyXfPZgzWdHhvC27VfdzUT.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt22084616",
+      "type": "movie",
+      "name": "Spider-Man: Brand New Day",
+      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "releaseInfo": "2026",
+      "rank": 3,
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "imdbRating": 7.9,
+      "imdbId": "tt22084616",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1792115406628",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/yxOxOBxspl3NgC676W62G02g1cR.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt37070354",
+      "type": "movie",
+      "name": "The Storm",
+      "description": "When a storm traps old university pals at a luxury lodge, their civilized birthday bash spirals into a cyclone of betrayals, grudges and unfiltered chaos.",
+      "releaseInfo": "2026",
+      "rank": 4,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdbRating": 5.4,
+      "imdbId": "tt37070354",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1792115406628",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
+      "HDPoster": null,
+      "background": "https://image.tmdb.org/t/p/original/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/dxBYcKB7iLHhjpoEMfGz2HrdVgv.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/mw2Pk4i34i1tc1IxAAB9Mc7nnjW.png",
       "posterShape": "portrait"
     },
     {
@@ -51,19 +94,19 @@
       "name": "Practical Magic 2",
       "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
       "releaseInfo": "2026",
-      "rank": 3,
+      "rank": 5,
       "genres": [
         "Romance",
         "Fantasy",
         "Comedy"
       ],
-      "imdbRating": 6.3,
+      "imdbRating": 6.2,
       "imdbId": "tt32588798",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1792029607998",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1792115406628",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/kyrubDEucmnFPqVwVi2mhOGYZ3g.jpg",
       "background": "https://image.tmdb.org/t/p/original/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/3rD5gkC8xFjC03QWZpqZlcuV9h3.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9nVeWeCfoEB7iGwQwEmk1Tl5P0C.jpg",
       "logo": "https://image.tmdb.org/t/p/original/1XPnUdi7xocaAW2YGYBmddGmI3h.png",
       "posterShape": "portrait"
     },
@@ -73,64 +116,20 @@
       "name": "Buddy",
       "description": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
       "releaseInfo": "2026",
-      "rank": 4,
+      "rank": 6,
       "genres": [
         "Horror",
         "Comedy",
         "Fantasy"
       ],
-      "imdbRating": 7,
+      "imdbRating": 6.9,
       "imdbId": "tt37281055",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1792029607998",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1792115406628",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/A4rtlYLwJxcCR9BrB9g4AEDU0FF.jpg",
-      "background": "https://image.tmdb.org/t/p/original/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/1qpgMYBPbm2bief81IIF6qqjjhm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kghxBvN7f3vUt377yjO4ygbefYN.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/hSeIUtEzU4FGwhxYMINP0WUkBcZ.jpg",
       "logo": "https://image.tmdb.org/t/p/original/wJ3Nfqd0QRHxcXuHQ9i8FEPrjuU.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt22084616",
-      "type": "movie",
-      "name": "Spider-Man: Brand New Day",
-      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "releaseInfo": "2026",
-      "rank": 5,
-      "genres": [
-        "Science Fiction",
-        "Action",
-        "Adventure"
-      ],
-      "imdbRating": 7.9,
-      "imdbId": "tt22084616",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1792029607998",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
-      "background": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/yxOxOBxspl3NgC676W62G02g1cR.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt28498219",
-      "type": "movie",
-      "name": "Matchbox the Movie",
-      "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-      "releaseInfo": "2026",
-      "rank": 6,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Adventure"
-      ],
-      "imdbRating": 5.7,
-      "imdbId": "tt28498219",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1792029607998",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
-      "background": "https://image.tmdb.org/t/p/original/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bZ3C0B0O7lMrR1AgQFcybyGtl2u.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/m68Dkn7fNnhgsvV9VhzxfLFbQMe.png",
       "posterShape": "portrait"
     },
     {
@@ -146,7 +145,7 @@
       ],
       "imdbRating": 5.7,
       "imdbId": "tt31049299",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1792029607998",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1792115406628",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/zah47IGR7eNJud8UQTTfVYNPIgW.jpg",
       "background": "https://image.tmdb.org/t/p/original/tzoarEu7TsG959upiELyYPm5kO9.jpg",
@@ -155,64 +154,67 @@
       "posterShape": "portrait"
     },
     {
+      "id": "tt28498219",
+      "type": "movie",
+      "name": "Matchbox the Movie",
+      "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+      "releaseInfo": "2026",
+      "rank": 8,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Adventure"
+      ],
+      "imdbRating": 5.7,
+      "imdbId": "tt28498219",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1792115406628",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bZ3C0B0O7lMrR1AgQFcybyGtl2u.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/m68Dkn7fNnhgsvV9VhzxfLFbQMe.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt9601292",
+      "type": "movie",
+      "name": "The Fix",
+      "description": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+      "releaseInfo": "2026",
+      "rank": 9,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdbRating": 4.7,
+      "imdbId": "tt9601292",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1792115406628",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/bQQ3UGOJcCTRjVAjOwR17eQuwJC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/bAd0HA40yHoC3BfQyByR5dvvba2.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/e8GdKxhgIBVR06z1Xar4g2RHrN7.png",
+      "posterShape": "portrait"
+    },
+    {
       "id": "tt31349844",
       "type": "movie",
       "name": "Runner",
       "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
       "releaseInfo": "2026",
-      "rank": 8,
+      "rank": 10,
       "genres": [
         "Action",
         "Comedy"
       ],
       "imdbRating": 6.3,
       "imdbId": "tt31349844",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1792029607998",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1792115406628",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/w8fEorMTwgMN9h1cgOb3yMggbiu.jpg",
       "background": "https://image.tmdb.org/t/p/original/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/qnljRFaateP78qdmgLvtNPOGOYM.jpg",
       "logo": "https://image.tmdb.org/t/p/original/pAnbApoi6DHwXzoKBfQU4M5Wr8t.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt9174288",
-      "type": "movie",
-      "name": "Let's Have Kids!",
-      "description": "Two best friends, Emma and Phoebe, decide to get pregnant simultaneously to navigate motherhood together, but their friendship is tested when only one of them conceives.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "Comedy"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt9174288",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1792029607998",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ciHBHFWAUn9tXNpm5NfDOkcgcMx.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/yZmdjxihmRPvMfSmITtmYTBrVvc.jpg",
-      "background": "https://image.tmdb.org/t/p/original/A42JE6WJDMsICN3NU6XkUyYEF5F.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/1RudLeObAbfrIrH0c8sjtUn1yfA.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/dF2ObXuCywfGF821uD44WFhZxXL.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt9174288",
-      "type": "movie",
-      "name": "Let's Have Kids!",
-      "description": "Two best friends, Emma and Phoebe, decide to get pregnant simultaneously to navigate motherhood together, but their friendship is tested when only one of them conceives.",
-      "releaseInfo": "2026",
-      "rank": 10,
-      "genres": [
-        "Comedy"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt9174288",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1792029607998",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ciHBHFWAUn9tXNpm5NfDOkcgcMx.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/yZmdjxihmRPvMfSmITtmYTBrVvc.jpg",
-      "background": "https://image.tmdb.org/t/p/original/A42JE6WJDMsICN3NU6XkUyYEF5F.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/1RudLeObAbfrIrH0c8sjtUn1yfA.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/dF2ObXuCywfGF821uD44WFhZxXL.png",
       "posterShape": "portrait"
     }
   ]
