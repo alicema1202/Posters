@@ -1,14 +1,52 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-10-16T01:50:17.713Z",
+  "updated": "2026-10-17T01:45:24.448Z",
   "metas": [
+    {
+      "id": "tt38672588",
+      "type": "movie",
+      "name": "Masterplan",
+      "description": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
+      "releaseInfo": "2026",
+      "rank": 1,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt38672588",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1792201509208",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/7ULXMNvmZSi13zN3EZjz8wbER9B.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1792201509208",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/5G3i4XJVSjizijz9Yo8TTZvUgC3.jpg"
+    },
+    {
+      "id": "tt6262770",
+      "type": "movie",
+      "name": "Tenzing",
+      "description": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
+      "releaseInfo": "2026",
+      "rank": 2,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "imdbRating": 7.7,
+      "imdbId": "tt6262770",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1792201509208",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/5BHjIppUPxVGuYqLI2Wkh5BBkGv.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1792201509208",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/6YpMTqpvpjoOGxUINl8kHen3XyK.jpg"
+    },
     {
       "id": "tt27369017",
       "type": "movie",
       "name": "Hope",
       "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
       "releaseInfo": "2026",
-      "rank": 1,
+      "rank": 3,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -16,11 +54,88 @@
       ],
       "imdbRating": 6.8,
       "imdbId": "tt27369017",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1792115406628",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1792201509208",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/qW1m7bcsRb2lo8xG2v0p4mARyH8.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/g9hYfjdk49vjyFvjv8uJIv5ASBZ.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1792115406628",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/2BN96qgj3N12fC5pzGJGFWjatWK.jpg"
+      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1792201509208",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/oTNF6E7a9jNuuDNkoZOvhpgctc7.jpg"
+    },
+    {
+      "id": "tt37027309",
+      "type": "movie",
+      "name": "Therapy Done Right",
+      "description": "A psychoanalyst who's lost faith in traditional therapy crosses every boundary to help a blocked novelist in this cutting Argentine dark comedy.",
+      "releaseInfo": "2026",
+      "rank": 4,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt37027309",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1792201509208",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
+      "HDPoster": null,
+      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1792201509208",
+      "backdropPoster": null
+    },
+    {
+      "id": "tt31049299",
+      "type": "movie",
+      "name": "Animals",
+      "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+      "releaseInfo": "2026",
+      "rank": 5,
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "imdbRating": 5.7,
+      "imdbId": "tt31049299",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1792201509208",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/zah47IGR7eNJud8UQTTfVYNPIgW.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1792201509208",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/3gcQY1OPX3N1CiW12ntoOGLJ93m.jpg"
+    },
+    {
+      "id": "tt32268992",
+      "type": "movie",
+      "name": "Sacrifice",
+      "description": "During a star-studded charity gala brimming with celebrities, billionaires and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
+      "releaseInfo": "2026",
+      "rank": 6,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Action"
+      ],
+      "imdbRating": 5,
+      "imdbId": "tt32268992",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1792201509208",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nLKejp8AUnvcxDPPuWxecvEqeZJ.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/pO3gxMWhCdTCuyPDjiUjqV8flzk.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1792201509208",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/AbwtgLi2prrP8U6WZtEQx7CdFql.jpg"
+    },
+    {
+      "id": "tt37070354",
+      "type": "movie",
+      "name": "The Storm",
+      "description": "When a storm traps old university pals at a luxury lodge, their civilized birthday bash spirals into a cyclone of betrayals, grudges and unfiltered chaos.",
+      "releaseInfo": "2026",
+      "rank": 7,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdbRating": 5.5,
+      "imdbId": "tt37070354",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1792201509208",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/o4PeL2YUFYwliMfxVWJSo1kwaaQ.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1792201509208",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/dxBYcKB7iLHhjpoEMfGz2HrdVgv.jpg"
     },
     {
       "id": "tt34384900",
@@ -28,17 +143,17 @@
       "name": "Love of Your Life",
       "description": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
       "releaseInfo": "2026",
-      "rank": 2,
+      "rank": 8,
       "genres": [
         "Romance",
         "Drama"
       ],
-      "imdbRating": 6.3,
+      "imdbRating": 6.4,
       "imdbId": "tt34384900",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1792115406628",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1792201509208",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/bTcnVgSprioQZVnUgKHiyZ2Rli5.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1792115406628",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1792201509208",
       "backdropPoster": "https://image.tmdb.org/t/p/original/rLijpfuv2UmPllBbyFk5FWEdJTA.jpg"
     },
     {
@@ -47,7 +162,7 @@
       "name": "Spider-Man: Brand New Day",
       "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "releaseInfo": "2026",
-      "rank": 3,
+      "rank": 9,
       "genres": [
         "Science Fiction",
         "Action",
@@ -55,147 +170,30 @@
       ],
       "imdbRating": 7.9,
       "imdbId": "tt22084616",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1792115406628",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1792201509208",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1792115406628",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1792201509208",
       "backdropPoster": "https://image.tmdb.org/t/p/original/yxOxOBxspl3NgC676W62G02g1cR.jpg"
     },
     {
-      "id": "tt37070354",
+      "id": "tt45858039",
       "type": "movie",
-      "name": "The Storm",
-      "description": "When a storm traps old university pals at a luxury lodge, their civilized birthday bash spirals into a cyclone of betrayals, grudges and unfiltered chaos.",
-      "releaseInfo": "2026",
-      "rank": 4,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "imdbRating": 5.4,
-      "imdbId": "tt37070354",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1792115406628",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
-      "HDPoster": null,
-      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1792115406628",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/dxBYcKB7iLHhjpoEMfGz2HrdVgv.jpg"
-    },
-    {
-      "id": "tt32588798",
-      "type": "movie",
-      "name": "Practical Magic 2",
-      "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-      "releaseInfo": "2026",
-      "rank": 5,
-      "genres": [
-        "Romance",
-        "Fantasy",
-        "Comedy"
-      ],
-      "imdbRating": 6.2,
-      "imdbId": "tt32588798",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1792115406628",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/kyrubDEucmnFPqVwVi2mhOGYZ3g.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1792115406628",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9nVeWeCfoEB7iGwQwEmk1Tl5P0C.jpg"
-    },
-    {
-      "id": "tt37281055",
-      "type": "movie",
-      "name": "Buddy",
-      "description": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
-      "releaseInfo": "2026",
-      "rank": 6,
-      "genres": [
-        "Horror",
-        "Comedy",
-        "Fantasy"
-      ],
-      "imdbRating": 6.9,
-      "imdbId": "tt37281055",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1792115406628",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/A4rtlYLwJxcCR9BrB9g4AEDU0FF.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1792115406628",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/hSeIUtEzU4FGwhxYMINP0WUkBcZ.jpg"
-    },
-    {
-      "id": "tt31049299",
-      "type": "movie",
-      "name": "Animals",
-      "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
-      "releaseInfo": "2026",
-      "rank": 7,
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "imdbRating": 5.7,
-      "imdbId": "tt31049299",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1792115406628",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/zah47IGR7eNJud8UQTTfVYNPIgW.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1792115406628",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/3gcQY1OPX3N1CiW12ntoOGLJ93m.jpg"
-    },
-    {
-      "id": "tt28498219",
-      "type": "movie",
-      "name": "Matchbox the Movie",
-      "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Adventure"
-      ],
-      "imdbRating": 5.7,
-      "imdbId": "tt28498219",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1792115406628",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/ugpflhns3FF9JcNaNjIThcOTKf5.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1792115406628",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bZ3C0B0O7lMrR1AgQFcybyGtl2u.jpg"
-    },
-    {
-      "id": "tt9601292",
-      "type": "movie",
-      "name": "The Fix",
-      "description": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "imdbRating": 4.7,
-      "imdbId": "tt9601292",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1792115406628",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/bQQ3UGOJcCTRjVAjOwR17eQuwJC.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1792115406628",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bAd0HA40yHoC3BfQyByR5dvvba2.jpg"
-    },
-    {
-      "id": "tt31349844",
-      "type": "movie",
-      "name": "Runner",
-      "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+      "name": "Seriously Single Too",
+      "description": "Dineo and Noni — besties meant to take on the party scene together — suddenly face their biggest fear when Noni's boyfriend spontaneously propose.",
       "releaseInfo": "2026",
       "rank": 10,
       "genres": [
-        "Action",
-        "Comedy"
+        "Comedy",
+        "Romance"
       ],
-      "imdbRating": 6.3,
-      "imdbId": "tt31349844",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1792115406628",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/w8fEorMTwgMN9h1cgOb3yMggbiu.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1792115406628",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qnljRFaateP78qdmgLvtNPOGOYM.jpg"
+      "imdbRating": null,
+      "imdbId": "tt45858039",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1792201509208",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/hbApG0WSwgtaK7hXTZpwZDstDaR.jpg",
+      "HDPoster": null,
+      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1792201509208",
+      "backdropPoster": null
     }
   ]
 }
