@@ -1,26 +1,48 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-10-17T01:45:24.447Z",
+  "updated": "2026-10-18T01:42:19.747Z",
   "metas": [
     {
       "id": "tt23148340",
       "type": "series",
       "name": "Crystal Lake",
       "description": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-      "releaseInfo": "2026",
+      "releaseInfo": "2026-",
       "rank": 1,
       "imdbRating": 7.5,
       "imdbId": "tt23148340",
       "genres": [
-        "Mystery",
-        "Drama"
+        "Drama",
+        "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1792201509208",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1792287731702",
       "HDPoster": "https://image.tmdb.org/t/p/original/mIFm62GP8NzzKFZEsKVyWOeImXn.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/sIj9WcA1LkcjGbYjrbfV3pGegbF.jpg",
-      "background": "https://image.tmdb.org/t/p/original/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/xYsP3FBkNzZiWf79yBQeLiHXnr2.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "background": "https://image.tmdb.org/t/p/original/l55uCBgRdNStoOrbiLys6xHxiIe.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/v6mpWaGJaz7HAOEBnw2VYuFmYGG.jpg",
       "logo": "https://image.tmdb.org/t/p/original/zMdL06gtSVXZYzZ5HomCFpCxjW7.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt11540908",
+      "type": "series",
+      "name": "Carrie",
+      "description": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+      "releaseInfo": "2026",
+      "rank": 2,
+      "imdbRating": 7.9,
+      "imdbId": "tt11540908",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1792287731702",
+      "HDPoster": "https://image.tmdb.org/t/p/original/eS83I38AwNkZn1dETD63bgsukzP.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7CDmD9H4FRyTngJI717TrKIppb0.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/p7lOufvkG9Od7280KE91ca5TLW5.png",
       "posterShape": "landscape"
     },
     {
@@ -29,7 +51,7 @@
       "name": "Tulsa King",
       "description": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
       "releaseInfo": "2022-",
-      "rank": 2,
+      "rank": 3,
       "imdbRating": 7.9,
       "imdbId": "tt16358384",
       "genres": [
@@ -37,7 +59,7 @@
         "Drama",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1792201509208",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1792287731702",
       "HDPoster": "https://image.tmdb.org/t/p/original/8DF3u6u0s24wxEtZ3tB4BECTpG9.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
       "background": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
@@ -51,14 +73,14 @@
       "name": "VisionQuest",
       "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "releaseInfo": "2026-",
-      "rank": 3,
+      "rank": 4,
       "imdbRating": 8.2,
       "imdbId": "tt23112594",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1792201509208",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1792287731702",
       "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "background": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
@@ -67,45 +89,24 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt37180305",
+      "id": "tt31510819",
       "type": "series",
-      "name": "Friends Sex and Games",
-      "description": "A group of friends starts a daring game. Everyone throws their keys into a bowl—whoever picks one spends the night with the owner of that key.",
-      "releaseInfo": "2026-",
-      "rank": 4,
-      "imdbRating": null,
-      "imdbId": "tt37180305",
+      "name": "MobLand",
+      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "releaseInfo": "2025-",
+      "rank": 5,
+      "imdbRating": 8.3,
+      "imdbId": "tt31510819",
       "genres": [
+        "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1792201509208",
-      "HDPoster": null,
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg",
-      "background": "https://image.tmdb.org/t/p/original/ooFTNyBV1OKoFs2VovuzK0ngMjM.jpg",
-      "backdropPoster": null,
-      "logo": "https://image.tmdb.org/t/p/original/wDBB7ShMZTLPfA3SKgWpKwIvHlf.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt11540908",
-      "type": "series",
-      "name": "Carrie",
-      "description": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-      "releaseInfo": "2026",
-      "rank": 5,
-      "imdbRating": 7.9,
-      "imdbId": "tt11540908",
-      "genres": [
-        "Mystery",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1792201509208",
-      "HDPoster": "https://image.tmdb.org/t/p/original/eS83I38AwNkZn1dETD63bgsukzP.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "background": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7CDmD9H4FRyTngJI717TrKIppb0.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/p7lOufvkG9Od7280KE91ca5TLW5.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1792287731702",
+      "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/fh6N94BUPuLPN70WpbM0OEgOJbc.png",
       "posterShape": "landscape"
     },
     {
@@ -121,75 +122,54 @@
         "Drama",
         "War & Politics"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1792201509208",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1792287731702",
       "HDPoster": "https://image.tmdb.org/t/p/original/s5KaidPKwFkCM7BvZALVQ7yjbI4.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
       "background": "https://image.tmdb.org/t/p/original/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/dFtihuKba9ODy6HJlOp6opUnWNA.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/wnhAyE5ruuJAkLlPSHN8IzBtV4J.jpg",
       "logo": "https://image.tmdb.org/t/p/original/tdp2su0DIwuR737m3CVAvkyIy3s.png",
       "posterShape": "landscape"
     },
     {
-      "id": "tt19231492",
+      "id": "tt26545992",
       "type": "series",
-      "name": "Dark Matter",
-      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "releaseInfo": "2024-",
+      "name": "Lanterns",
+      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "releaseInfo": "2026-",
       "rank": 7,
-      "imdbRating": 7.6,
-      "imdbId": "tt19231492",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1792201509208",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2UFwBzMvbGEVJReVlSbsZfdMo2r.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "background": "https://image.tmdb.org/t/p/original/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/sj81WpEIjvUQFCMWKXOcejFlFTQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/41oTdX0XzO8VskZTfiNIKijfRuq.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt31510819",
-      "type": "series",
-      "name": "MobLand",
-      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "releaseInfo": "2025-",
-      "rank": 8,
-      "imdbRating": 8.3,
-      "imdbId": "tt31510819",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1792201509208",
-      "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/fh6N94BUPuLPN70WpbM0OEgOJbc.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt35934755",
-      "type": "series",
-      "name": "Below",
-      "description": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "imdbRating": 6.4,
-      "imdbId": "tt35934755",
+      "imdbRating": 7.8,
+      "imdbId": "tt26545992",
       "genres": [
         "Drama",
-        "Mystery"
+        "Mystery",
+        "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1792201509208",
-      "HDPoster": "https://image.tmdb.org/t/p/original/tJhDFLNrJsYG2WysMh2jAcfJjEq.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-      "background": "https://image.tmdb.org/t/p/original/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9TEkTV8EtruKx4N140YVHqeyU2r.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/A6vkCbJKDb7IeOrBuW1mKWzwxUr.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1792287731702",
+      "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/kANHXGvFKW13UEkZbYwl9nIJeEl.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt37180305",
+      "type": "series",
+      "name": "Friends Sex and Games",
+      "description": "A group of friends starts a daring game. Everyone throws their keys into a bowl—whoever picks one spends the night with the owner of that key.",
+      "releaseInfo": "2026",
+      "rank": 8,
+      "imdbRating": null,
+      "imdbId": "tt37180305",
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1792287731702",
+      "HDPoster": null,
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/geSUajSeWBu14vLk0NyuR1OnrX7.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/qjUgObXGs76QzjMX8ht40rrkB1e.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/wDBB7ShMZTLPfA3SKgWpKwIvHlf.png",
       "posterShape": "landscape"
     },
     {
@@ -198,19 +178,40 @@
       "name": "South Park",
       "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
       "releaseInfo": "1997-",
-      "rank": 10,
+      "rank": 9,
       "imdbRating": 8.7,
       "imdbId": "tt0121955",
       "genres": [
         "Comedy",
         "Animation"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1792201509208",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1792287731702",
       "HDPoster": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
       "background": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/fqoPlnpwRBbTWDNFgGQvp9AsBOQ.jpg",
       "logo": "https://image.tmdb.org/t/p/original/13yS7ws7ZxiMWZZCHnby7qBgbeV.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt35934755",
+      "type": "series",
+      "name": "Below",
+      "description": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+      "releaseInfo": "2026",
+      "rank": 10,
+      "imdbRating": 6.4,
+      "imdbId": "tt35934755",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1792287731702",
+      "HDPoster": "https://image.tmdb.org/t/p/original/tJhDFLNrJsYG2WysMh2jAcfJjEq.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9TEkTV8EtruKx4N140YVHqeyU2r.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/A6vkCbJKDb7IeOrBuW1mKWzwxUr.png",
       "posterShape": "landscape"
     }
   ]
