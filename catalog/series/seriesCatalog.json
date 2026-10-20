@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-10-19T01:59:56.620Z",
+  "updated": "2026-10-20T02:17:11.258Z",
   "metas": [
     {
       "id": "tt14976292",
@@ -17,9 +17,9 @@
         "Mystery",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1792375182377",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1792462618517",
       "HDPoster": "https://image.tmdb.org/t/p/original/cEa77esuWGAgR1bygmk8ey1w4wZ.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wo9jwu5qMvXzhW2cyy5E6hOVs92.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/hCt2bLRGTCjHGqtV5FP3Img6w1h.jpg",
       "background": "https://image.tmdb.org/t/p/original/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/aAapme3lq7UsGjd8EY9FWbiQC4y.jpg",
       "logo": "https://image.tmdb.org/t/p/original/afS3wRroucg2Tku3tH0NNmyurST.png",
@@ -30,7 +30,7 @@
       "type": "series",
       "name": "Crystal Lake",
       "description": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-      "releaseInfo": "2026",
+      "releaseInfo": "2026-",
       "rank": 2,
       "imdbRating": 7.7,
       "imdbId": "tt23148340",
@@ -38,12 +38,12 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1792375182377",
-      "HDPoster": "https://image.tmdb.org/t/p/original/mIFm62GP8NzzKFZEsKVyWOeImXn.jpg",
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1792462618517",
+      "HDPoster": "https://image.tmdb.org/t/p/original/fKA0DeFPmD0Lr6oV7ZquffDzFNl.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
       "background": "https://image.tmdb.org/t/p/original/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/v6mpWaGJaz7HAOEBnw2VYuFmYGG.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/zMdL06gtSVXZYzZ5HomCFpCxjW7.png",
+      "logo": "https://image.tmdb.org/t/p/original/68zE678VwDfjLgg24Uhxx9gtDXM.svg",
       "posterShape": "portrait"
     },
     {
@@ -59,7 +59,7 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1792375182377",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1792462618517",
       "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "background": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
@@ -81,56 +81,12 @@
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1792375182377",
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1792462618517",
       "HDPoster": "https://image.tmdb.org/t/p/original/eS83I38AwNkZn1dETD63bgsukzP.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
       "background": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/7CDmD9H4FRyTngJI717TrKIppb0.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/p7lOufvkG9Od7280KE91ca5TLW5.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt16358384",
-      "type": "series",
-      "name": "Tulsa King",
-      "description": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-      "releaseInfo": "2022-",
-      "rank": 5,
-      "imdbRating": 7.9,
-      "imdbId": "tt16358384",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1792375182377",
-      "HDPoster": "https://image.tmdb.org/t/p/original/8DF3u6u0s24wxEtZ3tB4BECTpG9.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-      "background": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/yxWDzf7cFQIL99m0o8iu4rrzzWr.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/xz9iVJuRbNsdD7KZhr9dfi8F7Gs.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt26545992",
-      "type": "series",
-      "name": "Lanterns",
-      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "releaseInfo": "2026-",
-      "rank": 6,
-      "imdbRating": 7.8,
-      "imdbId": "tt26545992",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1792375182377",
-      "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
-      "background": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/kANHXGvFKW13UEkZbYwl9nIJeEl.png",
+      "logo": "https://image.tmdb.org/t/p/original/btTST9hsE5flPPhO7oH5sHZY0Yh.png",
       "posterShape": "portrait"
     },
     {
@@ -139,60 +95,39 @@
       "name": "Where the Mask Ends",
       "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
       "releaseInfo": "2026-",
-      "rank": 7,
+      "rank": 5,
       "imdbRating": null,
       "imdbId": "tt42576855",
       "genres": [
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1792375182377",
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1792462618517",
       "HDPoster": null,
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-      "background": "https://image.tmdb.org/t/p/original/oagkprEWVF8EDyGMoQlTQajbsWH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/YndvGwqwroUDVltBWmnOuTvJke.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/hksEcCAEBmiXdVu5pe2hvv49ZXR.jpg",
       "logo": "https://image.tmdb.org/t/p/original/zl3gZ02Ex1N6P6ULolIKc36LXtv.png",
       "posterShape": "portrait"
     },
     {
-      "id": "tt17491088",
+      "id": "tt0096697",
       "type": "series",
-      "name": "The Diplomat",
-      "description": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
-      "releaseInfo": "2023-",
-      "rank": 8,
-      "imdbRating": 8,
-      "imdbId": "tt17491088",
+      "name": "The Simpsons",
+      "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "releaseInfo": "1989-",
+      "rank": 6,
+      "imdbRating": 8.6,
+      "imdbId": "tt0096697",
       "genres": [
-        "Drama",
-        "War & Politics"
+        "Animation",
+        "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1792375182377",
-      "HDPoster": "https://image.tmdb.org/t/p/original/s5KaidPKwFkCM7BvZALVQ7yjbI4.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
-      "background": "https://image.tmdb.org/t/p/original/hzznrBI07C2chXivlLYvEmQESP7.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/wnhAyE5ruuJAkLlPSHN8IzBtV4J.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/tdp2su0DIwuR737m3CVAvkyIy3s.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt0121955",
-      "type": "series",
-      "name": "South Park",
-      "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-      "releaseInfo": "1997-",
-      "rank": 9,
-      "imdbRating": 8.7,
-      "imdbId": "tt0121955",
-      "genres": [
-        "Comedy",
-        "Animation"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1792375182377",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "background": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/fqoPlnpwRBbTWDNFgGQvp9AsBOQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/13yS7ws7ZxiMWZZCHnby7qBgbeV.png",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1792462618517",
+      "HDPoster": "https://image.tmdb.org/t/p/original/vrDJZgnCDmexHBQKgbOgavQDGnk.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/5NW6rUmsJSxtcdL3FgF6vq9Aanr.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/heDwFJx51IiBSJtjA1JYcWOXy7M.png",
       "posterShape": "portrait"
     },
     {
@@ -201,19 +136,84 @@
       "name": "MobLand",
       "description": "Two mob families clash in a war that threatens to topple empires and lives.",
       "releaseInfo": "2025-",
-      "rank": 10,
+      "rank": 7,
       "imdbRating": 8.3,
       "imdbId": "tt31510819",
       "genres": [
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1792375182377",
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1792462618517",
       "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
       "logo": "https://image.tmdb.org/t/p/original/fh6N94BUPuLPN70WpbM0OEgOJbc.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt26545992",
+      "type": "series",
+      "name": "Lanterns",
+      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "releaseInfo": "2026-",
+      "rank": 8,
+      "imdbRating": 7.8,
+      "imdbId": "tt26545992",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1792462618517",
+      "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/kANHXGvFKW13UEkZbYwl9nIJeEl.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt35934755",
+      "type": "series",
+      "name": "Below",
+      "description": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+      "releaseInfo": "2026",
+      "rank": 9,
+      "imdbRating": 6.3,
+      "imdbId": "tt35934755",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1792462618517",
+      "HDPoster": "https://image.tmdb.org/t/p/original/tJhDFLNrJsYG2WysMh2jAcfJjEq.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9TEkTV8EtruKx4N140YVHqeyU2r.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/A6vkCbJKDb7IeOrBuW1mKWzwxUr.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt16358384",
+      "type": "series",
+      "name": "Tulsa King",
+      "description": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+      "releaseInfo": "2022-",
+      "rank": 10,
+      "imdbRating": 7.9,
+      "imdbId": "tt16358384",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1792462618517",
+      "HDPoster": "https://image.tmdb.org/t/p/original/pS7CRbAb5LSaLAbgH9OkHg84yXh.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/yxWDzf7cFQIL99m0o8iu4rrzzWr.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/xz9iVJuRbNsdD7KZhr9dfi8F7Gs.png",
       "posterShape": "portrait"
     }
   ]
