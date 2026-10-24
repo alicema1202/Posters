@@ -3,6 +3,7 @@ const fs = require("fs");
 const API_KEY = process.env.TMDB_KEY;
 const OMDB_KEY = process.env.OMDB_KEY;
 const MDBLIST_KEY = process.env.MDBLIST_KEY;
+const TVDB_KEY = process.env.TVDB_KEY;
 const GITHUB_PAGES =
     "https://posters-rank.vercel.app/image";
 
@@ -10,6 +11,9 @@ const BUILD_TIMESTAMP = Date.now();
 
 let movieGenres = {};
 let tvGenres = {};
+
+let tvdbToken = null;
+let tvdbLogoType = null;
 
 
 
@@ -70,7 +74,7 @@ function getGenres(type, genreIds) {
 /**
  * Get clean backdrop + logo
  */
-async function getImages(type, id) {
+async function getImages(type, id, originalLanguage) {
 
     const response = await fetch(
         `https://api.themoviedb.org/3/${type}/${id}/images?api_key=${API_KEY}`
@@ -100,15 +104,21 @@ async function getImages(type, id) {
         .filter(image => image.iso_639_1 === null)
         .sort((a, b) => b.vote_average - a.vote_average)[0];
 
-    const logo =
-        data.logos
-            ?.sort((a, b) => {
-                const aEnglish = a.iso_639_1 === "en" ? 1 : 0;
-                const bEnglish = b.iso_639_1 === "en" ? 1 : 0;
+    // English first, then the title's original language, then textless.
+    // Logos in any other language (e.g. a Ukrainian logo for a French
+    // show) are skipped — the poster shows the title as text instead.
+    const logoLanguages = ["en", originalLanguage, null];
 
-                // English logos first
-                if (aEnglish !== bEnglish) {
-                    return bEnglish - aEnglish;
+    const logo =
+        (data.logos || [])
+            .filter(image => logoLanguages.includes(image.iso_639_1))
+            .sort((a, b) => {
+                const aRank = logoLanguages.indexOf(a.iso_639_1);
+                const bRank = logoLanguages.indexOf(b.iso_639_1);
+
+                // Preferred language first
+                if (aRank !== bRank) {
+                    return aRank - bRank;
                 }
 
                 // Higher vote average first
@@ -141,13 +151,125 @@ async function getImages(type, id) {
                 : null,
     };
 }
-async function getIMDbId(type, id) {
+/**
+ * Log in to TVDB and look up the series ClearLogo artwork type id
+ */
+async function loadTVDB() {
+    if (!TVDB_KEY) {
+        console.log("Missing TVDB_KEY, using TMDB logos for series");
+        return;
+    }
+
+    const loginResponse = await fetch(
+        "https://api4.thetvdb.com/v4/login",
+        {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                apikey: TVDB_KEY
+            })
+        }
+    );
+
+    if (!loginResponse.ok) {
+        console.log(`TVDB login failed (HTTP ${loginResponse.status}), using TMDB logos for series`);
+        return;
+    }
+
+    const loginData = await loginResponse.json();
+    tvdbToken = loginData.data?.token ?? null;
+
+    const typesResponse = await fetch(
+        "https://api4.thetvdb.com/v4/artwork/types",
+        {
+            headers: {
+                Authorization: `Bearer ${tvdbToken}`
+            }
+        }
+    );
+
+    const typesData = await typesResponse.json();
+
+    tvdbLogoType =
+        typesData.data?.find(
+            type => type.recordType === "series" && type.slug === "clearlogo"
+        )?.id ?? null;
+
+    if (!tvdbLogoType) {
+        console.log("TVDB ClearLogo artwork type not found, using TMDB logos for series");
+    }
+}
+
+/**
+ * Get a series ClearLogo from TVDB, with the same language preference
+ * as TMDB logos: English, then original language, then textless
+ */
+async function getTVDBLogo(tvdbId) {
+    if (!tvdbToken || !tvdbLogoType || !tvdbId) {
+        return null;
+    }
+
+    const response = await fetch(
+        `https://api4.thetvdb.com/v4/series/${tvdbId}/artworks?type=${tvdbLogoType}`,
+        {
+            headers: {
+                Authorization: `Bearer ${tvdbToken}`
+            }
+        }
+    );
+
+    if (!response.ok) {
+        return null;
+    }
+
+    const { data } = await response.json();
+
+    // TVDB uses 3-letter language codes ("eng", "fra")
+    const logoLanguages = ["eng", data?.originalLanguage, null];
+
+    const logo =
+        (data?.artworks || [])
+            .filter(image =>
+                image.type === tvdbLogoType &&
+                logoLanguages.includes(image.language)
+            )
+            .sort((a, b) => {
+                const aRank = logoLanguages.indexOf(a.language);
+                const bRank = logoLanguages.indexOf(b.language);
+
+                // Preferred language first
+                if (aRank !== bRank) {
+                    return aRank - bRank;
+                }
+
+                // Higher score first
+                return b.score - a.score;
+            })[0];
+
+    if (!logo?.image) {
+        return null;
+    }
+
+    return logo.image.startsWith("http")
+        ? logo.image
+        : `https://artworks.thetvdb.com${logo.image}`;
+}
+
+async function getExternalIds(type, id) {
 
     const response = await fetch(
         `https://api.themoviedb.org/3/${type}/${id}/external_ids?api_key=${API_KEY}`
     );
 
-    const data = await response.json();
+    return response.json();
+
+}
+
+async function getIMDbId(type, id) {
+
+    const data = await getExternalIds(type, id);
 
     return data.imdb_id || null;
 
@@ -458,7 +580,8 @@ async function getTopMovies() {
             const images =
                 await getImages(
                     "movie",
-                    movie.id
+                    movie.id,
+                    movie.original_language
                 );
 
             movies.push({
@@ -543,7 +666,8 @@ async function getTopSeries() {
 
     for (const show of data.results || []) {
 
-        const imdbId = await getIMDbId("tv", show.id);
+        const externalIds = await getExternalIds("tv", show.id);
+        const imdbId = externalIds.imdb_id || null;
         const imdbRating = await getIMDBRating2("show", show.id);
 
         if (series.length >= 10) {
@@ -607,8 +731,21 @@ async function getTopSeries() {
         const images =
             await getImages(
                 "tv",
-                show.id
+                show.id,
+                show.original_language
             );
+
+        const tvdbLogo =
+            await getTVDBLogo(
+                externalIds.tvdb_id
+            );
+
+        if (!tvdbLogo) {
+            console.log(
+                "No TVDB logo, using TMDB:",
+                show.name
+            );
+        }
 
         series.push({
 
@@ -660,7 +797,7 @@ async function getTopSeries() {
                 images.backdropPoster,
 
             logo:
-                images.logo
+                tvdbLogo ?? images.logo
 
         });
 
@@ -776,6 +913,8 @@ async function updateCatalog() {
 
 
     await loadGenres();
+
+    await loadTVDB();
 
 
 
