@@ -1,27 +1,24 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-10-23T02:09:36.251Z",
+  "updated": "2026-10-24T02:08:38.612Z",
   "metas": [
     {
-      "id": "tt27419466",
+      "id": "tt37961714",
       "type": "movie",
-      "name": "Moana",
-      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "name": "Surviving Hurricane Otis",
+      "description": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
       "releaseInfo": "2026",
       "rank": 1,
       "genres": [
-        "Family",
-        "Fantasy",
-        "Comedy",
-        "Adventure"
+        "Drama"
       ],
-      "imdbRating": 5.8,
-      "imdbId": "tt27419466",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1792721363251",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/bmzkFxTZGHW4BlKL6kLm7TDyW4f.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1792721363251",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/4pYIal4WsO5hVrjffjGLr1Bf2QX.jpg"
+      "imdbRating": null,
+      "imdbId": "tt37961714",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1792807700401",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
+      "HDPoster": null,
+      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1792807700401",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/glBL6dPAlkgj6qt2HZi3fK2jx2w.jpg"
     },
     {
       "id": "tt27369017",
@@ -37,32 +34,11 @@
       ],
       "imdbRating": 6.7,
       "imdbId": "tt27369017",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1792721363251",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1792807700401",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/g9hYfjdk49vjyFvjv8uJIv5ASBZ.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1792721363251",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1792807700401",
       "backdropPoster": "https://image.tmdb.org/t/p/original/oTNF6E7a9jNuuDNkoZOvhpgctc7.jpg"
-    },
-    {
-      "id": "tt10794054",
-      "type": "movie",
-      "name": "The Weight",
-      "description": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
-      "releaseInfo": "2026",
-      "rank": 3,
-      "genres": [
-        "Thriller",
-        "Adventure",
-        "History",
-        "Drama"
-      ],
-      "imdbRating": 6.8,
-      "imdbId": "tt10794054",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1792721363251",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/zKizFK3adjtpXut1dW6bRaxwhd.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1792721363251",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qvq82aNmGD4fyE9kK1YJV91sC7K.jpg"
     },
     {
       "id": "tt22084616",
@@ -70,7 +46,7 @@
       "name": "Spider-Man: Brand New Day",
       "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "releaseInfo": "2026",
-      "rank": 4,
+      "rank": 3,
       "genres": [
         "Science Fiction",
         "Action",
@@ -78,11 +54,113 @@
       ],
       "imdbRating": 7.9,
       "imdbId": "tt22084616",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1792721363251",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1792807700401",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1792721363251",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1792807700401",
       "backdropPoster": "https://image.tmdb.org/t/p/original/yxOxOBxspl3NgC676W62G02g1cR.jpg"
+    },
+    {
+      "id": "tt36841161",
+      "type": "movie",
+      "name": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "description": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
+      "releaseInfo": "2026",
+      "rank": 4,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "imdbRating": 7.2,
+      "imdbId": "tt36841161",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1792807700401",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/iUFQd0mzDOUCsc8qVwUcNhFIe2P.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1792807700401",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/v2QvNVrlrtfMxUBSbFtB1VbG5aH.jpg"
+    },
+    {
+      "id": "tt32358390",
+      "type": "movie",
+      "name": "The Cycle",
+      "description": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+      "releaseInfo": "2026",
+      "rank": 5,
+      "genres": [
+        "Crime",
+        "Horror",
+        "Thriller"
+      ],
+      "imdbRating": 6.6,
+      "imdbId": "tt32358390",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1792807700401",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/3CIYPqdWTc74Th8VCLhH7COTmqp.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1792807700401",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/h1UkhUC2wqenN8dxDcbD5wsH373.jpg"
+    },
+    {
+      "id": "tt39631280",
+      "type": "movie",
+      "name": "Gajab Raat",
+      "description": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
+      "releaseInfo": "2026",
+      "rank": 6,
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt39631280",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1792807700401",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lbxsAJpf5dajPkEjsMWKNWfgaI5.jpg",
+      "HDPoster": null,
+      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1792807700401",
+      "backdropPoster": null
+    },
+    {
+      "id": "tt37281055",
+      "type": "movie",
+      "name": "Buddy",
+      "description": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
+      "releaseInfo": "2026",
+      "rank": 7,
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Fantasy"
+      ],
+      "imdbRating": 6.7,
+      "imdbId": "tt37281055",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1792807700401",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/A4rtlYLwJxcCR9BrB9g4AEDU0FF.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1792807700401",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/1qpgMYBPbm2bief81IIF6qqjjhm.jpg"
+    },
+    {
+      "id": "tt27419466",
+      "type": "movie",
+      "name": "Moana",
+      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "releaseInfo": "2026",
+      "rank": 8,
+      "genres": [
+        "Family",
+        "Fantasy",
+        "Comedy",
+        "Adventure"
+      ],
+      "imdbRating": 5.8,
+      "imdbId": "tt27419466",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1792807700401",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/bmzkFxTZGHW4BlKL6kLm7TDyW4f.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1792807700401",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/4pYIal4WsO5hVrjffjGLr1Bf2QX.jpg"
     },
     {
       "id": "tt37287335",
@@ -90,116 +168,37 @@
       "name": "Obsession",
       "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "releaseInfo": "2026",
-      "rank": 5,
+      "rank": 9,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "imdbRating": 7.8,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1792721363251",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1792807700401",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1792721363251",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1792807700401",
       "backdropPoster": "https://image.tmdb.org/t/p/original/o5VincY0eEAq4GHHiKcWjSuNPCm.jpg"
     },
     {
-      "id": "tt34379051",
+      "id": "tt10794054",
       "type": "movie",
-      "name": "By Any Means",
-      "description": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
-      "releaseInfo": "2026",
-      "rank": 6,
-      "genres": [
-        "Thriller",
-        "History",
-        "Crime",
-        "Drama"
-      ],
-      "imdbRating": 6.6,
-      "imdbId": "tt34379051",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1792721363251",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/oeRTTn3em6yHsnJy9miKJwdHuKR.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1792721363251",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qZ02jaMPFzf4rtnoH6kunJXEJPL.jpg"
-    },
-    {
-      "id": "tt38672588",
-      "type": "movie",
-      "name": "Masterplan",
-      "description": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
-      "releaseInfo": "2026",
-      "rank": 7,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "imdbRating": 5.4,
-      "imdbId": "tt38672588",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1792721363251",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/b1TssUuZZ9WwgIxBvY8XUimQ4dB.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1792721363251",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/IIMgJY38mXfnZNmwdV4gCQNu77.jpg"
-    },
-    {
-      "id": "tt36893729",
-      "type": "movie",
-      "name": "Ice Cream Man",
-      "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "genres": [
-        "Horror",
-        "Comedy",
-        "Thriller"
-      ],
-      "imdbRating": 4,
-      "imdbId": "tt36893729",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1792721363251",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fwa7BOo72tYKhqr4uJoOdsmlE4z.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1792721363251",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/u4IkgcUehvByKpejt4GSRKKcTJ7.jpg"
-    },
-    {
-      "id": "tt6628920",
-      "type": "movie",
-      "name": "Idiots",
-      "description": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "Comedy",
-        "Crime"
-      ],
-      "imdbRating": 5.5,
-      "imdbId": "tt6628920",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1792721363251",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/67BYOc4WmTKRGjqpspSNaAAHumK.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1792721363251",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/4SlZr9fWkwLjLG90TRT96uhj9rV.jpg"
-    },
-    {
-      "id": "tt6262770",
-      "type": "movie",
-      "name": "Tenzing",
-      "description": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
+      "name": "The Weight",
+      "description": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
       "releaseInfo": "2026",
       "rank": 10,
       "genres": [
         "Drama",
-        "History"
+        "Thriller"
       ],
-      "imdbRating": 7.5,
-      "imdbId": "tt6262770",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1792721363251",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/5BHjIppUPxVGuYqLI2Wkh5BBkGv.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1792721363251",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/spls7qQGsoSwfaXSV30bFimbjmL.jpg"
+      "imdbRating": 6.8,
+      "imdbId": "tt10794054",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1792807700401",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/zKizFK3adjtpXut1dW6bRaxwhd.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1792807700401",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/qvq82aNmGD4fyE9kK1YJV91sC7K.jpg"
     }
   ]
 }
