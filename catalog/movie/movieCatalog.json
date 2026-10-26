@@ -1,46 +1,27 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-10-25T01:54:54.635Z",
+  "updated": "2026-10-26T01:56:32.127Z",
   "metas": [
-    {
-      "id": "tt37961714",
-      "type": "movie",
-      "name": "Surviving Hurricane Otis",
-      "description": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
-      "releaseInfo": "2026",
-      "rank": 1,
-      "genres": [
-        "Drama"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt37961714",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1792893282935",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
-      "HDPoster": null,
-      "background": "https://image.tmdb.org/t/p/original/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/glBL6dPAlkgj6qt2HZi3fK2jx2w.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/tNfFbBOuyBbKl4WhKXCbUOwI8Tb.png",
-      "posterShape": "portrait"
-    },
     {
       "id": "tt32358390",
       "type": "movie",
       "name": "The Cycle",
       "description": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
       "releaseInfo": "2026",
-      "rank": 2,
+      "rank": 1,
       "genres": [
-        "Mystery",
-        "Horror"
+        "Crime",
+        "Horror",
+        "Thriller"
       ],
-      "imdbRating": 6.5,
+      "imdbRating": 6.6,
       "imdbId": "tt32358390",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1792893282935",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1792979775822",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/3CIYPqdWTc74Th8VCLhH7COTmqp.jpg",
-      "background": "https://image.tmdb.org/t/p/original/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/dlqIMHwt5MIbs7EGmxnLfmLpd43.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/kCgPDFyK552OtyYCLddDWqoLBZh.png",
+      "logo": "https://image.tmdb.org/t/p/original/ziR1y1HXqb2dl7Y0HAvYicBTka8.svg",
       "posterShape": "portrait"
     },
     {
@@ -49,7 +30,7 @@
       "name": "Spider-Man: Brand New Day",
       "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "releaseInfo": "2026",
-      "rank": 3,
+      "rank": 2,
       "genres": [
         "Science Fiction",
         "Action",
@@ -57,7 +38,7 @@
       ],
       "imdbRating": 7.9,
       "imdbId": "tt22084616",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1792893282935",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1792979775822",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
       "background": "https://image.tmdb.org/t/p/original/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
@@ -66,33 +47,12 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt39631280",
-      "type": "movie",
-      "name": "Gajab Raat",
-      "description": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
-      "releaseInfo": "2026",
-      "rank": 4,
-      "genres": [
-        "Thriller",
-        "Crime"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt39631280",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1792893282935",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
-      "HDPoster": null,
-      "background": "https://image.tmdb.org/t/p/original/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bXHGqsnzuAwr2ST24OY1WV3TGCu.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/kyrCxOmZdjunxgD30Q1VLsWIpm1.png",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt27369017",
       "type": "movie",
       "name": "Hope",
       "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
       "releaseInfo": "2026",
-      "rank": 5,
+      "rank": 3,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -100,99 +60,12 @@
       ],
       "imdbRating": 6.6,
       "imdbId": "tt27369017",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1792893282935",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1792979775822",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/g9hYfjdk49vjyFvjv8uJIv5ASBZ.jpg",
       "background": "https://image.tmdb.org/t/p/original/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/oTNF6E7a9jNuuDNkoZOvhpgctc7.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/dg1UotKplZUIp1fAJSGhZjrTiCM.jpg",
       "logo": "https://image.tmdb.org/t/p/original/hJG3cSi9z40smOi4Fac07xIlAqZ.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt36841161",
-      "type": "movie",
-      "name": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "description": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
-      "releaseInfo": "2026",
-      "rank": 6,
-      "genres": [
-        "Animation",
-        "Science Fiction",
-        "Comedy"
-      ],
-      "imdbRating": 7.2,
-      "imdbId": "tt36841161",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1792893282935",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/iUFQd0mzDOUCsc8qVwUcNhFIe2P.jpg",
-      "background": "https://image.tmdb.org/t/p/original/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/31zlh9XXCAuo7uVWYW2e5HMaU89.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/6fr3VBoNd6Y74m4AiP62027Nrjc.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt27419466",
-      "type": "movie",
-      "name": "Moana",
-      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "releaseInfo": "2026",
-      "rank": 7,
-      "genres": [
-        "Family",
-        "Fantasy",
-        "Comedy",
-        "Adventure"
-      ],
-      "imdbRating": 5.8,
-      "imdbId": "tt27419466",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1792893282935",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/bmzkFxTZGHW4BlKL6kLm7TDyW4f.jpg",
-      "background": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/4pYIal4WsO5hVrjffjGLr1Bf2QX.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/pRHIM8liJBYy1Z4wNgAizqCOuOU.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt33998222",
-      "type": "movie",
-      "name": "Love Language",
-      "description": "Following a failed engagement, Lou discovers she has a talent for writing other people’s wedding vows. Word spreads across Chicago’s wedding scene and Lou’s services are in high demand. She even has a new admirer in Dash. But everything changes when she’s asked to write vows for Olivia, who’s marrying Warren, Lou’s old college flame.",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "imdbRating": 5.8,
-      "imdbId": "tt33998222",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1792893282935",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/sCQde3BSMpDgA1qpE0zzboFdwl0.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/7DwfOoQChKvhDnhCrnLSKdC7kUB.jpg",
-      "background": "https://image.tmdb.org/t/p/original/snrOynVdMOZVA8aCxOAK9kBRQLm.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qkwagRZ7DFkETrQxtusDjhlATgM.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/8yDmzavVmUZTBEcYMs0Xj0u6vFZ.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt38672588",
-      "type": "movie",
-      "name": "Masterplan",
-      "description": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "imdbRating": 5.4,
-      "imdbId": "tt38672588",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1792893282935",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/b1TssUuZZ9WwgIxBvY8XUimQ4dB.jpg",
-      "background": "https://image.tmdb.org/t/p/original/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/IIMgJY38mXfnZNmwdV4gCQNu77.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/At6dSS7TWU8qzxjqlupn10cegcF.png",
       "posterShape": "portrait"
     },
     {
@@ -201,19 +74,149 @@
       "name": "Obsession",
       "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "releaseInfo": "2026",
-      "rank": 10,
+      "rank": 4,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "imdbRating": 7.8,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1792893282935",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1792979775822",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
       "background": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/o5VincY0eEAq4GHHiKcWjSuNPCm.jpg",
       "logo": "https://image.tmdb.org/t/p/original/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt37961714",
+      "type": "movie",
+      "name": "Surviving Hurricane Otis",
+      "description": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
+      "releaseInfo": "2026",
+      "rank": 5,
+      "genres": [
+        "Drama"
+      ],
+      "imdbRating": 5.2,
+      "imdbId": "tt37961714",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1792979775822",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
+      "HDPoster": null,
+      "background": "https://image.tmdb.org/t/p/original/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/glBL6dPAlkgj6qt2HZi3fK2jx2w.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/tNfFbBOuyBbKl4WhKXCbUOwI8Tb.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt27419466",
+      "type": "movie",
+      "name": "Moana",
+      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "releaseInfo": "2026",
+      "rank": 6,
+      "genres": [
+        "Family",
+        "Fantasy",
+        "Comedy",
+        "Adventure"
+      ],
+      "imdbRating": 5.8,
+      "imdbId": "tt27419466",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1792979775822",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/bmzkFxTZGHW4BlKL6kLm7TDyW4f.jpg",
+      "background": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/4pYIal4WsO5hVrjffjGLr1Bf2QX.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/pRHIM8liJBYy1Z4wNgAizqCOuOU.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt27165187",
+      "type": "movie",
+      "name": "The End of Oak Street",
+      "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "releaseInfo": "2026",
+      "rank": 7,
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdbRating": 6.2,
+      "imdbId": "tt27165187",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1792979775822",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7DmtuAK5gYGlMFA45Oxkl1bEpIC.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/3bq3Jy5cnE2FjngeRVvkJawquVf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/ffDlu6T4f3sxJqKzuzf0N5DFhBg.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/xm5OF5LINmyJLV7Cvq1UHxWeJHM.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt36841161",
+      "type": "movie",
+      "name": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "description": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
+      "releaseInfo": "2026",
+      "rank": 8,
+      "genres": [
+        "Animation",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "imdbRating": 7.2,
+      "imdbId": "tt36841161",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1792979775822",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/iUFQd0mzDOUCsc8qVwUcNhFIe2P.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/31zlh9XXCAuo7uVWYW2e5HMaU89.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/6fr3VBoNd6Y74m4AiP62027Nrjc.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt6262770",
+      "type": "movie",
+      "name": "Tenzing",
+      "description": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
+      "releaseInfo": "2026",
+      "rank": 9,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "imdbRating": 7.5,
+      "imdbId": "tt6262770",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1792979775822",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/5BHjIppUPxVGuYqLI2Wkh5BBkGv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/spls7qQGsoSwfaXSV30bFimbjmL.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt26657236",
+      "type": "movie",
+      "name": "Backrooms",
+      "description": "A strange doorway appears in the basement of a furniture showroom.",
+      "releaseInfo": "2026",
+      "rank": 10,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "imdbRating": 6.7,
+      "imdbId": "tt26657236",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1792979775822",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/ln4G8gvsaA0gnsjcI382EfyWuYZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/g0PswKqAFJdwGK3d1fKvj8LGnrW.png",
       "posterShape": "portrait"
     }
   ]

@@ -1,36 +1,14 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-10-25T01:54:54.636Z",
+  "updated": "2026-10-26T01:56:32.131Z",
   "metas": [
-    {
-      "id": "tt5875444",
-      "type": "series",
-      "name": "Slow Horses",
-      "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-      "releaseInfo": "2022-",
-      "rank": 1,
-      "imdbRating": 8.4,
-      "imdbId": "tt5875444",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1792893282935",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6VWcSPawl9pSCNJC8G3KNeryVCz.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-      "background": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/A3LSzbNOitRlzmRlcEnpe0tAfBm.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/372264/clearlogo/656ea800b402e.png",
-      "posterShape": "landscape"
-    },
     {
       "id": "tt2531336",
       "type": "series",
       "name": "Lupin",
       "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
       "releaseInfo": "2021-",
-      "rank": 2,
+      "rank": 1,
       "imdbRating": 7.5,
       "imdbId": "tt2531336",
       "genres": [
@@ -38,7 +16,7 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1792893282935",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1792979775822",
       "HDPoster": "https://image.tmdb.org/t/p/original/f7CwtaRgSFBVzW81JJbUEcmRGgK.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
       "background": "https://image.tmdb.org/t/p/original/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
@@ -47,25 +25,23 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt11540908",
+      "id": "tt49692512",
       "type": "series",
-      "name": "Carrie",
-      "description": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+      "name": "Final Table",
+      "description": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
       "releaseInfo": "2026-",
-      "rank": 3,
-      "imdbRating": 7.9,
-      "imdbId": "tt11540908",
+      "rank": 2,
+      "imdbRating": null,
+      "imdbId": "tt49692512",
       "genres": [
-        "Mystery",
-        "Drama",
-        "Sci-Fi & Fantasy"
+        "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1792893282935",
-      "HDPoster": "https://image.tmdb.org/t/p/original/eS83I38AwNkZn1dETD63bgsukzP.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "background": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7CDmD9H4FRyTngJI717TrKIppb0.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/455755/clearlogo/6ac681ec0e5a8.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1792979775822",
+      "HDPoster": "https://image.tmdb.org/t/p/original/mf0klf0xpqW52G1TjDUxBL4u0x4.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+      "background": "https://image.tmdb.org/t/p/original/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/yNafNPWYUPEljFlaf7zScmunUTG.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/467673/clearlogo/6ad7c3139c4b6.png",
       "posterShape": "landscape"
     },
     {
@@ -74,104 +50,19 @@
       "name": "The Terminal List",
       "description": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
       "releaseInfo": "2022-",
-      "rank": 4,
+      "rank": 3,
       "imdbRating": 7.9,
       "imdbId": "tt11743610",
       "genres": [
         "Action & Adventure",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1792893282935",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1792979775822",
       "HDPoster": "https://image.tmdb.org/t/p/original/16pCkWuoPEqNDbgAUlhurz4T4vL.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
-      "background": "https://image.tmdb.org/t/p/original/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/yzFec3f0720rWW2Wr3SBC8rl8tl.jpg",
       "logo": "https://artworks.thetvdb.com/banners/v4/series/399917/clearlogo/629d00b0333b1.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt39980704",
-      "type": "series",
-      "name": "YAGA",
-      "description": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
-      "releaseInfo": "2026-",
-      "rank": 5,
-      "imdbRating": 7.8,
-      "imdbId": "tt39980704",
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1792893282935",
-      "HDPoster": "https://image.tmdb.org/t/p/original/jqAqmZghlJYuPVs5VkSI2ujXyfY.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
-      "background": "https://image.tmdb.org/t/p/original/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/2CXHs3IAkezweZnZnYjfvW4ofST.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/csAe6BpoxRFQoaZpETzOYuxUS2b.svg",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt31510819",
-      "type": "series",
-      "name": "MobLand",
-      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "releaseInfo": "2025-",
-      "rank": 6,
-      "imdbRating": 8.3,
-      "imdbId": "tt31510819",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1792893282935",
-      "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/446831/clearlogo/68fd77028683b.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt16358384",
-      "type": "series",
-      "name": "Tulsa King",
-      "description": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-      "releaseInfo": "2022-",
-      "rank": 7,
-      "imdbRating": 7.9,
-      "imdbId": "tt16358384",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1792893282935",
-      "HDPoster": "https://image.tmdb.org/t/p/original/ro6mCt4rHkSrLpu86pphY8Jn2lb.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-      "background": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/yxWDzf7cFQIL99m0o8iu4rrzzWr.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/413215/clearlogo/63c60802ef8df.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt23148340",
-      "type": "series",
-      "name": "Crystal Lake",
-      "description": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-      "releaseInfo": "2026-",
-      "rank": 8,
-      "imdbRating": 7.7,
-      "imdbId": "tt23148340",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1792893282935",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6thBvfTt3j29UOmyi9ycCRems0q.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "background": "https://image.tmdb.org/t/p/original/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/lmRhEpgSXF9yzFsJps3fzzpCZzd.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/426669/clearlogo/6aaaeb6967ab7.png",
       "posterShape": "landscape"
     },
     {
@@ -180,14 +71,14 @@
       "name": "VisionQuest",
       "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "releaseInfo": "2026-",
-      "rank": 9,
+      "rank": 4,
       "imdbRating": 8,
       "imdbId": "tt23112594",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1792893282935",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1792979775822",
       "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
       "background": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
@@ -196,24 +87,130 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt19231492",
+      "id": "tt11540908",
       "type": "series",
-      "name": "Dark Matter",
-      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "releaseInfo": "2024-",
-      "rank": 10,
-      "imdbRating": 7.6,
-      "imdbId": "tt19231492",
+      "name": "Carrie",
+      "description": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+      "releaseInfo": "2026-",
+      "rank": 5,
+      "imdbRating": 7.9,
+      "imdbId": "tt11540908",
       "genres": [
-        "Sci-Fi & Fantasy",
+        "Mystery",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1792979775822",
+      "HDPoster": "https://image.tmdb.org/t/p/original/eS83I38AwNkZn1dETD63bgsukzP.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7CDmD9H4FRyTngJI717TrKIppb0.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/455755/clearlogo/6ac681ec0e5a8.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt5875444",
+      "type": "series",
+      "name": "Slow Horses",
+      "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "releaseInfo": "2022-",
+      "rank": 6,
+      "imdbRating": 8.4,
+      "imdbId": "tt5875444",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1792979775822",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6VWcSPawl9pSCNJC8G3KNeryVCz.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/A3LSzbNOitRlzmRlcEnpe0tAfBm.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/372264/clearlogo/656ea800b402e.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt31510819",
+      "type": "series",
+      "name": "MobLand",
+      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "releaseInfo": "2025-",
+      "rank": 7,
+      "imdbRating": 8.3,
+      "imdbId": "tt31510819",
+      "genres": [
+        "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1792893282935",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2UFwBzMvbGEVJReVlSbsZfdMo2r.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "background": "https://image.tmdb.org/t/p/original/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/sj81WpEIjvUQFCMWKXOcejFlFTQ.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/393159/clearlogo/6632f3aa2d5bc.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1792979775822",
+      "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/446831/clearlogo/68fd77028683b.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt39980704",
+      "type": "series",
+      "name": "YAGA",
+      "description": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
+      "releaseInfo": "2026-",
+      "rank": 8,
+      "imdbRating": 7.5,
+      "imdbId": "tt39980704",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1792979775822",
+      "HDPoster": "https://image.tmdb.org/t/p/original/jqAqmZghlJYuPVs5VkSI2ujXyfY.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lVCFOjUDlZLMvTJxQ2t78MjTIqL.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/2CXHs3IAkezweZnZnYjfvW4ofST.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/csAe6BpoxRFQoaZpETzOYuxUS2b.svg",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt23148340",
+      "type": "series",
+      "name": "Crystal Lake",
+      "description": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+      "releaseInfo": "2026-",
+      "rank": 9,
+      "imdbRating": 7.7,
+      "imdbId": "tt23148340",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1792979775822",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6thBvfTt3j29UOmyi9ycCRems0q.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/lmRhEpgSXF9yzFsJps3fzzpCZzd.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/426669/clearlogo/6aaaeb6967ab7.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt0123366",
+      "type": "series",
+      "name": "The View",
+      "description": "ABC Daytime's morning chatfest, currently featuring Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin, and Ana Navarro discussing the most exciting events of the day. Hot topics in the news, the best experts in their field, celebrity interviews and general entertainment are all part of The View.",
+      "releaseInfo": "1997-",
+      "rank": 10,
+      "imdbRating": 2.4,
+      "imdbId": "tt0123366",
+      "genres": [
+        "Talk"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1792979775822",
+      "HDPoster": "https://image.tmdb.org/t/p/original/c5v6FCea3R0WG8u3qM5NvlfajxA.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/4Wx5GlCIr9fJ6HZRr6NQ9B0xPTN.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/72104/clearlogo/611e2c1feadce.png",
       "posterShape": "landscape"
     }
   ]
