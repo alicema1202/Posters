@@ -1,14 +1,35 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-10-28T02:43:33.176Z",
+  "updated": "2026-10-29T03:03:38.702Z",
   "metas": [
+    {
+      "id": "tt23112594",
+      "type": "series",
+      "name": "VisionQuest",
+      "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "releaseInfo": "2026-",
+      "rank": 1,
+      "imdbRating": 8,
+      "imdbId": "tt23112594",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1793242994603",
+      "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/426606/clearlogo/6aad13a381c66.png",
+      "posterShape": "portrait"
+    },
     {
       "id": "tt2531336",
       "type": "series",
       "name": "Lupin",
       "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
       "releaseInfo": "2021-",
-      "rank": 1,
+      "rank": 2,
       "imdbRating": 7.5,
       "imdbId": "tt2531336",
       "genres": [
@@ -16,33 +37,12 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1793155400506",
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1793242994603",
       "HDPoster": "https://image.tmdb.org/t/p/original/f7CwtaRgSFBVzW81JJbUEcmRGgK.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
       "background": "https://image.tmdb.org/t/p/original/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/zC8MxAeVzstKAeR39RHuEyP2SsW.jpg",
       "logo": "https://artworks.thetvdb.com/banners/v4/series/375921/clearlogo/611c7672ce07a.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt23112594",
-      "type": "series",
-      "name": "VisionQuest",
-      "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "releaseInfo": "2026-",
-      "rank": 2,
-      "imdbRating": 8,
-      "imdbId": "tt23112594",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1793155400506",
-      "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
-      "background": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/426606/clearlogo/6aad13a381c66.png",
       "posterShape": "portrait"
     },
     {
@@ -58,7 +58,7 @@
         "Action & Adventure",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1793155400506",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1793242994603",
       "HDPoster": "https://image.tmdb.org/t/p/original/16pCkWuoPEqNDbgAUlhurz4T4vL.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
       "background": "https://image.tmdb.org/t/p/original/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
@@ -67,33 +67,12 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt23148340",
-      "type": "series",
-      "name": "Crystal Lake",
-      "description": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-      "releaseInfo": "2026-",
-      "rank": 4,
-      "imdbRating": 7.7,
-      "imdbId": "tt23148340",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1793155400506",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6thBvfTt3j29UOmyi9ycCRems0q.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "background": "https://image.tmdb.org/t/p/original/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/lmRhEpgSXF9yzFsJps3fzzpCZzd.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/426669/clearlogo/6aaaeb6967ab7.png",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt11540908",
       "type": "series",
       "name": "Carrie",
       "description": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
       "releaseInfo": "2026-",
-      "rank": 5,
+      "rank": 4,
       "imdbRating": 7.9,
       "imdbId": "tt11540908",
       "genres": [
@@ -101,7 +80,7 @@
         "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1793155400506",
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1793242994603",
       "HDPoster": "https://image.tmdb.org/t/p/original/eS83I38AwNkZn1dETD63bgsukzP.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
       "background": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
@@ -110,44 +89,24 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt31510819",
+      "id": "tt23148340",
       "type": "series",
-      "name": "MobLand",
-      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "releaseInfo": "2025-",
-      "rank": 6,
-      "imdbRating": 8.3,
-      "imdbId": "tt31510819",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1793155400506",
-      "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/446831/clearlogo/68fd77028683b.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt42576855",
-      "type": "series",
-      "name": "Where the Mask Ends",
-      "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+      "name": "Crystal Lake",
+      "description": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
       "releaseInfo": "2026-",
-      "rank": 7,
-      "imdbRating": null,
-      "imdbId": "tt42576855",
+      "rank": 5,
+      "imdbRating": 7.7,
+      "imdbId": "tt23148340",
       "genres": [
-        "Drama"
+        "Drama",
+        "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1793155400506",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9LDnU2cpaFOQaL3wrGdxCaT0t9Z.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-      "background": "https://image.tmdb.org/t/p/original/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/hksEcCAEBmiXdVu5pe2hvv49ZXR.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/471705/clearlogo/6ad3fdef06ae7.png",
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1793242994603",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6thBvfTt3j29UOmyi9ycCRems0q.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/lmRhEpgSXF9yzFsJps3fzzpCZzd.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/426669/clearlogo/6aaaeb6967ab7.png",
       "posterShape": "portrait"
     },
     {
@@ -156,7 +115,7 @@
       "name": "Phony",
       "description": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
       "releaseInfo": "2026-",
-      "rank": 8,
+      "rank": 6,
       "imdbRating": 6.9,
       "imdbId": "tt21952924",
       "genres": [
@@ -164,7 +123,7 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1793155400506",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1793242994603",
       "HDPoster": "https://image.tmdb.org/t/p/original/cpJPmgFZESC027UcOAJgqWsiJln.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
       "background": "https://image.tmdb.org/t/p/original/AdFlgN6pKI6C481z2KshrQL204w.jpg",
@@ -178,14 +137,14 @@
       "name": "South Park",
       "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
       "releaseInfo": "1997-",
-      "rank": 9,
+      "rank": 7,
       "imdbRating": 8.7,
       "imdbId": "tt0121955",
       "genres": [
         "Comedy",
         "Animation"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1793155400506",
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1793242994603",
       "HDPoster": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
       "background": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
@@ -194,26 +153,70 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt45246384",
+      "id": "tt10691770",
       "type": "series",
-      "name": "Love in Disguise",
-      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-      "releaseInfo": "2026-",
-      "rank": 10,
-      "imdbRating": 7.1,
-      "imdbId": "tt45246384",
+      "name": "Helluva Boss",
+      "description": "In Hell, imp Blitzø (the 'o' is silent) runs an assassin business targeting the world of the living, using a spell book borrowed from a prince of the underworld. With employees Moxxie, Millie, and Loona, they attempt to survive each other while keeping business afloat.",
+      "releaseInfo": "2020-",
+      "rank": 8,
+      "imdbRating": 7.9,
+      "imdbId": "tt10691770",
       "genres": [
+        "Animation",
         "Comedy",
         "Drama",
-        "Crime",
-        "Action & Adventure"
+        "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1793155400506",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
-      "background": "https://image.tmdb.org/t/p/original/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/yKGgRHl9kGUhC4fjTiCNADPDT7k.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/469591/clearlogo/6ac7c41c4b31d.png",
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1793242994603",
+      "HDPoster": "https://image.tmdb.org/t/p/original/ix1H6XmQwPt2xbp1RyFK6N0WbK8.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
+      "background": "https://image.tmdb.org/t/p/original/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/f4nR2x18z8nVPKIK6te0mNFMyOS.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/391246/clearlogo/6727745f924c9.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt1844624",
+      "type": "series",
+      "name": "American Horror Story",
+      "description": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+      "releaseInfo": "2011-",
+      "rank": 9,
+      "imdbRating": 7.9,
+      "imdbId": "tt1844624",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1793242994603",
+      "HDPoster": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/fXULldppAZ9QEjpI1BNBM14EWZV.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/250487/clearlogo/611b5c621faa4.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt0206512",
+      "type": "series",
+      "name": "SpongeBob SquarePants",
+      "description": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+      "releaseInfo": "1999-",
+      "rank": 10,
+      "imdbRating": 8.2,
+      "imdbId": "tt0206512",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1793242994603",
+      "HDPoster": "https://image.tmdb.org/t/p/original/dwMcHBciv1ltLXsgeyf3tQ2W5za.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+      "background": "https://image.tmdb.org/t/p/original/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/oA6lj3R7ctfIW64lEle8rx3XH5d.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/75886/clearlogo/611b69f1bf910.png",
       "posterShape": "portrait"
     }
   ]
