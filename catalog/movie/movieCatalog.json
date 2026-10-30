@@ -1,68 +1,67 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-10-29T03:03:38.701Z",
+  "updated": "2026-10-30T03:08:12.762Z",
   "metas": [
-    {
-      "id": "tt32261958",
-      "type": "movie",
-      "name": "Verity",
-      "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-      "releaseInfo": "2026",
-      "rank": 1,
-      "genres": [
-        "Mystery",
-        "Thriller",
-        "Drama"
-      ],
-      "imdbRating": 6.1,
-      "imdbId": "tt32261958",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1793242994603",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wwOBQNOhQgYPBMBKRjbtLX27V2v.jpg",
-      "background": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/iT72Y5FgZxU8hEiwGP9Wb2xLtm9.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/xk8hyep02bTtTmZo6sh2d6ke0u5.svg",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt37180686",
-      "type": "movie",
-      "name": "Drive – The Pretenders",
-      "description": "A young race car mechanic fakes an engagement with racing's most scandalous star - officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything - including what's already become so much more than just a deal.",
-      "releaseInfo": "2026",
-      "rank": 2,
-      "genres": [
-        "Romance",
-        "Thriller"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt37180686",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1793242994603",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/dw5G9bYehBz2DrQeY6zrBM2SYrn.jpg",
-      "background": "https://image.tmdb.org/t/p/original/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/oFYDW8cgvedzLZuE5sceplckRTV.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/vIY7hkuhytQv8EgbeUvxjdUgVFL.png",
-      "posterShape": "portrait"
-    },
     {
       "id": "tt43655467",
       "type": "movie",
       "name": "Ali G: Who Iz I?",
       "description": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
       "releaseInfo": "2026",
-      "rank": 3,
+      "rank": 1,
       "genres": [
         "Comedy"
       ],
-      "imdbRating": 6.1,
+      "imdbRating": 5.7,
       "imdbId": "tt43655467",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1793242994603",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1793329649398",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/kx883SRQsRNTA965hgK04uHPARb.jpg",
-      "background": "https://image.tmdb.org/t/p/original/5V3eWbnYwbgnWsRFFYw9EvMhvEn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/dcTp4pV494fvJrFGKsgNQ8vZyzw.jpg",
       "logo": "https://image.tmdb.org/t/p/original/i5A8UZtgyduV5yhRl4RaIrKkmi8.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt32261958",
+      "type": "movie",
+      "name": "Verity",
+      "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+      "releaseInfo": "2026",
+      "rank": 2,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "imdbRating": 6,
+      "imdbId": "tt32261958",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1793329649398",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wwOBQNOhQgYPBMBKRjbtLX27V2v.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/iT72Y5FgZxU8hEiwGP9Wb2xLtm9.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/fG2vYehyvAyka220NGDUGeuabru.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt37180686",
+      "type": "movie",
+      "name": "Drive - The Pretenders",
+      "description": "A young race car mechanic fakes an engagement with racing's most scandalous star - officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything - including what's already become so much more than just a deal.",
+      "releaseInfo": "2026",
+      "rank": 3,
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt37180686",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1793329649398",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/dw5G9bYehBz2DrQeY6zrBM2SYrn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/oFYDW8cgvedzLZuE5sceplckRTV.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/vIY7hkuhytQv8EgbeUvxjdUgVFL.png",
       "posterShape": "portrait"
     },
     {
@@ -75,12 +74,11 @@
       "genres": [
         "Action",
         "Thriller",
-        "Science Fiction",
-        "Family"
+        "Science Fiction"
       ],
       "imdbRating": 6.4,
       "imdbId": "tt21285562",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1793242994603",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1793329649398",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/qWlpfLSP704hXccHMoJCqoOanMr.jpg",
       "background": "https://image.tmdb.org/t/p/original/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
@@ -89,12 +87,33 @@
       "posterShape": "portrait"
     },
     {
+      "id": "tt38504402",
+      "type": "movie",
+      "name": "You, Me, Us",
+      "description": "A couple faces the difficult path to adoption, determined to become parents despite their complex vulnerabilities.",
+      "releaseInfo": "2026",
+      "rank": 5,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt38504402",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1793329649398",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/4Gw8ukw5aAUP1uzNtYZ0CNTUy5A.jpg",
+      "HDPoster": null,
+      "background": "https://image.tmdb.org/t/p/original/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
+      "backdropPoster": null,
+      "logo": null,
+      "posterShape": "portrait"
+    },
+    {
       "id": "tt36583977",
       "type": "movie",
       "name": "Forgotten Island",
       "description": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
       "releaseInfo": "2026",
-      "rank": 5,
+      "rank": 6,
       "genres": [
         "Animation",
         "Adventure",
@@ -104,7 +123,7 @@
       ],
       "imdbRating": 7.7,
       "imdbId": "tt36583977",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1793242994603",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1793329649398",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/iU2RVy0G99XoDSUHvcQomtif5nP.jpg",
       "background": "https://image.tmdb.org/t/p/original/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
@@ -113,24 +132,47 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt31349844",
+      "id": "tt37287335",
       "type": "movie",
-      "name": "Runner",
-      "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+      "name": "Obsession",
+      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "releaseInfo": "2026",
-      "rank": 6,
+      "rank": 7,
       "genres": [
-        "Action",
-        "Comedy"
+        "Horror",
+        "Thriller"
       ],
-      "imdbRating": 6.2,
-      "imdbId": "tt31349844",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1793242994603",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/w8fEorMTwgMN9h1cgOb3yMggbiu.jpg",
-      "background": "https://image.tmdb.org/t/p/original/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qnljRFaateP78qdmgLvtNPOGOYM.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/pAnbApoi6DHwXzoKBfQU4M5Wr8t.png",
+      "imdbRating": 7.8,
+      "imdbId": "tt37287335",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1793329649398",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o5VincY0eEAq4GHHiKcWjSuNPCm.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt1756855",
+      "type": "movie",
+      "name": "Coyote vs. Acme",
+      "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "releaseInfo": "2026",
+      "rank": 8,
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Family",
+        "Animation"
+      ],
+      "imdbRating": 7.3,
+      "imdbId": "tt1756855",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1793329649398",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/oYWeCzV8gIjTE8U7ukmM6rK0ZDO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/4uKCk1L5pVWxjwCxMsbfhxWesGd.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/3m1raTve2RWZ0jfnUwHSnRtjVK3.png",
       "posterShape": "portrait"
     },
     {
@@ -139,7 +181,7 @@
       "name": "Hope",
       "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
       "releaseInfo": "2026",
-      "rank": 7,
+      "rank": 9,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -147,78 +189,33 @@
       ],
       "imdbRating": 6.6,
       "imdbId": "tt27369017",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1793242994603",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1793329649398",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/g9hYfjdk49vjyFvjv8uJIv5ASBZ.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/yHEUhKs95ZYR0WshH7qcJDaO5hw.jpg",
       "background": "https://image.tmdb.org/t/p/original/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/dg1UotKplZUIp1fAJSGhZjrTiCM.jpg",
       "logo": "https://image.tmdb.org/t/p/original/hJG3cSi9z40smOi4Fac07xIlAqZ.png",
       "posterShape": "portrait"
     },
     {
-      "id": "tt34611096",
+      "id": "tt31349844",
       "type": "movie",
-      "name": "The Stunt Driver",
-      "description": "Based on a true story, a Canadian stunt driver recruits a top sports manager and rocket car designers to attempt a record-breaking jump across the Saint Lawrence River, hoping to achieve fame and fortune.",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "History"
-      ],
-      "imdbRating": 6.3,
-      "imdbId": "tt34611096",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1793242994603",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/5GHGegwjUrX1euGolMCuESvHW7O.jpg",
-      "background": "https://image.tmdb.org/t/p/original/mCSWDVb87GpfQKEyvHIlBt6Obht.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/seAltz5HGpwyaCi8M3tkheZ42Zi.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/k9vCHe6h3eHvO8xzkCjGdfdyd81.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt32358390",
-      "type": "movie",
-      "name": "The Cycle",
-      "description": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "Crime",
-        "Horror",
-        "Thriller"
-      ],
-      "imdbRating": 6.5,
-      "imdbId": "tt32358390",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1793242994603",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/3CIYPqdWTc74Th8VCLhH7COTmqp.jpg",
-      "background": "https://image.tmdb.org/t/p/original/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/dlqIMHwt5MIbs7EGmxnLfmLpd43.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/ziR1y1HXqb2dl7Y0HAvYicBTka8.svg",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt22084616",
-      "type": "movie",
-      "name": "Spider-Man: Brand New Day",
-      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "name": "Runner",
+      "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
       "releaseInfo": "2026",
       "rank": 10,
       "genres": [
-        "Science Fiction",
         "Action",
-        "Adventure"
+        "Comedy"
       ],
-      "imdbRating": 7.9,
-      "imdbId": "tt22084616",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1793242994603",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
-      "background": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/yxOxOBxspl3NgC676W62G02g1cR.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
+      "imdbRating": 6.2,
+      "imdbId": "tt31349844",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1793329649398",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/w8fEorMTwgMN9h1cgOb3yMggbiu.jpg",
+      "background": "https://image.tmdb.org/t/p/original/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/qnljRFaateP78qdmgLvtNPOGOYM.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/pAnbApoi6DHwXzoKBfQU4M5Wr8t.png",
       "posterShape": "portrait"
     }
   ]
