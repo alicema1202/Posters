@@ -1,44 +1,42 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-11-02T02:55:05.695Z",
+  "updated": "2026-11-03T04:12:55.006Z",
   "metas": [
+    {
+      "id": "tt4406178",
+      "type": "series",
+      "name": "The Gilded Age",
+      "description": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
+      "releaseInfo": "2022-",
+      "rank": 1,
+      "imdbRating": 8.1,
+      "imdbId": "tt4406178",
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1793679146416",
+      "HDPoster": "https://image.tmdb.org/t/p/original/2TF4AoyiONiEdk04eJOSvDWQHVG.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1793679146416",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/d1kjaqz6npBPo3V7sC5MvV5GGbz.jpg"
+    },
     {
       "id": "tt36458668",
       "type": "series",
       "name": "Dead-End Job",
       "description": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
       "releaseInfo": "2026",
-      "rank": 1,
+      "rank": 2,
       "imdbRating": 7.2,
       "imdbId": "tt36458668",
       "genres": [
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1793588085732",
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1793679146416",
       "HDPoster": "https://image.tmdb.org/t/p/original/y0H5sosH9JCm8pgTFFIrnKKHFq4.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1793588085732",
+      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1793679146416",
       "backdropPoster": "https://image.tmdb.org/t/p/original/7T2OOuoxdW1sxfSjvg7ezueaFin.jpg"
-    },
-    {
-      "id": "tt33043892",
-      "type": "series",
-      "name": "Dexter: Resurrection",
-      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "releaseInfo": "2025-",
-      "rank": 2,
-      "imdbRating": 9,
-      "imdbId": "tt33043892",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1793588085732",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1793588085732",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/xUTaKnjLFhUe9IfGLF9H3ImFi8k.jpg"
     },
     {
       "id": "tt2531336",
@@ -54,30 +52,31 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1793588085732",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1793679146416",
       "HDPoster": "https://image.tmdb.org/t/p/original/f7CwtaRgSFBVzW81JJbUEcmRGgK.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1793588085732",
+      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1793679146416",
       "backdropPoster": "https://image.tmdb.org/t/p/original/zC8MxAeVzstKAeR39RHuEyP2SsW.jpg"
     },
     {
-      "id": "tt19244304",
+      "id": "tt33043892",
       "type": "series",
-      "name": "IT: Welcome to Derry",
-      "description": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+      "name": "Dexter: Resurrection",
+      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
       "releaseInfo": "2025-",
       "rank": 4,
-      "imdbRating": 7.9,
-      "imdbId": "tt19244304",
+      "imdbRating": 9,
+      "imdbId": "tt33043892",
       "genres": [
+        "Crime",
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1793588085732",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6KBpIWkCKfl5U0s1FyQpG53p7Fn.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1793588085732",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/xcxFRWCE4ccsaGEEPnvvRR32f6Y.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1793679146416",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1793679146416",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/xUTaKnjLFhUe9IfGLF9H3ImFi8k.jpg"
     },
     {
       "id": "tt31510819",
@@ -92,31 +91,11 @@
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1793588085732",
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1793679146416",
       "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1793588085732",
+      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1793679146416",
       "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg"
-    },
-    {
-      "id": "tt26598805",
-      "type": "series",
-      "name": "Nocturne",
-      "description": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
-      "releaseInfo": "2026-",
-      "rank": 6,
-      "imdbRating": null,
-      "imdbId": "tt26598805",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1793588085732",
-      "HDPoster": "https://image.tmdb.org/t/p/original/4drDox9ypUrAProgRNSQjrr6zQR.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1793588085732",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/yllwzRiqYnUXSV4TwvQz0MVstGL.jpg"
     },
     {
       "id": "tt23112594",
@@ -124,76 +103,95 @@
       "name": "VisionQuest",
       "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "releaseInfo": "2026-",
-      "rank": 7,
-      "imdbRating": 7.9,
+      "rank": 6,
+      "imdbRating": 7.8,
       "imdbId": "tt23112594",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1793588085732",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1793679146416",
       "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1793588085732",
+      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1793679146416",
       "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg"
     },
     {
-      "id": "tt19231492",
+      "id": "tt26598805",
       "type": "series",
-      "name": "Dark Matter",
-      "description": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "releaseInfo": "2024-",
-      "rank": 8,
-      "imdbRating": 7.6,
-      "imdbId": "tt19231492",
+      "name": "Nocturne",
+      "description": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+      "releaseInfo": "2026-",
+      "rank": 7,
+      "imdbRating": 7.5,
+      "imdbId": "tt26598805",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
+        "Crime",
+        "Drama",
+        "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1793588085732",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2UFwBzMvbGEVJReVlSbsZfdMo2r.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1793588085732",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/nKbcRnd3STGmoKYZus16l36YqWR.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1793679146416",
+      "HDPoster": "https://image.tmdb.org/t/p/original/4drDox9ypUrAProgRNSQjrr6zQR.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1793679146416",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/yllwzRiqYnUXSV4TwvQz0MVstGL.jpg"
     },
     {
-      "id": "tt47657141",
+      "id": "tt42576855",
       "type": "series",
-      "name": "The Perfect Lie",
-      "description": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
+      "name": "Where the Mask Ends",
+      "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+      "releaseInfo": "2026-",
+      "rank": 8,
+      "imdbRating": null,
+      "imdbId": "tt42576855",
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1793679146416",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9LDnU2cpaFOQaL3wrGdxCaT0t9Z.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1793679146416",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/hksEcCAEBmiXdVu5pe2hvv49ZXR.jpg"
+    },
+    {
+      "id": "tt36849871",
+      "type": "series",
+      "name": "Marshals",
+      "description": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
       "releaseInfo": "2026-",
       "rank": 9,
-      "imdbRating": null,
-      "imdbId": "tt47657141",
+      "imdbRating": 6.2,
+      "imdbId": "tt36849871",
       "genres": [
         "Drama",
         "Crime",
-        "Mystery"
+        "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1793588085732",
-      "HDPoster": "https://image.tmdb.org/t/p/original/rYRlpL4vgCqk6pmNNqGkMtTxI4y.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1793588085732",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/jztHpl2h5wXykrltiL3Dms1it45.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1793679146416",
+      "HDPoster": "https://image.tmdb.org/t/p/original/ipW2alnIHWHlpPjbPxi5cQcsCzS.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1793679146416",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/Z2nsorZhADARy3717Lzll9gLf6.jpg"
     },
     {
-      "id": "tt43736405",
+      "id": "tt11379026",
       "type": "series",
-      "name": "A Love Other Than Yours",
-      "description": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
-      "releaseInfo": "2026",
+      "name": "Ghosts",
+      "description": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
+      "releaseInfo": "2021-",
       "rank": 10,
-      "imdbRating": 6.3,
-      "imdbId": "tt43736405",
+      "imdbRating": 7.9,
+      "imdbId": "tt11379026",
       "genres": [
-        "Drama",
-        "Comedy"
+        "Comedy",
+        "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1793588085732",
-      "HDPoster": "https://image.tmdb.org/t/p/original/auiu4giz7AMlLlaRpZPlOP3mgIT.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1793588085732",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/8gdfb5jCq1GC9k02IPxLADvsKSh.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1793679146416",
+      "HDPoster": "https://image.tmdb.org/t/p/original/l724XqDmjNObhAz2VwAR9zA8FeB.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1793679146416",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/6CF94ni9eQNYolZ0Uf0lAda3woe.jpg"
     }
   ]
 }
