@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-11-03T04:12:55.006Z",
+  "updated": "2026-11-04T03:30:48.999Z",
   "metas": [
     {
       "id": "tt35538033",
@@ -16,110 +16,30 @@
       ],
       "imdbRating": 7.5,
       "imdbId": "tt35538033",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1793679146416",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/rIDUVjg7s6McmpZpVA7ZNDrNI1w.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1793679146416",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1793763030672",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/4MUVaG44jg3dEuu1bZKBSVnWyC9.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1793763030672",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9YzsMLLSpCbAiDiEXlwkZr3m5Ri.jpg"
     },
     {
-      "id": "tt50389959",
+      "id": "tt34206385",
       "type": "movie",
-      "name": "A Story of Derry",
-      "description": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+      "name": "Primetime",
+      "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
       "releaseInfo": "2026",
       "rank": 2,
       "genres": [
-        "Drama",
-        "Horror",
-        "Mystery"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt50389959",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1793679146416",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xatgo1jY01aMX0CAAVUKArkkvyE.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1793679146416",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qCGWDJg1Y9qXfW1F55BNPNvOyjW.jpg"
-    },
-    {
-      "id": "tt37522541",
-      "type": "movie",
-      "name": "Apocalypse Z: New World",
-      "description": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-      "releaseInfo": "2026",
-      "rank": 3,
-      "genres": [
-        "Action",
         "Thriller",
-        "Horror"
+        "Drama"
       ],
-      "imdbRating": 5.2,
-      "imdbId": "tt37522541",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1793679146416",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/rsplI45pVrTbySO7MqQgW9HLXvj.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1793679146416",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/mnrdqPMgo9BnTyRIaNtfkuZRSzw.jpg"
-    },
-    {
-      "id": "tt32261958",
-      "type": "movie",
-      "name": "Verity",
-      "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-      "releaseInfo": "2026",
-      "rank": 4,
-      "genres": [
-        "Mystery",
-        "Thriller"
-      ],
-      "imdbRating": 6,
-      "imdbId": "tt32261958",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1793679146416",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wwOBQNOhQgYPBMBKRjbtLX27V2v.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1793679146416",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/iT72Y5FgZxU8hEiwGP9Wb2xLtm9.jpg"
-    },
-    {
-      "id": "tt38793125",
-      "type": "movie",
-      "name": "Collision Course",
-      "description": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
-      "releaseInfo": "2026",
-      "rank": 5,
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Crime"
-      ],
-      "imdbRating": 5.7,
-      "imdbId": "tt38793125",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1793679146416",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/gkbpKERTNlzTR9BFkGfNsLA8R9G.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1793679146416",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bRkK2KbLUpYaauUGUtw45LRnaXL.jpg"
-    },
-    {
-      "id": "tt21285562",
-      "type": "movie",
-      "name": "The Dog Stars",
-      "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-      "releaseInfo": "2026",
-      "rank": 6,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Science Fiction"
-      ],
-      "imdbRating": 6.3,
-      "imdbId": "tt21285562",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1793679146416",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/qWlpfLSP704hXccHMoJCqoOanMr.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1793679146416",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o3TY0dc236CM7eMwAsyghcXIzBL.jpg"
+      "imdbRating": 7.1,
+      "imdbId": "tt34206385",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1793763030672",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9DLdnwZVgfqZMpMhj63cNhdLwQB.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1793763030672",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/CZEiZZn9yYD0zybwCIitDWM0nq.jpg"
     },
     {
       "id": "tt10377864",
@@ -127,59 +47,116 @@
       "name": "Beware Boiúna",
       "description": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
       "releaseInfo": "2026",
-      "rank": 7,
+      "rank": 3,
       "genres": [
         "Horror",
-        "Thriller"
+        "Thriller",
+        "Action"
       ],
       "imdbRating": 6,
       "imdbId": "tt10377864",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1793679146416",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1793763030672",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/fa8YqePFE4Cohp2kGsR97AJExq0.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1793679146416",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/7J2KlOwFXV3qQgeLno8rx941hH7.jpg"
+      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1793763030672",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/uFu2KMofqpdPm32qBhroyb6vx6r.jpg"
     },
     {
-      "id": "tt37287335",
+      "id": "tt37458193",
       "type": "movie",
-      "name": "Obsession",
-      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "name": "My Best Friend",
+      "description": "When empty nest syndrome hits, two BFFs follow their teen daughters to Portugal and find love, fun and a whole new meaning of friendship along the way.",
+      "releaseInfo": "2026",
+      "rank": 4,
+      "genres": [
+        "Comedy"
+      ],
+      "imdbRating": 7,
+      "imdbId": "tt37458193",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1793763030672",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+      "HDPoster": null,
+      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1793763030672",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/uSxjRIFbNIg6huYX0RbBG7o5H6D.jpg"
+    },
+    {
+      "id": "tt50389959",
+      "type": "movie",
+      "name": "A Story of Derry",
+      "description": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+      "releaseInfo": "2026",
+      "rank": 5,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt50389959",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1793763030672",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/xatgo1jY01aMX0CAAVUKArkkvyE.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1793763030672",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/qCGWDJg1Y9qXfW1F55BNPNvOyjW.jpg"
+    },
+    {
+      "id": "tt32261958",
+      "type": "movie",
+      "name": "Verity",
+      "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+      "releaseInfo": "2026",
+      "rank": 6,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "imdbRating": 6,
+      "imdbId": "tt32261958",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1793763030672",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wwOBQNOhQgYPBMBKRjbtLX27V2v.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1793763030672",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/iT72Y5FgZxU8hEiwGP9Wb2xLtm9.jpg"
+    },
+    {
+      "id": "tt13884466",
+      "type": "movie",
+      "name": "Model Citizen",
+      "description": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
+      "releaseInfo": "2026",
+      "rank": 7,
+      "genres": [
+        "Crime",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt13884466",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1793763030672",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/jSxPO4huox9boffuOANyNbiacv5.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1793763030672",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/duuH76uKtbB2nFm3esFztPkVAMt.jpg"
+    },
+    {
+      "id": "tt37522541",
+      "type": "movie",
+      "name": "Apocalypse Z: New World",
+      "description": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
       "releaseInfo": "2026",
       "rank": 8,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Action",
+        "Thriller",
+        "Horror"
       ],
-      "imdbRating": 7.8,
-      "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1793679146416",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1793679146416",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o5VincY0eEAq4GHHiKcWjSuNPCm.jpg"
-    },
-    {
-      "id": "tt36583977",
-      "type": "movie",
-      "name": "Forgotten Island",
-      "description": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Fantasy",
-        "Comedy",
-        "Family"
-      ],
-      "imdbRating": 7.6,
-      "imdbId": "tt36583977",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1793679146416",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/iU2RVy0G99XoDSUHvcQomtif5nP.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1793679146416",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/ewNyFpLB2oLZSDkgSN8ea2zqeIY.jpg"
+      "imdbRating": 5.2,
+      "imdbId": "tt37522541",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1793763030672",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/rsplI45pVrTbySO7MqQgW9HLXvj.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1793763030672",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/mnrdqPMgo9BnTyRIaNtfkuZRSzw.jpg"
     },
     {
       "id": "tt27369017",
@@ -187,7 +164,7 @@
       "name": "Hope",
       "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
       "releaseInfo": "2026",
-      "rank": 10,
+      "rank": 9,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -195,11 +172,31 @@
       ],
       "imdbRating": 6.6,
       "imdbId": "tt27369017",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1793679146416",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1793763030672",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/yHEUhKs95ZYR0WshH7qcJDaO5hw.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1793679146416",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1793763030672",
       "backdropPoster": "https://image.tmdb.org/t/p/original/dg1UotKplZUIp1fAJSGhZjrTiCM.jpg"
+    },
+    {
+      "id": "tt22084616",
+      "type": "movie",
+      "name": "Spider-Man: Brand New Day",
+      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "releaseInfo": "2026",
+      "rank": 10,
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "imdbRating": 7.9,
+      "imdbId": "tt22084616",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1793763030672",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1793763030672",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/yxOxOBxspl3NgC676W62G02g1cR.jpg"
     }
   ]
 }
