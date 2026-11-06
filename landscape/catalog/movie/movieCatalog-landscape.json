@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-11-05T03:52:52.680Z",
+  "updated": "2026-11-06T03:50:28.695Z",
   "metas": [
     {
       "id": "tt35538033",
@@ -16,7 +16,7 @@
       ],
       "imdbRating": 7.5,
       "imdbId": "tt35538033",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1793850763219",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1793937017192",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/4MUVaG44jg3dEuu1bZKBSVnWyC9.jpg",
       "background": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
@@ -25,24 +25,25 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt38515310",
+      "id": "tt13884466",
       "type": "movie",
-      "name": "A Dog's Perfect Christmas",
-      "description": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
+      "name": "Model Citizen",
+      "description": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
       "releaseInfo": "2026",
       "rank": 2,
       "genres": [
-        "Comedy",
-        "Drama"
+        "Crime",
+        "Science Fiction",
+        "Thriller"
       ],
-      "imdbRating": null,
-      "imdbId": "tt38515310",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1793850763219",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
-      "HDPoster": null,
-      "background": "https://image.tmdb.org/t/p/original/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qxbtN0FKqn22AHAIgqSOOVxGUB9.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/ldi3LYSHGJINmIKaATfuuKYZfdH.png",
+      "imdbRating": 5.3,
+      "imdbId": "tt13884466",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1793937017192",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/z4ZaKj4yQ4OOrW3ieYjtDI9PQ82.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5MBdRdiGv3AKzZDGbni88xc6JFi.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/c1o0FU30Ar5eyf2aT5mftyIHBQu.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/yiBvWvAKwVKmTLyFESSVdhiO2rk.png",
       "posterShape": "landscape"
     },
     {
@@ -56,9 +57,9 @@
         "Thriller",
         "Drama"
       ],
-      "imdbRating": 7.1,
+      "imdbRating": 7,
       "imdbId": "tt34206385",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1793850763219",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1793937017192",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/9DLdnwZVgfqZMpMhj63cNhdLwQB.jpg",
       "background": "https://image.tmdb.org/t/p/original/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
@@ -67,25 +68,67 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt13884466",
+      "id": "tt39750664",
       "type": "movie",
-      "name": "Model Citizen",
-      "description": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
+      "name": "Overacting",
+      "description": "When her father's memories as a retired top cop resurface, a struggling actress stages wild missions to keep him from pursuing his elusive archnemesis.",
       "releaseInfo": "2026",
       "rank": 4,
       "genres": [
-        "Crime",
-        "Science Fiction",
-        "Thriller"
+        "Action",
+        "Adventure",
+        "Comedy"
       ],
       "imdbRating": null,
-      "imdbId": "tt13884466",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1793850763219",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+      "imdbId": "tt39750664",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1793937017192",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rve2a7JXJbXivl0JakEWgc9Fhwh.jpg",
       "HDPoster": null,
-      "background": "https://image.tmdb.org/t/p/original/5MBdRdiGv3AKzZDGbni88xc6JFi.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/c1o0FU30Ar5eyf2aT5mftyIHBQu.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/yiBvWvAKwVKmTLyFESSVdhiO2rk.png",
+      "background": "https://image.tmdb.org/t/p/original/5pMZA0EdgE66jcSCkfDCAtWiizk.jpg",
+      "backdropPoster": null,
+      "logo": "https://image.tmdb.org/t/p/original/x31k29qzMOHnlhqtTFdJipsEtGt.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt39400541",
+      "type": "movie",
+      "name": "One Year to Live, Buy a Man",
+      "description": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
+      "releaseInfo": "2026",
+      "rank": 5,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt39400541",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1793937017192",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fez7kLyGzpowduJapTFZZ1feCS0.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/cJps20CPiRKrTzBpIvDAZWpCG9T.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+      "backdropPoster": null,
+      "logo": "https://image.tmdb.org/t/p/original/xs49REuH8rgi8n8EYSwMGEZCGkY.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt38515310",
+      "type": "movie",
+      "name": "A Dog's Perfect Christmas",
+      "description": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
+      "releaseInfo": "2026",
+      "rank": 6,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt38515310",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1793937017192",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+      "HDPoster": null,
+      "background": "https://image.tmdb.org/t/p/original/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/qxbtN0FKqn22AHAIgqSOOVxGUB9.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/ldi3LYSHGJINmIKaATfuuKYZfdH.png",
       "posterShape": "landscape"
     },
     {
@@ -94,14 +137,14 @@
       "name": "Verity",
       "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
       "releaseInfo": "2026",
-      "rank": 5,
+      "rank": 7,
       "genres": [
         "Mystery",
         "Thriller"
       ],
       "imdbRating": 6,
       "imdbId": "tt32261958",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1793850763219",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1793937017192",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/wwOBQNOhQgYPBMBKRjbtLX27V2v.jpg",
       "background": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
@@ -110,76 +153,12 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt10377864",
-      "type": "movie",
-      "name": "Beware Boiúna",
-      "description": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
-      "releaseInfo": "2026",
-      "rank": 6,
-      "genres": [
-        "Horror",
-        "Thriller",
-        "Action"
-      ],
-      "imdbRating": 5.9,
-      "imdbId": "tt10377864",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1793850763219",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fa8YqePFE4Cohp2kGsR97AJExq0.jpg",
-      "background": "https://image.tmdb.org/t/p/original/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/uFu2KMofqpdPm32qBhroyb6vx6r.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/tXwK1k2mQNQWFoliXDXoUhzT55m.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt50389959",
-      "type": "movie",
-      "name": "A Story of Derry",
-      "description": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-      "releaseInfo": "2026",
-      "rank": 7,
-      "genres": [
-        "Drama",
-        "Horror",
-        "Mystery"
-      ],
-      "imdbRating": 6.8,
-      "imdbId": "tt50389959",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1793850763219",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/xatgo1jY01aMX0CAAVUKArkkvyE.jpg",
-      "background": "https://image.tmdb.org/t/p/original/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qCGWDJg1Y9qXfW1F55BNPNvOyjW.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/cujdalUVXeFNfgGpzk3kdNF4DMQ.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt37458193",
-      "type": "movie",
-      "name": "My Best Friend",
-      "description": "When empty nest syndrome hits, two BFFs follow their teen daughters to Portugal and find love, fun and a whole new meaning of friendship along the way.",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "genres": [
-        "Comedy"
-      ],
-      "imdbRating": 6.7,
-      "imdbId": "tt37458193",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1793850763219",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
-      "HDPoster": null,
-      "background": "https://image.tmdb.org/t/p/original/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/uSxjRIFbNIg6huYX0RbBG7o5H6D.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/qd6Kwx2J36FGDsyqKaDhlQKshFp.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt22084616",
       "type": "movie",
       "name": "Spider-Man: Brand New Day",
       "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "releaseInfo": "2026",
-      "rank": 9,
+      "rank": 8,
       "genres": [
         "Science Fiction",
         "Action",
@@ -187,12 +166,33 @@
       ],
       "imdbRating": 7.9,
       "imdbId": "tt22084616",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1793850763219",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1793937017192",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
       "background": "https://image.tmdb.org/t/p/original/dzeCorl61ZdxbzfnciUkrc8JSZj.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/yxOxOBxspl3NgC676W62G02g1cR.jpg",
       "logo": "https://image.tmdb.org/t/p/original/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt37287335",
+      "type": "movie",
+      "name": "Obsession",
+      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "releaseInfo": "2026",
+      "rank": 9,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdbRating": 7.8,
+      "imdbId": "tt37287335",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1793937017192",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o5VincY0eEAq4GHHiKcWjSuNPCm.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
       "posterShape": "landscape"
     },
     {
@@ -208,7 +208,7 @@
       ],
       "imdbRating": 7.8,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1793850763219",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1793937017192",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
       "background": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
