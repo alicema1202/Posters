@@ -1,14 +1,34 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-11-06T03:50:28.696Z",
+  "updated": "2026-11-07T03:24:44.818Z",
   "metas": [
+    {
+      "id": "tt13884466",
+      "type": "movie",
+      "name": "Model Citizen",
+      "description": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
+      "releaseInfo": "2026",
+      "rank": 1,
+      "genres": [
+        "Crime",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdbRating": 4,
+      "imdbId": "tt13884466",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1794021866058",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/z4ZaKj4yQ4OOrW3ieYjtDI9PQ82.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1794021866058",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/c1o0FU30Ar5eyf2aT5mftyIHBQu.jpg"
+    },
     {
       "id": "tt35538033",
       "type": "movie",
       "name": "Resident Evil",
       "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
       "releaseInfo": "2026",
-      "rank": 1,
+      "rank": 2,
       "genres": [
         "Horror",
         "Science Fiction",
@@ -16,31 +36,11 @@
       ],
       "imdbRating": 7.5,
       "imdbId": "tt35538033",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1793937017192",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1794021866058",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/4MUVaG44jg3dEuu1bZKBSVnWyC9.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1793937017192",
+      "HDPoster": "https://image.tmdb.org/t/p/original/qBzH6VAkjYTGP4MGvMYGasu8ZA0.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1794021866058",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9YzsMLLSpCbAiDiEXlwkZr3m5Ri.jpg"
-    },
-    {
-      "id": "tt13884466",
-      "type": "movie",
-      "name": "Model Citizen",
-      "description": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
-      "releaseInfo": "2026",
-      "rank": 2,
-      "genres": [
-        "Crime",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "imdbRating": 5.3,
-      "imdbId": "tt13884466",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1793937017192",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/z4ZaKj4yQ4OOrW3ieYjtDI9PQ82.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1793937017192",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/c1o0FU30Ar5eyf2aT5mftyIHBQu.jpg"
     },
     {
       "id": "tt34206385",
@@ -55,31 +55,11 @@
       ],
       "imdbRating": 7,
       "imdbId": "tt34206385",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1793937017192",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1794021866058",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/9DLdnwZVgfqZMpMhj63cNhdLwQB.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1793937017192",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1794021866058",
       "backdropPoster": "https://image.tmdb.org/t/p/original/CZEiZZn9yYD0zybwCIitDWM0nq.jpg"
-    },
-    {
-      "id": "tt39750664",
-      "type": "movie",
-      "name": "Overacting",
-      "description": "When her father's memories as a retired top cop resurface, a struggling actress stages wild missions to keep him from pursuing his elusive archnemesis.",
-      "releaseInfo": "2026",
-      "rank": 4,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt39750664",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1793937017192",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rve2a7JXJbXivl0JakEWgc9Fhwh.jpg",
-      "HDPoster": null,
-      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1793937017192",
-      "backdropPoster": null
     },
     {
       "id": "tt39400541",
@@ -87,18 +67,38 @@
       "name": "One Year to Live, Buy a Man",
       "description": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
       "releaseInfo": "2026",
-      "rank": 5,
+      "rank": 4,
       "genres": [
         "Romance",
         "Drama"
       ],
       "imdbRating": null,
       "imdbId": "tt39400541",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1793937017192",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1794021866058",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/fez7kLyGzpowduJapTFZZ1feCS0.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/cJps20CPiRKrTzBpIvDAZWpCG9T.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1793937017192",
-      "backdropPoster": null
+      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1794021866058",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/2ZiZMQQ8sn2WNlxpmR9CDy03Dv.jpg"
+    },
+    {
+      "id": "tt39750664",
+      "type": "movie",
+      "name": "Overacting",
+      "description": "When her father's memories as a retired top cop resurface, a struggling actress stages wild missions to keep him from pursuing his elusive archnemesis.",
+      "releaseInfo": "2026",
+      "rank": 5,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt39750664",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1794021866058",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rve2a7JXJbXivl0JakEWgc9Fhwh.jpg",
+      "HDPoster": null,
+      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1794021866058",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/wiERbgQuyLpeUDiVcfPREZdTgXP.jpg"
     },
     {
       "id": "tt38515310",
@@ -111,12 +111,12 @@
         "Comedy",
         "Drama"
       ],
-      "imdbRating": null,
+      "imdbRating": 6.4,
       "imdbId": "tt38515310",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1793937017192",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1794021866058",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
       "HDPoster": null,
-      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1793937017192",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1794021866058",
       "backdropPoster": "https://image.tmdb.org/t/p/original/qxbtN0FKqn22AHAIgqSOOVxGUB9.jpg"
     },
     {
@@ -132,10 +132,10 @@
       ],
       "imdbRating": 6,
       "imdbId": "tt32261958",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1793937017192",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1794021866058",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/wwOBQNOhQgYPBMBKRjbtLX27V2v.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1793937017192",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1794021866058",
       "backdropPoster": "https://image.tmdb.org/t/p/original/iT72Y5FgZxU8hEiwGP9Wb2xLtm9.jpg"
     },
     {
@@ -152,10 +152,10 @@
       ],
       "imdbRating": 7.9,
       "imdbId": "tt22084616",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1793937017192",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1794021866058",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1793937017192",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1794021866058",
       "backdropPoster": "https://image.tmdb.org/t/p/original/yxOxOBxspl3NgC676W62G02g1cR.jpg"
     },
     {
@@ -171,30 +171,31 @@
       ],
       "imdbRating": 7.8,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1793937017192",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1794021866058",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1793937017192",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1794021866058",
       "backdropPoster": "https://image.tmdb.org/t/p/original/o5VincY0eEAq4GHHiKcWjSuNPCm.jpg"
     },
     {
-      "id": "tt37287335",
+      "id": "tt27369017",
       "type": "movie",
-      "name": "Obsession",
-      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "name": "Hope",
+      "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
       "releaseInfo": "2026",
       "rank": 10,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Science Fiction",
+        "Mystery",
+        "Action"
       ],
-      "imdbRating": 7.8,
-      "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1793937017192",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1793937017192",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o5VincY0eEAq4GHHiKcWjSuNPCm.jpg"
+      "imdbRating": 6.6,
+      "imdbId": "tt27369017",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1794021866058",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/yHEUhKs95ZYR0WshH7qcJDaO5hw.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1794021866058",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/dg1UotKplZUIp1fAJSGhZjrTiCM.jpg"
     }
   ]
 }
