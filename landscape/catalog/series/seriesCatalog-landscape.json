@@ -1,14 +1,35 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-11-08T02:53:19.749Z",
+  "updated": "2026-11-09T03:12:20.592Z",
   "metas": [
+    {
+      "id": "tt10946316",
+      "type": "series",
+      "name": "The Institute",
+      "description": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
+      "releaseInfo": "2025-",
+      "rank": 1,
+      "imdbRating": 6.7,
+      "imdbId": "tt10946316",
+      "genres": [
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1794193925727",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6E1CyqJ4WwTqyl0crJq4DAkL24B.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/4MwXkOAMd9ObxdacasPFM32n9dZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/aaXaJgX4L20j16ODQk9JNvff4Fm.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/451177/clearlogo/688f9d6b75806.png",
+      "posterShape": "landscape"
+    },
     {
       "id": "tt27995113",
       "type": "series",
       "name": "Black Doves",
       "description": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
       "releaseInfo": "2024-",
-      "rank": 1,
+      "rank": 2,
       "imdbRating": 7.2,
       "imdbId": "tt27995113",
       "genres": [
@@ -16,7 +37,7 @@
         "Mystery",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1794106377703",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1794193925727",
       "HDPoster": "https://image.tmdb.org/t/p/original/AjBS6Tv1gAMNTSMFEPk7J4ZIiAd.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
       "background": "https://image.tmdb.org/t/p/original/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
@@ -25,44 +46,24 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt31510819",
+      "id": "tt23112594",
       "type": "series",
-      "name": "MobLand",
-      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "releaseInfo": "2025-",
-      "rank": 2,
-      "imdbRating": 8.3,
-      "imdbId": "tt31510819",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1794106377703",
-      "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/446831/clearlogo/68fd77028683b.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt39943756",
-      "type": "series",
-      "name": "Campus Drivers",
-      "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
+      "name": "VisionQuest",
+      "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "releaseInfo": "2026-",
       "rank": 3,
-      "imdbRating": null,
-      "imdbId": "tt39943756",
+      "imdbRating": 7.8,
+      "imdbId": "tt23112594",
       "genres": [
+        "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1794106377703",
-      "HDPoster": "https://image.tmdb.org/t/p/original/nuTFlfjKuTEX7FwYgDajp7Yqjoe.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/br6TrAPctmobu6QM730sBEC18eH.jpg",
-      "background": "https://image.tmdb.org/t/p/original/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/F0kIlqnAqXIwPgzeBIc1Qubnwi.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/468646/clearlogo/6aed2c70cd7ed.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1794193925727",
+      "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/molehSx8FQUupIDxxYLDse5DAVV.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/426606/clearlogo/6aad13a381c66.png",
       "posterShape": "landscape"
     },
     {
@@ -79,7 +80,7 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1794106377703",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1794193925727",
       "HDPoster": "https://image.tmdb.org/t/p/original/bljqsTdpDtACLk9Kt5fOAitieyB.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
       "background": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
@@ -88,88 +89,44 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt39325975",
+      "id": "tt31510819",
       "type": "series",
-      "name": "The Remarried Empress",
-      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "releaseInfo": "2026-",
+      "name": "MobLand",
+      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "releaseInfo": "2025-",
       "rank": 5,
-      "imdbRating": 7.9,
-      "imdbId": "tt39325975",
+      "imdbRating": 8.3,
+      "imdbId": "tt31510819",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1794106377703",
-      "HDPoster": "https://image.tmdb.org/t/p/original/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "background": "https://image.tmdb.org/t/p/original/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/3wZoQkHGm789KJFfeU6HLLsTir9.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/455351/clearlogo/6aca952dc8800.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt23112594",
-      "type": "series",
-      "name": "VisionQuest",
-      "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "releaseInfo": "2026-",
-      "rank": 6,
-      "imdbRating": 7.8,
-      "imdbId": "tt23112594",
-      "genres": [
-        "Sci-Fi & Fantasy",
+        "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1794106377703",
-      "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "background": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/426606/clearlogo/6aad13a381c66.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1794193925727",
+      "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/446831/clearlogo/68fd77028683b.png",
       "posterShape": "landscape"
     },
     {
-      "id": "tt39328047",
+      "id": "tt39943756",
       "type": "series",
-      "name": "Doctor X: Mafia in White",
-      "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+      "name": "Campus Drivers",
+      "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
       "releaseInfo": "2026-",
-      "rank": 7,
-      "imdbRating": 7.5,
-      "imdbId": "tt39328047",
+      "rank": 6,
+      "imdbRating": 7.3,
+      "imdbId": "tt39943756",
       "genres": [
-        "Mystery",
-        "Drama",
-        "Crime"
+        "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1794106377703",
-      "HDPoster": "https://image.tmdb.org/t/p/original/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-      "background": "https://image.tmdb.org/t/p/original/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/s9WHSL8tBYeLppWorXx0YSUMKjr.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/460234/clearlogo/6aeeb2b6e819d.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt37762350",
-      "type": "series",
-      "name": "Under Siege",
-      "description": "Caught in the crossfire, hostages, militaries and guerrillas are swept into a tragedy that brings turmoil to Colombia.",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "imdbRating": null,
-      "imdbId": "tt37762350",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1794106377703",
-      "HDPoster": null,
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
-      "background": "https://image.tmdb.org/t/p/original/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
-      "backdropPoster": null,
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/466518/clearlogo/6aefd6c983290.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1794193925727",
+      "HDPoster": "https://image.tmdb.org/t/p/original/nuTFlfjKuTEX7FwYgDajp7Yqjoe.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/F0kIlqnAqXIwPgzeBIc1Qubnwi.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/468646/clearlogo/6aed2c70cd7ed.png",
       "posterShape": "landscape"
     },
     {
@@ -178,7 +135,7 @@
       "name": "Lupin",
       "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
       "releaseInfo": "2021-",
-      "rank": 9,
+      "rank": 7,
       "imdbRating": 7.5,
       "imdbId": "tt2531336",
       "genres": [
@@ -186,7 +143,7 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1794106377703",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1794193925727",
       "HDPoster": "https://image.tmdb.org/t/p/original/f7CwtaRgSFBVzW81JJbUEcmRGgK.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
       "background": "https://image.tmdb.org/t/p/original/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
@@ -195,25 +152,66 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt26598805",
+      "id": "tt39325975",
       "type": "series",
-      "name": "Nocturne",
-      "description": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+      "name": "The Remarried Empress",
+      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
       "releaseInfo": "2026-",
+      "rank": 8,
+      "imdbRating": 7.9,
+      "imdbId": "tt39325975",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1794193925727",
+      "HDPoster": "https://image.tmdb.org/t/p/original/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/3wZoQkHGm789KJFfeU6HLLsTir9.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/455351/clearlogo/6aca952dc8800.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt36458668",
+      "type": "series",
+      "name": "Dead-End Job",
+      "description": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+      "releaseInfo": "2026",
+      "rank": 9,
+      "imdbRating": 7,
+      "imdbId": "tt36458668",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1794193925727",
+      "HDPoster": "https://image.tmdb.org/t/p/original/y0H5sosH9JCm8pgTFFIrnKKHFq4.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/7T2OOuoxdW1sxfSjvg7ezueaFin.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/1wVxk49iyCidvtAv86qtMNj6sN8.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt27535062",
+      "type": "series",
+      "name": "City of God: The Fight Rages On",
+      "description": "Twenty years after City of God, Buscapé recounts how conflicts between police, traffickers, and militias impacted the community.",
+      "releaseInfo": "2024-",
       "rank": 10,
-      "imdbRating": 7.5,
-      "imdbId": "tt26598805",
+      "imdbRating": 7.2,
+      "imdbId": "tt27535062",
       "genres": [
         "Crime",
-        "Drama",
-        "Mystery"
+        "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1794106377703",
-      "HDPoster": "https://image.tmdb.org/t/p/original/4drDox9ypUrAProgRNSQjrr6zQR.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
-      "background": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/yllwzRiqYnUXSV4TwvQz0MVstGL.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/430654/clearlogo/6abd165690e96.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1794193925727",
+      "HDPoster": "https://image.tmdb.org/t/p/original/k4zkOcQezejkKHCWt3bEQwEjAwA.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8VU9RTbNojFw3kaAUc2wE16zMxf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/KvlbwzWi5ldhfPFRzOZy67rsKz.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/gJyWvnItKcV6tPqUVNx5OvzrskW.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/wmtoWL9oaLMB0GkEe4KxbPe9n6M.png",
       "posterShape": "landscape"
     }
   ]
