@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-11-10T04:53:56.661Z",
+  "updated": "2026-11-11T03:20:26.429Z",
   "metas": [
     {
       "id": "tt0320037",
@@ -15,7 +15,7 @@
         "Talk",
         "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1794286422511",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1794367211664",
       "HDPoster": "https://image.tmdb.org/t/p/original/sv13a6ApgehTAL9lnueY9kK7VtU.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
       "background": "https://image.tmdb.org/t/p/original/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
@@ -24,61 +24,19 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt31510819",
-      "type": "series",
-      "name": "MobLand",
-      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "releaseInfo": "2025-",
-      "rank": 2,
-      "imdbRating": 8.3,
-      "imdbId": "tt31510819",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1794286422511",
-      "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/446831/clearlogo/68fd77028683b.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt10946316",
-      "type": "series",
-      "name": "The Institute",
-      "description": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
-      "releaseInfo": "2025-",
-      "rank": 3,
-      "imdbRating": 6.7,
-      "imdbId": "tt10946316",
-      "genres": [
-        "Mystery",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1794286422511",
-      "HDPoster": "https://image.tmdb.org/t/p/original/1UVkmpj8x2t8t2PXJOd0sVaFYVe.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/4MwXkOAMd9ObxdacasPFM32n9dZ.jpg",
-      "background": "https://image.tmdb.org/t/p/original/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/aaXaJgX4L20j16ODQk9JNvff4Fm.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/451177/clearlogo/688f9d6b75806.png",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt23112594",
       "type": "series",
       "name": "VisionQuest",
       "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "releaseInfo": "2026-",
-      "rank": 4,
+      "rank": 2,
       "imdbRating": 7.8,
       "imdbId": "tt23112594",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1794286422511",
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1794367211664",
       "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "background": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
@@ -87,104 +45,19 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt27995113",
-      "type": "series",
-      "name": "Black Doves",
-      "description": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
-      "releaseInfo": "2024-",
-      "rank": 5,
-      "imdbRating": 7.2,
-      "imdbId": "tt27995113",
-      "genres": [
-        "Action & Adventure",
-        "Mystery",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1794286422511",
-      "HDPoster": "https://image.tmdb.org/t/p/original/AjBS6Tv1gAMNTSMFEPk7J4ZIiAd.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
-      "background": "https://image.tmdb.org/t/p/original/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/xzX1tPr8W9I9S1dhunTsH4XlSN1.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/441315/clearlogo/674a0979dcd11.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt5875444",
-      "type": "series",
-      "name": "Slow Horses",
-      "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-      "releaseInfo": "2022-",
-      "rank": 6,
-      "imdbRating": 8.4,
-      "imdbId": "tt5875444",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1794286422511",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6VWcSPawl9pSCNJC8G3KNeryVCz.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-      "background": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/A3LSzbNOitRlzmRlcEnpe0tAfBm.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/372264/clearlogo/656ea800b402e.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt39943756",
-      "type": "series",
-      "name": "Campus Drivers",
-      "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-      "releaseInfo": "2026-",
-      "rank": 7,
-      "imdbRating": 7.4,
-      "imdbId": "tt39943756",
-      "genres": [
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1794286422511",
-      "HDPoster": "https://image.tmdb.org/t/p/original/nuTFlfjKuTEX7FwYgDajp7Yqjoe.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
-      "background": "https://image.tmdb.org/t/p/original/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/F0kIlqnAqXIwPgzeBIc1Qubnwi.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/468646/clearlogo/6aed2c70cd7ed.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt39325975",
-      "type": "series",
-      "name": "The Remarried Empress",
-      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "releaseInfo": "2026-",
-      "rank": 8,
-      "imdbRating": 8,
-      "imdbId": "tt39325975",
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1794286422511",
-      "HDPoster": "https://image.tmdb.org/t/p/original/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "background": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/3wZoQkHGm789KJFfeU6HLLsTir9.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/455351/clearlogo/6aca952dc8800.png",
-      "posterShape": "portrait"
-    },
-    {
       "id": "tt7631058",
       "type": "series",
       "name": "The Lord of the Rings: The Rings of Power",
       "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
       "releaseInfo": "2022-",
-      "rank": 9,
+      "rank": 3,
       "imdbRating": 6.8,
       "imdbId": "tt7631058",
       "genres": [
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1794286422511",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1794367211664",
       "HDPoster": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
       "background": "https://image.tmdb.org/t/p/original/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
@@ -193,25 +66,149 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt1844624",
+      "id": "tt31510819",
       "type": "series",
-      "name": "American Horror Story",
-      "description": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-      "releaseInfo": "2011-",
-      "rank": 10,
-      "imdbRating": 7.9,
-      "imdbId": "tt1844624",
+      "name": "MobLand",
+      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "releaseInfo": "2025-",
+      "rank": 4,
+      "imdbRating": 8.3,
+      "imdbId": "tt31510819",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1794367211664",
+      "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/446831/clearlogo/68fd77028683b.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt27995115",
+      "type": "series",
+      "name": "The Devil's Plan",
+      "description": "It's the ultimate showdown of wits, brains, strategy, and alliances for a chance to win 500 million won.",
+      "releaseInfo": "2023-",
+      "rank": 5,
+      "imdbRating": 8.3,
+      "imdbId": "tt27995115",
+      "genres": [
+        "Reality"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1794367211664",
+      "HDPoster": "https://image.tmdb.org/t/p/original/zw3U7hqErKjIF5fggLzNz307HyM.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/jNY6UVgvKz03yrSgCflkF5NF25K.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ofFMb0hf4Ve0UPMTzYyFtBRBHEF.jpg",
+      "backdropPoster": null,
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/433304/clearlogo/64d5a0543e18d.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt26545992",
+      "type": "series",
+      "name": "Lanterns",
+      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "releaseInfo": "2026-",
+      "rank": 6,
+      "imdbRating": 7.7,
+      "imdbId": "tt26545992",
       "genres": [
         "Drama",
         "Mystery",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1794286422511",
-      "HDPoster": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "background": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/fXULldppAZ9QEjpI1BNBM14EWZV.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/250487/clearlogo/611b5c621faa4.png",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1794367211664",
+      "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/376098/clearlogo/6a8306eb38dd4.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt10946316",
+      "type": "series",
+      "name": "The Institute",
+      "description": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
+      "releaseInfo": "2025-",
+      "rank": 7,
+      "imdbRating": 6.7,
+      "imdbId": "tt10946316",
+      "genres": [
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1794367211664",
+      "HDPoster": "https://image.tmdb.org/t/p/original/1UVkmpj8x2t8t2PXJOd0sVaFYVe.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/4MwXkOAMd9ObxdacasPFM32n9dZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/aaXaJgX4L20j16ODQk9JNvff4Fm.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/451177/clearlogo/688f9d6b75806.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt0121955",
+      "type": "series",
+      "name": "South Park",
+      "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+      "releaseInfo": "1997-",
+      "rank": 8,
+      "imdbRating": 8.7,
+      "imdbId": "tt0121955",
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1794367211664",
+      "HDPoster": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/fqoPlnpwRBbTWDNFgGQvp9AsBOQ.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/75897/clearlogo/688f0949ebc1e.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt39325975",
+      "type": "series",
+      "name": "The Remarried Empress",
+      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "releaseInfo": "2026-",
+      "rank": 9,
+      "imdbRating": 7.8,
+      "imdbId": "tt39325975",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1794367211664",
+      "HDPoster": "https://image.tmdb.org/t/p/original/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/3wZoQkHGm789KJFfeU6HLLsTir9.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/455351/clearlogo/6aca952dc8800.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt39943756",
+      "type": "series",
+      "name": "Campus Drivers",
+      "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
+      "releaseInfo": "2026-",
+      "rank": 10,
+      "imdbRating": 7.4,
+      "imdbId": "tt39943756",
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1794367211664",
+      "HDPoster": "https://image.tmdb.org/t/p/original/nuTFlfjKuTEX7FwYgDajp7Yqjoe.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/F0kIlqnAqXIwPgzeBIc1Qubnwi.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/468646/clearlogo/6aed2c70cd7ed.png",
       "posterShape": "portrait"
     }
   ]
