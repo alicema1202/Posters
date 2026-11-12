@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-11-11T03:20:26.429Z",
+  "updated": "2026-11-12T04:31:15.543Z",
   "metas": [
     {
       "id": "tt36586020",
@@ -14,8 +14,8 @@
       ],
       "imdbRating": 5.3,
       "imdbId": "tt36586020",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1794367211664",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/kNxRgcTeqeU5jauBackTERoO2De.jpg",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1794457862874",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/zNaLP9XKRGdLYdKiLjEap5zqYWt.jpg",
       "background": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/lA8kKIWLouCn4OHjeIOtP46F3aZ.jpg",
@@ -34,14 +34,14 @@
         "Science Fiction",
         "Thriller"
       ],
-      "imdbRating": 3.8,
+      "imdbRating": 3.7,
       "imdbId": "tt13884466",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1794367211664",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1794457862874",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/z4ZaKj4yQ4OOrW3ieYjtDI9PQ82.jpg",
-      "background": "https://image.tmdb.org/t/p/original/5MBdRdiGv3AKzZDGbni88xc6JFi.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mC5Y5jmodmTp7T7eyQ8tTBnQRg5.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/c1o0FU30Ar5eyf2aT5mftyIHBQu.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/yiBvWvAKwVKmTLyFESSVdhiO2rk.png",
+      "logo": "https://image.tmdb.org/t/p/original/gx2B6F1SwC7y8vZJFJsBfiL4sD2.png",
       "posterShape": "landscape"
     },
     {
@@ -58,33 +58,33 @@
       ],
       "imdbRating": 7.4,
       "imdbId": "tt35538033",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1794367211664",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1794457862874",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/qBzH6VAkjYTGP4MGvMYGasu8ZA0.jpg",
       "background": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9YzsMLLSpCbAiDiEXlwkZr3m5Ri.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/vMIJP6pOvzh6vZQ8SNSM4q4LlVA.png",
+      "logo": "https://image.tmdb.org/t/p/original/k6J6oAwRvLsZlSWbikRBAyRrq6Z.svg",
       "posterShape": "landscape"
     },
     {
-      "id": "tt39453578",
+      "id": "tt38420997",
       "type": "movie",
-      "name": "The Good Lawyer",
-      "description": "After a courtroom overdose lands him in rehab, a lawyer has one week to save his career and prepare for his own trial, with the help of a dogged intern.",
+      "name": "The Gospel of Christmas",
+      "description": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas.",
       "releaseInfo": "2026",
       "rank": 4,
       "genres": [
-        "Thriller",
-        "Drama"
+        "Drama",
+        "Music"
       ],
-      "imdbRating": 6.2,
-      "imdbId": "tt39453578",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1794367211664",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg",
+      "imdbRating": null,
+      "imdbId": "tt38420997",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1794457862874",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
       "HDPoster": null,
-      "background": "https://image.tmdb.org/t/p/original/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o2XAZM303bcsB8lwzIL4Lh8lDEf.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/2JUDkgPWIUSITOBpYmPiFamPb5e.png",
+      "background": "https://image.tmdb.org/t/p/original/v6HTcvMFbscM0Uz5ab3hoeGWYaY.jpg",
+      "backdropPoster": null,
+      "logo": "https://image.tmdb.org/t/p/original/wd4KBXujUh6LADrjuntXgw4VvM3.png",
       "posterShape": "landscape"
     },
     {
@@ -100,7 +100,7 @@
       ],
       "imdbRating": 7.1,
       "imdbId": "tt7526136",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1794367211664",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1794457862874",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/nlqHh1zGH8HYERr4eRICN9ligk.jpg",
       "background": "https://image.tmdb.org/t/p/original/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
@@ -109,34 +109,12 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt34206385",
-      "type": "movie",
-      "name": "Primetime",
-      "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-      "releaseInfo": "2026",
-      "rank": 6,
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Crime"
-      ],
-      "imdbRating": 6.9,
-      "imdbId": "tt34206385",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1794367211664",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9DLdnwZVgfqZMpMhj63cNhdLwQB.jpg",
-      "background": "https://image.tmdb.org/t/p/original/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/fB1eePpmuAUgAjqeq9vh3suYSjy.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/4cE5EHq7ifeBmsINDtvdwCKecNv.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt22084616",
       "type": "movie",
       "name": "Spider-Man: Brand New Day",
       "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "releaseInfo": "2026",
-      "rank": 7,
+      "rank": 6,
       "genres": [
         "Science Fiction",
         "Action",
@@ -144,7 +122,7 @@
       ],
       "imdbRating": 7.9,
       "imdbId": "tt22084616",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1794367211664",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1794457862874",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
       "background": "https://image.tmdb.org/t/p/original/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
@@ -153,24 +131,46 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt37287335",
+      "id": "tt39453578",
       "type": "movie",
-      "name": "Obsession",
-      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "name": "The Good Lawyer",
+      "description": "After a courtroom overdose lands him in rehab, a lawyer has one week to save his career and prepare for his own trial, with the help of a dogged intern.",
+      "releaseInfo": "2026",
+      "rank": 7,
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "imdbRating": 6.4,
+      "imdbId": "tt39453578",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1794457862874",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg",
+      "HDPoster": null,
+      "background": "https://image.tmdb.org/t/p/original/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o2XAZM303bcsB8lwzIL4Lh8lDEf.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/2JUDkgPWIUSITOBpYmPiFamPb5e.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt34206385",
+      "type": "movie",
+      "name": "Primetime",
+      "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
       "releaseInfo": "2026",
       "rank": 8,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Thriller",
+        "Drama",
+        "Crime"
       ],
-      "imdbRating": 7.8,
-      "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1794367211664",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
-      "background": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o5VincY0eEAq4GHHiKcWjSuNPCm.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+      "imdbRating": 6.9,
+      "imdbId": "tt34206385",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1794457862874",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9DLdnwZVgfqZMpMhj63cNhdLwQB.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/fB1eePpmuAUgAjqeq9vh3suYSjy.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/4cE5EHq7ifeBmsINDtvdwCKecNv.png",
       "posterShape": "landscape"
     },
     {
@@ -186,7 +186,7 @@
       ],
       "imdbRating": 7.8,
       "imdbId": "tt37287335",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1794367211664",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1794457862874",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
       "background": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
@@ -195,25 +195,24 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt34379051",
+      "id": "tt43741215",
       "type": "movie",
-      "name": "By Any Means",
-      "description": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
+      "name": "The Intern",
+      "description": "Ki-ho, a retiree with 37 years of experience, joins fashion start-up WOO22 a senior intern, he struggles with its digital, unconventional culture. Despite their differences, Ki-ho and Sun-woo, the start-up's young CEO, learn from each other and form an unexpected bond.",
       "releaseInfo": "2026",
       "rank": 10,
       "genres": [
-        "Thriller",
-        "History",
-        "Crime"
+        "Drama",
+        "Comedy"
       ],
-      "imdbRating": 6.5,
-      "imdbId": "tt34379051",
-      "poster": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1794367211664",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/oeRTTn3em6yHsnJy9miKJwdHuKR.jpg",
-      "background": "https://image.tmdb.org/t/p/original/nw9Q3idNO8EsTPnvr8vBJTpkWGA.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qZ02jaMPFzf4rtnoH6kunJXEJPL.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/ojaPgOho748TTZJWMMid28fjhkx.png",
+      "imdbRating": 6.7,
+      "imdbId": "tt43741215",
+      "poster": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1794457862874",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/pDJEuLTnzYMOPsvpyg3VRWilalp.jpg",
+      "HDPoster": null,
+      "background": "https://image.tmdb.org/t/p/original/OroFBNgB2RBzj2X65CweVhhQQG.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/ssikZsSWnC1VcnOIhewN9VD8DtP.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/pYVyX3mykkXplTUr0DpnXLQ7Zra.png",
       "posterShape": "landscape"
     }
   ]

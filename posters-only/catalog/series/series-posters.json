@@ -1,32 +1,32 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-11-11T03:20:26.429Z",
+  "updated": "2026-11-12T04:31:15.543Z",
   "metas": [
     {
-      "id": "tt0320037",
+      "id": "tt7631058",
       "type": "series",
-      "name": "Jimmy Kimmel Live!",
-      "description": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
-      "releaseInfo": "2003-",
+      "name": "The Lord of the Rings: The Rings of Power",
+      "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "releaseInfo": "2022-",
       "rank": 1,
-      "imdbRating": 6.4,
-      "imdbId": "tt0320037",
+      "imdbRating": 6.8,
+      "imdbId": "tt7631058",
       "genres": [
-        "Talk",
-        "Comedy"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1794367211664",
-      "HDPoster": "https://image.tmdb.org/t/p/original/sv13a6ApgehTAL9lnueY9kK7VtU.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1794367211664",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/lVs9WOthSPgQgUUi53nFwo5ppB5.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1794457862874",
+      "HDPoster": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1794457862874",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/qTMn0dFVxT6AreSF2Is2EEKxBZe.jpg"
     },
     {
       "id": "tt23112594",
       "type": "series",
       "name": "VisionQuest",
       "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "releaseInfo": "2026-",
+      "releaseInfo": "2026",
       "rank": 2,
       "imdbRating": 7.8,
       "imdbId": "tt23112594",
@@ -34,30 +34,67 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1794367211664",
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1794457862874",
       "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1794367211664",
+      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1794457862874",
       "backdropPoster": "https://image.tmdb.org/t/p/original/molehSx8FQUupIDxxYLDse5DAVV.jpg"
     },
     {
-      "id": "tt7631058",
+      "id": "tt0320037",
       "type": "series",
-      "name": "The Lord of the Rings: The Rings of Power",
-      "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-      "releaseInfo": "2022-",
+      "name": "Jimmy Kimmel Live!",
+      "description": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
+      "releaseInfo": "2003-",
       "rank": 3,
-      "imdbRating": 6.8,
-      "imdbId": "tt7631058",
+      "imdbRating": 6.4,
+      "imdbId": "tt0320037",
       "genres": [
-        "Action & Adventure",
+        "Talk",
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1794457862874",
+      "HDPoster": "https://image.tmdb.org/t/p/original/sv13a6ApgehTAL9lnueY9kK7VtU.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1794457862874",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/lVs9WOthSPgQgUUi53nFwo5ppB5.jpg"
+    },
+    {
+      "id": "tt39325975",
+      "type": "series",
+      "name": "The Remarried Empress",
+      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "releaseInfo": "2026-",
+      "rank": 4,
+      "imdbRating": 7.7,
+      "imdbId": "tt39325975",
+      "genres": [
+        "Drama",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1794367211664",
-      "HDPoster": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1794367211664",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qTMn0dFVxT6AreSF2Is2EEKxBZe.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1794457862874",
+      "HDPoster": "https://image.tmdb.org/t/p/original/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1794457862874",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/3wZoQkHGm789KJFfeU6HLLsTir9.jpg"
+    },
+    {
+      "id": "tt21906238",
+      "type": "series",
+      "name": "Rivals",
+      "description": "It is 1986 and Britain is booming. \"Rivals\" dives headfirst into the cutthroat world of TV where hair-dos are big and ambitions are even bigger. Deals are brokered in boardrooms, as well as bedrooms. Nobody can be sure who will come out on top. With every man and woman out only for themselves, can true love really blossom?",
+      "releaseInfo": "2024-",
+      "rank": 5,
+      "imdbRating": 7.9,
+      "imdbId": "tt21906238",
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1794457862874",
+      "HDPoster": "https://image.tmdb.org/t/p/original/dUeaYaxDHu53He68soUg2lGfIpr.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1794457862874",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/pxBbWtjKz3TnCpCdbFeneNce8i1.jpg"
     },
     {
       "id": "tt31510819",
@@ -65,75 +102,36 @@
       "name": "MobLand",
       "description": "Two mob families clash in a war that threatens to topple empires and lives.",
       "releaseInfo": "2025-",
-      "rank": 4,
+      "rank": 6,
       "imdbRating": 8.3,
       "imdbId": "tt31510819",
       "genres": [
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1794367211664",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1794457862874",
       "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1794367211664",
+      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1794457862874",
       "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg"
     },
     {
-      "id": "tt27995115",
+      "id": "tt39943756",
       "type": "series",
-      "name": "The Devil's Plan",
-      "description": "It's the ultimate showdown of wits, brains, strategy, and alliances for a chance to win 500 million won.",
-      "releaseInfo": "2023-",
-      "rank": 5,
-      "imdbRating": 8.3,
-      "imdbId": "tt27995115",
-      "genres": [
-        "Reality"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1794367211664",
-      "HDPoster": "https://image.tmdb.org/t/p/original/zw3U7hqErKjIF5fggLzNz307HyM.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/jNY6UVgvKz03yrSgCflkF5NF25K.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1794367211664",
-      "backdropPoster": null
-    },
-    {
-      "id": "tt26545992",
-      "type": "series",
-      "name": "Lanterns",
-      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "name": "Campus Drivers",
+      "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
       "releaseInfo": "2026-",
-      "rank": 6,
-      "imdbRating": 7.7,
-      "imdbId": "tt26545992",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1794367211664",
-      "HDPoster": "https://image.tmdb.org/t/p/original/jMCAu91V7fsnHNUvabOPMBLaLaj.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1794367211664",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/9i6966Py1jvnGHFFwxf3CGku7GV.jpg"
-    },
-    {
-      "id": "tt10946316",
-      "type": "series",
-      "name": "The Institute",
-      "description": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
-      "releaseInfo": "2025-",
       "rank": 7,
-      "imdbRating": 6.7,
-      "imdbId": "tt10946316",
+      "imdbRating": 7.4,
+      "imdbId": "tt39943756",
       "genres": [
-        "Mystery",
-        "Sci-Fi & Fantasy"
+        "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1794367211664",
-      "HDPoster": "https://image.tmdb.org/t/p/original/1UVkmpj8x2t8t2PXJOd0sVaFYVe.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/4MwXkOAMd9ObxdacasPFM32n9dZ.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1794367211664",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/aaXaJgX4L20j16ODQk9JNvff4Fm.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1794457862874",
+      "HDPoster": "https://image.tmdb.org/t/p/original/nuTFlfjKuTEX7FwYgDajp7Yqjoe.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/aa1mDCaRtGNEIHVpZrh2xil03Tq.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1794457862874",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/F0kIlqnAqXIwPgzeBIc1Qubnwi.jpg"
     },
     {
       "id": "tt0121955",
@@ -148,48 +146,51 @@
         "Comedy",
         "Animation"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1794367211664",
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1794457862874",
       "HDPoster": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1794367211664",
+      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1794457862874",
       "backdropPoster": "https://image.tmdb.org/t/p/original/fqoPlnpwRBbTWDNFgGQvp9AsBOQ.jpg"
     },
     {
-      "id": "tt39325975",
+      "id": "tt33043892",
       "type": "series",
-      "name": "The Remarried Empress",
-      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "releaseInfo": "2026-",
+      "name": "Dexter: Resurrection",
+      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "releaseInfo": "2025-",
       "rank": 9,
-      "imdbRating": 7.8,
-      "imdbId": "tt39325975",
+      "imdbRating": 9,
+      "imdbId": "tt33043892",
       "genres": [
+        "Crime",
         "Drama",
-        "Sci-Fi & Fantasy"
+        "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1794367211664",
-      "HDPoster": "https://image.tmdb.org/t/p/original/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1794367211664",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/3wZoQkHGm789KJFfeU6HLLsTir9.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1794457862874",
+      "HDPoster": "https://image.tmdb.org/t/p/original/2MOgcG82NoIJmMlPEJsdoQjwpnJ.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1794457862874",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/m146j8Jdfnblx0ApCda8DpfxEEC.jpg"
     },
     {
-      "id": "tt39943756",
+      "id": "tt2531336",
       "type": "series",
-      "name": "Campus Drivers",
-      "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-      "releaseInfo": "2026-",
+      "name": "Lupin",
+      "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "releaseInfo": "2021-",
       "rank": 10,
-      "imdbRating": 7.4,
-      "imdbId": "tt39943756",
+      "imdbRating": 7.5,
+      "imdbId": "tt2531336",
       "genres": [
-        "Drama"
+        "Crime",
+        "Drama",
+        "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1794367211664",
-      "HDPoster": "https://image.tmdb.org/t/p/original/nuTFlfjKuTEX7FwYgDajp7Yqjoe.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1794367211664",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/F0kIlqnAqXIwPgzeBIc1Qubnwi.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1794457862874",
+      "HDPoster": "https://image.tmdb.org/t/p/original/f7CwtaRgSFBVzW81JJbUEcmRGgK.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1794457862874",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/zC8MxAeVzstKAeR39RHuEyP2SsW.jpg"
     }
   ]
 }
