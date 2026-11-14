@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-11-13T03:45:26.478Z",
+  "updated": "2026-11-14T03:43:55.563Z",
   "metas": [
     {
       "id": "tt7631058",
@@ -15,7 +15,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1794541516417",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1794627827135",
       "HDPoster": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
       "background": "https://image.tmdb.org/t/p/original/hVRWuAY03KfLjjAbwmy9QhrfAPs.jpg",
@@ -36,7 +36,7 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1794541516417",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1794627827135",
       "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "background": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
@@ -45,40 +45,19 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt0320037",
-      "type": "series",
-      "name": "Jimmy Kimmel Live!",
-      "description": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
-      "releaseInfo": "2003-",
-      "rank": 3,
-      "imdbRating": 6.4,
-      "imdbId": "tt0320037",
-      "genres": [
-        "Talk",
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1794541516417",
-      "HDPoster": "https://image.tmdb.org/t/p/original/sv13a6ApgehTAL9lnueY9kK7VtU.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
-      "background": "https://image.tmdb.org/t/p/original/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/lVs9WOthSPgQgUUi53nFwo5ppB5.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/71998/clearlogo/611c38b2cead3.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt8014982",
       "type": "series",
       "name": "The Body",
       "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
       "releaseInfo": "2026-",
-      "rank": 4,
-      "imdbRating": null,
+      "rank": 3,
+      "imdbRating": 7.2,
       "imdbId": "tt8014982",
       "genres": [
-        "Drama",
-        "Mystery"
+        "Mystery",
+        "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1794541516417",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1794627827135",
       "HDPoster": "https://image.tmdb.org/t/p/original/nlmZnWtJwn5FnedWF52nHmdkNy.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
       "background": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
@@ -87,39 +66,19 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt13720112",
-      "type": "series",
-      "name": "The Empress",
-      "description": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
-      "releaseInfo": "2022-2024",
-      "rank": 5,
-      "imdbRating": 7.8,
-      "imdbId": "tt13720112",
-      "genres": [
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1794541516417",
-      "HDPoster": "https://image.tmdb.org/t/p/original/sDCe6CgDUQsRadFVBbG0ycQDKwE.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/9AWkNkZHwNLuM6H5u6dToioHMAI.jpg",
-      "background": "https://image.tmdb.org/t/p/original/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/4C6F8kk6rI7AE5UnUxGtkmgEh0x.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/400400/clearlogo/63028563c95c9.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt31510819",
       "type": "series",
       "name": "MobLand",
       "description": "Two mob families clash in a war that threatens to topple empires and lives.",
       "releaseInfo": "2025-",
-      "rank": 6,
+      "rank": 4,
       "imdbRating": 8.3,
       "imdbId": "tt31510819",
       "genres": [
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1794541516417",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1794627827135",
       "HDPoster": "https://image.tmdb.org/t/p/original/fXmZy8hRqENhOi7sSrrn5qfzQ6J.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
@@ -128,24 +87,87 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt39325975",
+      "id": "tt33043892",
       "type": "series",
-      "name": "The Remarried Empress",
-      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "name": "Dexter: Resurrection",
+      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "releaseInfo": "2025-",
+      "rank": 5,
+      "imdbRating": 9,
+      "imdbId": "tt33043892",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1794627827135",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/m146j8Jdfnblx0ApCda8DpfxEEC.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/452595/clearlogo/6aa9709e60f80.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt13720112",
+      "type": "series",
+      "name": "The Empress",
+      "description": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
+      "releaseInfo": "2022-2026",
+      "rank": 6,
+      "imdbRating": 7.8,
+      "imdbId": "tt13720112",
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1794627827135",
+      "HDPoster": "https://image.tmdb.org/t/p/original/sDCe6CgDUQsRadFVBbG0ycQDKwE.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/9AWkNkZHwNLuM6H5u6dToioHMAI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/4C6F8kk6rI7AE5UnUxGtkmgEh0x.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/400400/clearlogo/63028563c95c9.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt26598805",
+      "type": "series",
+      "name": "Nocturne",
+      "description": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
       "releaseInfo": "2026-",
       "rank": 7,
-      "imdbRating": 7.7,
-      "imdbId": "tt39325975",
+      "imdbRating": 7.4,
+      "imdbId": "tt26598805",
       "genres": [
+        "Crime",
         "Drama",
-        "Sci-Fi & Fantasy"
+        "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1794541516417",
-      "HDPoster": "https://image.tmdb.org/t/p/original/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "background": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/3wZoQkHGm789KJFfeU6HLLsTir9.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/455351/clearlogo/6aca952dc8800.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1794627827135",
+      "HDPoster": "https://image.tmdb.org/t/p/original/4drDox9ypUrAProgRNSQjrr6zQR.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/yllwzRiqYnUXSV4TwvQz0MVstGL.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/430654/clearlogo/6abd165690e96.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt39494650",
+      "type": "series",
+      "name": "Miracles of the ER",
+      "description": "A bold decision brings an average med student to an elite ER team, where he encounters medical crises, ethical dilemmas, and personal growth.",
+      "releaseInfo": "2026-",
+      "rank": 8,
+      "imdbRating": 7.2,
+      "imdbId": "tt39494650",
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1794627827135",
+      "HDPoster": null,
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg",
+      "backdropPoster": null,
+      "logo": "https://image.tmdb.org/t/p/original/m6YOxmB9l5f1pZbKAv3P26qV3Pp.png",
       "posterShape": "landscape"
     },
     {
@@ -154,14 +176,14 @@
       "name": "South Park",
       "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
       "releaseInfo": "1997-",
-      "rank": 8,
+      "rank": 9,
       "imdbRating": 8.7,
       "imdbId": "tt0121955",
       "genres": [
         "Comedy",
         "Animation"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1794541516417",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1794627827135",
       "HDPoster": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
       "background": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
@@ -170,45 +192,25 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt11301642",
+      "id": "tt16358384",
       "type": "series",
-      "name": "Ethos",
-      "description": "A group of unique characters from dramatically different socio-cultural backgrounds meet in startling circumstances in the vibrant and colorful city of Istanbul, some by chance and some by force of will.",
-      "releaseInfo": "2020-",
-      "rank": 9,
-      "imdbRating": 8.4,
-      "imdbId": "tt11301642",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1794541516417",
-      "HDPoster": null,
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/80xsUbpereUwUGaaMwcM9e2QLCq.jpg",
-      "background": "https://image.tmdb.org/t/p/original/peOoKDVMbXdBMwZd9SeOxtOfCXD.jpg",
-      "backdropPoster": null,
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/391429/clearlogo/611f505d5bea6.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt37214564",
-      "type": "series",
-      "name": "ChiaroScuro",
-      "description": "After a body is found in a Roman museum, an art expert must apply his instincts and skills to help police solve a mystery connected to his own past.",
-      "releaseInfo": "2026-",
+      "name": "Tulsa King",
+      "description": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+      "releaseInfo": "2022-",
       "rank": 10,
-      "imdbRating": null,
-      "imdbId": "tt37214564",
+      "imdbRating": 7.9,
+      "imdbId": "tt16358384",
       "genres": [
-        "Comedy",
-        "Crime"
+        "Crime",
+        "Drama",
+        "Comedy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1794541516417",
-      "HDPoster": null,
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-      "background": "https://image.tmdb.org/t/p/original/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg",
-      "backdropPoster": null,
-      "logo": "https://image.tmdb.org/t/p/original/5G1Ami82Ryb8lhG8qsIhNBzf1PV.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1794627827135",
+      "HDPoster": "https://image.tmdb.org/t/p/original/ro6mCt4rHkSrLpu86pphY8Jn2lb.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/yxWDzf7cFQIL99m0o8iu4rrzzWr.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/413215/clearlogo/63c60802ef8df.png",
       "posterShape": "landscape"
     }
   ]
