@@ -1,26 +1,27 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-11-14T03:43:55.563Z",
+  "updated": "2026-11-15T03:21:45.230Z",
   "metas": [
     {
-      "id": "tt7631058",
+      "id": "tt32375763",
       "type": "series",
-      "name": "The Lord of the Rings: The Rings of Power",
-      "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-      "releaseInfo": "2022-",
+      "name": "12 12 12",
+      "description": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
+      "releaseInfo": "2026-",
       "rank": 1,
-      "imdbRating": 6.8,
-      "imdbId": "tt7631058",
+      "imdbRating": null,
+      "imdbId": "tt32375763",
       "genres": [
         "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Crime",
+        "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1794627827135",
-      "HDPoster": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "background": "https://image.tmdb.org/t/p/original/hVRWuAY03KfLjjAbwmy9QhrfAPs.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qTMn0dFVxT6AreSF2Is2EEKxBZe.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/367506/clearlogo/61e9c86741d69.png",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1794712887830",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6whFyOhqKUsjyJYQvXXadEMkse0.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/8Fsctut3QuqX9pHqLTm7bGextRc.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/450094/clearlogo/6aea249cb2df9.png",
       "posterShape": "portrait"
     },
     {
@@ -36,12 +37,33 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1794627827135",
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1794712887830",
       "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "background": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/molehSx8FQUupIDxxYLDse5DAVV.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg",
       "logo": "https://artworks.thetvdb.com/banners/v4/series/426606/clearlogo/6aad13a381c66.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt7631058",
+      "type": "series",
+      "name": "The Lord of the Rings: The Rings of Power",
+      "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "releaseInfo": "2022-",
+      "rank": 3,
+      "imdbRating": 6.8,
+      "imdbId": "tt7631058",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1794712887830",
+      "HDPoster": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+      "background": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/qTMn0dFVxT6AreSF2Is2EEKxBZe.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/367506/clearlogo/61e9c86741d69.png",
       "posterShape": "portrait"
     },
     {
@@ -50,40 +72,41 @@
       "name": "The Body",
       "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
       "releaseInfo": "2026-",
-      "rank": 3,
-      "imdbRating": 7.2,
+      "rank": 4,
+      "imdbRating": 7.5,
       "imdbId": "tt8014982",
       "genres": [
         "Mystery",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1794627827135",
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1794712887830",
       "HDPoster": "https://image.tmdb.org/t/p/original/nlmZnWtJwn5FnedWF52nHmdkNy.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/u2iDoQmXu86tMhMZSN1EPp0PHKQ.jpg",
       "background": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qAt9a1DHOEcTK4cNMbOWHLrJCH7.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/iYjql4FxwQUqlwmQb0Py77T6bIc.jpg",
       "logo": "https://image.tmdb.org/t/p/original/c7PCh5wDlXODksBXElQHiotV9M5.png",
       "posterShape": "portrait"
     },
     {
-      "id": "tt31510819",
+      "id": "tt39328047",
       "type": "series",
-      "name": "MobLand",
-      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "releaseInfo": "2025-",
-      "rank": 4,
-      "imdbRating": 8.3,
-      "imdbId": "tt31510819",
+      "name": "Doctor X: Mafia in White",
+      "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+      "releaseInfo": "2026",
+      "rank": 5,
+      "imdbRating": 7.6,
+      "imdbId": "tt39328047",
       "genres": [
-        "Crime",
-        "Drama"
+        "Mystery",
+        "Drama",
+        "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1794627827135",
-      "HDPoster": "https://image.tmdb.org/t/p/original/fXmZy8hRqENhOi7sSrrn5qfzQ6J.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/446831/clearlogo/68fd77028683b.png",
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1794712887830",
+      "HDPoster": "https://image.tmdb.org/t/p/original/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/s9WHSL8tBYeLppWorXx0YSUMKjr.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/460234/clearlogo/6aeeb2b6e819d.png",
       "posterShape": "portrait"
     },
     {
@@ -92,7 +115,7 @@
       "name": "Dexter: Resurrection",
       "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
       "releaseInfo": "2025-",
-      "rank": 5,
+      "rank": 6,
       "imdbRating": 9,
       "imdbId": "tt33043892",
       "genres": [
@@ -100,7 +123,7 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1794627827135",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1794712887830",
       "HDPoster": "https://image.tmdb.org/t/p/original/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
       "background": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
@@ -109,18 +132,61 @@
       "posterShape": "portrait"
     },
     {
+      "id": "tt31510819",
+      "type": "series",
+      "name": "MobLand",
+      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "releaseInfo": "2025-",
+      "rank": 7,
+      "imdbRating": 8.3,
+      "imdbId": "tt31510819",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1794712887830",
+      "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/446831/clearlogo/68fd77028683b.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt38707741",
+      "type": "series",
+      "name": "Murder in Galicia",
+      "description": "In Pazos, Irene is brutally attacked, and Civil Guard sergeant Elías suspects her husband Aniceto, racing against time to uncover the truth before it’s too late.",
+      "releaseInfo": "2026",
+      "rank": 8,
+      "imdbRating": null,
+      "imdbId": "tt38707741",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1794712887830",
+      "HDPoster": null,
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/pooxlKqgM7NhBHkgt9RjmrY7n2l.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
+      "backdropPoster": null,
+      "logo": "https://image.tmdb.org/t/p/original/lpwCHWx1d4FiHaeYCWfEv60owAC.png",
+      "posterShape": "portrait"
+    },
+    {
       "id": "tt13720112",
       "type": "series",
       "name": "The Empress",
       "description": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
       "releaseInfo": "2022-2026",
-      "rank": 6,
+      "rank": 9,
       "imdbRating": 7.8,
       "imdbId": "tt13720112",
       "genres": [
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1794627827135",
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1794712887830",
       "HDPoster": "https://image.tmdb.org/t/p/original/sDCe6CgDUQsRadFVBbG0ycQDKwE.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/9AWkNkZHwNLuM6H5u6dToioHMAI.jpg",
       "background": "https://image.tmdb.org/t/p/original/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
@@ -134,7 +200,7 @@
       "name": "Nocturne",
       "description": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
       "releaseInfo": "2026-",
-      "rank": 7,
+      "rank": 10,
       "imdbRating": 7.4,
       "imdbId": "tt26598805",
       "genres": [
@@ -142,75 +208,12 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1794627827135",
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1794712887830",
       "HDPoster": "https://image.tmdb.org/t/p/original/4drDox9ypUrAProgRNSQjrr6zQR.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
       "background": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/yllwzRiqYnUXSV4TwvQz0MVstGL.jpg",
       "logo": "https://artworks.thetvdb.com/banners/v4/series/430654/clearlogo/6abd165690e96.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt39494650",
-      "type": "series",
-      "name": "Miracles of the ER",
-      "description": "A bold decision brings an average med student to an elite ER team, where he encounters medical crises, ethical dilemmas, and personal growth.",
-      "releaseInfo": "2026-",
-      "rank": 8,
-      "imdbRating": 7.2,
-      "imdbId": "tt39494650",
-      "genres": [
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1794627827135",
-      "HDPoster": null,
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
-      "background": "https://image.tmdb.org/t/p/original/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg",
-      "backdropPoster": null,
-      "logo": "https://image.tmdb.org/t/p/original/m6YOxmB9l5f1pZbKAv3P26qV3Pp.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt0121955",
-      "type": "series",
-      "name": "South Park",
-      "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-      "releaseInfo": "1997-",
-      "rank": 9,
-      "imdbRating": 8.7,
-      "imdbId": "tt0121955",
-      "genres": [
-        "Comedy",
-        "Animation"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1794627827135",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "background": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/fqoPlnpwRBbTWDNFgGQvp9AsBOQ.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/75897/clearlogo/688f0949ebc1e.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt16358384",
-      "type": "series",
-      "name": "Tulsa King",
-      "description": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-      "releaseInfo": "2022-",
-      "rank": 10,
-      "imdbRating": 7.9,
-      "imdbId": "tt16358384",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Comedy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1794627827135",
-      "HDPoster": "https://image.tmdb.org/t/p/original/ro6mCt4rHkSrLpu86pphY8Jn2lb.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
-      "background": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/yxWDzf7cFQIL99m0o8iu4rrzzWr.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/413215/clearlogo/63c60802ef8df.png",
       "posterShape": "portrait"
     }
   ]
