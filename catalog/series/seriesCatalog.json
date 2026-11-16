@@ -1,48 +1,47 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-11-15T03:21:45.230Z",
+  "updated": "2026-11-16T03:23:26.809Z",
   "metas": [
-    {
-      "id": "tt32375763",
-      "type": "series",
-      "name": "12 12 12",
-      "description": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
-      "releaseInfo": "2026-",
-      "rank": 1,
-      "imdbRating": null,
-      "imdbId": "tt32375763",
-      "genres": [
-        "Action & Adventure",
-        "Crime",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1794712887830",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6whFyOhqKUsjyJYQvXXadEMkse0.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
-      "background": "https://image.tmdb.org/t/p/original/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/8Fsctut3QuqX9pHqLTm7bGextRc.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/450094/clearlogo/6aea249cb2df9.png",
-      "posterShape": "portrait"
-    },
     {
       "id": "tt23112594",
       "type": "series",
       "name": "VisionQuest",
       "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "releaseInfo": "2026",
-      "rank": 2,
+      "rank": 1,
       "imdbRating": 7.8,
       "imdbId": "tt23112594",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1794712887830",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1794799389648",
       "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "background": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg",
       "logo": "https://artworks.thetvdb.com/banners/v4/series/426606/clearlogo/6aad13a381c66.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt8014982",
+      "type": "series",
+      "name": "The Body",
+      "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+      "releaseInfo": "2026-",
+      "rank": 2,
+      "imdbRating": 7.6,
+      "imdbId": "tt8014982",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1794799389648",
+      "HDPoster": "https://image.tmdb.org/t/p/original/nlmZnWtJwn5FnedWF52nHmdkNy.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/iYjql4FxwQUqlwmQb0Py77T6bIc.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/c7PCh5wDlXODksBXElQHiotV9M5.png",
       "posterShape": "portrait"
     },
     {
@@ -58,33 +57,56 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1794712887830",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1794799389648",
       "HDPoster": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "background": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/qTMn0dFVxT6AreSF2Is2EEKxBZe.jpg",
       "logo": "https://artworks.thetvdb.com/banners/v4/series/367506/clearlogo/61e9c86741d69.png",
       "posterShape": "portrait"
     },
     {
-      "id": "tt8014982",
+      "id": "tt5622316",
       "type": "series",
-      "name": "The Body",
-      "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
-      "releaseInfo": "2026-",
+      "name": "The Chosen",
+      "description": "The life of Christ through the eyes of those who encountered him.",
+      "releaseInfo": "2019-",
       "rank": 4,
-      "imdbRating": 7.5,
-      "imdbId": "tt8014982",
+      "imdbRating": 9.1,
+      "imdbId": "tt5622316",
       "genres": [
-        "Mystery",
+        "Action & Adventure",
+        "Family",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1794712887830",
-      "HDPoster": "https://image.tmdb.org/t/p/original/nlmZnWtJwn5FnedWF52nHmdkNy.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/u2iDoQmXu86tMhMZSN1EPp0PHKQ.jpg",
-      "background": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/iYjql4FxwQUqlwmQb0Py77T6bIc.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/c7PCh5wDlXODksBXElQHiotV9M5.png",
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1794799389648",
+      "HDPoster": "https://image.tmdb.org/t/p/original/2y6lz7YoGVHa2ZEQkvm47kCIfVZ.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/jFmAuRhbiPVjjCQjIc47VP1N2NA.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/356992/clearlogo/63bc185f57714.png",
+      "posterShape": "portrait"
+    },
+    {
+      "id": "tt32375763",
+      "type": "series",
+      "name": "12 12 12",
+      "description": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
+      "releaseInfo": "2026-",
+      "rank": 5,
+      "imdbRating": 5.8,
+      "imdbId": "tt32375763",
+      "genres": [
+        "Action & Adventure",
+        "Crime",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1794799389648",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6whFyOhqKUsjyJYQvXXadEMkse0.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/8Fsctut3QuqX9pHqLTm7bGextRc.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/450094/clearlogo/6aea249cb2df9.png",
       "posterShape": "portrait"
     },
     {
@@ -93,42 +115,20 @@
       "name": "Doctor X: Mafia in White",
       "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
       "releaseInfo": "2026",
-      "rank": 5,
-      "imdbRating": 7.6,
+      "rank": 6,
+      "imdbRating": 7.5,
       "imdbId": "tt39328047",
       "genres": [
         "Mystery",
         "Drama",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1794712887830",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1794799389648",
       "HDPoster": "https://image.tmdb.org/t/p/original/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
       "background": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/s9WHSL8tBYeLppWorXx0YSUMKjr.jpg",
       "logo": "https://artworks.thetvdb.com/banners/v4/series/460234/clearlogo/6aeeb2b6e819d.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt33043892",
-      "type": "series",
-      "name": "Dexter: Resurrection",
-      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "releaseInfo": "2025-",
-      "rank": 6,
-      "imdbRating": 9,
-      "imdbId": "tt33043892",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1794712887830",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "background": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/m146j8Jdfnblx0ApCda8DpfxEEC.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/452595/clearlogo/6aa9709e60f80.png",
       "posterShape": "portrait"
     },
     {
@@ -144,7 +144,7 @@
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1794712887830",
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1794799389648",
       "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
@@ -153,20 +153,42 @@
       "posterShape": "portrait"
     },
     {
+      "id": "tt33043892",
+      "type": "series",
+      "name": "Dexter: Resurrection",
+      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "releaseInfo": "2025-",
+      "rank": 8,
+      "imdbRating": 9,
+      "imdbId": "tt33043892",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1794799389648",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/m146j8Jdfnblx0ApCda8DpfxEEC.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/452595/clearlogo/6aa9709e60f80.png",
+      "posterShape": "portrait"
+    },
+    {
       "id": "tt38707741",
       "type": "series",
       "name": "Murder in Galicia",
       "description": "In Pazos, Irene is brutally attacked, and Civil Guard sergeant Elías suspects her husband Aniceto, racing against time to uncover the truth before it’s too late.",
       "releaseInfo": "2026",
-      "rank": 8,
-      "imdbRating": null,
+      "rank": 9,
+      "imdbRating": 6.4,
       "imdbId": "tt38707741",
       "genres": [
         "Crime",
         "Mystery",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1794712887830",
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1794799389648",
       "HDPoster": null,
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/pooxlKqgM7NhBHkgt9RjmrY7n2l.jpg",
       "background": "https://image.tmdb.org/t/p/original/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
@@ -175,45 +197,24 @@
       "posterShape": "portrait"
     },
     {
-      "id": "tt13720112",
+      "id": "tt39201866",
       "type": "series",
-      "name": "The Empress",
-      "description": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
-      "releaseInfo": "2022-2026",
-      "rank": 9,
-      "imdbRating": 7.8,
-      "imdbId": "tt13720112",
-      "genres": [
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1794712887830",
-      "HDPoster": "https://image.tmdb.org/t/p/original/sDCe6CgDUQsRadFVBbG0ycQDKwE.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/9AWkNkZHwNLuM6H5u6dToioHMAI.jpg",
-      "background": "https://image.tmdb.org/t/p/original/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/4C6F8kk6rI7AE5UnUxGtkmgEh0x.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/400400/clearlogo/63028563c95c9.png",
-      "posterShape": "portrait"
-    },
-    {
-      "id": "tt26598805",
-      "type": "series",
-      "name": "Nocturne",
-      "description": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+      "name": "100 Days of Deception",
+      "description": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
       "releaseInfo": "2026-",
       "rank": 10,
-      "imdbRating": 7.4,
-      "imdbId": "tt26598805",
+      "imdbRating": 8.3,
+      "imdbId": "tt39201866",
       "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
+        "Action & Adventure",
+        "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1794712887830",
-      "HDPoster": "https://image.tmdb.org/t/p/original/4drDox9ypUrAProgRNSQjrr6zQR.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
-      "background": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/yllwzRiqYnUXSV4TwvQz0MVstGL.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/430654/clearlogo/6abd165690e96.png",
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1794799389648",
+      "HDPoster": "https://image.tmdb.org/t/p/original/oSe2Jbep2FZjaLiNiUDpV6DdIF3.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/mZmAXmA08pKl3jVM9GGOc8QKI1P.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/466304/clearlogo/6abb5c7284418.png",
       "posterShape": "portrait"
     }
   ]
