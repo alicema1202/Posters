@@ -1,44 +1,44 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-11-16T03:23:26.809Z",
+  "updated": "2026-11-17T05:23:08.638Z",
   "metas": [
-    {
-      "id": "tt23112594",
-      "type": "series",
-      "name": "VisionQuest",
-      "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "releaseInfo": "2026",
-      "rank": 1,
-      "imdbRating": 7.8,
-      "imdbId": "tt23112594",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1794799389648",
-      "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1794799389648",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg"
-    },
     {
       "id": "tt8014982",
       "type": "series",
       "name": "The Body",
       "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
       "releaseInfo": "2026-",
-      "rank": 2,
+      "rank": 1,
       "imdbRating": 7.6,
       "imdbId": "tt8014982",
       "genres": [
         "Mystery",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1794799389648",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1794892976962",
       "HDPoster": "https://image.tmdb.org/t/p/original/nlmZnWtJwn5FnedWF52nHmdkNy.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1794799389648",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1794892976962",
       "backdropPoster": "https://image.tmdb.org/t/p/original/iYjql4FxwQUqlwmQb0Py77T6bIc.jpg"
+    },
+    {
+      "id": "tt23112594",
+      "type": "series",
+      "name": "VisionQuest",
+      "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "releaseInfo": "2026",
+      "rank": 2,
+      "imdbRating": 7.8,
+      "imdbId": "tt23112594",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1794892976962",
+      "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1794892976962",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg"
     },
     {
       "id": "tt7631058",
@@ -53,10 +53,10 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1794799389648",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1794892976962",
       "HDPoster": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1794799389648",
+      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1794892976962",
       "backdropPoster": "https://image.tmdb.org/t/p/original/qTMn0dFVxT6AreSF2Is2EEKxBZe.jpg"
     },
     {
@@ -73,31 +73,31 @@
         "Family",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1794799389648",
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1794892976962",
       "HDPoster": "https://image.tmdb.org/t/p/original/2y6lz7YoGVHa2ZEQkvm47kCIfVZ.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1794799389648",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/jFmAuRhbiPVjjCQjIc47VP1N2NA.jpg"
+      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1794892976962",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/sEdMfe2bjznT0KPkfvWR1wqqZl0.jpg"
     },
     {
-      "id": "tt32375763",
+      "id": "tt32117300",
       "type": "series",
-      "name": "12 12 12",
-      "description": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
-      "releaseInfo": "2026-",
+      "name": "Crash",
+      "description": "A drama about Cha Yeon-ho, a reasonable individualist from KAIST, and Min So-hee, a traffic investigation ace with cool judgment and warm sensitivity at the Traffic Crime Investigation (TCI).",
+      "releaseInfo": "2024-",
       "rank": 5,
-      "imdbRating": 5.8,
-      "imdbId": "tt32375763",
+      "imdbRating": 7.5,
+      "imdbId": "tt32117300",
       "genres": [
         "Action & Adventure",
-        "Crime",
-        "Drama"
+        "Comedy",
+        "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1794799389648",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6whFyOhqKUsjyJYQvXXadEMkse0.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1794799389648",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/8Fsctut3QuqX9pHqLTm7bGextRc.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1794892976962",
+      "HDPoster": "https://image.tmdb.org/t/p/original/2TDs4UzQQU1OWiC5i2XHHrq91Yo.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/7PbecqJmo620ngl4X3hW0Ht6WVI.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1794892976962",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/tF7M2YZqYqFbx28mmUF0UUSdqVq.jpg"
     },
     {
       "id": "tt39328047",
@@ -113,11 +113,31 @@
         "Drama",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1794799389648",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1794892976962",
       "HDPoster": "https://image.tmdb.org/t/p/original/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1794799389648",
+      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1794892976962",
       "backdropPoster": "https://image.tmdb.org/t/p/original/s9WHSL8tBYeLppWorXx0YSUMKjr.jpg"
+    },
+    {
+      "id": "tt32375763",
+      "type": "series",
+      "name": "12 12 12",
+      "description": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
+      "releaseInfo": "2026-",
+      "rank": 7,
+      "imdbRating": 5.8,
+      "imdbId": "tt32375763",
+      "genres": [
+        "Action & Adventure",
+        "Crime",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1794892976962",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6whFyOhqKUsjyJYQvXXadEMkse0.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1794892976962",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/8Fsctut3QuqX9pHqLTm7bGextRc.jpg"
     },
     {
       "id": "tt31510819",
@@ -125,77 +145,57 @@
       "name": "MobLand",
       "description": "Two mob families clash in a war that threatens to topple empires and lives.",
       "releaseInfo": "2025-",
-      "rank": 7,
+      "rank": 8,
       "imdbRating": 8.3,
       "imdbId": "tt31510819",
       "genres": [
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1794799389648",
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1794892976962",
       "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1794799389648",
+      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1794892976962",
       "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg"
     },
     {
-      "id": "tt33043892",
+      "id": "tt45246384",
       "type": "series",
-      "name": "Dexter: Resurrection",
-      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "releaseInfo": "2025-",
-      "rank": 8,
-      "imdbRating": 9,
-      "imdbId": "tt33043892",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1794799389648",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1794799389648",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/m146j8Jdfnblx0ApCda8DpfxEEC.jpg"
-    },
-    {
-      "id": "tt38707741",
-      "type": "series",
-      "name": "Murder in Galicia",
-      "description": "In Pazos, Irene is brutally attacked, and Civil Guard sergeant Elías suspects her husband Aniceto, racing against time to uncover the truth before it’s too late.",
-      "releaseInfo": "2026",
+      "name": "Love in Disguise",
+      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+      "releaseInfo": "2026-",
       "rank": 9,
-      "imdbRating": 6.4,
-      "imdbId": "tt38707741",
+      "imdbRating": 7.9,
+      "imdbId": "tt45246384",
       "genres": [
+        "Comedy",
+        "Drama",
         "Crime",
-        "Mystery",
-        "Drama"
+        "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1794799389648",
-      "HDPoster": null,
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/pooxlKqgM7NhBHkgt9RjmrY7n2l.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1794799389648",
-      "backdropPoster": null
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1794892976962",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1794892976962",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/yKGgRHl9kGUhC4fjTiCNADPDT7k.jpg"
     },
     {
-      "id": "tt39201866",
+      "id": "tt40385667",
       "type": "series",
-      "name": "100 Days of Deception",
-      "description": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+      "name": "Treasure Island",
+      "description": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
       "releaseInfo": "2026-",
       "rank": 10,
-      "imdbRating": 8.3,
-      "imdbId": "tt39201866",
+      "imdbRating": 4.6,
+      "imdbId": "tt40385667",
       "genres": [
-        "Action & Adventure",
-        "Drama"
+        "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1794799389648",
-      "HDPoster": "https://image.tmdb.org/t/p/original/oSe2Jbep2FZjaLiNiUDpV6DdIF3.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1794799389648",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/mZmAXmA08pKl3jVM9GGOc8QKI1P.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1794892976962",
+      "HDPoster": "https://image.tmdb.org/t/p/original/i7wMD1lxUGONUhF75bzOSqfexYj.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1794892976962",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/ApSudgGiF0pcf1hnCpmZ6lXZEq9.jpg"
     }
   ]
 }
