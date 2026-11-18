@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-11-17T05:23:08.638Z",
+  "updated": "2026-11-18T04:50:42.505Z",
   "metas": [
     {
       "id": "tt33764258",
@@ -16,10 +16,10 @@
       ],
       "imdbRating": 8.4,
       "imdbId": "tt33764258",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1794892976962",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1794977433368",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/wkEZ7YmWdn7GeFBoNz2RAiLlwDB.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1794892976962",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1794977433368",
       "backdropPoster": "https://image.tmdb.org/t/p/original/ugEXTmwvFj8oqOui6ZwXjQgSwAp.jpg"
     },
     {
@@ -33,31 +33,13 @@
         "Action",
         "Thriller"
       ],
-      "imdbRating": 5.1,
+      "imdbRating": 4.7,
       "imdbId": "tt29256561",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1794892976962",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1794977433368",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/6c4nZITYSxsBIZDezyI3djU60x9.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1794892976962",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1794977433368",
       "backdropPoster": "https://image.tmdb.org/t/p/original/ulYQTtQBqwj9z1KEkqI7SozS036.jpg"
-    },
-    {
-      "id": "tt36586020",
-      "type": "movie",
-      "name": "Other Mommy",
-      "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-      "releaseInfo": "2026",
-      "rank": 3,
-      "genres": [
-        "Horror"
-      ],
-      "imdbRating": 5.3,
-      "imdbId": "tt36586020",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1794892976962",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/zNaLP9XKRGdLYdKiLjEap5zqYWt.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1794892976962",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/lA8kKIWLouCn4OHjeIOtP46F3aZ.jpg"
     },
     {
       "id": "tt22084616",
@@ -65,7 +47,7 @@
       "name": "Spider-Man: Brand New Day",
       "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "releaseInfo": "2026",
-      "rank": 4,
+      "rank": 3,
       "genres": [
         "Science Fiction",
         "Action",
@@ -73,11 +55,29 @@
       ],
       "imdbRating": 7.9,
       "imdbId": "tt22084616",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1794892976962",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1794977433368",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1794892976962",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1794977433368",
       "backdropPoster": "https://image.tmdb.org/t/p/original/yxOxOBxspl3NgC676W62G02g1cR.jpg"
+    },
+    {
+      "id": "tt36586020",
+      "type": "movie",
+      "name": "Other Mommy",
+      "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+      "releaseInfo": "2026",
+      "rank": 4,
+      "genres": [
+        "Horror"
+      ],
+      "imdbRating": 5.3,
+      "imdbId": "tt36586020",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1794977433368",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/zNaLP9XKRGdLYdKiLjEap5zqYWt.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1794977433368",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/lA8kKIWLouCn4OHjeIOtP46F3aZ.jpg"
     },
     {
       "id": "tt35538033",
@@ -93,10 +93,10 @@
       ],
       "imdbRating": 7.4,
       "imdbId": "tt35538033",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1794892976962",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1794977433368",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/qBzH6VAkjYTGP4MGvMYGasu8ZA0.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1794892976962",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1794977433368",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9YzsMLLSpCbAiDiEXlwkZr3m5Ri.jpg"
     },
     {
@@ -112,51 +112,49 @@
       ],
       "imdbRating": 7.1,
       "imdbId": "tt7526136",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1794892976962",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1794977433368",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/nlqHh1zGH8HYERr4eRICN9ligk.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1794892976962",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1794977433368",
       "backdropPoster": "https://image.tmdb.org/t/p/original/4RLhArdnymkf2WpQ5R2RxbUC21e.jpg"
     },
     {
-      "id": "tt34206385",
+      "id": "tt37287335",
       "type": "movie",
-      "name": "Primetime",
-      "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
+      "name": "Obsession",
+      "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "releaseInfo": "2026",
       "rank": 7,
       "genres": [
-        "Thriller",
-        "Drama",
-        "Crime"
+        "Horror",
+        "Thriller"
       ],
-      "imdbRating": 6.9,
-      "imdbId": "tt34206385",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1794892976962",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9DLdnwZVgfqZMpMhj63cNhdLwQB.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1794892976962",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/fB1eePpmuAUgAjqeq9vh3suYSjy.jpg"
+      "imdbRating": 7.8,
+      "imdbId": "tt37287335",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1794977433368",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/e1qJyp8AE5ejXAaQjxWPTsWeTb.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1794977433368",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o5VincY0eEAq4GHHiKcWjSuNPCm.jpg"
     },
     {
-      "id": "tt37675123",
+      "id": "tt38213251",
       "type": "movie",
-      "name": "Allen",
-      "description": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated — and unexpected.",
+      "name": "Heartland",
+      "description": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
       "releaseInfo": "2026",
       "rank": 8,
       "genres": [
-        "Science Fiction",
-        "Adventure",
-        "Comedy"
+        "Thriller",
+        "Mystery"
       ],
-      "imdbRating": 5.2,
-      "imdbId": "tt37675123",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1794892976962",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
-      "HDPoster": null,
-      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1794892976962",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/bdqX3tOBJRDEDyARkJQ2Fqsc0G3.jpg"
+      "imdbRating": 5.6,
+      "imdbId": "tt38213251",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1794977433368",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/pg8me0oPc8CGEEmpgwqZ1EMmKnx.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/d1d6prv2fZFr44uqKUMLjQzKRjx.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1794977433368",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/vAVc04VF2fENefeBDD8ZEFkzbFd.jpg"
     },
     {
       "id": "tt39370926",
@@ -170,32 +168,31 @@
         "Crime",
         "Thriller"
       ],
-      "imdbRating": 6.1,
+      "imdbRating": 6,
       "imdbId": "tt39370926",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1794892976962",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1794977433368",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/rYJ0J1m12qu0bUNoqwYsdzm3mR3.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1794892976962",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1794977433368",
       "backdropPoster": "https://image.tmdb.org/t/p/original/129PLH8uL9IkygmCVxI4brQsTW.jpg"
     },
     {
-      "id": "tt38213251",
+      "id": "tt33184695",
       "type": "movie",
-      "name": "Heartland",
-      "description": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
+      "name": "Rolling Loud: The Movie",
+      "description": "Desperate to reconnect with his distant son, a father secretly takes him to the chaos of Rolling Loud, only to plunge into a wild, frantic search across the massive hip-hop festival when the 13-year-old vanishes into the crowd.",
       "releaseInfo": "2026",
       "rank": 10,
       "genres": [
-        "Thriller",
-        "Mystery"
+        "Comedy"
       ],
-      "imdbRating": 5.6,
-      "imdbId": "tt38213251",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1794892976962",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/d1d6prv2fZFr44uqKUMLjQzKRjx.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1794892976962",
-      "backdropPoster": null
+      "imdbRating": 5.7,
+      "imdbId": "tt33184695",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1794977433368",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/dQyWD0xlmvdalhKXIT5n8lVx3uG.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1794977433368",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/3dyvdZq8mCK6sx2T8boKd72C9en.jpg"
     }
   ]
 }

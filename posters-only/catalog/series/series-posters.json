@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-11-17T05:23:08.638Z",
+  "updated": "2026-11-18T04:50:42.504Z",
   "metas": [
     {
       "id": "tt8014982",
@@ -15,10 +15,10 @@
         "Mystery",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1794892976962",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1794977433368",
       "HDPoster": "https://image.tmdb.org/t/p/original/nlmZnWtJwn5FnedWF52nHmdkNy.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1794892976962",
+      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1794977433368",
       "backdropPoster": "https://image.tmdb.org/t/p/original/iYjql4FxwQUqlwmQb0Py77T6bIc.jpg"
     },
     {
@@ -34,10 +34,10 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1794892976962",
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1794977433368",
       "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1794892976962",
+      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1794977433368",
       "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg"
     },
     {
@@ -53,31 +53,11 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1794892976962",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1794977433368",
       "HDPoster": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1794892976962",
+      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1794977433368",
       "backdropPoster": "https://image.tmdb.org/t/p/original/qTMn0dFVxT6AreSF2Is2EEKxBZe.jpg"
-    },
-    {
-      "id": "tt5622316",
-      "type": "series",
-      "name": "The Chosen",
-      "description": "The life of Christ through the eyes of those who encountered him.",
-      "releaseInfo": "2019-",
-      "rank": 4,
-      "imdbRating": 9.1,
-      "imdbId": "tt5622316",
-      "genres": [
-        "Action & Adventure",
-        "Family",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1794892976962",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2y6lz7YoGVHa2ZEQkvm47kCIfVZ.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1794892976962",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/sEdMfe2bjznT0KPkfvWR1wqqZl0.jpg"
     },
     {
       "id": "tt32117300",
@@ -85,7 +65,7 @@
       "name": "Crash",
       "description": "A drama about Cha Yeon-ho, a reasonable individualist from KAIST, and Min So-hee, a traffic investigation ace with cool judgment and warm sensitivity at the Traffic Crime Investigation (TCI).",
       "releaseInfo": "2024-",
-      "rank": 5,
+      "rank": 4,
       "imdbRating": 7.5,
       "imdbId": "tt32117300",
       "genres": [
@@ -93,51 +73,71 @@
         "Comedy",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1794892976962",
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1794977433368",
       "HDPoster": "https://image.tmdb.org/t/p/original/2TDs4UzQQU1OWiC5i2XHHrq91Yo.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/7PbecqJmo620ngl4X3hW0Ht6WVI.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1794892976962",
+      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1794977433368",
       "backdropPoster": "https://image.tmdb.org/t/p/original/tF7M2YZqYqFbx28mmUF0UUSdqVq.jpg"
     },
     {
-      "id": "tt39328047",
+      "id": "tt45246384",
       "type": "series",
-      "name": "Doctor X: Mafia in White",
-      "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-      "releaseInfo": "2026",
-      "rank": 6,
-      "imdbRating": 7.5,
-      "imdbId": "tt39328047",
+      "name": "Love in Disguise",
+      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+      "releaseInfo": "2026-",
+      "rank": 5,
+      "imdbRating": 8,
+      "imdbId": "tt45246384",
       "genres": [
-        "Mystery",
+        "Comedy",
         "Drama",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1794892976962",
-      "HDPoster": "https://image.tmdb.org/t/p/original/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1794892976962",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/s9WHSL8tBYeLppWorXx0YSUMKjr.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1794977433368",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1794977433368",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/yKGgRHl9kGUhC4fjTiCNADPDT7k.jpg"
     },
     {
-      "id": "tt32375763",
+      "id": "tt5622316",
       "type": "series",
-      "name": "12 12 12",
-      "description": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
-      "releaseInfo": "2026-",
-      "rank": 7,
-      "imdbRating": 5.8,
-      "imdbId": "tt32375763",
+      "name": "The Chosen",
+      "description": "The life of Christ through the eyes of those who encountered him.",
+      "releaseInfo": "2019-",
+      "rank": 6,
+      "imdbRating": 9.1,
+      "imdbId": "tt5622316",
       "genres": [
         "Action & Adventure",
-        "Crime",
+        "Family",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1794892976962",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6whFyOhqKUsjyJYQvXXadEMkse0.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1794892976962",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/8Fsctut3QuqX9pHqLTm7bGextRc.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1794977433368",
+      "HDPoster": "https://image.tmdb.org/t/p/original/2y6lz7YoGVHa2ZEQkvm47kCIfVZ.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1794977433368",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/sEdMfe2bjznT0KPkfvWR1wqqZl0.jpg"
+    },
+    {
+      "id": "tt33043892",
+      "type": "series",
+      "name": "Dexter: Resurrection",
+      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "releaseInfo": "2025-",
+      "rank": 7,
+      "imdbRating": 9,
+      "imdbId": "tt33043892",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1794977433368",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1794977433368",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/m146j8Jdfnblx0ApCda8DpfxEEC.jpg"
     },
     {
       "id": "tt31510819",
@@ -152,50 +152,51 @@
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1794892976962",
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1794977433368",
       "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1794892976962",
+      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1794977433368",
       "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg"
     },
     {
-      "id": "tt45246384",
+      "id": "tt39328047",
       "type": "series",
-      "name": "Love in Disguise",
-      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-      "releaseInfo": "2026-",
+      "name": "Doctor X: Mafia in White",
+      "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+      "releaseInfo": "2026",
       "rank": 9,
-      "imdbRating": 7.9,
-      "imdbId": "tt45246384",
+      "imdbRating": 7.5,
+      "imdbId": "tt39328047",
       "genres": [
-        "Comedy",
+        "Mystery",
         "Drama",
-        "Crime",
-        "Action & Adventure"
+        "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1794892976962",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1794892976962",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/yKGgRHl9kGUhC4fjTiCNADPDT7k.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1794977433368",
+      "HDPoster": "https://image.tmdb.org/t/p/original/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1794977433368",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/s9WHSL8tBYeLppWorXx0YSUMKjr.jpg"
     },
     {
-      "id": "tt40385667",
+      "id": "tt32375763",
       "type": "series",
-      "name": "Treasure Island",
-      "description": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+      "name": "12 12 12",
+      "description": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
       "releaseInfo": "2026-",
       "rank": 10,
-      "imdbRating": 4.6,
-      "imdbId": "tt40385667",
+      "imdbRating": 5.7,
+      "imdbId": "tt32375763",
       "genres": [
-        "Action & Adventure"
+        "Action & Adventure",
+        "Crime",
+        "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1794892976962",
-      "HDPoster": "https://image.tmdb.org/t/p/original/i7wMD1lxUGONUhF75bzOSqfexYj.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1794892976962",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/ApSudgGiF0pcf1hnCpmZ6lXZEq9.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1794977433368",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6whFyOhqKUsjyJYQvXXadEMkse0.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1794977433368",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/8Fsctut3QuqX9pHqLTm7bGextRc.jpg"
     }
   ]
 }
