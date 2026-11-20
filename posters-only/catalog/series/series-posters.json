@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-11-19T04:41:41.595Z",
+  "updated": "2026-11-20T04:32:34.252Z",
   "metas": [
     {
       "id": "tt7631058",
@@ -15,11 +15,30 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1795063281474",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1795149145480",
       "HDPoster": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1795063281474",
+      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1795149145480",
       "backdropPoster": "https://image.tmdb.org/t/p/original/qTMn0dFVxT6AreSF2Is2EEKxBZe.jpg"
+    },
+    {
+      "id": "tt44079238",
+      "type": "series",
+      "name": "The Law of Beasts",
+      "description": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
+      "releaseInfo": "2026",
+      "rank": 2,
+      "imdbRating": null,
+      "imdbId": "tt44079238",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1795149145480",
+      "HDPoster": null,
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/9anIbazZJUteF9FLvdSsISJcNNq.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1795149145480",
+      "backdropPoster": null
     },
     {
       "id": "tt8014982",
@@ -27,136 +46,18 @@
       "name": "The Body",
       "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
       "releaseInfo": "2026-",
-      "rank": 2,
-      "imdbRating": 7.6,
+      "rank": 3,
+      "imdbRating": 7.5,
       "imdbId": "tt8014982",
       "genres": [
         "Mystery",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1795063281474",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1795149145480",
       "HDPoster": "https://image.tmdb.org/t/p/original/nlmZnWtJwn5FnedWF52nHmdkNy.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1795063281474",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/iYjql4FxwQUqlwmQb0Py77T6bIc.jpg"
-    },
-    {
-      "id": "tt23112594",
-      "type": "series",
-      "name": "VisionQuest",
-      "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "releaseInfo": "2026",
-      "rank": 3,
-      "imdbRating": 7.8,
-      "imdbId": "tt23112594",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1795063281474",
-      "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1795063281474",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg"
-    },
-    {
-      "id": "tt39325975",
-      "type": "series",
-      "name": "The Remarried Empress",
-      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "releaseInfo": "2026-",
-      "rank": 4,
-      "imdbRating": 7.5,
-      "imdbId": "tt39325975",
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1795063281474",
-      "HDPoster": "https://image.tmdb.org/t/p/original/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1795063281474",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/3wZoQkHGm789KJFfeU6HLLsTir9.jpg"
-    },
-    {
-      "id": "tt45246384",
-      "type": "series",
-      "name": "Love in Disguise",
-      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-      "releaseInfo": "2026-",
-      "rank": 5,
-      "imdbRating": 8,
-      "imdbId": "tt45246384",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1795063281474",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1795063281474",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/yKGgRHl9kGUhC4fjTiCNADPDT7k.jpg"
-    },
-    {
-      "id": "tt5622316",
-      "type": "series",
-      "name": "The Chosen",
-      "description": "The life of Christ through the eyes of those who encountered him.",
-      "releaseInfo": "2019-",
-      "rank": 6,
-      "imdbRating": 9.1,
-      "imdbId": "tt5622316",
-      "genres": [
-        "Action & Adventure",
-        "Family",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1795063281474",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2y6lz7YoGVHa2ZEQkvm47kCIfVZ.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1795063281474",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/gUGq7l1OtvvKyrNULQZdADqMH6p.jpg"
-    },
-    {
-      "id": "tt39328047",
-      "type": "series",
-      "name": "Doctor X: Mafia in White",
-      "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-      "releaseInfo": "2026",
-      "rank": 7,
-      "imdbRating": 7.5,
-      "imdbId": "tt39328047",
-      "genres": [
-        "Mystery",
-        "Drama",
-        "Crime"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1795063281474",
-      "HDPoster": "https://image.tmdb.org/t/p/original/hMEulOCbZtnS7gFFBDuQCpYQs5a.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1795063281474",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/s9WHSL8tBYeLppWorXx0YSUMKjr.jpg"
-    },
-    {
-      "id": "tt32375763",
-      "type": "series",
-      "name": "12 12 12",
-      "description": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
-      "releaseInfo": "2026-",
-      "rank": 8,
-      "imdbRating": 5.7,
-      "imdbId": "tt32375763",
-      "genres": [
-        "Action & Adventure",
-        "Crime",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1795063281474",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6whFyOhqKUsjyJYQvXXadEMkse0.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1795063281474",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/8Fsctut3QuqX9pHqLTm7bGextRc.jpg"
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1795149145480",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/p5kAcb0ve2RWOe0i1H8KRsUYl38.jpg"
     },
     {
       "id": "tt31510819",
@@ -164,18 +65,132 @@
       "name": "MobLand",
       "description": "Two mob families clash in a war that threatens to topple empires and lives.",
       "releaseInfo": "2025-",
-      "rank": 9,
+      "rank": 4,
       "imdbRating": 8.3,
       "imdbId": "tt31510819",
       "genres": [
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1795063281474",
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1795149145480",
       "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1795063281474",
+      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1795149145480",
       "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg"
+    },
+    {
+      "id": "tt41559886",
+      "type": "series",
+      "name": "Gordon",
+      "description": "Aníbal Gordon rises from a small-time thief to a convicted murderer in Argentina during the '70s.",
+      "releaseInfo": "2026",
+      "rank": 5,
+      "imdbRating": null,
+      "imdbId": "tt41559886",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1795149145480",
+      "HDPoster": null,
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1795149145480",
+      "backdropPoster": null
+    },
+    {
+      "id": "tt31844371",
+      "type": "series",
+      "name": "Vienna Game",
+      "description": "While Napoleon Bonaparte is exiled on Elba, kings and crown princes, ministers and spies, noblewomen and mistresses, adventurers, inventors, artists, and concubines gather in Vienna to celebrate and negotiate. Here, the fate of Europe is decided on the dance floor and in the boudoir.",
+      "releaseInfo": "2026-",
+      "rank": 6,
+      "imdbRating": null,
+      "imdbId": "tt31844371",
+      "genres": [
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1795149145480",
+      "HDPoster": null,
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1795149145480",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/4HjQt7TfbrCfBNkNGMJx2L7mUXE.jpg"
+    },
+    {
+      "id": "tt39325975",
+      "type": "series",
+      "name": "The Remarried Empress",
+      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "releaseInfo": "2026-",
+      "rank": 7,
+      "imdbRating": 7.6,
+      "imdbId": "tt39325975",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1795149145480",
+      "HDPoster": "https://image.tmdb.org/t/p/original/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1795149145480",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/3wZoQkHGm789KJFfeU6HLLsTir9.jpg"
+    },
+    {
+      "id": "tt23112594",
+      "type": "series",
+      "name": "VisionQuest",
+      "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "releaseInfo": "2026",
+      "rank": 8,
+      "imdbRating": 7.8,
+      "imdbId": "tt23112594",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1795149145480",
+      "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1795149145480",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg"
+    },
+    {
+      "id": "tt39161219",
+      "type": "series",
+      "name": "Valentina and the 12 Signs",
+      "description": "After a devastating breakup, Valentina decides to date one man from every zodiac sign. But the universe has other plans.",
+      "releaseInfo": "2026-",
+      "rank": 9,
+      "imdbRating": null,
+      "imdbId": "tt39161219",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1795149145480",
+      "HDPoster": null,
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1795149145480",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/g3GfnAxzhfu7eYxpDLLxaqnuk97.jpg"
+    },
+    {
+      "id": "tt32375763",
+      "type": "series",
+      "name": "12 12 12",
+      "description": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
+      "releaseInfo": "2026-",
+      "rank": 10,
+      "imdbRating": 5.7,
+      "imdbId": "tt32375763",
+      "genres": [
+        "Action & Adventure",
+        "Crime",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1795149145480",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6whFyOhqKUsjyJYQvXXadEMkse0.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1795149145480",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/8Fsctut3QuqX9pHqLTm7bGextRc.jpg"
     }
   ]
 }
