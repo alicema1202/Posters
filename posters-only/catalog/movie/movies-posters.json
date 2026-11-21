@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-11-20T04:32:34.252Z",
+  "updated": "2026-11-21T04:26:59.138Z",
   "metas": [
     {
       "id": "tt33764258",
@@ -16,11 +16,53 @@
       ],
       "imdbRating": 8.4,
       "imdbId": "tt33764258",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1795149145480",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1795235208033",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/wkEZ7YmWdn7GeFBoNz2RAiLlwDB.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1795149145480",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1795235208033",
       "backdropPoster": "https://image.tmdb.org/t/p/original/ugEXTmwvFj8oqOui6ZwXjQgSwAp.jpg"
+    },
+    {
+      "id": "tt18351090",
+      "type": "movie",
+      "name": "Perfect Liars",
+      "description": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
+      "releaseInfo": "2026",
+      "rank": 2,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt18351090",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1795235208033",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/ylYK5Zc8AdZHwuSwt4pe8gGXm83.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1795235208033",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/kd6kbmgUTdKeHu0ze1UEdei5YHD.jpg"
+    },
+    {
+      "id": "tt14413964",
+      "type": "movie",
+      "name": "Steps",
+      "description": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
+      "releaseInfo": "2026",
+      "rank": 3,
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Comedy",
+        "Family",
+        "Adventure"
+      ],
+      "imdbRating": null,
+      "imdbId": "tt14413964",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1795235208033",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+      "HDPoster": null,
+      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1795235208033",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/idfbOZ6QBziR6suqFGIMJsSk3lV.jpg"
     },
     {
       "id": "tt6611324",
@@ -28,17 +70,17 @@
       "name": "Guarding Stars",
       "description": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
       "releaseInfo": "2026",
-      "rank": 2,
+      "rank": 4,
       "genres": [
         "Romance",
         "Comedy"
       ],
-      "imdbRating": null,
+      "imdbRating": 6.3,
       "imdbId": "tt6611324",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1795149145480",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1795235208033",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/eMiuv9HEuK4L0G3bUDrKx1zuDpr.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1795149145480",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1795235208033",
       "backdropPoster": "https://image.tmdb.org/t/p/original/d3DKD0GOtOvEfKtekyewjKwUBg9.jpg"
     },
     {
@@ -47,39 +89,37 @@
       "name": "Madden",
       "description": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis—from a Super Bowl-winning partnership with the Raiders, to becoming football's most recognizable voice, to building the worldwide Madden NFL video game.",
       "releaseInfo": "2026",
-      "rank": 3,
+      "rank": 5,
       "genres": [
         "Drama",
         "History",
         "Comedy"
       ],
-      "imdbRating": null,
+      "imdbRating": 5.7,
       "imdbId": "tt24818230",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1795149145480",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1795235208033",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/a5YMI4b2NKAZu52WnApAsXI5KbP.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1795149145480",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1795235208033",
       "backdropPoster": "https://image.tmdb.org/t/p/original/cvqsGcQUf9b33nxpAiJ3NU7OD94.jpg"
     },
     {
-      "id": "tt22084616",
+      "id": "tt33402927",
       "type": "movie",
-      "name": "Spider-Man: Brand New Day",
-      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "name": "On Behalf of My Son",
+      "description": "Vicentina struggles to cope with the death of her son Wesley after a tragic bus accident, in which he was the driver. As the investigation unfolds, evidence suggests that Wesley’s actions may have been suicidal. Vicentina then embarks on a journey to seek out the victims’ families and apologize, while confronting her own grief and uncertainty.",
       "releaseInfo": "2026",
-      "rank": 4,
+      "rank": 6,
       "genres": [
-        "Science Fiction",
-        "Action",
-        "Adventure"
+        "Drama"
       ],
-      "imdbRating": 7.9,
-      "imdbId": "tt22084616",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1795149145480",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1795149145480",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/yxOxOBxspl3NgC676W62G02g1cR.jpg"
+      "imdbRating": 6.7,
+      "imdbId": "tt33402927",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1795235208033",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/EE0nu2jPKGio3ICEG193Z7DDSe.jpg",
+      "HDPoster": null,
+      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1795235208033",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/uwDYGJhGuTTpuUL9448p6h2IelD.jpg"
     },
     {
       "id": "tt29256561",
@@ -87,95 +127,38 @@
       "name": "The Beast",
       "description": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
       "releaseInfo": "2026",
-      "rank": 5,
+      "rank": 7,
       "genres": [
         "Action",
         "Thriller"
       ],
-      "imdbRating": 4.6,
+      "imdbRating": 4.5,
       "imdbId": "tt29256561",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1795149145480",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1795235208033",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/6c4nZITYSxsBIZDezyI3djU60x9.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1795149145480",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1795235208033",
       "backdropPoster": "https://image.tmdb.org/t/p/original/lirxoB1mUudUCTGW3oCLqNilCh6.jpg"
     },
     {
-      "id": "tt18351090",
+      "id": "tt22084616",
       "type": "movie",
-      "name": "Perfect Liars",
-      "description": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face. Based on the novel by Alex Mirez.",
-      "releaseInfo": "2026",
-      "rank": 6,
-      "genres": [
-        "Drama",
-        "Romance",
-        "Thriller"
-      ],
-      "imdbRating": null,
-      "imdbId": "tt18351090",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1795149145480",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/ylYK5Zc8AdZHwuSwt4pe8gGXm83.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1795149145480",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/kd6kbmgUTdKeHu0ze1UEdei5YHD.jpg"
-    },
-    {
-      "id": "tt36586020",
-      "type": "movie",
-      "name": "Other Mommy",
-      "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-      "releaseInfo": "2026",
-      "rank": 7,
-      "genres": [
-        "Horror"
-      ],
-      "imdbRating": 5.3,
-      "imdbId": "tt36586020",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1795149145480",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/zNaLP9XKRGdLYdKiLjEap5zqYWt.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1795149145480",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/lA8kKIWLouCn4OHjeIOtP46F3aZ.jpg"
-    },
-    {
-      "id": "tt14129116",
-      "type": "movie",
-      "name": "A Talent for Murder",
-      "description": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
+      "name": "Spider-Man: Brand New Day",
+      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "releaseInfo": "2026",
       "rank": 8,
       "genres": [
-        "Thriller",
-        "Drama",
-        "Crime"
+        "Science Fiction",
+        "Action",
+        "Adventure"
       ],
-      "imdbRating": 6.5,
-      "imdbId": "tt14129116",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1795149145480",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/NgMkNyeJGNG7rLKzLpOcf0waaF.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1795149145480",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/cJUY0XaQH1vJCOejF5Kuk4hiw5c.jpg"
-    },
-    {
-      "id": "tt7526136",
-      "type": "movie",
-      "name": "Heart of the Beast",
-      "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "releaseInfo": "2026",
-      "rank": 9,
-      "genres": [
-        "Adventure",
-        "Thriller"
-      ],
-      "imdbRating": 7.1,
-      "imdbId": "tt7526136",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1795149145480",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/nlqHh1zGH8HYERr4eRICN9ligk.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1795149145480",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/4RLhArdnymkf2WpQ5R2RxbUC21e.jpg"
+      "imdbRating": 7.9,
+      "imdbId": "tt22084616",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1795235208033",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1795235208033",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/yxOxOBxspl3NgC676W62G02g1cR.jpg"
     },
     {
       "id": "tt35538033",
@@ -183,7 +166,7 @@
       "name": "Resident Evil",
       "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
       "releaseInfo": "2026",
-      "rank": 10,
+      "rank": 9,
       "genres": [
         "Horror",
         "Science Fiction",
@@ -191,11 +174,31 @@
       ],
       "imdbRating": 7.4,
       "imdbId": "tt35538033",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1795149145480",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1795235208033",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/qBzH6VAkjYTGP4MGvMYGasu8ZA0.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1795149145480",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1795235208033",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9YzsMLLSpCbAiDiEXlwkZr3m5Ri.jpg"
+    },
+    {
+      "id": "tt38258118",
+      "type": "movie",
+      "name": "Best Pancakes in the County",
+      "description": "Over the course of one explosive night, a small-town diner becomes the epicenter of a deadly standoff involving rogue federal agents, a fast-talking con man with a dangerous past, and a waitress harboring secrets of her own.",
+      "releaseInfo": "2026",
+      "rank": 10,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "imdbRating": 4.7,
+      "imdbId": "tt38258118",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1795235208033",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
+      "HDPoster": null,
+      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1795235208033",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/vr59qVTzX4SxbsYBsS1Y8xcmHAD.jpg"
     }
   ]
 }
