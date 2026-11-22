@@ -1,21 +1,42 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-11-21T04:26:59.137Z",
+  "updated": "2026-11-22T03:40:37.399Z",
   "metas": [
+    {
+      "id": "tt38336631",
+      "type": "series",
+      "name": "The Blue Road",
+      "description": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
+      "releaseInfo": "2026",
+      "rank": 1,
+      "imdbRating": 7.9,
+      "imdbId": "tt38336631",
+      "genres": [
+        "Crime",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1795318826206",
+      "HDPoster": "https://image.tmdb.org/t/p/original/zUQKiApG9zMXY0sfErZ8YgD49Ex.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/byTzfiWeKix4p4CJ9f7qxpkNSN7.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/jjVu38OY11pNEHQrFNWp2kH6TX5.png",
+      "posterShape": "landscape"
+    },
     {
       "id": "tt31510819",
       "type": "series",
       "name": "MobLand",
       "description": "Two mob families clash in a war that threatens to topple empires and lives.",
       "releaseInfo": "2025-",
-      "rank": 1,
+      "rank": 2,
       "imdbRating": 8.3,
       "imdbId": "tt31510819",
       "genres": [
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1795235208033",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1795318826206",
       "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
@@ -29,7 +50,7 @@
       "name": "Percy Jackson and the Olympians",
       "description": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
       "releaseInfo": "2023-",
-      "rank": 2,
+      "rank": 3,
       "imdbRating": 7,
       "imdbId": "tt12324366",
       "genres": [
@@ -38,7 +59,7 @@
         "Drama",
         "Family"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1795235208033",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1795318826206",
       "HDPoster": "https://image.tmdb.org/t/p/original/m2CJO1IFnoem4YEDxq9RdpPKGZT.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
       "background": "https://image.tmdb.org/t/p/original/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
@@ -52,14 +73,14 @@
       "name": "Yellowjackets",
       "description": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
       "releaseInfo": "2021-",
-      "rank": 3,
+      "rank": 4,
       "imdbRating": 7.7,
       "imdbId": "tt11041332",
       "genres": [
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1795235208033",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1795318826206",
       "HDPoster": "https://image.tmdb.org/t/p/original/zoZn9LLNPZvOhd6Pzt0qAYKirzk.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
       "background": "https://image.tmdb.org/t/p/original/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
@@ -68,62 +89,19 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt33043892",
-      "type": "series",
-      "name": "Dexter: Resurrection",
-      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "releaseInfo": "2025-",
-      "rank": 4,
-      "imdbRating": 9,
-      "imdbId": "tt33043892",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1795235208033",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "background": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/m146j8Jdfnblx0ApCda8DpfxEEC.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/452595/clearlogo/6866f54158d3a.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt36786185",
-      "type": "series",
-      "name": "The Altruists",
-      "description": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
-      "releaseInfo": "2026",
-      "rank": 5,
-      "imdbRating": null,
-      "imdbId": "tt36786185",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1795235208033",
-      "HDPoster": "https://image.tmdb.org/t/p/original/cFbLWpzrQigaMGZpmgYGFieLzFE.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-      "background": "https://image.tmdb.org/t/p/original/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/5EPbHM6qQhcWfE0Fk7OaSKQDXmx.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/hLfxcGSEPV8ktPUrxfPewtnKvEo.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt7631058",
       "type": "series",
       "name": "The Lord of the Rings: The Rings of Power",
       "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
       "releaseInfo": "2022-",
-      "rank": 6,
+      "rank": 5,
       "imdbRating": 6.8,
       "imdbId": "tt7631058",
       "genres": [
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1795235208033",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1795318826206",
       "HDPoster": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
       "background": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
@@ -132,24 +110,25 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt32840498",
+      "id": "tt33043892",
       "type": "series",
-      "name": "Good Partner",
-      "description": "Cha Eun-kyung, a 17-year veteran divorce lawyer, faces a personal crisis when her own marriage is threatened while working alongside rookie lawyer Han Yu-ri, whose differing values lead to tension as they navigate their complex cases at Law Firm Daejung.",
-      "releaseInfo": "2024-",
-      "rank": 7,
-      "imdbRating": 7.8,
-      "imdbId": "tt32840498",
+      "name": "Dexter: Resurrection",
+      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "releaseInfo": "2025-",
+      "rank": 6,
+      "imdbRating": 9,
+      "imdbId": "tt33043892",
       "genres": [
+        "Crime",
         "Drama",
-        "Comedy"
+        "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1795235208033",
-      "HDPoster": "https://image.tmdb.org/t/p/original/ztyRfbd4vFo2UZfH7OqSl4vfP71.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5I9RHQXYhEF0bLP5Waal6iQfnWq.jpg",
-      "background": "https://image.tmdb.org/t/p/original/tNHTruWAXAEaoqgCnD3Jv5xUmzx.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/jUeYRaRi8ARcHl2bHg4mZt8u2Js.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/uVb0hTTsJDIPgxG1NAA92aRk5xy.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1795318826206",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/m146j8Jdfnblx0ApCda8DpfxEEC.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/452595/clearlogo/6866f54158d3a.png",
       "posterShape": "landscape"
     },
     {
@@ -158,14 +137,14 @@
       "name": "The Body",
       "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
       "releaseInfo": "2026-",
-      "rank": 8,
+      "rank": 7,
       "imdbRating": 7.5,
       "imdbId": "tt8014982",
       "genres": [
         "Mystery",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1795235208033",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1795318826206",
       "HDPoster": "https://image.tmdb.org/t/p/original/nlmZnWtJwn5FnedWF52nHmdkNy.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
       "background": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
@@ -174,46 +153,67 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt32375763",
-      "type": "series",
-      "name": "12 12 12",
-      "description": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
-      "releaseInfo": "2026-",
-      "rank": 9,
-      "imdbRating": 5.6,
-      "imdbId": "tt32375763",
-      "genres": [
-        "Action & Adventure",
-        "Crime",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1795235208033",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6whFyOhqKUsjyJYQvXXadEMkse0.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
-      "background": "https://image.tmdb.org/t/p/original/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/8Fsctut3QuqX9pHqLTm7bGextRc.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/450094/clearlogo/6aea249cb2df9.png",
-      "posterShape": "landscape"
-    },
-    {
       "id": "tt23112594",
       "type": "series",
       "name": "VisionQuest",
       "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "releaseInfo": "2026",
-      "rank": 10,
-      "imdbRating": 7.8,
+      "rank": 8,
+      "imdbRating": 7.7,
       "imdbId": "tt23112594",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1795235208033",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1795318826206",
       "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "background": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg",
       "logo": "https://artworks.thetvdb.com/banners/v4/series/426606/clearlogo/6aad13a381c66.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt32840498",
+      "type": "series",
+      "name": "Good Partner",
+      "description": "Cha Eun-kyung, a 17-year veteran divorce lawyer, faces a personal crisis when her own marriage is threatened while working alongside rookie lawyer Han Yu-ri, whose differing values lead to tension as they navigate their complex cases at Law Firm Daejung.",
+      "releaseInfo": "2024-",
+      "rank": 9,
+      "imdbRating": 7.8,
+      "imdbId": "tt32840498",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1795318826206",
+      "HDPoster": "https://image.tmdb.org/t/p/original/ztyRfbd4vFo2UZfH7OqSl4vfP71.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5I9RHQXYhEF0bLP5Waal6iQfnWq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tNHTruWAXAEaoqgCnD3Jv5xUmzx.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/jUeYRaRi8ARcHl2bHg4mZt8u2Js.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/uVb0hTTsJDIPgxG1NAA92aRk5xy.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt16358384",
+      "type": "series",
+      "name": "Tulsa King",
+      "description": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+      "releaseInfo": "2022-",
+      "rank": 10,
+      "imdbRating": 7.9,
+      "imdbId": "tt16358384",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1795318826206",
+      "HDPoster": "https://image.tmdb.org/t/p/original/ro6mCt4rHkSrLpu86pphY8Jn2lb.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/yxWDzf7cFQIL99m0o8iu4rrzzWr.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/413215/clearlogo/63c60802ef8df.png",
       "posterShape": "landscape"
     }
   ]
