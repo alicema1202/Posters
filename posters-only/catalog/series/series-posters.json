@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-11-22T03:40:37.399Z",
+  "updated": "2026-11-23T04:16:00.952Z",
   "metas": [
     {
       "id": "tt38336631",
@@ -9,17 +9,36 @@
       "description": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
       "releaseInfo": "2026",
       "rank": 1,
-      "imdbRating": 7.9,
+      "imdbRating": 7.3,
       "imdbId": "tt38336631",
       "genres": [
         "Crime",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1795318826206",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1795407352283",
       "HDPoster": "https://image.tmdb.org/t/p/original/zUQKiApG9zMXY0sfErZ8YgD49Ex.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1795318826206",
+      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1795407352283",
       "backdropPoster": "https://image.tmdb.org/t/p/original/byTzfiWeKix4p4CJ9f7qxpkNSN7.jpg"
+    },
+    {
+      "id": "tt8014982",
+      "type": "series",
+      "name": "The Body",
+      "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+      "releaseInfo": "2026-",
+      "rank": 2,
+      "imdbRating": 7.4,
+      "imdbId": "tt8014982",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1795407352283",
+      "HDPoster": "https://image.tmdb.org/t/p/original/nlmZnWtJwn5FnedWF52nHmdkNy.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1795407352283",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/p5kAcb0ve2RWOe0i1H8KRsUYl38.jpg"
     },
     {
       "id": "tt31510819",
@@ -27,18 +46,37 @@
       "name": "MobLand",
       "description": "Two mob families clash in a war that threatens to topple empires and lives.",
       "releaseInfo": "2025-",
-      "rank": 2,
+      "rank": 3,
       "imdbRating": 8.3,
       "imdbId": "tt31510819",
       "genres": [
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1795318826206",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1795407352283",
       "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1795318826206",
+      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1795407352283",
       "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg"
+    },
+    {
+      "id": "tt7631058",
+      "type": "series",
+      "name": "The Lord of the Rings: The Rings of Power",
+      "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "releaseInfo": "2022-",
+      "rank": 4,
+      "imdbRating": 6.8,
+      "imdbId": "tt7631058",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1795407352283",
+      "HDPoster": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1795407352283",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/qTMn0dFVxT6AreSF2Is2EEKxBZe.jpg"
     },
     {
       "id": "tt12324366",
@@ -46,7 +84,7 @@
       "name": "Percy Jackson and the Olympians",
       "description": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
       "releaseInfo": "2023-",
-      "rank": 3,
+      "rank": 5,
       "imdbRating": 7,
       "imdbId": "tt12324366",
       "genres": [
@@ -55,49 +93,30 @@
         "Drama",
         "Family"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1795318826206",
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1795407352283",
       "HDPoster": "https://image.tmdb.org/t/p/original/m2CJO1IFnoem4YEDxq9RdpPKGZT.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1795318826206",
+      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1795407352283",
       "backdropPoster": "https://image.tmdb.org/t/p/original/yBkhoqyh5MZeYzdcwJwFVd19GGk.jpg"
     },
     {
-      "id": "tt11041332",
+      "id": "tt12409194",
       "type": "series",
-      "name": "Yellowjackets",
-      "description": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
-      "releaseInfo": "2021-",
-      "rank": 4,
-      "imdbRating": 7.7,
-      "imdbId": "tt11041332",
+      "name": "Fights Break Sphere",
+      "description": "In a land where no magic is present. A land where the strong make the rules and weak have to obey. A land filled with alluring treasures and beauty, yet also filled with unforeseen danger. Three years ago, Xiao Yan, who had shown talents none had seen in decades, suddenly lost everything. His powers, his reputation, and his promise to his mother. What sorcery has caused him to lose all of his powers? And why has his fiancee suddenly shown up?",
+      "releaseInfo": "2017-2026",
+      "rank": 6,
+      "imdbRating": 8.5,
+      "imdbId": "tt12409194",
       "genres": [
-        "Drama",
-        "Mystery"
+        "Animation",
+        "Action & Adventure"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1795318826206",
-      "HDPoster": "https://image.tmdb.org/t/p/original/zoZn9LLNPZvOhd6Pzt0qAYKirzk.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1795318826206",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/5Zr3UpAQ6bQVnjG1VNn9hqJzLRF.jpg"
-    },
-    {
-      "id": "tt7631058",
-      "type": "series",
-      "name": "The Lord of the Rings: The Rings of Power",
-      "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-      "releaseInfo": "2022-",
-      "rank": 5,
-      "imdbRating": 6.8,
-      "imdbId": "tt7631058",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1795318826206",
-      "HDPoster": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1795318826206",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/qTMn0dFVxT6AreSF2Is2EEKxBZe.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1795407352283",
+      "HDPoster": "https://image.tmdb.org/t/p/original/5ScBqz8XKYHK0LzweXGgiiFrthD.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/fnYdEz9BFqtu0kHX4LvYXqeq59O.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1795407352283",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/1MuLuVaDajtTajyV3xIk707bAEx.jpg"
     },
     {
       "id": "tt33043892",
@@ -105,7 +124,7 @@
       "name": "Dexter: Resurrection",
       "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
       "releaseInfo": "2025-",
-      "rank": 6,
+      "rank": 7,
       "imdbRating": 9,
       "imdbId": "tt33043892",
       "genres": [
@@ -113,30 +132,11 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1795318826206",
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1795407352283",
       "HDPoster": "https://image.tmdb.org/t/p/original/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1795318826206",
+      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1795407352283",
       "backdropPoster": "https://image.tmdb.org/t/p/original/m146j8Jdfnblx0ApCda8DpfxEEC.jpg"
-    },
-    {
-      "id": "tt8014982",
-      "type": "series",
-      "name": "The Body",
-      "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
-      "releaseInfo": "2026-",
-      "rank": 7,
-      "imdbRating": 7.5,
-      "imdbId": "tt8014982",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1795318826206",
-      "HDPoster": "https://image.tmdb.org/t/p/original/nlmZnWtJwn5FnedWF52nHmdkNy.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1795318826206",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/p5kAcb0ve2RWOe0i1H8KRsUYl38.jpg"
     },
     {
       "id": "tt23112594",
@@ -151,50 +151,50 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1795318826206",
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1795407352283",
       "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1795318826206",
+      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1795407352283",
       "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg"
     },
     {
-      "id": "tt32840498",
+      "id": "tt11041332",
       "type": "series",
-      "name": "Good Partner",
-      "description": "Cha Eun-kyung, a 17-year veteran divorce lawyer, faces a personal crisis when her own marriage is threatened while working alongside rookie lawyer Han Yu-ri, whose differing values lead to tension as they navigate their complex cases at Law Firm Daejung.",
-      "releaseInfo": "2024-",
+      "name": "Yellowjackets",
+      "description": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
+      "releaseInfo": "2021-",
       "rank": 9,
-      "imdbRating": 7.8,
-      "imdbId": "tt32840498",
+      "imdbRating": 7.7,
+      "imdbId": "tt11041332",
       "genres": [
         "Drama",
-        "Comedy"
+        "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1795318826206",
-      "HDPoster": "https://image.tmdb.org/t/p/original/ztyRfbd4vFo2UZfH7OqSl4vfP71.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5I9RHQXYhEF0bLP5Waal6iQfnWq.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1795318826206",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/jUeYRaRi8ARcHl2bHg4mZt8u2Js.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1795407352283",
+      "HDPoster": "https://image.tmdb.org/t/p/original/zoZn9LLNPZvOhd6Pzt0qAYKirzk.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1795407352283",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/5Zr3UpAQ6bQVnjG1VNn9hqJzLRF.jpg"
     },
     {
-      "id": "tt16358384",
+      "id": "tt5622316",
       "type": "series",
-      "name": "Tulsa King",
-      "description": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-      "releaseInfo": "2022-",
+      "name": "The Chosen",
+      "description": "The life of Christ through the eyes of those who encountered him.",
+      "releaseInfo": "2019-",
       "rank": 10,
-      "imdbRating": 7.9,
-      "imdbId": "tt16358384",
+      "imdbRating": 9.1,
+      "imdbId": "tt5622316",
       "genres": [
-        "Crime",
-        "Drama",
-        "Comedy"
+        "Action & Adventure",
+        "Family",
+        "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1795318826206",
-      "HDPoster": "https://image.tmdb.org/t/p/original/ro6mCt4rHkSrLpu86pphY8Jn2lb.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1795318826206",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/yxWDzf7cFQIL99m0o8iu4rrzzWr.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1795407352283",
+      "HDPoster": "https://image.tmdb.org/t/p/original/at7IaR8qQ2TguqD4oHlYdbQxfHA.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1795407352283",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/gUGq7l1OtvvKyrNULQZdADqMH6p.jpg"
     }
   ]
 }
