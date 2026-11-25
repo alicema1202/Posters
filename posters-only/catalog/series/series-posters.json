@@ -1,44 +1,44 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-11-24T07:13:55.399Z",
+  "updated": "2026-11-25T05:47:57.632Z",
   "metas": [
-    {
-      "id": "tt8014982",
-      "type": "series",
-      "name": "The Body",
-      "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
-      "releaseInfo": "2026-",
-      "rank": 1,
-      "imdbRating": 7.4,
-      "imdbId": "tt8014982",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1795504421305",
-      "HDPoster": "https://image.tmdb.org/t/p/original/nlmZnWtJwn5FnedWF52nHmdkNy.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1795504421305",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/p5kAcb0ve2RWOe0i1H8KRsUYl38.jpg"
-    },
     {
       "id": "tt7631058",
       "type": "series",
       "name": "The Lord of the Rings: The Rings of Power",
       "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
       "releaseInfo": "2022-",
-      "rank": 2,
+      "rank": 1,
       "imdbRating": 6.8,
       "imdbId": "tt7631058",
       "genres": [
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1795504421305",
+      "poster": "https://posters-rank.vercel.app/image/series-1.png?v=1795585665020",
       "HDPoster": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1795504421305",
+      "background": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1795585665020",
       "backdropPoster": "https://image.tmdb.org/t/p/original/qTMn0dFVxT6AreSF2Is2EEKxBZe.jpg"
+    },
+    {
+      "id": "tt8014982",
+      "type": "series",
+      "name": "The Body",
+      "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+      "releaseInfo": "2026-",
+      "rank": 2,
+      "imdbRating": 7.4,
+      "imdbId": "tt8014982",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-2.png?v=1795585665020",
+      "HDPoster": "https://image.tmdb.org/t/p/original/nlmZnWtJwn5FnedWF52nHmdkNy.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1795585665020",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/p5kAcb0ve2RWOe0i1H8KRsUYl38.jpg"
     },
     {
       "id": "tt31510819",
@@ -53,51 +53,51 @@
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1795504421305",
+      "poster": "https://posters-rank.vercel.app/image/series-3.png?v=1795585665020",
       "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1795504421305",
+      "background": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1795585665020",
       "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg"
     },
     {
-      "id": "tt12324366",
+      "id": "tt45246384",
       "type": "series",
-      "name": "Percy Jackson and the Olympians",
-      "description": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
-      "releaseInfo": "2023-",
+      "name": "Love in Disguise",
+      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+      "releaseInfo": "2026",
       "rank": 4,
-      "imdbRating": 7,
-      "imdbId": "tt12324366",
+      "imdbRating": 8,
+      "imdbId": "tt45246384",
       "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
+        "Comedy",
         "Drama",
-        "Family"
+        "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1795504421305",
-      "HDPoster": "https://image.tmdb.org/t/p/original/m2CJO1IFnoem4YEDxq9RdpPKGZT.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1795504421305",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/yBkhoqyh5MZeYzdcwJwFVd19GGk.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-4.png?v=1795585665020",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1795585665020",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/f1fhoN4eRXLVcdlfHeskilS1D15.jpg"
     },
     {
-      "id": "tt38336631",
+      "id": "tt33043892",
       "type": "series",
-      "name": "The Blue Road",
-      "description": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
-      "releaseInfo": "2026",
+      "name": "Dexter: Resurrection",
+      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "releaseInfo": "2025-",
       "rank": 5,
-      "imdbRating": 7.3,
-      "imdbId": "tt38336631",
+      "imdbRating": 9,
+      "imdbId": "tt33043892",
       "genres": [
         "Crime",
+        "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1795504421305",
-      "HDPoster": "https://image.tmdb.org/t/p/original/zUQKiApG9zMXY0sfErZ8YgD49Ex.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1795504421305",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/byTzfiWeKix4p4CJ9f7qxpkNSN7.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-5.png?v=1795585665020",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1795585665020",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/m146j8Jdfnblx0ApCda8DpfxEEC.jpg"
     },
     {
       "id": "tt23112594",
@@ -112,31 +112,70 @@
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1795504421305",
+      "poster": "https://posters-rank.vercel.app/image/series-6.png?v=1795585665020",
       "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1795504421305",
+      "background": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1795585665020",
       "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg"
     },
     {
-      "id": "tt45246384",
+      "id": "tt38336631",
       "type": "series",
-      "name": "Love in Disguise",
-      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-      "releaseInfo": "2026-",
+      "name": "The Blue Road",
+      "description": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
+      "releaseInfo": "2026",
       "rank": 7,
-      "imdbRating": 8,
-      "imdbId": "tt45246384",
+      "imdbRating": 7.2,
+      "imdbId": "tt38336631",
       "genres": [
-        "Comedy",
-        "Drama",
-        "Crime"
+        "Crime",
+        "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1795504421305",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1795504421305",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/yKGgRHl9kGUhC4fjTiCNADPDT7k.jpg"
+      "poster": "https://posters-rank.vercel.app/image/series-7.png?v=1795585665020",
+      "HDPoster": "https://image.tmdb.org/t/p/original/zUQKiApG9zMXY0sfErZ8YgD49Ex.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1795585665020",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/byTzfiWeKix4p4CJ9f7qxpkNSN7.jpg"
+    },
+    {
+      "id": "tt12324366",
+      "type": "series",
+      "name": "Percy Jackson and the Olympians",
+      "description": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+      "releaseInfo": "2023-",
+      "rank": 8,
+      "imdbRating": 7,
+      "imdbId": "tt12324366",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Family"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1795585665020",
+      "HDPoster": "https://image.tmdb.org/t/p/original/m2CJO1IFnoem4YEDxq9RdpPKGZT.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1795585665020",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/yBkhoqyh5MZeYzdcwJwFVd19GGk.jpg"
+    },
+    {
+      "id": "tt39325975",
+      "type": "series",
+      "name": "The Remarried Empress",
+      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "releaseInfo": "2026-",
+      "rank": 9,
+      "imdbRating": 7.6,
+      "imdbId": "tt39325975",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1795585665020",
+      "HDPoster": "https://image.tmdb.org/t/p/original/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1795585665020",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/3wZoQkHGm789KJFfeU6HLLsTir9.jpg"
     },
     {
       "id": "tt5622316",
@@ -144,7 +183,7 @@
       "name": "The Chosen",
       "description": "The life of Christ through the eyes of those who encountered him.",
       "releaseInfo": "2019-",
-      "rank": 8,
+      "rank": 10,
       "imdbRating": 9.1,
       "imdbId": "tt5622316",
       "genres": [
@@ -152,50 +191,11 @@
         "Family",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-8.png?v=1795504421305",
+      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1795585665020",
       "HDPoster": "https://image.tmdb.org/t/p/original/at7IaR8qQ2TguqD4oHlYdbQxfHA.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1795504421305",
+      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1795585665020",
       "backdropPoster": "https://image.tmdb.org/t/p/original/gUGq7l1OtvvKyrNULQZdADqMH6p.jpg"
-    },
-    {
-      "id": "tt11041332",
-      "type": "series",
-      "name": "Yellowjackets",
-      "description": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
-      "releaseInfo": "2021-",
-      "rank": 9,
-      "imdbRating": 7.7,
-      "imdbId": "tt11041332",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-9.png?v=1795504421305",
-      "HDPoster": "https://image.tmdb.org/t/p/original/zoZn9LLNPZvOhd6Pzt0qAYKirzk.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1795504421305",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/5Zr3UpAQ6bQVnjG1VNn9hqJzLRF.jpg"
-    },
-    {
-      "id": "tt33043892",
-      "type": "series",
-      "name": "Dexter: Resurrection",
-      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "releaseInfo": "2025-",
-      "rank": 10,
-      "imdbRating": 9,
-      "imdbId": "tt33043892",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-10.png?v=1795504421305",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "background": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1795504421305",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/m146j8Jdfnblx0ApCda8DpfxEEC.jpg"
     }
   ]
 }
