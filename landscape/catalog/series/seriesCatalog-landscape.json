@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-11-25T05:47:57.631Z",
+  "updated": "2026-11-26T05:38:52.464Z",
   "metas": [
     {
       "id": "tt7631058",
@@ -15,33 +15,33 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1795585665020",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1795671523595",
       "HDPoster": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "background": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/qTMn0dFVxT6AreSF2Is2EEKxBZe.jpg",
       "logo": "https://artworks.thetvdb.com/banners/v4/series/367506/clearlogo/61e9c86741d69.png",
       "posterShape": "landscape"
     },
     {
-      "id": "tt8014982",
+      "id": "tt39325975",
       "type": "series",
-      "name": "The Body",
-      "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
-      "releaseInfo": "2026-",
+      "name": "The Remarried Empress",
+      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "releaseInfo": "2026",
       "rank": 2,
-      "imdbRating": 7.4,
-      "imdbId": "tt8014982",
+      "imdbRating": 7.6,
+      "imdbId": "tt39325975",
       "genres": [
-        "Mystery",
-        "Drama"
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1795585665020",
-      "HDPoster": "https://image.tmdb.org/t/p/original/nlmZnWtJwn5FnedWF52nHmdkNy.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-      "background": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/p5kAcb0ve2RWOe0i1H8KRsUYl38.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/c7PCh5wDlXODksBXElQHiotV9M5.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1795671523595",
+      "HDPoster": "https://image.tmdb.org/t/p/original/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/3wZoQkHGm789KJFfeU6HLLsTir9.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/455351/clearlogo/6ab57da4deda4.png",
       "posterShape": "landscape"
     },
     {
@@ -57,12 +57,75 @@
         "Crime",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1795585665020",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1795671523595",
       "HDPoster": "https://image.tmdb.org/t/p/original/rR5GRDRAwwA4O9YuagQmxxciTKw.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
       "background": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/o38vOfVhLq1wtgDVCoE4HRDDl30.jpg",
       "logo": "https://artworks.thetvdb.com/banners/v4/series/446831/clearlogo/68fd77028683b.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt32375763",
+      "type": "series",
+      "name": "12 12 12",
+      "description": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
+      "releaseInfo": "2026-",
+      "rank": 4,
+      "imdbRating": 5.6,
+      "imdbId": "tt32375763",
+      "genres": [
+        "Action & Adventure",
+        "Crime",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1795671523595",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6whFyOhqKUsjyJYQvXXadEMkse0.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/8Fsctut3QuqX9pHqLTm7bGextRc.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/450094/clearlogo/6aea249cb2df9.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt36843594",
+      "type": "series",
+      "name": "DIG",
+      "description": "Follow four women who work at an archeological dig in Greece. When the team uncovers a long-buried secret with the potential to rewrite history, they find themselves at the center of a high-stakes international conspiracy.",
+      "releaseInfo": "2026-",
+      "rank": 5,
+      "imdbRating": 6.4,
+      "imdbId": "tt36843594",
+      "genres": [
+        "Comedy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1795671523595",
+      "HDPoster": "https://image.tmdb.org/t/p/original/v7R5beOAO6t6uySKx6bZH4SQQGV.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/eyW6V0R0SzG3BqtYKhlZKGBaUCn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/apHJDHRa0LMtZlcMvKK74InRMfc.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/u0ppOi8Odq3Im1BlUHQth2Ubnnr.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/voT8stLPjCtJxZzytBlhcNezE5J.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt8014982",
+      "type": "series",
+      "name": "The Body",
+      "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+      "releaseInfo": "2026-",
+      "rank": 6,
+      "imdbRating": 7.4,
+      "imdbId": "tt8014982",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1795671523595",
+      "HDPoster": "https://image.tmdb.org/t/p/original/nlmZnWtJwn5FnedWF52nHmdkNy.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/p5kAcb0ve2RWOe0i1H8KRsUYl38.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/c7PCh5wDlXODksBXElQHiotV9M5.png",
       "posterShape": "landscape"
     },
     {
@@ -71,7 +134,7 @@
       "name": "Love in Disguise",
       "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
       "releaseInfo": "2026",
-      "rank": 4,
+      "rank": 7,
       "imdbRating": 8,
       "imdbId": "tt45246384",
       "genres": [
@@ -79,7 +142,7 @@
         "Drama",
         "Crime"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1795585665020",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1795671523595",
       "HDPoster": "https://image.tmdb.org/t/p/original/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
       "background": "https://image.tmdb.org/t/p/original/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
@@ -93,7 +156,7 @@
       "name": "Dexter: Resurrection",
       "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
       "releaseInfo": "2025-",
-      "rank": 5,
+      "rank": 8,
       "imdbRating": 9,
       "imdbId": "tt33043892",
       "genres": [
@@ -101,7 +164,7 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1795585665020",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1795671523595",
       "HDPoster": "https://image.tmdb.org/t/p/original/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
       "background": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
@@ -110,111 +173,46 @@
       "posterShape": "landscape"
     },
     {
+      "id": "tt26598805",
+      "type": "series",
+      "name": "Nocturne",
+      "description": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+      "releaseInfo": "2026-",
+      "rank": 9,
+      "imdbRating": 7.4,
+      "imdbId": "tt26598805",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1795671523595",
+      "HDPoster": "https://image.tmdb.org/t/p/original/4drDox9ypUrAProgRNSQjrr6zQR.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/yllwzRiqYnUXSV4TwvQz0MVstGL.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/430654/clearlogo/6abd165690e96.png",
+      "posterShape": "landscape"
+    },
+    {
       "id": "tt23112594",
       "type": "series",
       "name": "VisionQuest",
       "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "releaseInfo": "2026",
-      "rank": 6,
+      "rank": 10,
       "imdbRating": 7.7,
       "imdbId": "tt23112594",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1795585665020",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1795671523595",
       "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "background": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg",
       "logo": "https://artworks.thetvdb.com/banners/v4/series/426606/clearlogo/6aad13a381c66.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt38336631",
-      "type": "series",
-      "name": "The Blue Road",
-      "description": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
-      "releaseInfo": "2026",
-      "rank": 7,
-      "imdbRating": 7.2,
-      "imdbId": "tt38336631",
-      "genres": [
-        "Crime",
-        "Mystery"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1795585665020",
-      "HDPoster": "https://image.tmdb.org/t/p/original/zUQKiApG9zMXY0sfErZ8YgD49Ex.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-      "background": "https://image.tmdb.org/t/p/original/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/byTzfiWeKix4p4CJ9f7qxpkNSN7.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/jjVu38OY11pNEHQrFNWp2kH6TX5.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt12324366",
-      "type": "series",
-      "name": "Percy Jackson and the Olympians",
-      "description": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
-      "releaseInfo": "2023-",
-      "rank": 8,
-      "imdbRating": 7,
-      "imdbId": "tt12324366",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Drama",
-        "Family"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1795585665020",
-      "HDPoster": "https://image.tmdb.org/t/p/original/m2CJO1IFnoem4YEDxq9RdpPKGZT.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
-      "background": "https://image.tmdb.org/t/p/original/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/yBkhoqyh5MZeYzdcwJwFVd19GGk.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/415151/clearlogo/657be9b87a864.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt39325975",
-      "type": "series",
-      "name": "The Remarried Empress",
-      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "releaseInfo": "2026-",
-      "rank": 9,
-      "imdbRating": 7.6,
-      "imdbId": "tt39325975",
-      "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1795585665020",
-      "HDPoster": "https://image.tmdb.org/t/p/original/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "background": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/3wZoQkHGm789KJFfeU6HLLsTir9.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/455351/clearlogo/6ab57da4deda4.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt5622316",
-      "type": "series",
-      "name": "The Chosen",
-      "description": "The life of Christ through the eyes of those who encountered him.",
-      "releaseInfo": "2019-",
-      "rank": 10,
-      "imdbRating": 9.1,
-      "imdbId": "tt5622316",
-      "genres": [
-        "Action & Adventure",
-        "Family",
-        "Drama"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1795585665020",
-      "HDPoster": "https://image.tmdb.org/t/p/original/at7IaR8qQ2TguqD4oHlYdbQxfHA.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
-      "background": "https://image.tmdb.org/t/p/original/2YQFwn9aF7huTFHxn9lFTAn14F.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/gUGq7l1OtvvKyrNULQZdADqMH6p.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/356992/clearlogo/63bc185f57714.png",
       "posterShape": "landscape"
     }
   ]

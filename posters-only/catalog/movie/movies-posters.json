@@ -1,25 +1,44 @@
 {
   "name": "TMDB Top 10 Movies Today",
-  "updated": "2026-11-25T05:47:57.632Z",
+  "updated": "2026-11-26T05:38:52.465Z",
   "metas": [
     {
-      "id": "tt37510326",
+      "id": "tt36413910",
       "type": "movie",
-      "name": "The Social Reckoning",
-      "description": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+      "name": "The Mosquito Bowl",
+      "description": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
       "releaseInfo": "2026",
       "rank": 1,
       "genres": [
-        "Drama",
-        "Thriller"
+        "War",
+        "History",
+        "Drama"
       ],
       "imdbRating": 6.6,
-      "imdbId": "tt37510326",
-      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1795585665020",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/n4A05i9FaYN5VKQ7gUGD4fsdmUm.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1795585665020",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/79Tk3eivIt67JRJgo8y1GQbTrOj.jpg"
+      "imdbId": "tt36413910",
+      "poster": "https://posters-rank.vercel.app/image/movie-1.png?v=1795671523595",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg",
+      "HDPoster": null,
+      "background": "https://posters-rank.vercel.app/image/movie-landscape1.png?v=1795671523595",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/5MJut3ltm3GphR3PyloDbuXoptr.jpg"
+    },
+    {
+      "id": "tt32213169",
+      "type": "movie",
+      "name": "Way of the Warrior Kid",
+      "description": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+      "releaseInfo": "2026",
+      "rank": 2,
+      "genres": [
+        "Drama"
+      ],
+      "imdbRating": 7.2,
+      "imdbId": "tt32213169",
+      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1795671523595",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/2Cezcsd4KMC1zpzNSmibXhnfjUO.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1795671523595",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/r5hkdKwjSFfSJNQccxmGYA33yRi.jpg"
     },
     {
       "id": "tt29611136",
@@ -27,7 +46,7 @@
       "name": "Wicker",
       "description": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
       "releaseInfo": "2026",
-      "rank": 2,
+      "rank": 3,
       "genres": [
         "Romance",
         "Fantasy",
@@ -35,30 +54,30 @@
       ],
       "imdbRating": 7.4,
       "imdbId": "tt29611136",
-      "poster": "https://posters-rank.vercel.app/image/movie-2.png?v=1795585665020",
+      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1795671523595",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/w2myapUZiMa3ACz4gughcEYn2sF.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape2.png?v=1795585665020",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1795671523595",
       "backdropPoster": "https://image.tmdb.org/t/p/original/18U1TLC154qmWPXuiMt8PiFi83v.jpg"
     },
     {
-      "id": "tt39316936",
+      "id": "tt37510326",
       "type": "movie",
-      "name": "Clashing Through the Snow",
-      "description": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
+      "name": "The Social Reckoning",
+      "description": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
       "releaseInfo": "2026",
-      "rank": 3,
+      "rank": 4,
       "genres": [
-        "Romance",
-        "Comedy"
+        "Drama",
+        "Thriller"
       ],
-      "imdbRating": null,
-      "imdbId": "tt39316936",
-      "poster": "https://posters-rank.vercel.app/image/movie-3.png?v=1795585665020",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6S5G9OeBpggwlcEvF1rO5AJCmw9.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape3.png?v=1795585665020",
-      "backdropPoster": null
+      "imdbRating": 6.6,
+      "imdbId": "tt37510326",
+      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1795671523595",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/n4A05i9FaYN5VKQ7gUGD4fsdmUm.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1795671523595",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/4o7wIbeTAqWs0Nya8DnwinyEgTr.jpg"
     },
     {
       "id": "tt22084616",
@@ -66,7 +85,7 @@
       "name": "Spider-Man: Brand New Day",
       "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "releaseInfo": "2026",
-      "rank": 4,
+      "rank": 5,
       "genres": [
         "Science Fiction",
         "Action",
@@ -74,11 +93,11 @@
       ],
       "imdbRating": 7.9,
       "imdbId": "tt22084616",
-      "poster": "https://posters-rank.vercel.app/image/movie-4.png?v=1795585665020",
+      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1795671523595",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape4.png?v=1795585665020",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/lH6LQcUhkVOK6ekvXzthQAogUnR.jpg"
+      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1795671523595",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/yxOxOBxspl3NgC676W62G02g1cR.jpg"
     },
     {
       "id": "tt33764258",
@@ -86,7 +105,7 @@
       "name": "The Odyssey",
       "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "releaseInfo": "2026",
-      "rank": 5,
+      "rank": 6,
       "genres": [
         "Adventure",
         "Action",
@@ -94,10 +113,10 @@
       ],
       "imdbRating": 8.4,
       "imdbId": "tt33764258",
-      "poster": "https://posters-rank.vercel.app/image/movie-5.png?v=1795585665020",
+      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1795671523595",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/wkEZ7YmWdn7GeFBoNz2RAiLlwDB.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape5.png?v=1795585665020",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1795671523595",
       "backdropPoster": "https://image.tmdb.org/t/p/original/ugEXTmwvFj8oqOui6ZwXjQgSwAp.jpg"
     },
     {
@@ -106,18 +125,18 @@
       "name": "Breeder",
       "description": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.",
       "releaseInfo": "2026",
-      "rank": 6,
+      "rank": 7,
       "genres": [
         "Horror",
         "Thriller"
       ],
-      "imdbRating": 6.5,
+      "imdbRating": 6.4,
       "imdbId": "tt9213874",
-      "poster": "https://posters-rank.vercel.app/image/movie-6.png?v=1795585665020",
+      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1795671523595",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/pRXsVckp0kqa6AzNsfH90sDKP4U.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape6.png?v=1795585665020",
-      "backdropPoster": null
+      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1795671523595",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/auzVrJQj9f23WYFC2ivPSinzNHQ.jpg"
     },
     {
       "id": "tt14413964",
@@ -125,7 +144,7 @@
       "name": "Steps",
       "description": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
       "releaseInfo": "2026",
-      "rank": 7,
+      "rank": 8,
       "genres": [
         "Animation",
         "Family",
@@ -135,30 +154,30 @@
       ],
       "imdbRating": 6.8,
       "imdbId": "tt14413964",
-      "poster": "https://posters-rank.vercel.app/image/movie-7.png?v=1795585665020",
+      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1795671523595",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/TmO4mYGXqHbaZ5XVvwXwlLu3zy.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape7.png?v=1795585665020",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/idfbOZ6QBziR6suqFGIMJsSk3lV.jpg"
+      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1795671523595",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/dI8PnlfdiRzMqwzGFL8oF11cgHf.jpg"
     },
     {
-      "id": "tt32213169",
+      "id": "tt39316936",
       "type": "movie",
-      "name": "Way of the Warrior Kid",
-      "description": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+      "name": "Clashing Through the Snow",
+      "description": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
       "releaseInfo": "2026",
-      "rank": 8,
+      "rank": 9,
       "genres": [
-        "Drama",
-        "Family"
+        "Romance",
+        "Comedy"
       ],
-      "imdbRating": 7.7,
-      "imdbId": "tt32213169",
-      "poster": "https://posters-rank.vercel.app/image/movie-8.png?v=1795585665020",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/2Cezcsd4KMC1zpzNSmibXhnfjUO.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape8.png?v=1795585665020",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/cJNiUFmEGZNK8f66UYtumk8zmag.jpg"
+      "imdbRating": 5.9,
+      "imdbId": "tt39316936",
+      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1795671523595",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
+      "HDPoster": "https://image.tmdb.org/t/p/original/6S5G9OeBpggwlcEvF1rO5AJCmw9.jpg",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1795671523595",
+      "backdropPoster": null
     },
     {
       "id": "tt35538033",
@@ -166,7 +185,7 @@
       "name": "Resident Evil",
       "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
       "releaseInfo": "2026",
-      "rank": 9,
+      "rank": 10,
       "genres": [
         "Horror",
         "Science Fiction",
@@ -174,31 +193,11 @@
       ],
       "imdbRating": 7.4,
       "imdbId": "tt35538033",
-      "poster": "https://posters-rank.vercel.app/image/movie-9.png?v=1795585665020",
+      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1795671523595",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
       "HDPoster": "https://image.tmdb.org/t/p/original/qBzH6VAkjYTGP4MGvMYGasu8ZA0.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape9.png?v=1795585665020",
+      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1795671523595",
       "backdropPoster": "https://image.tmdb.org/t/p/original/9YzsMLLSpCbAiDiEXlwkZr3m5Ri.jpg"
-    },
-    {
-      "id": "tt21285562",
-      "type": "movie",
-      "name": "The Dog Stars",
-      "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-      "releaseInfo": "2026",
-      "rank": 10,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Science Fiction"
-      ],
-      "imdbRating": 6.2,
-      "imdbId": "tt21285562",
-      "poster": "https://posters-rank.vercel.app/image/movie-10.png?v=1795585665020",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
-      "HDPoster": "https://image.tmdb.org/t/p/original/qWlpfLSP704hXccHMoJCqoOanMr.jpg",
-      "background": "https://posters-rank.vercel.app/image/movie-landscape10.png?v=1795585665020",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/o3TY0dc236CM7eMwAsyghcXIzBL.jpg"
     }
   ]
 }
