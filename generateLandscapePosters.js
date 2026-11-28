@@ -1,4 +1,5 @@
 const fs = require("fs");
+const path = require("path");
 const puppeteer = require("puppeteer");
 const css = fs.readFileSync("posterStyle.css", "utf8");
 
@@ -6,6 +7,12 @@ const catalogs = [
     "catalog/movie/movieCatalog.json",
     "catalog/series/seriesCatalog.json"
 ];
+
+// This build's poster folder (image/<build>), read from the catalog's own
+// poster URL so the files always land where the catalog points.
+function imageDir(item) {
+    return path.posix.dirname(new URL(item.poster).pathname).slice(1);
+}
 
 
 
@@ -279,11 +286,14 @@ async function generatePoster(item, browser) {
 
 
 
+    const dir = imageDir(item);
+
+    fs.mkdirSync(dir, { recursive: true });
+
     await page.screenshot({
 
         path:
-            // `image/landscape${item.id.replace("tmdb:", "")}.png`
-            `image/${item.type}-landscape${item.rank}.png`
+            `${dir}/${item.type}-landscape${item.rank}.png`
 
     });
 
@@ -304,19 +314,6 @@ async function generatePoster(item, browser) {
 
 
 async function main() {
-
-
-    if (!fs.existsSync("image")) {
-
-        fs.mkdirSync(
-            "image",
-            {
-                recursive:true
-            }
-        );
-
-    }
-
 
 
     const browser =

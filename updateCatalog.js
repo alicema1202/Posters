@@ -4,10 +4,14 @@ const API_KEY = process.env.TMDB_KEY;
 const OMDB_KEY = process.env.OMDB_KEY;
 const MDBLIST_KEY = process.env.MDBLIST_KEY;
 const TVDB_KEY = process.env.TVDB_KEY;
-const GITHUB_PAGES =
-    "https://posters-rank.vercel.app/image";
-
 const BUILD_TIMESTAMP = Date.now();
+
+// Each run's posters live in their own folder, image/<BUILD_TIMESTAMP>/.
+// Apps like Nuvio keep a catalog in memory until restarted; with a fixed URL
+// such as image/movie-2.png they'd show today's #2 poster on yesterday's #2
+// item. The poster generators write to whatever folder these URLs point at.
+const GITHUB_PAGES =
+    `https://posters-rank.vercel.app/image/${BUILD_TIMESTAMP}`;
 
 let movieGenres = {};
 let tvGenres = {};
@@ -619,7 +623,7 @@ async function getTopMovies() {
                     imdbId,
 
                 poster:
-                    `${GITHUB_PAGES}/movie-${movies.length + 1}.png?v=${BUILD_TIMESTAMP}`,
+                    `${GITHUB_PAGES}/movie-${movies.length + 1}.png`,
 
                 tmdbPoster:
                     movie.poster_path
@@ -780,7 +784,7 @@ async function getTopSeries() {
                 ),
 
             poster:
-                `${GITHUB_PAGES}/series-${series.length + 1}.png?v=${BUILD_TIMESTAMP}`,
+                `${GITHUB_PAGES}/series-${series.length + 1}.png`,
 
             HDPoster:
                 images.HDPoster,
@@ -837,8 +841,8 @@ function saveCatalog(path, name, metas, posterShape = "portrait") {
     if (posterShape === "landscape") {
         metas = metas.map(meta => ({
             ...meta,
-            // poster: `${GITHUB_PAGES}/landscape${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`
-            poster: `${GITHUB_PAGES}/${meta.type}-landscape${meta.rank}.png?v=${BUILD_TIMESTAMP}`
+            // poster: `${GITHUB_PAGES}/landscape${meta.imdbId}.png`
+            poster: `${GITHUB_PAGES}/${meta.type}-landscape${meta.rank}.png`
         }));
     }
 
@@ -874,10 +878,10 @@ function saveLandscapeCatalog(path, name, metas) {
 
         return {
             ...rest,
-            // poster: `${GITHUB_PAGES}/${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`,
-            poster: `${GITHUB_PAGES}/${meta.type}-${meta.rank}.png?v=${BUILD_TIMESTAMP}`,
-            // background: `${GITHUB_PAGES}/landscape${meta.imdbId}.png?v=${BUILD_TIMESTAMP}`
-            background: `${GITHUB_PAGES}/${meta.type}-landscape${meta.rank}.png?v=${BUILD_TIMESTAMP}`
+            // poster: `${GITHUB_PAGES}/${meta.imdbId}.png`,
+            poster: `${GITHUB_PAGES}/${meta.type}-${meta.rank}.png`,
+            // background: `${GITHUB_PAGES}/landscape${meta.imdbId}.png`
+            background: `${GITHUB_PAGES}/${meta.type}-landscape${meta.rank}.png`
         };
     });
 

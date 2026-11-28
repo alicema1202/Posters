@@ -39,10 +39,19 @@ jobs:
         run: node updateCatalog.js
 
 
+      # Posters go in image/<build>/. Keep only the previous build's folder:
+      # apps like Nuvio hold yesterday's catalog until restarted, and it
+      # still points there. On the first run after switching to folders,
+      # keep the old flat image/*.png files for the same reason.
       - name: Clear old poster images
         run: |
-          rm -rf image/*
           mkdir -p image
+          latest=$(ls image | grep -E '^[0-9]+$' | sort -n | tail -n 1 || true)
+          if [ -n "$latest" ]; then
+            for f in image/*; do
+              [ "$f" = "image/$latest" ] || rm -rf "$f"
+            done
+          fi
 
 
       - name: Generate posters
