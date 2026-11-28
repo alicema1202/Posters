@@ -1,6 +1,6 @@
 {
   "name": "TMDB Top 10 Series Today",
-  "updated": "2026-11-27T05:32:09.143Z",
+  "updated": "2026-11-28T05:08:30.439Z",
   "metas": [
     {
       "id": "tt18224594",
@@ -9,16 +9,16 @@
       "description": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.",
       "releaseInfo": "2026",
       "rank": 1,
-      "imdbRating": 5.3,
+      "imdbRating": 5.5,
       "imdbId": "tt18224594",
       "genres": [
         "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1795757509957",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape1.png?v=1795842495557",
       "HDPoster": "https://image.tmdb.org/t/p/original/r80C4KkJcXV1eIJ3F7YGh0FFHbg.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/d8IKBDXQvj3d6clsjqydT4xcw14.jpg",
-      "background": "https://image.tmdb.org/t/p/original/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nuLUxzJ4bVVxafru5lgWfmcPOm7.jpg",
       "backdropPoster": "https://image.tmdb.org/t/p/original/r2NdpdzuyeZEn0AdPk1d8iXnVJm.jpg",
       "logo": "https://artworks.thetvdb.com/banners/v4/series/424855/clearlogo/6af3f1c11b709.png",
       "posterShape": "landscape"
@@ -36,7 +36,7 @@
         "Drama",
         "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1795757509957",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape2.png?v=1795842495557",
       "HDPoster": "https://image.tmdb.org/t/p/original/toJ1QobboVXbBohqSqTwJ5KXB64.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/iKL02GmejLCGBJr7XHU82vvqA1C.jpg",
       "background": "https://image.tmdb.org/t/p/original/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
@@ -57,7 +57,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1795757509957",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape3.png?v=1795842495557",
       "HDPoster": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
       "background": "https://image.tmdb.org/t/p/original/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
@@ -66,24 +66,25 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt41743360",
+      "id": "tt33043892",
       "type": "series",
-      "name": "Nine to Six",
-      "description": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
-      "releaseInfo": "2026-",
+      "name": "Dexter: Resurrection",
+      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "releaseInfo": "2025-",
       "rank": 4,
-      "imdbRating": null,
-      "imdbId": "tt41743360",
+      "imdbRating": 9,
+      "imdbId": "tt33043892",
       "genres": [
+        "Crime",
         "Drama",
-        "Comedy"
+        "Mystery"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1795757509957",
-      "HDPoster": "https://image.tmdb.org/t/p/original/9TVdc92eyL2R93dnKV0Ah7LOXw2.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/1iVlL2Prt9Q5BWMfeZQ6d1ZAZBy.jpg",
-      "background": "https://image.tmdb.org/t/p/original/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/r3QL8u5tdv4zIUnpEiJDvLMotTx.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/tigIkwkOyi9LJAYqxjg3DgV2PZT.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape4.png?v=1795842495557",
+      "HDPoster": "https://image.tmdb.org/t/p/original/9KIliGHB1FcIS39Ucmn1rLLID9C.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/m146j8Jdfnblx0ApCda8DpfxEEC.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/452595/clearlogo/6866f54158d3a.png",
       "posterShape": "landscape"
     },
     {
@@ -99,75 +100,35 @@
         "Comedy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1795757509957",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape5.png?v=1795842495557",
       "HDPoster": "https://image.tmdb.org/t/p/original/iry08bkQ17JZTlCCGnr8jcIeGEq.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/A4A0juWk4ofqP6Q0TFY6CRhcCAa.jpg",
       "background": "https://image.tmdb.org/t/p/original/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/r1n4xZ4emGrHKufA2phVLe2GWQO.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/oQKspvNx2WJNkKmX9XV6NAkXfnn.jpg",
       "logo": "https://artworks.thetvdb.com/banners/v4/series/421654/clearlogo/67079e6e6c881.png",
       "posterShape": "landscape"
     },
     {
-      "id": "tt39325975",
+      "id": "tt12324366",
       "type": "series",
-      "name": "The Remarried Empress",
-      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "releaseInfo": "2026",
+      "name": "Percy Jackson and the Olympians",
+      "description": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+      "releaseInfo": "2023-",
       "rank": 6,
-      "imdbRating": 7.7,
-      "imdbId": "tt39325975",
+      "imdbRating": 7,
+      "imdbId": "tt12324366",
       "genres": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1795757509957",
-      "HDPoster": "https://image.tmdb.org/t/p/original/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "background": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/3wZoQkHGm789KJFfeU6HLLsTir9.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/455351/clearlogo/6ab57da4deda4.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt0121955",
-      "type": "series",
-      "name": "South Park",
-      "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-      "releaseInfo": "1997-",
-      "rank": 7,
-      "imdbRating": 8.7,
-      "imdbId": "tt0121955",
-      "genres": [
-        "Comedy",
-        "Animation"
-      ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1795757509957",
-      "HDPoster": "https://image.tmdb.org/t/p/original/wMbyBgyzhn2eAAt8z9SUcRZVKTJ.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "background": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/fqoPlnpwRBbTWDNFgGQvp9AsBOQ.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/75897/clearlogo/688f0949ebc1e.png",
-      "posterShape": "landscape"
-    },
-    {
-      "id": "tt23112594",
-      "type": "series",
-      "name": "VisionQuest",
-      "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "releaseInfo": "2026",
-      "rank": 8,
-      "imdbRating": 7.7,
-      "imdbId": "tt23112594",
-      "genres": [
+        "Action & Adventure",
         "Sci-Fi & Fantasy",
-        "Drama"
+        "Drama",
+        "Family"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1795757509957",
-      "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "background": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/426606/clearlogo/6aad13a381c66.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape6.png?v=1795842495557",
+      "HDPoster": "https://image.tmdb.org/t/p/original/m2CJO1IFnoem4YEDxq9RdpPKGZT.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/yBkhoqyh5MZeYzdcwJwFVd19GGk.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/415151/clearlogo/657be9b87a864.png",
       "posterShape": "landscape"
     },
     {
@@ -176,14 +137,14 @@
       "name": "The Body",
       "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
       "releaseInfo": "2026-",
-      "rank": 9,
+      "rank": 7,
       "imdbRating": 7.4,
       "imdbId": "tt8014982",
       "genres": [
         "Mystery",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1795757509957",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape7.png?v=1795842495557",
       "HDPoster": "https://image.tmdb.org/t/p/original/nlmZnWtJwn5FnedWF52nHmdkNy.jpg",
       "tmdbPoster": "https://image.tmdb.org/t/p/w500/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
       "background": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
@@ -192,25 +153,66 @@
       "posterShape": "landscape"
     },
     {
-      "id": "tt32375763",
+      "id": "tt11041332",
       "type": "series",
-      "name": "12 12 12",
-      "description": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
-      "releaseInfo": "2026-",
-      "rank": 10,
-      "imdbRating": 5.6,
-      "imdbId": "tt32375763",
+      "name": "Yellowjackets",
+      "description": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
+      "releaseInfo": "2021-",
+      "rank": 8,
+      "imdbRating": 7.7,
+      "imdbId": "tt11041332",
       "genres": [
-        "Action & Adventure",
-        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape8.png?v=1795842495557",
+      "HDPoster": "https://image.tmdb.org/t/p/original/zoZn9LLNPZvOhd6Pzt0qAYKirzk.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/pP7K0FhNXzZd3J9Po0gXFzZ1Dpo.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/399731/clearlogo/619cd9f3a4a31.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt23112594",
+      "type": "series",
+      "name": "VisionQuest",
+      "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "releaseInfo": "2026",
+      "rank": 9,
+      "imdbRating": 7.7,
+      "imdbId": "tt23112594",
+      "genres": [
+        "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1795757509957",
-      "HDPoster": "https://image.tmdb.org/t/p/original/6whFyOhqKUsjyJYQvXXadEMkse0.jpg",
-      "tmdbPoster": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
-      "background": "https://image.tmdb.org/t/p/original/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
-      "backdropPoster": "https://image.tmdb.org/t/p/original/8Fsctut3QuqX9pHqLTm7bGextRc.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/450094/clearlogo/6aea249cb2df9.png",
+      "poster": "https://posters-rank.vercel.app/image/series-landscape9.png?v=1795842495557",
+      "HDPoster": "https://image.tmdb.org/t/p/original/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/426606/clearlogo/6aad13a381c66.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "tt39325975",
+      "type": "series",
+      "name": "The Remarried Empress",
+      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "releaseInfo": "2026",
+      "rank": 10,
+      "imdbRating": 7.8,
+      "imdbId": "tt39325975",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "poster": "https://posters-rank.vercel.app/image/series-landscape10.png?v=1795842495557",
+      "HDPoster": "https://image.tmdb.org/t/p/original/cgLVWRtytMVXeqOMLu17HitKw3K.jpg",
+      "tmdbPoster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+      "backdropPoster": "https://image.tmdb.org/t/p/original/3wZoQkHGm789KJFfeU6HLLsTir9.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/455351/clearlogo/6ab57da4deda4.png",
       "posterShape": "landscape"
     }
   ]
